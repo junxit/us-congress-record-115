@@ -6,8 +6,8 @@ The 115th Congress sat from 2017-01-03 to 2019-01-02.
 
 | Edition | Branch | Issue days | Documents | First | Last |
 |---|---|---|---|---|---|
-| Daily edition (CREC) | `daily` | 22 | 4,052 | 2017-01-03 | 2017-02-09 |
-| Bound edition (CRECB) | `bound` | 6 | 637 | 2017-01-03 | 2017-01-10 |
+| Daily edition (CREC) | `daily` | 421 | 61,195 | 2017-01-03 | 2019-01-03 |
+| Bound edition (CRECB) | `bound` | 307 | 32,066 | 2017-01-03 | 2018-07-25 |
 
 Every figure above is read back out of the branch itself, not counted by
 the run that wrote it — so this table describes the repository as it
