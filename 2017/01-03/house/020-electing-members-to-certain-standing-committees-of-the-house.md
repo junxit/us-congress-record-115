@@ -1,0 +1,61 @@
+---
+granule: CREC-2017-01-03-pt1-PgH28-4
+date: 2017-01-03
+edition: CREC
+section: HOUSE
+page: H28
+citation: 163 Cong. Rec. H28
+---
+
+# ELECTING MEMBERS TO CERTAIN STANDING COMMITTEES OF THE HOUSE OF REPRESENTATIVES
+
+**Speaking:** Crowley, Joseph (C001038) [D-NY]
+
+**Measures:** H.Res. 7
+
+```
+    ELECTING MEMBERS TO CERTAIN STANDING COMMITTEES OF THE HOUSE OF 
+                            REPRESENTATIVES
+
+  Mr. CROWLEY. Mr. Speaker, by direction of the Democratic Caucus, I 
+offer a privileged resolution and ask for its immediate consideration.
+  The Clerk read the resolution, as follows:
+
+                               H. Res. 7
+
+       Resolved, That the following named Members be and are 
+     hereby elected to the following standing committees of the 
+     House of Representatives:
+       (1) Committee on appropriations.--Mrs. Lowey.
+       (2) Committee on the budget.--Mr. Yarmuth.
+       (3) Committee on education and the workforce.--Mr. Scott of 
+     Virginia.
+       (4) Committee on energy and commerce.--Mr. Pallone
+       (5) Committee on financial services.--Ms. Waters.
+       (6) Committee on foreign affairs.--Mr. Engel.
+       (7) Committee on homeland security.--Mr. Thompson of 
+     Mississippi.
+       (8) Committee on house administration.--Mr. Brady of 
+     Pennsylvania.
+       (9) Committee on natural resources.--Mr. Grijalva.
+       (10) Committee on oversight and government reform.--Mr. 
+     Cummings.
+       (11) Committee on rules.--Ms. Slaughter, Mr. McGovern, Mr. 
+     Hastings, and Mr. Polis.
+       (12) Committee on small business.--Ms. Velazquez.
+
+[[Page H29]]
+
+       (13) Committee on ways and means.--Mr. Neal.
+
+  Mr. CROWLEY (during the reading). Mr. Speaker, I ask unanimous 
+consent that the resolution be considered as read and printed in the 
+Record.
+  The SPEAKER pro tempore (Mr. Collins of Georgia). Is there objection 
+to the request of the gentleman from New York?
+  There was no objection.
+  The resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

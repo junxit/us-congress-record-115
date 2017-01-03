@@ -1,0 +1,34 @@
+---
+granule: CREC-2017-01-03-pt1-PgH54
+date: 2017-01-03
+edition: CREC
+section: HOUSE
+page: H54
+citation: 163 Cong. Rec. H54
+---
+
+# Constitutional Authority Statement for H.J. Res. 13
+
+**Measures:** H.J.Res. 13
+
+```
+            By Mr. O'ROURKE:
+        H.J. Res. 13.
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article V of the Constitution: The Congress, whenever two 
+     thirds of both Houses shall deem it necessary, shall propose 
+     amendments to this Constitution, or, on the application of 
+     the legislatures of two thirds of the several states, shall 
+     call a convention for proposing amendments, which, in either 
+     case, shall be valid to all intents and purposes, as part of 
+     this Constitution, when ratified by the legislatures of three 
+     fourths of the several states or by conventions in three 
+     thereof, as the one or the other mode of ratification may be 
+     proposed by the Congress; provided that no amendment which 
+     may be made prior to the year one thousand eight hundred and 
+     eight shall in any manner affect the first and fourth clauses 
+     in the ninth section of the first article; and that no state, 
+     without its consent, shall be deprived of its equal suffrage 
+     in the Senate.
+```

@@ -1,0 +1,32 @@
+---
+granule: CREC-2017-01-03-pt1-PgH37
+date: 2017-01-03
+edition: CREC
+section: HOUSE
+page: H37
+citation: 163 Cong. Rec. H37
+---
+
+# EXECUTIVE COMMUNICATIONS, ETC.
+
+```
+                     EXECUTIVE COMMUNICATIONS, ETC.
+
+   Under clause 2 of rule XIV, executive communications were taken from 
+the Speaker's table and referred as follows:
+
+       1. A letter from the Clerk, U.S. House of Representatives, 
+     transmitting a list of reports created by the Clerk, pursuant 
+     to Rule II, clause 2(b), of the Rules of the House (H. Doc. 
+     No. 115-4); to the Committee on House Administration and 
+     ordered to be printed.
+       2. A communication from the President of the United States, 
+     transmitting the Economic Report of the President together 
+     with the 2017 Annual Report of the Council of Economic 
+     Advisers, pursuant to 15 U.S.C. 1022(a); February 20, 1946, 
+     ch. 33, Sec. 3(a) (as amended by Public Law 101-508; 
+     13112(e)); (104 Stat. 1388-609) (H. Doc. No. 115-2); to the 
+     Joint Economic Committee and ordered to be printed.
+
+                          ____________________
+```

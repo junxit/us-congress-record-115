@@ -1,0 +1,45 @@
+---
+granule: CREC-2017-01-03-pt1-PgH34
+date: 2017-01-03
+edition: CREC
+section: HOUSE
+page: H34
+citation: 163 Cong. Rec. H34
+---
+
+# RECALL DESIGNEE
+
+**Measures:** H.Con.Res. 1
+
+```
+                            RECALL DESIGNEE
+
+  The SPEAKER pro tempore laid before the House the following 
+communication from the Speaker:
+
+                                              The Speaker's Rooms,
+
+
+                                     House of Representatives,
+
+                                  Washington, DC, January 3, 2017.
+     Hon. Karen L. Haas,
+     Clerk of the House of Representatives,
+     The Capitol, Washington, DC.
+       Dear Madam Clerk: I hereby designate Representative Kevin 
+     McCarthy of California to exercise any authority regarding 
+     assembly, reassembly, convening, or reconvening of the House 
+     pursuant to House Concurrent Resolution 1, clause 12 of rule 
+     I, and any concurrent resolutions of the current Congress as 
+     may contemplate my designation of Members to exercise similar 
+     authority.
+       In the event of the death or inability of that designee, 
+     the alternate Members of the House listed in the letter 
+     bearing this date that I have placed with the Clerk are 
+     designated, in turn, for the same purposes.
+           Sincerely,
+                                                     Paul D. Ryan,
+     Speaker.
+
+                          ____________________
+```

@@ -1,0 +1,48 @@
+---
+granule: CREC-2017-01-03-pt1-PgH46-2
+date: 2017-01-03
+edition: CREC
+section: HOUSE
+page: H46
+citation: 163 Cong. Rec. H46
+---
+
+# Constitutional Authority Statement for H.R. 5
+
+**Measures:** H.R. 5
+
+```
+           By Mr. GOODLATTE:
+       H.R. 5.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 1, Clause 1 of the United States 
+     Constitution, in that the legislation concerns the exercise 
+     of legislative powers generally granted to Congress by that 
+     section, including the exercise of those powers when 
+     delegated by Congress to the Executive; Article I, Section 8, 
+     Clauses 1 to 17, and Section 9, Clauses 1 to 2, 4, and 7 of 
+     the United States Constitution, in that the legislation 
+     concerns the exercise of specific legislative powers granted 
+     to Congress by those sections, including the exercise of 
+     those powers when delegated by Congress to the Executive; 
+     Article I, Section 8, clause 18 of the United States 
+     Constitution, in that the legislation exercises legislative 
+     power granted to Congress by that clause ``to make all Laws 
+     which shall be necessary and proper for carrying into 
+     Execution the foregoing Powers, and all other Powers vested 
+     by this Constitution in the Government of the United States, 
+     or in any Department or Officer thereof;'' Article III, 
+     Section 1, Clause 1, Sentence 1, Section 2, Clauses 1 and 4, 
+     and Section 2, Clause 2, Sentence 2, of the Constitution, in 
+     that the legislation defines or affects judicial powers and 
+     cases that are subject to legislation by Congress; Article 
+     IV, Section 3, Clause 2 of the United States Constitution, in 
+     that the legislation concerns the exercise of power granted 
+     to Congress to dispose of and make all needful Rules and 
+     Regulations respecting the Territory or other Property 
+     belonging to the United States; and, Amendment XVI to the 
+     United States Constitution, in that the legislation concerns 
+     the exercise of power granted to Congress to lay and collect 
+     income taxes.
+```
