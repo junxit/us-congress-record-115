@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-01-04-pt1-PgH59-4
+date: 2017-01-04
+edition: CREC
+section: HOUSE
+page: H59
+citation: 163 Cong. Rec. H59
+---
+
+# THIS STATE DEPARTMENT BETRAYS ISRAEL
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+                  THIS STATE DEPARTMENT BETRAYS ISRAEL
+
+  (Mr. POE of Texas asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. POE of Texas. Mr. Speaker, the anti-Semitic United Nations has 
+struck a new low, demanding that Israel prohibit Jews from settling in 
+the West Bank. Guess who was supportive of this absurd resolution in 
+betrayal of our closest ally? The United States.
+  Once again, this administration is on the wrong side. It has 
+alienated what few international friends we have. Secretary of State 
+John Kerry arrogantly declared: ``Israel can either be Jewish or 
+democratic; it cannot be both.''
+  Mr. Speaker, let's think about that statement. The United Nations' 
+mandate separating Jews from Palestinians in the West Bank is 
+segregation. Segregation is not democratic.
+  The United States and the U.N. have no legal business telling a 
+sovereign nation where people should live or shouldn't live in that 
+country. Who in the world do we think we are? Would we approve of the 
+U.N. telling us that one race or ethnic group could not live in one 
+region of the United States? Absolutely not.
+  Thankfully, this State Department will soon be clearing their desks 
+at Foggy Bottom--and good riddance. It is time for a new State 
+Department that supports America's friends and not our enemies.
+  And that is just the way it is.
+
+                          ____________________
+```

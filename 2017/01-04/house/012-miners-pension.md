@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-01-04-pt1-PgH58
+date: 2017-01-04
+edition: CREC
+section: HOUSE
+page: H58
+citation: 163 Cong. Rec. H58
+---
+
+# MINERS' PENSION
+
+**Speaking:** Jenkins, Evan H. (J000297) [R-WV]
+
+```
+                            MINERS' PENSION
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from West 
+Virginia (Mr. Jenkins) for 5 minutes.
+  Mr. JENKINS of West Virginia. Mr. Speaker, in this new year, we must 
+make things right for our miners and their widows. We must act now to 
+keep the promise. We must honor their work in the mines by protecting 
+the pensions and healthcare benefits they worked their whole lives to 
+earn.
+  We must pass legislation I have cosponsored to protect these hard-
+earned benefits for families like Rita Blankenship of McDowell County 
+who wrote me asking for help. Here is what she said: ``My husband was 
+promised healthcare coverage in 1975 when he went to work in the mines 
+and joined the union. I am asking if you could do everything possible 
+to get this passed so we will have health care,'' she wrote.
+  These miners and their families deserve no less than what they worked 
+their entire lives to earn: the peace of mind that comes with a pension 
+and secure health care.
+  I urge my colleagues to join me in supporting legislation to protect 
+our miners, their widows, and their families. We owe it to them to keep 
+our word.
+
+                          ____________________
+```
