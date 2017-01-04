@@ -1,0 +1,37 @@
+---
+granule: CRECB-2017-pt1-Pg146-9
+date: 2017-01-04
+edition: CRECB
+section: HOUSE
+page: 146
+---
+
+# JIMMY BURNSED, RETIRING CHAIRMAN OF BRYAN COUNTY BOARD OF COMMISSIONERS
+
+```
+JIMMY BURNSED, RETIRING CHAIRMAN OF BRYAN COUNTY BOARD OF COMMISSIONERS
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to recognize Mr. 
+Jimmy Burnsed, who has served as chairman of the Bryan County Board of 
+Commissioners for the past 12 years.
+  On December 31, 2016, he officially retired from serving on the 
+board. Beyond serving as chairman, Mr. Burnsed has dedicated an 
+admirable amount of his life to public service. Nearly 40 years ago, he 
+began serving on the City Council for Garden City, Georgia, before 
+serving 4 years as mayor. In 1989, he moved from Garden City to Bryan 
+County. In 2005, he ran and was elected chairman of the Board of 
+Commissioners.
+  Mr. Burnsed's accomplishments on the board since that time are 
+numerous. He worked to build a new administrative building for the 
+county to hold meetings and other events; he managed and planned the 
+infrastructure for Bryan County, which has grown more than 50 percent 
+in size during his tenure; and he helped to upgrade Bryan County's 
+trails, parks, and recreation centers. Mr. Burnsed always put the 
+community first and performed his duties in a way that would make any 
+constituent very proud.
+  Jimmy Burnsed, you will be greatly missed.
+
+                          ____________________
+```

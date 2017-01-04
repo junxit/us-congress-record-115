@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt1-Pg148-3
+date: 2017-01-04
+edition: CRECB
+section: HOUSE
+page: 148
+---
+
+# HELPING OUR CONSTITUENTS GET AHEAD
+
+```
+                              {time}  1215
+                   HELPING OUR CONSTITUENTS GET AHEAD
+
+  (Mr. KRISHNAMOORTHI asked and was given permission to address the 
+House for 1 minute.)
+  Mr. KRISHNAMOORTHI. Mr. Speaker, I am Congressman Raja Krishnamoorthi 
+from the Eighth District of Illinois. I have the honor to represent the 
+hardworking families of Chicago's west and northwest suburbs. My 
+constituents, like so many other Americans, are finding it harder and 
+harder to get ahead.
+  Creating good-paying jobs is my number one job, and growing and 
+strengthening the middle class is my primary mission. I believe working 
+and middle class families must be able to earn a living wage, have 
+quality health care, and educate their children well.
+  These challenges are not insurmountable, but we must address them 
+immediately. We need to make sure that working and middle class 
+families can achieve economic security. I believe that, if you work 
+hard and play by the rules, you and your children can and should 
+succeed in America. I look forward to working with all of my colleagues 
+in this Chamber to make that a reality.
+
+                          ____________________
+```
