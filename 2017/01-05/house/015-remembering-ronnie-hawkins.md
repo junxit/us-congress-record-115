@@ -1,0 +1,39 @@
+---
+granule: CRECB-2017-pt1-Pg257-5
+date: 2017-01-05
+edition: CRECB
+section: HOUSE
+page: 257
+---
+
+# REMEMBERING RONNIE HAWKINS
+
+```
+                       REMEMBERING RONNIE HAWKINS
+
+  (Mr. McHENRY asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McHENRY. Mr. Speaker, I rise today to honor a dear friend, 
+constituent, and tremendous public servant in North Carolina, Cleveland 
+County Commissioner Ronnie Hawkins.
+  Ronnie passed away right before Christmas, after a lengthy illness, 
+but it wasn't one that slowed him. Throughout his illness, Ronnie 
+displayed the same passion for helping others he showed throughout his 
+career of public service.
+  A native of Cleveland County, Ronnie was an Army veteran and devoted 
+husband to his wife, Libby. He was a respected and compassionate 
+funeral director, comforting families in their time of need and grief. 
+He took the same type of caring and compassionate approach to his 
+service as one of Cleveland County's longest-serving elected officials, 
+serving 16 years on the Cleveland County Commission, as well as 12 
+years on the Kings Mountain School Board. He never forgot who was 
+actually his boss at home: his constituents.
+  Ronnie was a dear friend, and I extend my thoughts and prayers to his 
+wife, Libby, his family, and his friends.
+
+[[Page 258]]
+
+
+
+                          ____________________
+```

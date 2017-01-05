@@ -1,0 +1,48 @@
+---
+granule: CRECB-2017-pt1-Pg257
+date: 2017-01-05
+edition: CRECB
+section: HOUSE
+page: 257
+---
+
+# THE LEGACY OF PRESIDENT OBAMA
+
+```
+                     THE LEGACY OF PRESIDENT OBAMA
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, in an Associated Press 
+article titled, ``As Obama accomplished goals, the Democratic party 
+floundered,'' the disastrous statistics of the Obama legacy were 
+revealed.
+  The Associated Press analyzed:
+
+       There's one number you will almost never hear: more than 
+     1,030 seats. That's the number of spots in State 
+     legislatures, Governor's mansions, and Congress lost by 
+     Democrats during Obama's Presidency. It is a statistic that 
+     reveals an unexpected twist of the Obama years.
+
+  The Associated Press went on to say:
+
+       The defeats have all but wiped out a generation of young 
+     Democrats, leaving the party with limited power in 
+     statehouses and a thin bench to challenge an ascendant GOP 
+     majority eager to undo many of the President's policies . . . 
+     but, say experts, Obama's tenure has marked the greatest 
+     number of losses under any President in decades.
+
+  When it comes time to the battle of programs, American families 
+overwhelmingly choose limited government and expanded freedom over the 
+alternative: Big Government and lesser freedom. This is clear with the 
+failing of ObamaCare destroying jobs.
+  In conclusion, God bless our troops, and may the President, by his 
+actions, never forget September the 11th in the global war on 
+terrorism.
+  Congratulations to our colleague Congressman Ted Poe on his remission 
+under treatment of cancer. God bless Ted Poe.
+
+                          ____________________
+```

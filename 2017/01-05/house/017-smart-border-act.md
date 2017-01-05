@@ -1,0 +1,40 @@
+---
+granule: CRECB-2017-pt1-Pg258-2
+date: 2017-01-05
+edition: CRECB
+section: HOUSE
+page: 258
+---
+
+# SMART BORDER ACT
+
+```
+                            SMART BORDER ACT
+
+  (Mr. POE of Texas asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. POE of Texas. Mr. Speaker, I have traveled to the southern border 
+dozens of times over the years, and the problem is always the same. The 
+people who defend our border--really, defend our country--do the best 
+they can with what they have got, but they are outmanned, outgunned, 
+and outfinanced by the drug cartels and the people coming across from 
+the other side.
+  The continued failure to protect our border threatens our national 
+security and the sovereignty of America. The reality is that the 
+majority of the southern border territory is controlled by someone 
+other than the United States. Why? Because there is no workable plan. 
+Also, there is no moral will by this administration to protect our 
+border.
+  My bill, the SMART Border Act, outlines a robust border protection 
+strategy that includes achieving operational control of the border 
+within 1 year, provides smart border technology, and mandates more 
+boots on the ground, including 10,000 National Guard troops at the 
+request of the four border State Governors.
+  Mr. Speaker, we must have the moral will to protect our borders. All 
+types of people are crossing the border into the United States 
+illegally--the good, the bad, and the ugly--and those days need to end. 
+No one should come into America without America's permission.
+  And that is just the way it is.
+
+                          ____________________
+```

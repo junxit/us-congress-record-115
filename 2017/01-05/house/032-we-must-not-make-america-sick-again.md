@@ -1,0 +1,38 @@
+---
+granule: CRECB-2017-pt1-Pg260-5
+date: 2017-01-05
+edition: CRECB
+section: HOUSE
+page: 260
+---
+
+# WE MUST NOT MAKE AMERICA SICK AGAIN
+
+```
+                  WE MUST NOT MAKE AMERICA SICK AGAIN
+
+  (Mr. BEYER asked and was given permission to address the House for 1 
+minute.)
+  Mr. BEYER. Mr. Speaker, I rise to read a letter from my constituent, 
+Mrs. Karen O'Hern, of Alexandria, Virginia:
+  ``Congressman Beyer,
+  ``We are a family of four. The company my husband worked for went 
+bankrupt in 2009 after the 2008 financial meltdown--losing income, 
+retirement savings, and health care.
+  ``He now owns a small business and we now get our healthcare 
+insurance through healthcare.gov.
+  ``We need you to defend the ACA. We depend on the availability of 
+this insurance option.
+  ``My son had surgery on December 30 at Fairfax Hospital to remove a 
+brain tumor. His prognosis is good. I cannot imagine how we would 
+manage financially without this health insurance.
+  ``Please be strong on this matter and represent the needs of your 
+constituents.
+  ``I need my Affordable Care Act health insurance.
+  ``Regards, Karen O'Hern.''
+  Mr. Speaker, millions like Karen O'Hern will lose their coverage if 
+the Affordable Care Act is repealed. We must not make America sick 
+again.
+
+                          ____________________
+```
