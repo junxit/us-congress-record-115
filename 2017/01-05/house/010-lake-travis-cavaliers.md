@@ -1,0 +1,43 @@
+---
+granule: CREC-2017-01-05-pt1-PgH108-4
+date: 2017-01-05
+edition: CREC
+section: HOUSE
+page: H108
+citation: 163 Cong. Rec. H108
+---
+
+# LAKE TRAVIS CAVALIERS
+
+**Speaking:** Williams, Roger (W000816) [R-TX]
+
+```
+                         LAKE TRAVIS CAVALIERS
+
+  (Mr. WILLIAMS asked and was given permission to address the House for 
+1 minute.)
+  Mr. WILLIAMS. Mr. Speaker, I rise today to congratulate the 2016 Lake 
+Travis Cavaliers on winning their sixth State championship in Texas. I 
+am proud to say that the L.T. takeover of class 6A high school football 
+is complete.
+  The Lake Travis Cavaliers, led by their head football coach, Hank 
+Carter, defeated The Woodlands in grand fashion by a score of 41-13. 
+Coach Carter has assembled a great coaching staff and built Lake Travis 
+into one of the best high school football programs in the State of 
+Texas. I look forward to seeing what the program will continue to 
+accomplish in the coming seasons under Coach Carter's leadership.
+  I would also like to congratulate senior quarterback Charlie Brewer 
+who was the Texas Associated Press Sports Editors' high school player 
+of the year. Charlie led the offense to a big win and finished the 
+season with a record-breaking 75 percent completions. I wish Charlie 
+and the rest of the seniors the best of luck in their future endeavors.
+  This season will go down in the history books for Lake Travis High 
+School. Great job to Coach Carter and the 2016 team.
+  Mr. Speaker, Texas is the greatest football State in America, and 
+because Lake Travis High School is the greatest team in Texas, it most 
+certainly must be the greatest high school team in the country, if not 
+the world if you ask me.
+  Go Cavaliers. In God We Trust.
+
+                          ____________________
+```

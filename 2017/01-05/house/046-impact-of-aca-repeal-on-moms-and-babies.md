@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-01-05-pt1-PgH174-4
+date: 2017-01-05
+edition: CREC
+section: HOUSE
+page: H174
+citation: 163 Cong. Rec. H174
+---
+
+# IMPACT OF ACA REPEAL ON MOMS AND BABIES
+
+**Speaking:** Roybal-Allard, Lucille (R000486) [D-CA]
+
+```
+                IMPACT OF ACA REPEAL ON MOMS AND BABIES
+
+  (Ms. ROYBAL-ALLARD asked and was given permission to address the 
+House for 1 minute.)
+  Ms. ROYBAL-ALLARD. Mr. Speaker, as co-chair of the Maternity Care 
+Caucus, I rise on behalf of mothers and babies who will suffer if 
+Republicans repeal the Affordable Care Act.
+  It is undisputable that, with prenatal care, babies are born 
+healthier. Before the ACA, approximately 10 percent of childbearing 
+women had no health insurance, and the plans of 60 percent of all 
+insured women had no maternity coverage.
+  With ObamaCare's Medicaid expansion and insurance subsidies, more 
+than half of these women who were uninsured became eligible for 
+maternity care. In addition, the ACA also requires health plans to 
+cover maternity care and preexisting conditions. All of this will be 
+lost with ACA repeal.
+  Women will also lose coverage for lactation counseling and the cost 
+of breast pumps, a known barrier to successful breastfeeding which is 
+one of the most effective ways to protect the health of babies.
+  I urge my Republican colleagues to consider the negative impacts 
+repealing ObamaCare will have on our Nation's mothers and babies. We 
+must protect the future health of our children by ensuring all moms 
+have access to maternity care and breastfeeding support.
+
+                          ____________________
+```

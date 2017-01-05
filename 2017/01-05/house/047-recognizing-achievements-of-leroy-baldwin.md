@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-01-05-pt1-PgH174-5
+date: 2017-01-05
+edition: CREC
+section: HOUSE
+page: H174
+citation: 163 Cong. Rec. H174
+---
+
+# RECOGNIZING ACHIEVEMENTS OF LEROY BALDWIN
+
+**Speaking:** Yoho, Ted S. (Y000065) [R-FL]
+
+```
+               RECOGNIZING ACHIEVEMENTS OF LEROY BALDWIN
+
+  (Mr. YOHO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. YOHO. Mr. Speaker, I rise today to recognize the life and 
+achievements of Leroy Baldwin. A true American original, Leroy Baldwin 
+was born and raised in Ocala, Florida, on December 15, 1932. Not coming 
+from a family with a rich ag background, Mr. Baldwin bought his first 
+calf when he was 6 years of age from the money he earned delivering 
+newspapers.
+
+[[Page H175]]
+
+  Mr. Baldwin served honorably in the U.S. Army from 1952 to 1955 
+during the Korean war. After the war, he pursued his lifelong project, 
+the Baldwin Angus Ranch. Starting with 40 acres, the ranch now spans 
+620 acres and has taken the Florida Angus breed all over the world.
+  Mr. Baldwin thanked God each and every day for the blessings his 
+family and business enjoyed.
+  God, family, and country are the words he lived by, words vitally 
+important to our Nation today. We have lost a true giant.
+  Mr. Baldwin, may God bless you, your family, and thank you for what 
+you have done for Florida and our Nation's agriculture.
+
+                          ____________________
+```

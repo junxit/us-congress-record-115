@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-01-05-pt1-PgH110-2
+date: 2017-01-05
+edition: CREC
+section: HOUSE
+page: H110
+citation: 163 Cong. Rec. H110
+---
+
+# ACA AND WOMEN
+
+**Speaking:** DelBene, Suzan K. (D000617) [D-WA]
+
+```
+                             ACA AND WOMEN
+
+  (Ms. DelBENE asked and was given permission to address the House for 
+1 minute.)
+  Ms. DelBENE. Mr. Speaker, at this very moment, House and Senate 
+leaders are working on a dangerous plan to dismantle the Affordable 
+Care Act and strip more than 20 million Americans of their health 
+insurance. And if they succeed, it will have devastating consequences 
+for our constituents, particularly women.
+  Repealing the ACA means allowing insurance companies to charge women 
+more, simply for being a woman; endangering access to care for 65 
+million women with preexisting conditions; and stripping more than 55 
+million women of free preventative care, like birth control and cancer 
+screenings.
+  It is easy to forget how broken the system was before the Affordable 
+Care Act. But make no mistake: dismantling it now means being a woman 
+will once again be treated as a preexisting condition. It will mean 
+fewer options, less access, and higher costs for tens of millions of 
+women.
+  We should be building on the progress we have made, not turning back 
+the clock. Women deserve better.
+
+                          ____________________
+```
