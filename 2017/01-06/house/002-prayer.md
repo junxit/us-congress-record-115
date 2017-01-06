@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt1-Pg344-3
+date: 2017-01-06
+edition: CRECB
+section: HOUSE
+page: 344
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Patrick J. Conroy, offered the following 
+prayer:
+  Loving God, we give You thanks for giving us another day.
+  We thank You again today for Your divine inspiration, which led to 
+the creation of the Republican democracy we enjoy today, mindful that 
+our responsibility is to faithfully carry forward this legacy to all 
+those Americans who will follow us.
+  By law, the Congress meets this day in joint session to count the 
+electoral votes for President and Vice President of the United States. 
+May all who attend to these proceedings, and those responsible for the 
+management of government, be mindful that something greater than each 
+and any of us gathered, or affected by these events, is coming to pass.
+  Bless our great Nation and those entrusted with its care throughout 
+this first session of the 115th Congress, the 226th session of the 
+Supreme Court, and the imminent administration of the 45th President. 
+May all, by their actions, remember that we are a Nation which claims 
+to put our trust in You.
+  And may all that is done be for Your greater honor and glory.
+  Amen.
+
+                          ____________________
+```
