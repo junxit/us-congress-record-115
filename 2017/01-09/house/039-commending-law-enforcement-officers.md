@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-01-09-pt1-PgH220-2
+date: 2017-01-09
+edition: CREC
+section: HOUSE
+page: H220
+citation: 163 Cong. Rec. H220
+---
+
+# COMMENDING LAW ENFORCEMENT OFFICERS
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                  COMMENDING LAW ENFORCEMENT OFFICERS
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today on Law 
+Enforcement Appreciation Day to commend the law enforcement officers 
+throughout our Nation who answer the call to serve their communities. 
+Law enforcement officers face increasingly difficult circumstances 
+while working to serve and protect the public. It is a dangerous job, 
+and often it is a thankless job.
+  Just last week, Pennsylvania mourned the loss of a 23-year-old 
+Pennsylvania State Police trooper who was shot and killed while 
+investigating a domestic incident.
+  Our officers put on their uniforms each day knowing that they can be 
+in harm's way at any moment. They answer the calls in times of 
+distress, they follow the rules, and they wear the badge proudly.
+  We must remember that our officers are mothers and fathers, sons and 
+daughters, and husbands and wives. They are human, and they arguably 
+have one of the most difficult jobs in America. So today, and each day, 
+let's honor our brothers and sisters in blue. Let's thank them for the 
+important work they do to keep us all safe.
+
+                          ____________________
+```

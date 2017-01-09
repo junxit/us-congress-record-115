@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-01-09-pt1-PgH220
+date: 2017-01-09
+edition: CREC
+section: HOUSE
+page: H220
+citation: 163 Cong. Rec. H220
+---
+
+# REAL LEADERSHIP TACKLES ISSUES
+
+**Speaking:** Richmond, Cedric L. (R000588) [D-LA]
+
+```
+                     REAL LEADERSHIP TACKLES ISSUES
+
+  (Mr. RICHMOND asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. RICHMOND. Mr. Speaker, I rise today to defend an 18-year-old 
+school student who expressed his life experiences, and he did it in the 
+form of art protected by the First Amendment to our Constitution.
+  But what I also want to do is make sure that we, as Members of 
+Congress, don't use our bully pulpit in this very prestigious and most 
+elite body in the United States to condemn the actions of an 18-year-
+old who is only expressing what he sees on a daily basis.
+  What real leadership is is to talk to that young man and ask him why, 
+in his community, this is his perception; ask him why he fears the 
+police; and ask him why, in his neighborhood, they fear the police. We, 
+as Members of Congress, understand the sacrifice of law enforcement and 
+the fact that they put their lives on the line every day, and we honor 
+them.
+  But when there is a question on any segment of our society that they 
+don't get equal justice, equal protection of the laws, and that the 
+Pledge of Allegiance rings hollow when you say ``and justice for all,'' 
+what real leadership does is tackle that issue as opposed to jumping on 
+an 18-year-old high school student.
+
+                          ____________________
+```
