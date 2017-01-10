@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-01-10-pt1-PgH247-3
+date: 2017-01-10
+edition: CREC
+section: HOUSE
+page: H247
+citation: 163 Cong. Rec. H247
+---
+
+# NATIONAL LAW ENFORCEMENT APPRECIATION DAY
+
+**Speaking:** Hill, J. French (H001072) [R-AR]
+
+```
+                              {time}  1215
+               NATIONAL LAW ENFORCEMENT APPRECIATION DAY
+
+  (Mr. HILL asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. HILL. Mr. Speaker, I rise today to pay tribute to our Nation's 
+law enforcement men and women.
+  I respect and appreciate the important work of our police throughout 
+the Nation who are charged with the critical work of protecting the 
+people in our States and our local communities. The heartbreaking 
+violent targeting of our Nation's police officers, recently, 
+demonstrates the dangers these men and women face every day.
+  Every American is so proud as our many neighbors and fellow citizens 
+get up every morning, put on their local law enforcement uniform and 
+badge, kiss their families good-bye, and go out and serve us, keeping 
+our cities and towns safe, trying to build trust and faith among all of 
+our citizens.
+  Monday was National Law Enforcement Appreciation Day, and our law 
+enforcement men and women in Arkansas and throughout the country 
+deserve our gratitude and respect. I proudly displayed a blue light in 
+my office window to honor our law enforcement men and women, and I 
+thank them for their selfless service.
+
+                          ____________________
+```
