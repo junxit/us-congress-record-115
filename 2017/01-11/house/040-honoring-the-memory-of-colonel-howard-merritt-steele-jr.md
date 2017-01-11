@@ -1,0 +1,40 @@
+---
+granule: CRECB-2017-pt1-Pg589-3
+date: 2017-01-11
+edition: CRECB
+section: HOUSE
+page: 589
+---
+
+# HONORING THE MEMORY OF COLONEL HOWARD MERRITT STEELE, JR.
+
+```
+       HONORING THE MEMORY OF COLONEL HOWARD MERRITT STEELE, JR.
+
+  (Mr. BEYER asked and was given permission to address the House for 1 
+minute.)
+  Mr. BEYER. Mr. Speaker, I rise today to honor the memory of Colonel 
+Howard Merritt Steele, Jr.
+  Colonel Steele was the epitome of a soldier. He loved his family, his 
+country, his God, the Army, and West Point. He attended the prestigious 
+Peekskill Military Academy, Yale University, and the United States 
+Military Academy.
+  Colonel Steele fought in Korea, where he was awarded the Silver Star 
+for gallantry in action. He received the Bronze Star for his service as 
+a rifle company commander. After the war, he was company commander in 
+the 3rd Infantry, The Old Guard, at Fort Myer, Virginia; two tours in 
+Vietnam; Commander of the 54th Infantry Battalion; and a graduate of 
+the Army War College.
+  Colonel Steele's awards include three Bronze Stars, Meritorious 
+Service Medals, three Legions of Merit, three Air Medals, Army 
+Commendation Medal, the Vietnam Cross of Gallantry with Palm, and a 
+number of other service and foreign medals.
+  He is survived by Dotsie, his beloved wife of 65 years; his son, 
+Howard Merritt Steele, IV; two daughters, Cynthia Steele Vance and 
+Susan Steele; and six adoring grandchildren.
+  Colonel Steele, you led a long, brave, generous life of service to 
+others--a soldier's soldier. Your legacy is a growing family who basked 
+in your love and a country just and free.
+
+                          ____________________
+```

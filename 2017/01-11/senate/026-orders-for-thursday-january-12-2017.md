@@ -1,0 +1,25 @@
+---
+granule: CRECB-2017-pt1-Pg746-3
+date: 2017-01-11
+edition: CRECB
+section: SENATE
+page: 746
+---
+
+# ORDERS FOR THURSDAY, JANUARY 12, 2017
+
+```
+                 ORDERS FOR THURSDAY, JANUARY 12, 2017
+
+  Mr. ENZI. Mr. President, I ask unanimous consent that when the Senate 
+completes its business today, it adjourn until 12:30 p.m., Thursday, 
+January 12--that would be today; further, that following the prayer and 
+pledge, the morning hour be deemed expired, the Journal of proceedings 
+be approved to date, and the time for the two leaders be reserved for 
+their use later in the day; finally, that following leader remarks, the 
+Senate be in a period of morning business, with Senators permitted to 
+speak therein for up to 10 minutes each.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
