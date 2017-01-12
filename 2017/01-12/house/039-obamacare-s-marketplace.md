@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-01-12-pt1-PgH403
+date: 2017-01-12
+edition: CREC
+section: HOUSE
+page: H403
+citation: 163 Cong. Rec. H403
+---
+
+# OBAMACARE'S MARKETPLACE
+
+**Speaking:** Bucshon, Larry (B001275) [R-IN]
+
+```
+                        OBAMACARE'S MARKETPLACE
+
+  (Mr. BUCSHON asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. BUCSHON. Mr. Speaker, as a medical provider, I understand how 
+critical and necessary patient choice and input is to the overall 
+quality of our healthcare system. Put simply, patients are better off 
+when they are equipped to make their own decisions.
+  Unfortunately, ObamaCare limits patient choice, as outlined in this 
+chart. In fact, in the ObamaCare marketplace, patients in two-thirds of 
+our country are limited to a choice of one or two insurers. Across five 
+entire States, patients have only one option. To me, the marketplace 
+looks more like a government-created monopoly under a system where 
+every American is required by law to purchase the product.
+  To make matters worse, the onerous mandates in the law have led to 
+restricted physician networks. So not only do patients have little 
+choice regarding their insurers, they are also limited to what 
+physicians they can see.
+  It turns out we can't keep our doctors even if we like them. That is 
+why we are offering a Better Way plan that expands choice and empowers 
+patients.
+
+                          ____________________
+```

@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-01-12-pt1-PgH402-4
+date: 2017-01-12
+edition: CREC
+section: HOUSE
+page: H402
+citation: 163 Cong. Rec. H402
+---
+
+# RECOGNIZING FRANK B. MESIAH OF BUFFALO, NEW YORK
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+            RECOGNIZING FRANK B. MESIAH OF BUFFALO, NEW YORK
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Mr. Speaker, Martin Luther King Jr. Day is a 
+time in our country to reflect on the progress that we have made on 
+civil rights as well as how much further still as a nation we must go.
+  When contemplating the progress in western New York, Frank B. Mesiah 
+immediately comes to mind. Mr. Mesiah has been a prominent civil rights 
+leader in Buffalo since 1950, following his service in the United 
+States Army. Following a 20-year stay as president of the Buffalo 
+NAACP, he retired late last year and will continue to be a public 
+watchdog, this time through the lens of an active citizen.
+  During his years of service, Mr. Mesiah has always been the first to 
+stand up and fight on behalf of our community. He played a leading role 
+in desegregating Buffalo public schools, integrating the Buffalo Police 
+Department, and fighting against noninclusive neighborhoods.
+  Mr. Mesiah has been a key leader in promoting tolerance and equality 
+in western New York. While his time as NAACP president has concluded, 
+his wisdom and passion endures in our community, and his work will 
+inspire generations to come.
+
+                          ____________________
+```

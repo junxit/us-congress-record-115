@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-01-12-pt1-PgH402
+date: 2017-01-12
+edition: CREC
+section: HOUSE
+page: H402
+citation: 163 Cong. Rec. H402
+---
+
+# THE TRUE DRIVERS OF MINNESOTA'S ECONOMY
+
+**Speaking:** Emmer, Tom (E000294) [R-MN]
+
+```
+                              {time}  1215
+                THE TRUE DRIVERS OF MINNESOTA'S ECONOMY
+
+  (Mr. EMMER asked and was given permission to address the House for 1 
+minute.)
+  Mr. EMMER. Mr. Speaker, I rise today to celebrate three small 
+businesses in Elk River, Minnesota, who have been recognized by the Elk 
+River Chamber of Commerce for their outstanding track record over the 
+past year.
+  I want to congratulate the First National Bank for being named 
+Business of the Year, Serrano Brothers Catering for being recognized as 
+the New Business of the Year, and Sportech for being honored as the 
+Employer of the Year.
+  Small businesses are a huge driver of our economy in the State of 
+Minnesota, and they are what make each city and town unique. Running a 
+small business is no easy task, and the entrepreneurs who open these 
+businesses take a personal risk to bring jobs, commerce, and excellent 
+products and services to our communities.
+  We cannot thank them enough for their valuable contribution, which is 
+why I am proud today to thank and congratulate First National Bank, 
+Serrano Brothers Catering, and Sportech for everything they do for our 
+community and for the great State of Minnesota.
+
+                          ____________________
+```

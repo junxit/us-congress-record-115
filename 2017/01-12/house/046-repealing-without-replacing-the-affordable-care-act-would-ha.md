@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-01-12-pt1-PgH404-2
+date: 2017-01-12
+edition: CREC
+section: HOUSE
+page: H404
+citation: 163 Cong. Rec. H404
+---
+
+# REPEALING WITHOUT REPLACING THE AFFORDABLE CARE ACT WOULD HARM OUR ECONOMY
+
+**Speaking:** Krishnamoorthi, Raja (K000391) [D-IL]
+
+```
+  REPEALING WITHOUT REPLACING THE AFFORDABLE CARE ACT WOULD HARM OUR 
+                                ECONOMY
+
+  (Mr. KRISHNAMOORTHI asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. KRISHNAMOORTHI. Mr. Speaker, I am Congressman Raja Krishnamoorthi 
+from the great Eighth District of Illinois. I have the honor of 
+representing the hardworking families of Chicago's west and northwest 
+suburbs.
+  Before I took the oath of office last week, I was the president of 
+small businesses in the Chicago area. As a small-business man, I stand 
+here to say that repealing without replacing the Affordable Care Act 
+would harm our economy and, with it, our working and middle class 
+families.
+  Across our Nation, repealing without replacing the Affordable Care 
+Act would destroy up to 3 million good-paying jobs and destroy $1.5 
+trillion in economic activity. Across Illinois, repealing without 
+replacing the ACA would cost upwards of 100,000 jobs; and in the Eighth 
+District alone, repealing without replacing the ACA would cost upwards 
+of 4,000 jobs.
+  Middle class families need good-paying jobs and affordable health 
+care. Repealing without replacing the ACA would, unfortunately, rob 
+them of both.
+
+                          ____________________
+```

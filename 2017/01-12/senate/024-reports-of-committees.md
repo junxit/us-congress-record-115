@@ -1,0 +1,33 @@
+---
+granule: CREC-2017-01-12-pt1-PgS312-2
+date: 2017-01-12
+edition: CREC
+section: SENATE
+page: S312
+citation: 163 Cong. Rec. S312
+---
+
+# REPORTS OF COMMITTEES
+
+**Measures:** S.Res. 6, S. 84
+
+```
+                         REPORTS OF COMMITTEES
+
+  The following reports of committees were submitted:
+
+       By Mr. CORKER, from the Committee on Foreign Relations, 
+     with amendments:
+       S. Res. 6. A resolution objecting to United Nations 
+     Security Council Resolution 2334 and to all efforts that 
+     undermine direct negotiations between Israel and the 
+     Palestinians for a secure and peaceful settlement.
+       By Mr. McCAIN, from the Committee on Armed Services, 
+     without amendment:
+       S. 84. A bill to provide for an exception to a limitation 
+     against appointment of persons as Secretary of Defense within 
+     seven years of relief from active duty as a regular 
+     commissioned officer of the Armed Forces.
+
+                          ____________________
+```

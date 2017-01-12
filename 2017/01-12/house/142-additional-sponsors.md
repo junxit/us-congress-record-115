@@ -1,0 +1,68 @@
+---
+granule: CREC-2017-01-12-pt1-PgH473-25
+date: 2017-01-12
+edition: CREC
+section: HOUSE
+page: H473
+citation: 163 Cong. Rec. H473
+---
+
+# ADDITIONAL SPONSORS
+
+**Measures:** H.J.Res. 11, H.Res. 31, H.R. 35, H.R. 38, H.R. 41, H.R. 60, H.R. 146, H.R. 241, H.R. 246, H.R. 277, H.R. 300, H.R. 303, H.R. 305, H.R. 331, H.R. 332, H.R. 350, H.R. 355, H.R. 367, H.R. 377, H.R. 382, H.R. 390, H.R. 391, H.R. 392, H.R. 407, H.R. 426, H.R. 433, H.R. 440, H.R. 442, H.R. 448
+
+```
+                          ADDITIONAL SPONSORS
+
+  Under clause 7 of rule XII, sponsors were added to public bills and 
+resolutions, as follows:
+
+       H.R. 35: Mr. Hudson.
+       H.R. 38: Mr. Young of Alaska, Mr. Burgess, Mr. Thompson of 
+     Pennsylvania, Mr. Mitchell, and Mr. Johnson of Louisiana.
+       H.R. 41: Mr. Grothman.
+       H.R. 60: Mr. DeSaulnier, Mr. Correa, Mr. Aguilar, and Mrs. 
+     Radewagen.
+       H.R. 146: Mr. Cook.
+       H.R. 241: Mr. Marchant, Mr. Gohmert, and Mr. Grothman.
+       H.R. 246: Mr. Dunn, Mr. Biggs, Mr. Rokita, Mr. Babin, Mr. 
+     Russell, Mr. Royce of California, Mrs. Mimi Walters of 
+     California, Mr. Fortenberry, Ms. Stefanik, Mr. Duffy, Mr. 
+     Paulsen, and Mr. Pearce.
+       H.R. 277: Mr. McClintock.
+       H.R. 300: Mr. Gosar, Mr. Burgess, and Mr. Pittenger.
+       H.R. 303: Ms. Pingree and Mr. Cole.
+       H.R. 305: Mr. Swalwell of California, Mr. Schiff, and Mr. 
+     Sean Patrick Maloney of New York.
+       H.R. 331: Ms. Titus.
+       H.R. 332: Ms. Shea-Porter.
+       H.R. 350: Mr. Meadows, Mr. Amodei, Mr. Crawford, Mr. 
+     Schweikert, Mr. Rouzer, Mr. Thompson of Pennsylvania, and Mr. 
+     Peterson.
+       H.R. 355: Mr. Gibbs, Mr. Grothman, Mr. Rouzer, Mr. 
+     Poliquin, Mr. Flores, Mr. Hultgren, Mr. LaHood, Mr. Posey, 
+     Mr. LaMalfa, and Mr. Jenkins of West Virginia.
+       H.R. 367: Mr. Cramer, Mr. Franks of Arizona, Mr. Shuster, 
+     Mr. Grothman, Mr. Budd, Mr. Rokita, Mr. Kelly of 
+     Pennsylvania, Mr. McClintock, Mr. Rogers of Kentucky, Mr. Roe 
+     of Tennessee, Mr. Jenkins of West Virginia, Mr. Banks of 
+     Indiana, Mr. Sessions, Mr. Griffith, Mr. Rouzer, Mr. Walker, 
+     Mr. Moolenaar, and Mr. Babin.
+       H.R. 377: Mr. Smith of Texas, Mr. DeSantis, Mr. Austin 
+     Scott of Georgia, and Mr. Dent.
+       H.R. 382: Ms. Slaughter.
+       H.R. 390: Mr. King of Iowa.
+       H.R. 391: Mr. Barletta.
+       H.R. 392: Ms. Gabbard, Mr. Russell, and Mr. Labrador.
+       H.R. 407: Mr. Palazzo.
+       H.R. 426: Mr. Burgess, Mr. Womack, Mr. Smith of Texas, and 
+     Mr. Flores.
+       H.R. 433: Mr. Lewis of Minnesota.
+       H.R. 440: Mr. LaMalfa.
+       H.R. 442: Mr. Comer.
+       H.R. 448: Mr. Thompson of California, Mr. Garamendi, and 
+     Mr. Swalwell of California.
+       H.J. Res. 11: Mr. Kinzinger and Mr. Womack.
+       H. Res. 31: Mrs. Napolitano, Mrs. Watson Coleman, Mr. 
+     Jeffries, and Mr. Perlmutter.
+```

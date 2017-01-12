@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-01-12-pt1-PgH403-4
+date: 2017-01-12
+edition: CREC
+section: HOUSE
+page: H403
+citation: 163 Cong. Rec. H403
+---
+
+# CELEBRATING THE 150TH ANNIVERSARY OF SAINT JAMES PRESBYTERIAN CHURCH
+
+**Speaking:** Adams, Alma S. (A000370) [D-NC]
+
+```
+  CELEBRATING THE 150TH ANNIVERSARY OF SAINT JAMES PRESBYTERIAN CHURCH
+
+  (Ms. ADAMS asked and was given permission to address the House for 1 
+minute.)
+  Ms. ADAMS. Mr. Speaker, I rise today to celebrate the 150th 
+anniversary of the Saint James Presbyterian Church of Greensboro, North 
+Carolina.
+  As the third oldest African American church in Greensboro, Saint 
+James is rich in history and tradition. Under the leadership of 
+Reverend Dr. Diane Givens Moffett, Saint James embraces the theme: 150 
+Years, Celebrating Our Walk-in Faith and Service.
+  It is rare but wonderful to find a group of individuals who have 
+thoroughly enriched their community through dedicated service and good 
+works. It has been my unique honor to represent the good people of 
+Saint James Presbyterian both in North Carolina and in the Congress for 
+more than 30 years. Saint James has helped make Greensboro a more just 
+and peaceful community, and for that, I am immensely proud.
+  Congratulations, once again, Saint James, on your anniversary--a 
+century plus five decades. I look forward to witnessing the many ways 
+in which Saint James will continue to thrive during its next 150 years.
+
+                          ____________________
+```
