@@ -1,0 +1,31 @@
+---
+granule: CRECB-2017-pt1-Pg757
+date: 2017-01-12
+edition: CRECB
+section: SENATE
+page: 757
+---
+
+# PROVIDING FOR AN EXCEPTION TO A LIMITATION AGAINST APPOINTMENT OF PERSONS AS SECRETARY OF DEFENSE WITHIN SEVEN YEARS OF RELIEF FROM ACTIVE DUTY AS A REGULAR COMMISSIONED OFFICER OF THE ARMED FORCES-- MOTION TO PROCEED
+
+```
+   PROVIDING FOR AN EXCEPTION TO A LIMITATION AGAINST APPOINTMENT OF 
+   PERSONS AS SECRETARY OF DEFENSE WITHIN SEVEN YEARS OF RELIEF FROM 
+  ACTIVE DUTY AS A REGULAR COMMISSIONED OFFICER OF THE ARMED FORCES--
+                           MOTION TO PROCEED
+
+  Mr. McCONNELL. Mr. President, I move to proceed to S. 84.
+  The ACTING PRESIDENT pro tempore. The clerk will report the motion.
+  The senior assistant legislative clerk read as follows:
+
+       Motion to proceed to S. 84, a bill to provide for an 
+     exception to a limitation against appointment of persons as 
+     Secretary of Defense within seven years of relief from active 
+     duty as a regular commissioned officer of the Armed Forces.
+
+  The ACTING PRESIDENT pro tempore. The motion is nondebatable.
+  The question is on agreeing to the motion.
+  The motion was agreed to.
+
+                          ____________________
+```

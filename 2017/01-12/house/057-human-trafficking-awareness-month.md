@@ -1,0 +1,39 @@
+---
+granule: CRECB-2017-pt1-Pg841-2
+date: 2017-01-12
+edition: CRECB
+section: HOUSE
+page: 841
+---
+
+# HUMAN TRAFFICKING AWARENESS MONTH
+
+```
+                   HUMAN TRAFFICKING AWARENESS MONTH
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, I rise to recognize National Human 
+Trafficking Awareness Month.
+  In my home State of California, human trafficking is a notoriously 
+large and dangerous industry, with over 300 reported cases of 
+trafficking that involved children, teens, and young adults last year, 
+including the very mysterious case that happened in November, that of 
+Sherri Papini from Shasta County, who may or may not have been drawn 
+into this. Fortunately, she was released on Thanksgiving Day. Indeed, 
+the whole State is thankful for her release and that she didn't get 
+caught in that horrible system.
+  We must do more to stop this human trafficking. That is why I am a 
+proud supporter of H.R. 440, the SHAME Act, which was introduced by my 
+colleague, Mr. Poe of Texas. The bill makes public the names and 
+pictures of criminals who have been convicted of buying sex from a 
+minor or from a sex trafficking victim--stripping their anonymity and 
+sentencing them to the public humiliation they deserve for their 
+despicable acts.
+  I believe the SHAME Act will help to discourage participation in 
+further human trafficking and will lead to a safer environment for our 
+children in America. We must combat this now--indeed, a very dangerous 
+and immoral problem.
+
+                          ____________________
+```

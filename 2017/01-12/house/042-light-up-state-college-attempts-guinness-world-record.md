@@ -1,0 +1,44 @@
+---
+granule: CRECB-2017-pt1-Pg790-5
+date: 2017-01-12
+edition: CRECB
+section: HOUSE
+page: 790
+---
+
+# LIGHT UP STATE COLLEGE ATTEMPTS GUINNESS WORLD RECORD
+
+```
+         LIGHT UP STATE COLLEGE ATTEMPTS GUINNESS WORLD RECORD
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, as the mercury dropped to 
+record lows this week in Pennsylvania, I rise to highlight an upcoming 
+cold-weather event in State College, Pennsylvania.
+  The Light Up State College will attempt to break a Guinness World 
+Record next month by lighting more than 3,000 ice luminaries on Allen 
+Street between College Avenue and Beaver Avenue at 6 p.m. the first 
+Saturday in February.
+  Now, you may ask: What is an ice luminary? According to Guinness, ice 
+luminaries are cup-shaped structures made purely out of ice that hold a 
+light inside. Those interested in helping break this record can pick up 
+a do-it-yourself ice luminary kit in downtown State College.
+  The current world record contains 2,561 separate lanterns and was set 
+in 2013 by the residents of a small town in Sweden. They have been 
+making ice luminary lanterns to coincide with a nearby winter market 
+for the past 10 years.
+  Light Up State College is a partnership of three groups: Centre 
+Foundation, Make Space, and the Knight Foundation. Organizers have 
+asked individuals in State College to commit to making ice luminaries, 
+as more than 2,000 are still needed to help put State College over the 
+line and on the map in the Guinness Book of World Records. This record-
+breaking event will take place in State College on Saturday, February 
+4.
+
+[[Page 791]]
+
+  I wish them the best of luck.
+
+                          ____________________
+```

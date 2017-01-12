@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt1-Pg842-5
+date: 2017-01-12
+edition: CRECB
+section: HOUSE
+page: 842
+---
+
+# HUMAN TRAFFICKING
+
+```
+                           HUMAN TRAFFICKING
+
+  (Mr. PAULSEN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PAULSEN. Mr. Speaker, earlier this week we observed National 
+Human Trafficking Awareness Day, and we continue to shine a light on 
+this modern form of slavery. As a part of that effort, I am 
+cosponsoring the Trafficking Survivors Relief Act, which is the next 
+step in helping the victims of human trafficking.
+  The heinous practice of human trafficking exploits young girls and 
+boys. These victims are oftentimes our most vulnerable and are taken 
+advantage of by those with no regard for their well-being. The 
+Trafficking Survivors Relief Act will allow victims to petition courts 
+to have their criminal records cleared of nonviolent offenses that were 
+committed as a direct result of being trapped in human trafficking. It 
+is a very important step, Mr. Speaker, in helping these individuals get 
+the opportunity to return to living fulfilling lives on their own terms 
+and getting the fresh start that they deserve.
+  No man, woman, girl, or boy should ever be subjected to sex 
+trafficking. We must remain vigilant in our fight against this crime 
+and ensure that the victims receive the support and resources they need 
+because, together, we can stop human trafficking.
+
+                          ____________________
+```
