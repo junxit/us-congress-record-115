@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-01-13-pt1-PgH475-7
+date: 2017-01-13
+edition: CREC
+section: HOUSE
+page: H475
+citation: 163 Cong. Rec. H475
+---
+
+# OBAMACARE FAILURES
+
+**Speaking:** Collins, Doug (C001093) [R-GA]
+
+```
+                           OBAMACARE FAILURES
+
+  (Mr. COLLINS of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. COLLINS of Georgia. Mr. Speaker, today, we come and find this one 
+truism: ObamaCare showed that a Federal Government takeover of health 
+care is not in the best interest of addressing our healthcare system.
+  Today, we are going to be taking a closer look at the top three 
+ObamaCare failures: premiums have gone up, not down; instead of lowered 
+costs, healthcare prices have gone up; and people have less choice than 
+ever before.
+  Before we examine these, let's remember how we got here. There seems 
+to be some selective amnesia on this floor. It was after months of 
+backroom deals, in the middle of the night, last-minute deals, and 
+without giving the American people enough time to even read the bill. 
+That is not what is going to happen this time. Republicans are going to 
+do what we said we would do: listen to the American people.
+  We are going to do this right, with input from our neighbors, the 
+folks we go to church with, and our families and our communities. We 
+are not going to pull the rug out from under anyone.
+  We have listened to our constituents, and what we are hearing over 
+and over again are the same three failures: premiums have gone up, not 
+down; instead of lowered costs, healthcare prices went up; and people 
+have less choice than ever before, which, in many cases, is no choice 
+at all. This is a failure, Mr. Speaker, and it is time to end.
+
+                          ____________________
+```
