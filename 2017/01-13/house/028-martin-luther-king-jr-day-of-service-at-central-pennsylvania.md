@@ -1,0 +1,39 @@
+---
+granule: CRECB-2017-pt1-Pg932
+date: 2017-01-13
+edition: CRECB
+section: HOUSE
+page: 932
+---
+
+# MARTIN LUTHER KING, JR. DAY OF SERVICE AT CENTRAL PENNSYLVANIA FOOD BANK
+
+```
+  MARTIN LUTHER KING, JR. DAY OF SERVICE AT CENTRAL PENNSYLVANIA FOOD 
+                                  BANK
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, on Monday, I will honor 
+Dr. Martin Luther King, Jr.'s, legacy by volunteering my time to help 
+veterans in my community. Congressman Scott Perry of Pennsylvania's 
+Fourth District and I will be at the Central Pennsylvania Food Bank in 
+Harrisburg to pack boxes for the MilitaryShare program.
+  MilitaryShare is a program that serves fresh, nutritious meals to 
+families with at least one member who has served in the military. This 
+program assists area veterans and their families to ensure they do not 
+go hungry.
+  Our veterans have numerous needs when they leave the military, and 
+many of them are life-threatening challenges as a result of combat such 
+as post-traumatic stress injury. When we help meet the nutritional 
+needs of military families, it allows them to focus on other pressing 
+issues such as joblessness or treatment for combat-related health 
+issues.
+  MilitaryShare serves more than 4,000 households in central 
+Pennsylvania, which translates to about 10,000 people a month.
+  Mr. Speaker, to serve one's country is a noble and selfless act. The 
+very least we can do is to help our veterans transition to civilian 
+life when they return home.
+
+                          ____________________
+```
