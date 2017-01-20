@@ -1,0 +1,18 @@
+---
+granule: CRECB-2017-pt1-Pg994-2
+date: 2017-01-20
+edition: CRECB
+section: SENATE
+page: 994
+---
+
+# RECOGNITION OF THE MINORITY LEADER
+
+```
+                   RECOGNITION OF THE MINORITY LEADER
+
+  The ACTING PRESIDENT pro tempore. The Democratic leader is 
+recognized.
+
+                          ____________________
+```
