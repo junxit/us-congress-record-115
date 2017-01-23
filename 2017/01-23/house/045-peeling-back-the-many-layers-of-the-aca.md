@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt1-Pg1047
+date: 2017-01-23
+edition: CRECB
+section: HOUSE
+page: 1047
+---
+
+# PEELING BACK THE MANY LAYERS OF THE ACA
+
+```
+                PEELING BACK THE MANY LAYERS OF THE ACA
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, I rise today to recognize the Trump 
+administration's recently announced action of peeling back the many 
+layers of the Affordable Care Act. For millions of hardworking 
+Americans who have carried the burden of this law, relief is finally on 
+the way. President Trump's first order of business was to issue an 
+executive order to begin reversing the damages of the Affordable Care 
+Act and start to minimize costs for consumers.
+  Under the ACA, premiums have skyrocketed while access to health care 
+has dwindled for many Americans, including many of whom reside in my 
+own California's First District. The American people have spoken. They 
+want this disastrous law repealed. Grand claims of 20 to 30 million 
+newly covered are obscured by the fact that over 6 million would rather 
+pay the penalty because they can't afford the Affordable Care Act.
+  The quick action taken by President Trump will aid our efforts in 
+Congress to both repeal and replace the ACA with something better. The 
+American people have suffered through the nightmare that is ACA. 
+Luckily, they won't have to do so for much longer.
+
+                          ____________________
+```

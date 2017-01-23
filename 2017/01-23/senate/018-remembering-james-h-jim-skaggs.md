@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt1-Pg1084-2
+date: 2017-01-23
+edition: CRECB
+section: SENATE
+page: 1084
+---
+
+# REMEMBERING JAMES H. ``JIM'' SKAGGS
+
+```
+                  REMEMBERING JAMES H. ``JIM'' SKAGGS
+
+  Mr. McCONNELL. Mr. President, today I wish to remember the life of 
+James H. ``Jim'' Skaggs, a Louisville resident, who passed away in 
+December at the age of 94. To his family, his church community, and to 
+those who knew him, Jim was a man known for his kindness, patience, and 
+compassion. As a member of this Nation's Greatest Generation, he was an 
+example of commitment and devotion.
+  Like so many other brave men and women, Jim answered his country's 
+call in the Second World War. Kentucky has a proud history of military 
+service, and Jim is a fine model of that tradition. As a staff sergeant 
+in the 755th Railway Battalion, U.S. Army Transportation Corps in 
+England, France, and Belgium, Jim showed the deep passion he held for 
+his country.
+  Jim leaves behind a legacy of love and family. His daughter Debbie is 
+my personal friend and archivist. If it is possible to measure a father 
+by his daughter, Jim will surpass all standards. She is impressive in 
+her own right, and she is surely a reflection of him. He will be 
+remembered fondly. Elaine and I send our deepest condolences to Jim's 
+family and friends.
+
+                          ____________________
+```
