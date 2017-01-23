@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-01-23-pt1-PgH593-3
+date: 2017-01-23
+edition: CREC
+section: HOUSE
+page: H593
+citation: 163 Cong. Rec. H593
+---
+
+# THE WOMEN'S MARCH WAS DEMOCRACY IN ACTION
+
+**Speaking:** Langevin, James R. (L000559) [D-RI]
+
+```
+               THE WOMEN'S MARCH WAS DEMOCRACY IN ACTION
+
+  (Mr. LANGEVIN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LANGEVIN. Mr. Speaker, 7,000 in Rhode Island, over 500,000 in 
+Washington, and millions across the country, the Women's March was 
+democracy in action this past Saturday, and it filled me with hope, 
+hope for a better future and hope that we can withstand whatever 
+challenges lie ahead as a nation.
+  The scene in Rhode Island was incredible, replicated around the 
+world. I joined millions who gathered and marched to remind us that 
+women's rights are human rights and to support inclusion and equality 
+for all--immigrants, the LGBT community, people of color, people with 
+disabilities, and people of differing faiths and backgrounds. This is 
+the diversity that makes us stronger as a nation, and this is the 
+diversity that President Trump must now represent in a way that is 
+befitting of the honor and dignity of his office.
+  Together, Mr. Speaker, we must hold him accountable to protect 
+opportunity for all Americans, not just a select few, because it is by 
+working together, treating people with dignity and respect that we move 
+America forward. A rising tide lifts all boats, Mr. Speaker. I believe 
+that the rising tide of engagement and passion that we saw on Saturday 
+will lift all Americans.
+
+                          ____________________
+```

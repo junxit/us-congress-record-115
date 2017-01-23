@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-01-23-pt1-PgH566-4
+date: 2017-01-23
+edition: CREC
+section: HOUSE
+page: H566
+citation: 163 Cong. Rec. H566
+---
+
+# IN RECOGNITION OF WILEY WASDEN, JR.
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                  IN RECOGNITION OF WILEY WASDEN, JR.
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise to honor Mr. Wiley 
+Anderson Wasden, Jr., from Savannah, Georgia, who passed away on 
+January 18, 2017, just a few days shy of his 80th birthday.
+  Born in Millen, Georgia, to his parents, Wiley Senior and Katherine, 
+Mr. Wasden moved to Savannah after graduating from high school in 1953. 
+He then began studies at the University of Georgia, where he joined the 
+Phi Delta Theta Fraternity and ignited his interest in government. 
+Throughout his life, Mr. Wasden continued this interest in government 
+and used it to make the State of Georgia a better place to live, 
+eventually serving as chairman of the Georgia State Republican Party 
+and as a Georgia State senator. Outside of government, Mr. Wasden 
+worked hard for his community. He was a well-respected local Realtor in 
+Savannah while he also served as chairman of the board for Savannah 
+Country Day School.
+  I am proud today to recognize Mr. Wasden's outstanding life and the 
+positive impact he made on the State of Georgia. He will certainly be 
+missed.
+
+                          ____________________
+```

@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-01-23-pt1-PgH565-3
+date: 2017-01-23
+edition: CREC
+section: HOUSE
+page: H565
+citation: 163 Cong. Rec. H565
+---
+
+# CONSTITUENT EXPERIENCES WITH OBAMACARE
+
+**Speaking:** Bucshon, Larry (B001275) [R-IN]
+
+```
+                 CONSTITUENT EXPERIENCES WITH OBAMACARE
+
+  (Mr. BUCSHON asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. BUCSHON. Mr. Speaker, last week, I met with a group of my 
+constituents to discuss their experiences with the Affordable Care Act.
+  Here is what I heard: My deductible went from $2,500 to $6,000, so it 
+wasn't even worth it.
+  The first year wasn't too bad until I found out I needed a knee 
+replacement, said a constituent who found out her surgery wouldn't be 
+covered because her physician was excluded from her plan's network.
+  A professor who saw his hours cut after passage of ObamaCare and lost 
+his insurance because it didn't comply with the law's mandates said: I 
+had to get a second job and sometimes a third job, and it made it very 
+difficult.
+  A local small business owner saw premiums on his group plan increase 
+by as much as $2,500 a month for family coverage and $975 a month for 
+single employee coverage.
+  There were skyrocketing premiums, unaffordable deductibles, 
+restricted access to physicians, and loss of coverage.
+  Mr. Speaker, these are real stories from real people in my district 
+who want relief from the Affordable Care Act.
+  We are working to save patients from this disastrous law and to build 
+a better healthcare system that lowers costs, expands access, and 
+empowers patients.
+
+                          ____________________
+```

@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-01-23-pt1-PgH565-5
+date: 2017-01-23
+edition: CREC
+section: HOUSE
+page: H565
+citation: 163 Cong. Rec. H565
+---
+
+# FLOOD INSURANCE INTEGRITY ACT
+
+**Speaking:** Bilirakis, Gus M. (B001257) [R-FL]
+
+```
+                     FLOOD INSURANCE INTEGRITY ACT
+
+  (Mr. BILIRAKIS asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. BILIRAKIS. Mr. Speaker, I rise today to discuss important 
+legislation I will soon be introducing in this Congress, the Flood 
+Insurance Integrity Act.
+  Flooding and flood insurance are major issues for Florida and my 
+district. Our community along the coast is prone to experiencing 
+hurricanes and tropical storms on a regular basis. Flood insurance is a 
+must where we live.
+  But right now, the National Flood Insurance Program bases its flood 
+insurance rates on maps that can be 50 years or older. Many are 
+completely out of date and often inaccurate. It is also one of the 
+reasons that NFIP is over $23 billion in debt.
+  The Flood Insurance Integrity Act will require an open and 
+transparent annual review of flood maps. It sounds good.
+  Americans who need flood insurance should be able to trust that their 
+flood insurance premiums accurately reflect their flood risk. It is the 
+least we can do. So that is why this bill seeks to do that.
+
+                          ____________________
+```
