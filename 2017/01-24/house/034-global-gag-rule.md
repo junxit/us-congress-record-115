@@ -1,0 +1,29 @@
+---
+granule: CRECB-2017-pt1-Pg1170-3
+date: 2017-01-24
+edition: CRECB
+section: HOUSE
+page: 1170
+---
+
+# GLOBAL GAG RULE
+
+```
+                            GLOBAL GAG RULE
+
+  (Mrs. CAROLYN B. MALONEY of New York asked and was given permission 
+to address the House for 1 minute.)
+  Mrs. CAROLYN B. MALONEY of New York. Madam Speaker, look at this 
+picture. Where are the women?
+  Yesterday, the President signed an executive order affecting and 
+restricting health care for millions of women across the world while no 
+woman was present. Clearly, he did not hear the voices of the millions 
+of women who marched for their rights and for their health care this 
+past weekend. Reinstating the global gag rule will cut off funding for 
+global healthcare organizations that offer reproductive health care for 
+women from some of the poorest and neediest countries in the world.
+  I urge my colleagues to join me in opposing the global gag rule and 
+any other assault on women's rights in America or around the world.
+
+                          ____________________
+```

@@ -1,0 +1,28 @@
+---
+granule: CRECB-2017-pt1-Pg1110-3
+date: 2017-01-24
+edition: CRECB
+section: SENATE
+page: 1110
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, Dr. Barry C. Black, offered the following prayer:
+  Let us pray.
+  Beautiful Savior, You have been our dwelling place in all 
+generations, sustaining us with Your steadfast love.
+  Today, surround our Senators with the shield of Your divine favor, 
+enabling them to obey Your command to be fruitful and productive. Teach 
+them to obey Your precepts, doing Your good will, as they find joy in 
+Your presence. Lord, keep them from doing those things that could bring 
+them regret, remorse, and shame. Renew their strength as You give them 
+the courage to carry on in these challenging days. Guard them from 
+error, save them from false judgments, and deliver them from evil.
+  We pray in Your Holy Name. Amen.
+
+                          ____________________
+```
