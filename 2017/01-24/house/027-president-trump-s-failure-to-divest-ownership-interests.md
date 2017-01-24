@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-01-24-pt1-PgH617-2
+date: 2017-01-24
+edition: CREC
+section: HOUSE
+page: H617
+citation: 163 Cong. Rec. H617
+---
+
+# PRESIDENT TRUMP'S FAILURE TO DIVEST OWNERSHIP INTERESTS
+
+**Speaking:** Deutch, Theodore E. (D000610) [D-FL]
+
+```
+        PRESIDENT TRUMP'S FAILURE TO DIVEST OWNERSHIP INTERESTS
+
+  (Mr. DEUTCH asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. DEUTCH. Madam Speaker, it doesn't take a law degree. It doesn't 
+take imagination. All it takes is common sense to see that President 
+Trump's ownership and his family's operation of hotels and golf courses 
+and rental properties is ripe for corruption.
+  President Trump's failure to completely divest his ownership interest 
+not only violates tradition followed by every other modern President, 
+it is unconstitutional. The Constitution prohibits any U.S. official--
+including President Trump--from taking payments from foreign 
+governments.
+  His ongoing involvement in The Trump Organization will let foreign 
+governments funnel payments to his businesses. Foreign operatives will 
+try to curry favor with the administration with no accountability to 
+the American people.
+  When he took the oath of office last week, President Trump swore to 
+preserve, protect, and defend the Constitution of the United States. 
+Sadly, his refusal to cut his business ties has broken that vow in 
+these very first days of his administration.
+
+                          ____________________
+```

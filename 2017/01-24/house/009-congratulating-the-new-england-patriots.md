@@ -1,0 +1,35 @@
+---
+granule: CREC-2017-01-24-pt1-PgH613-2
+date: 2017-01-24
+edition: CREC
+section: HOUSE
+page: H613
+citation: 163 Cong. Rec. H613
+---
+
+# CONGRATULATING THE NEW ENGLAND PATRIOTS
+
+**Speaking:** Kuster, Ann M. (K000382) [D-NH]
+
+```
+                CONGRATULATING THE NEW ENGLAND PATRIOTS
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+New Hampshire (Ms. Kuster) for 5 minutes.
+  Ms. KUSTER of New Hampshire. Mr. Speaker, I rise to congratulate the 
+New England Patriots on reaching their NFL record ninth Super Bowl. The 
+very questionable suspension of Tom Brady early in the season could not 
+stop New England or the determination and dedication to excellence that 
+defines the New England Patriots.
+  Fans throughout New Hampshire and beyond are incredibly proud of 
+their team and the unparalleled success of Tom Brady and Bill 
+Belichick. But they would be the first to tell you that the success of 
+the Patriots lies with not one individual but instead is built upon the 
+core value of team before self. This year, the motto made famous by New 
+England, ``Do Your Job,'' is as true as ever.
+  When the Patriots face the Atlanta Falcons in Super Bowl LI, I will 
+be joined by everyone across New Hampshire and throughout New England 
+in offering them good luck. Go Pats.
+
+                          ____________________
+```

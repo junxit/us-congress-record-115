@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-01-24-pt1-PgH666-5
+date: 2017-01-24
+edition: CREC
+section: HOUSE
+page: H666
+citation: 163 Cong. Rec. H666
+---
+
+# AMERICANS' TAX DOLLARS SHOULD NEVER BE USED TO END THE LIFE OF A CHILD
+
+**Speaking:** Moolenaar, John R. (M001194) [R-MI]
+
+```
+ AMERICANS' TAX DOLLARS SHOULD NEVER BE USED TO END THE LIFE OF A CHILD
+
+  (Mr. MOOLENAAR asked and was given permission to address the House 
+for 1 minute.)
+  Mr. MOOLENAAR. Mr. Speaker, today, the House voted to end taxpayer 
+support for abortion.
+  A majority of Americans believe abortion is wrong, and they do not 
+wish to see their tax dollars pay for this gruesome procedure that ends 
+the life of another human being. This legislation permanently puts into 
+law a longstanding policy that has been renewed by Congress every year. 
+It will reassure Americans that the hard-earned money they pay to the 
+government will never be used to fund abortions.
+  This is necessary because the Affordable Care Act, a law that has 
+been unaffordable for so many Americans, actually paid subsidies for 
+healthcare plans that include abortion. This is unacceptable. A child 
+in a mother's womb is a blessing. Americans expect their tax dollars 
+will never be used to pay to end the life of an innocent child.
+  Today's legislation will protect taxpayers and, most importantly, our 
+society's most vulnerable--the unborn.
+
+[[Page H667]]
+
+  
+
+                          ____________________
+```

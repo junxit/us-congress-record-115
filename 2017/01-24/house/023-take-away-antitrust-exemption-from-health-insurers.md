@@ -1,0 +1,44 @@
+---
+granule: CREC-2017-01-24-pt1-PgH616-4
+date: 2017-01-24
+edition: CREC
+section: HOUSE
+page: H616
+citation: 163 Cong. Rec. H616
+---
+
+# TAKE AWAY ANTITRUST EXEMPTION FROM HEALTH INSURERS
+
+**Speaking:** DeFazio, Peter A. (D000191) [D-OR]
+
+```
+           TAKE AWAY ANTITRUST EXEMPTION FROM HEALTH INSURERS
+
+  (Mr. DeFAZIO asked and was given permission to address the House for 
+1 minute.)
+  Mr. DeFAZIO. Madam Speaker, I remember the bad old days of health 
+insurance before the Affordable Care Act. They could refuse to sell you 
+a policy if you had ever been sick. They could refuse to renew your 
+policy if you got sick. Oh, and they had another thing called 
+rescission, where they could put a group of examiners on you and try 
+and take away your policy if you got sick, and this happened numerous 
+times due to technicalities.
+  They can't do those things anymore.
+  They had a cap on your benefits. If you had a really expensive 
+disease: Oh, sorry, your benefits are exhausted. You just go die now.
+  So those things are gone; but if they totally repeal the Affordable 
+Care Act, they are likely to come roaring back.
+  The Republicans say competition will take care of that. The problem 
+is there is no competition in the insurance industry. They are exempt 
+from antitrust law. They can and they do collude to set rates, to 
+redline people, to decide what States they will sell policies in.
+  Therefore, today, I am introducing the Health Insurance Fair 
+Competition Act. It would subject the health insurance industry to the 
+same laws that apply to every other industry in America--except for 
+professional sports are exempt from antitrust law. This is a 
+commonsense solution.
+  If they can rely on competition, we need competition. There wouldn't 
+be any unless we take away their antitrust exemption.
+
+                          ____________________
+```

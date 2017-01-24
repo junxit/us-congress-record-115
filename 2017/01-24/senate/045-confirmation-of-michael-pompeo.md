@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-01-24-pt1-PgS437-2
+date: 2017-01-24
+edition: CREC
+section: SENATE
+page: S437
+citation: 163 Cong. Rec. S437
+---
+
+# CONFIRMATION OF MICHAEL POMPEO
+
+**Speaking:** Murphy, Christopher (M001169) [D-CT]
+
+```
+                     CONFIRMATION OF MICHAEL POMPEO
+
+  Mr. MURPHY. Mr. President, I oppose Mr. Pompeo's confirmation to be 
+Director of the Central Intelligence Agency because I believe he will 
+take the CIA in a dangerously wrong direction.
+  America needs a CIA Director who will uphold American values by 
+resolutely condemning torture and mass surveillance. Mr. Pompeo's last-
+minute attempt to walk back his opposition to torture is very 
+disturbing and suggests the Trump administration is readying to abandon 
+our commitment to international human rights.
+  Second, Mr. Pompeo's enthusiasm for bringing back programs that sweep 
+up massive amounts of Americans' private information is deeply 
+troubling. I have no confidence that Donald Trump would sufficiently 
+protect the private emails of Americans if he had access to them, and 
+Mr. Pompeo's support for large-scale data collection programs is 
+inconsistent with the bipartisan reforms of the PATRIOT Act that passed 
+in the last Congress.
+  Third, I am very worried that Mr. Pompeo, as CIA Director, will 
+continue the trend of covert agencies usurping the power of the State 
+Department and the Defense Department. Mr. Pompeo, under questioning, 
+refused to acknowledge the longstanding precedent of diplomatic 
+embassies having primary authority for final signoff on overseas 
+operations. This suggests Mr. Pompeo could lead a rogue agency that 
+will frustrate rather than aid our diplomatic objectives overseas.
+
+                          ____________________
+```

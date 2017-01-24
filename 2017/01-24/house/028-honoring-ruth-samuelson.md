@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-01-24-pt1-PgH617-3
+date: 2017-01-24
+edition: CREC
+section: HOUSE
+page: H617
+citation: 163 Cong. Rec. H617
+---
+
+# HONORING RUTH SAMUELSON
+
+**Speaking:** Pittenger, Robert (P000606) [R-NC]
+
+```
+                        HONORING RUTH SAMUELSON
+
+  (Mr. PITTENGER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. PITTENGER. Madam Speaker, I rise today in memory of Ruth 
+Samuelson, a long-time leader in the North Carolina House of 
+Representatives and a former member of the Mecklenburg County 
+Commission. Ruth is now in Heaven following a courageous battle with 
+ovarian cancer.
+  Ruth infused her faith in God in all aspects of her family, 
+political, personal, and civic life. Because of her vibrant faith and 
+commitment to focusing on what truly matters, Ruth was known as a 
+thoughtful mediator throughout her tenure in the North Carolina House, 
+someone who approached tense, partisan issues with grace, yet never 
+backed away from her convictions.
+  In 2013, Ruth was in line for a top leadership role, but instead, she 
+walked away, choosing instead to focus on her passions for family, 
+faith, and philanthropy. Ruth's last public statement was: ``I want 
+people to know that God is my good friend.''
+  May the Lord bring comfort to her husband, Ken; to her children, 
+Bobby, David, Joy, and Alex; her four grandchildren; and the countless 
+lives that she touched.
+
+                          ____________________
+```
