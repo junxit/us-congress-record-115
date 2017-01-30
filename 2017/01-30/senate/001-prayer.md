@@ -1,0 +1,31 @@
+---
+granule: CRECB-2017-pt1-Pg1275-3
+date: 2017-01-30
+edition: CRECB
+section: SENATE
+page: 1275
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, Dr. Barry C. Black, offered the following prayer:
+  Let us pray.
+  Almighty God, who inhabits eternity, whose throne is Heaven and whose 
+footstool is the Earth, You have given us the gift of this day, and we 
+will rejoice and be glad in it.
+  May our lawmakers never forget that they borrow their heartbeat from 
+You. Continue to sustain them and give them all that they need to 
+glorify Your Name. May Your Spirit move them that they will make 
+concessions without coercion and be conciliatory without compromising. 
+Compel them to be just and honest in all their dealings. May they 
+remember that our country is no better than its citizens and no 
+stronger than its commitment to righteousness. Lord, bless our Senators 
+in their going out and coming in, their rising up and lying down, their 
+labor and their leisure.
+  We pray in Your loving Name. Amen.
+
+                          ____________________
+```
