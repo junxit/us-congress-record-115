@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-01-30-pt1-PgH709-2
+date: 2017-01-30
+edition: CREC
+section: HOUSE
+page: H709
+citation: 163 Cong. Rec. H709
+---
+
+# RECOGNIZING KARLA-SUE MARRIOTT
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                     RECOGNIZING KARLA-SUE MARRIOTT
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to honor Dr. Karla-
+Sue Marriott, associate professor of chemistry and forensic science at 
+Savannah State University.
+  Dr. Marriott has made groundbreaking chemical discoveries to help 
+millions of people with Alzheimer's, Parkinson's, and ALS. Dr. Marriott 
+began her work at Savannah State in 2006, after completing a 
+postdoctoral fellowship at Clemson University.
+  In 2010, while at Savannah State, she applied for a grant with the 
+National Institutes of Health, which allowed her to research dopamine 
+and sigma receptors in the brain. It was through this research that Dr. 
+Marriott discovered the chemical compound called benzofuran.
+  Benzofuran has the ability to target and activate signal receptors in 
+the brain, while leaving other central nervous system receptors alone. 
+This has the potential to reduce the impact of various neurological 
+diseases.
+  However, Dr. Marriott's work is not done. She will continue her 
+research to discover the full potential of her compound and the 
+benefits it can provide.
+  I am proud to recognize Dr. Marriott today, and I am thankful for the 
+work she is doing at Savannah State University.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-01-30-pt1-PgS464-2
+date: 2017-01-30
+edition: CREC
+section: SENATE
+page: S464
+citation: 163 Cong. Rec. S464
+---
+
+# MORNING BUSINESS
+
+**Speaking:** Inhofe, James M. (I000024) [R-OK], Schatz, Brian (S001194) [D-HI]
+
+**Measures:** S.J.Res. 9
+
+```
+                            MORNING BUSINESS
+
+  The ACTING PRESIDENT pro tempore. Under the previous order, the 
+Senate will be in a period of morning business until 5 p.m., with 
+Senators permitted to speak therein for up to 10 minutes each.
+  The Senator from Oklahoma.
+  Mr. INHOFE. Mr. President, I ask unanimous consent that my 10 minutes 
+be extended to 15 minutes.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  (The remarks of Mr. Inhofe pertaining to the introduction of S.J. 
+Res. 9 are printed in today's Record under ``Statements on Introduced 
+Bills and Joint Resolutions.'')
+  Mr. INHOFE. I yield the floor.
+  I suggest the absence of a quorum.
+  The ACTING PRESIDENT pro tempore. The clerk will call the roll.
+  The bill clerk proceeded to call the roll.
+  Mr. SCHATZ. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+
+                          ____________________
+```

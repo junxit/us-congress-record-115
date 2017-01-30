@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-01-30-pt1-PgH708-2
+date: 2017-01-30
+edition: CREC
+section: HOUSE
+page: H708
+citation: 163 Cong. Rec. H708
+---
+
+# RECOGNIZING THE DISTINGUISHED SERVICE WORK OF SCOTT CHESTER GRAVES
+
+**Speaking:** Conaway, K. Michael (C001062) [R-TX]
+
+```
+   RECOGNIZING THE DISTINGUISHED SERVICE WORK OF SCOTT CHESTER GRAVES
+
+  (Mr. CONAWAY asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. CONAWAY. Mr. Speaker, I rise today to recognize and thank a long-
+time member of my staff, Scott Graves, for his 12 years of service on 
+Capitol Hill. Scott has worked in numerous capacities, starting as an 
+agriculture legislative assistant and then as a legislative director, 
+then as my chief of staff, and, most recently, as staff director at the 
+House Committee on Agriculture. He is a well-respected and accomplished 
+leader; and though he is moving on, I know he will continue to 
+accomplish great things for American agriculture.
+  Scott has been my right-hand man for many years, helping me navigate 
+the complexities of the 2008 and 2014 farm bills, serving as an adviser 
+when I chaired the House Committee on Ethics, and keeping the wheels 
+running in both my personal office and the Agriculture Committee. 
+Although much of his work was done behind the scenes, my colleagues and 
+I knew we could always count on Scott to get results.
+  Beyond his many professional attributes, I will certainly miss his 
+wit and humor. I am very proud of him, and I wish Scott, Haley, Bronte, 
+and a unit to be named this summer the very best. I want to thank him 
+for his loyalty and dedication to public service, and I wish him 
+Godspeed in the next chapter of his life.
+
+                          ____________________
+```

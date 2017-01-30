@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-01-30-pt1-PgH723
+date: 2017-01-30
+edition: CREC
+section: HOUSE
+page: H723
+citation: 163 Cong. Rec. H723
+---
+
+# COMMUNICATION FROM THE HONORABLE JOHN P. SARBANES, MEMBER OF CONGRESS
+
+```
+ COMMUNICATION FROM THE HONORABLE JOHN P. SARBANES, MEMBER OF CONGRESS
+
+  The SPEAKER pro tempore laid before the House the following 
+communication from the Honorable John P. Sarbanes, Member of Congress:
+
+                                    Congress of the United States,
+
+
+                                     House of Representatives,
+
+                                 Washington, DC, January 30, 2017.
+     Hon. Paul D. Ryan,
+     Speaker, House of Representatives,
+     Washington, DC.
+       Dear Mr. Speaker: This is to notify you formally pursuant 
+     to Rule VIII of the Rules of the House of Representatives 
+     that we have been served with a subpoena for documents, 
+     issued by the District Court for the District of Maryland in 
+     Benisek v Lamone.
+       After consultation with the Office of General Counsel, we 
+     have determined that compliance with the subpoena will be 
+     consistent with the privileges and rights of the House.
+           Sincerely,
+                                                 John P. Sarbanes,
+     Member of Congress.
+
+                          ____________________
+```
