@@ -1,0 +1,510 @@
+---
+granule: CREC-2017-01-31-pt1-PgS533
+date: 2017-01-31
+edition: CREC
+section: SENATE
+page: S533
+citation: 163 Cong. Rec. S533
+---
+
+# Travel Ban (Executive Calendar)
+
+**Speaking:** Rubio, Marco (R000595) [R-FL], Leahy, Patrick J. (L000174) [D-VT], Klobuchar, Amy (K000367) [D-MN]
+
+```
+                               Travel Ban
+
+  As a former prosecutor, I have long advocated for thorough vetting. I 
+have supported strong national security measures. I believe the No. 1 
+purpose of government is to keep people safe, but I don't believe that 
+is what this Executive order did. In fact, it created chaos. I am on 
+the bill to reverse and rescind this order. I know they have taken some 
+steps to respond to all of the problems we have seen in every State in 
+this Nation, but what really happened was--with the stroke of a pen--
+the administration excluded entire populations from seeking refuge.
+  I do think it is a bit forgotten that it is not just the seven or so 
+countries that were identified by the administration. The refugee 
+program has been stopped all over the world, and on Sunday I met with, 
+along with Senator Franken, a number of our refugee populations. To 
+give you some background, we have the biggest population of Somalis in 
+the Nation in Minnesota. We are proud of our Somali population. We have 
+the second biggest Hmong population. We have the biggest Liberian 
+population. We have the biggest Oromo population. We have a number of 
+people from Burma. These are all legal workers. They come over as 
+refugees. They are legal when they come over. Many of them get green 
+cards. Many of them go on to become citizens. We have people who are on 
+work visas, people who are on student visas.
+  The faces I saw and the people I met, these were their stories: an 
+engineer from 3M who doesn't think he can go back to visit his father; 
+a former marine from one of the affected countries who doesn't believe 
+his brother can
+
+[[Page S534]]
+
+now come and visit him; two little girls in bright pink jackets who 
+stood with us because they had waited for years for the arrival of 
+their sister; the mother, a Somali woman within a refugee camp in 
+Uganda was pregnant. She finally had gotten her papers to be able to 
+come to America, get out of the refugee camp with her two children, but 
+because she was pregnant when the papers came through, she wasn't able 
+to apply for what would be her third child. The baby was born and she 
+had a ``Sophie's Choice.'' Was she going to stay in the refugee camp 
+with the two older girls or was she going to bring them to safety in 
+America, in Minnesota, with so many friends and relatives whom she 
+knew, and then have to leave the baby behind?
+  She decided to leave the baby with friends at that refugee camp, and 
+for 4 years she worked to get that baby to Minnesota. She got it done, 
+and that baby was supposed to get on a plane and come to Minnesota this 
+week, courtesy of Lutheran Social Services in Minnesota that had worked 
+with the family. Right now, the latest news our office has had, that is 
+not happening. Why? This 4-year-old is not a green card holder. This 4-
+year-old is a refugee, a refugee who is coming to finally be with her 
+mom and her sisters. To explain to what looked like about an 8-year-old 
+and a 10-year-old why this is happening is really--there are no words 
+to explain why it is happening.
+  I truly appreciate it that some of our Republican colleagues joined 
+the chorus to say the vetting rule had not been vetted. Many of them 
+pointed to the implementation problems with this rule, and others, such 
+as Senator McCain and Senator Graham, also talked about the fact that 
+this was simply a self-inflicted wound in our fight against terrorism. 
+We heard much of that.
+  I know, from my colleagues, what this means to moderates whom we are 
+attempting to work with in these Muslim nations as well as our allies 
+all across the world.
+  I leave you with this. This is about our economy. I remind our 
+friends, and I know--I see Senator Rubio here who understands the 
+economic value of immigration--that over 70 of the Fortune 500 
+companies in America are led by immigrants, including in my State, 3M, 
+Best Buy, Mosaic; that 25 percent of our U.S. Nobel laureates were born 
+in other countries; that at one point I had the figure that 200 of our 
+Fortune 500 companies were started by immigrants or kids of immigrants. 
+That is our economy.
+  There is the moral argument, best reflected in the story I just told 
+of those two little girls in their bright pink jackets in the middle of 
+a Minnesota winter, but then there is also the security argument. So we 
+plead with the administration to reverse this rule, to rescind it.
+  Certainly, we can work on more vetting measures. As we know, the 
+refugee vetting already takes 18 months, 2 years, 3 years, more work 
+with biometrics, but there is no reason to do this on the backs of 
+people who have followed the rules, who have followed the regulations 
+and have done what is right and simply want to be part of our country 
+or, in most cases, are already part of our country.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Florida.
+  Mr. RUBIO. Mr. President, we are here in the Senate debating what I 
+believe is the most important Cabinet position that the President has 
+to nominate, the Secretary of State. It comes at an important point in 
+American foreign policy history. There is so much uncertainty and 
+debate about our role in the world these days. A lot of our allies have 
+questions. Our adversaries are obviously watching very closely.
+  I hope that all of us--and I mean the Executive Branch to the 
+Congress--recognize that as people around the world are watching what 
+is happening on television, they see an America that is deeply divided 
+and fractured right now. I think this needs to be a moment of 
+restraint, both in action and in words. As we work through our 
+differences, these vibrant debates are important to our system of 
+government.
+  It is one of the reasons that led me to ultimately support the 
+nomination of Mr. Tillerson. I believe that despite some of the 
+concerns that I had and have about his answers to some of my questions, 
+it is vitally important for this country to have a Secretary of State 
+in place at this moment.
+  I have never had any doubts about Mr. Tillerson's qualifications, his 
+intellect, his background. I have had some concerns about his answers 
+to some very important questions, at least important questions to me, 
+and what I hope will be important questions for a lot of Americans. 
+That is what I wanted to come to the floor and speak about in 
+conjunction with this nomination, and that is the issue of human 
+rights.
+  To me, human rights is critical both to our national identity, but it 
+is also important to our national Security. In America today, we have, 
+as we have done now for the past few centuries, contentious debates all 
+the time about policies and about what kind of country we want to be. 
+If you have watched the proceedings on the Senate floor or in committee 
+over the last few days, you have seen a lot of that.
+  Even as we debate these things among ourselves, and even as the 
+American political rhetoric has become so incredibly heated--and we 
+will have more to say about that in the weeks to come--I don't know of 
+any other time where we have gotten to the point that when we disagree 
+with people, we don't just disagree with them, we question their 
+motives and their character.
+  In fact, it is almost automatic today in American political 
+discourse. You don't just disagree with someone; you immediately jump 
+to why they are a bad person. In the months and weeks to come, I will 
+have examples about why that is a bad idea. But as we are having those 
+contentious debates, I hope that we never take for granted, sometimes 
+as I think we do, that we live in a place where losing an election, 
+losing a vote, losing on an issue, does not mean you end up in jail or 
+disappear or are executed because that is the kind of stuff that 
+happens in other places all over the world, even now, in the 17th year 
+of the 21st century.
+  As we have seen in recent weeks, this political dissent is part of 
+our way of life. It has come to define our country. We protect it in 
+our Constitution. It has made us an example to the rest of the world. I 
+was reminded of this just a couple of months ago, right here in 
+Washington, DC. After our most recent election, I had to a chance to 
+visit with my opponent, Congressman Patrick Murphy of Florida.
+  When I was finished with that meeting, I walked into another meeting. 
+That other meeting was with a Cuban dissident. He is an opponent of the 
+Castro regime, an individual who risks his life in the pursuit of 
+freedom, an individual who does not just get bad blog posts or a bad 
+article or a bad editorial or a nasty campaign ad run against him. No, 
+this is an individual who routinely gets thrown into jail, and he has 
+the scars to prove the beatings he has taken from the Cuban state 
+police over the last few years.
+  I was a little bit late to this meeting. I apologized to him. I 
+explained that I had just been in a meeting with my opposing candidate, 
+the man I had just ran against in the election. I could see the look on 
+his face. It kind of struck him. He immediately, I believe, appreciated 
+what that represented. He said--and I am paraphrasing: That is what we 
+want for our country too.
+  This is the essence of what has been America's example to the world, 
+the essence of how our principles and our values have inspired others 
+to seek their own God-given rights and how we have a moral duty to 
+support--in our words, in our foreign policy, and in our actions--those 
+aspirations of people all over the world.
+  In a way, dictators and tyrants have never had it worse than they do 
+today because we live in this high-tech information age. We often get 
+to see the images of repression within minutes of it happening, if not 
+in real time. We can monitor it; we can catalog the status of human 
+rights in every city, in every country, on every continent.
+  But as Americans, we are called to do much more than observe and 
+record these atrocities for history. With this knowledge, it is our 
+duty to act and to do what we can to support the people demanding their 
+rights. We must hold those who are violating their rights accountable. 
+I believe this is more important than ever because of the totalitarian 
+resurgence underway in many parts of the world as democracy in every 
+continent is under attack.
+
+[[Page S535]]
+
+  Even as I stand here now before you, there are political prisoners on 
+this planet. They languish in Chinese prisons. Political dissidents and 
+journalists are being silenced and targeted for murder in Russia. Those 
+who seek democracy in Syria are being massacred. The United States has 
+a unique responsibility to highlight, to expose, and to combat these 
+grave human rights abuses around the world.
+  Historically, we have been a compassionate country that has welcomed 
+people seeking refuge from repression and atrocities. That is why I 
+understand. I understand the concerns about refugees from certain 
+failed states or governments who sponsor terror, places where very 
+often it is difficult if not impossible to verify the identities of 
+people seeking to come to the United States.
+  I say this to people all the time. When you talk about changes in 
+policies, there is a legitimate argument and a credible argument to be 
+made that there are people we cannot allow into the United States, not 
+because we don't have compassion for their plight but because we have 
+no way of knowing who they are. You can't just call 1-800-Syria and get 
+background information about the individuals who are trying to enter 
+the United States. We know for a fact that there are terrorist groups 
+around the world that have commandeered passport-making machinery and 
+are producing passports that are real in every way, except for the 
+identity of the person in the picture.
+  So I do believe that we need to have very careful and rigorous 
+screening, more than ever before, of all people entering the United 
+States but especially those who are coming from areas that we know do 
+not have reliable background information available to us.
+  But at the same time, I cannot help, and I think we should not help, 
+but to be worried about the impact of a 120-day moratorium on every 
+single refugee from anywhere on the planet, refugees from places like 
+the Democratic Republic of Congo, Ukraine, Colombia, El Salvador, 
+Vietnam, Burma, and, of course, Cuba, just to name a few places. These 
+are among the most vulnerable people on the planet, living often in the 
+most difficult and dangerous circumstances imaginable.
+  I remind everyone: This is a moratorium; it is not a permanent 
+policy. I understand that there are provisions available for waivers, 
+and I find that to be promising.
+  But I also want to everyone to understand that 120 days, for someone 
+who is trying to get out of a place where they might be killed, may be 
+1 day too many for some of them. I hope that that does not turn out to 
+be the case. That is why I urge the administration, that is why I urge 
+soon-to-be Secretary Tillerson, to exercise great caution in making 
+sure that dissidents and others are not being turned away.
+  By the way, I am pleased to see that the administration is heeding 
+some of these calls already, early this week. We must understand that 
+when tyrants and dictators oppress their people, we are all paying a 
+price. It is happening all over the world. Vladimir Putin continues to 
+institute Draconian laws targeting the freedom of expression and 
+assembly.
+  Earlier this year, my office and I highlighted the case of human 
+rights activist Ildar Dadin, who was the first person imprisoned under 
+Russia's new criminal provision that bars any form of public dissent.
+  In China, rights lawyers are tortured. Labor activists are arrested. 
+Tibetan Buddhist nuns are expelled from their homes, and churches are 
+being demolished. Just earlier today, I met the wives of two Chinese 
+rights advocates, who both pleaded for the United States to champion 
+their husbands' cases in the hope that they can see their husbands 
+again.
+  In Iran, dissent, freedom of expression, and freedom of press is 
+nonexistent, heavily restricted. Many continue to be jailed for simply 
+exercising their fundamental human rights. The Government of Iran 
+targets religious minorities, often jailing Christian pastors and those 
+who gather to worship together in private homes. In Syria, one of the 
+worst humanitarian catastrophes in modern history, the Assad regime, 
+with the assistance of Vladimir Putin and the Iranian Government and 
+military, is committing war crimes against innocent women, children, 
+men, and civilians in Aleppo and beyond.
+  In Iraq, we have seen ancient Christian and Yezidi communities on the 
+verge of extinction, all because of ISIS.
+  In Venezuela, the Maduro regime continues to imprison political 
+opponents while the country descends further and further into economic 
+chaos and has now become on the verge of a total humanitarian 
+catastrophe in the Western Hemisphere. In one of the richest countries 
+on the planet, we are at the point of people literally starving to 
+death.
+  Saudi Arabia is an ally of the United States on many key geopolitical 
+issues, and we will have to continue working with them on those shared 
+causes. But they also remain one of the most censored countries in the 
+world. The government has intensified its repression of activists and 
+journalists. In Saudi Arabia, women remain under the male guardianship 
+system. They are banned from even driving.
+  Globally, assaults against press freedom around the world are a major 
+problem because, ultimately, the cause and champions of human rights 
+need information to expose abuses and call for reforms. Without 
+independent journalists, without information, tyrants and dictatorships 
+can get away with so much more.
+  According to the Committee to Protect Journalists, in 2016, 48 
+journalists were killed and 259 journalists were jailed worldwide. In 
+2016, Turkey, a NATO member, again, an important geopolitical alliance 
+of the United States, but, sadly, they became the leading jailer of 
+journalists on the planet, following a widespread crackdown on the 
+press.
+  The abuses and threats to human rights around the world are many. We 
+could be here all night trying to break Senator Strom Thurmond's 
+filibuster record, going country by country, case by case, and it still 
+would not be enough time to do justice to all of the heroic figures 
+around the world. But it is my hope that more of my colleagues will 
+join me in doing so over time because it is important. Our voices here 
+in the Senate give people all over the world confidence and motivation 
+to stay the course.
+  As famed Soviet dissident Natan Sharansky has said of himself and 
+fellow prisoners of conscience in the Soviet Union: ``We never could 
+survive even one day in the Soviet Union if our struggle was not the 
+struggle of the free world.''
+  In essence, what he is saying is that these tyrants and these 
+dictators, when they jail these people, the first thing they tell them 
+is that no one even remembers you anymore. No one talks about you 
+anymore. You have been abandoned.
+  Today, I want to highlight one particular human rights case as part 
+of the weekly social media campaign my office has been doing for the 
+last couple of years called Expression NOT Oppression.
+  Here you see a picture of a gentleman named Dr. Eduardo Cardet of 
+Cuba. He is a medical doctor and the national coordinator of the 
+Christian Liberation Movement, a group which advocates for democracy 
+and freedom.
+  Cardet assumed the role of national coordinator after the suspicious 
+death of Castro critic Oswaldo Paya Sardinas. After allegedly stating 
+in an interview that Fidel Castro was hated by the Cuban people--that 
+is what he said--he was savagely beaten in front of his two young 
+children and wife by Cuban state security on November 30 of last year. 
+He has been in jail ever since.
+  He has been charged--get this. He has been charged with challenging 
+authority. He faces a 3- to 5-year prison sentence. Let me repeat that. 
+He is officially charged with challenging authority. That is a crime in 
+Cuba. His father has written to Pope Francis begging for his 
+intervention. By the way, this is a reminder that even though Fidel 
+Castro is dead, his authoritarian system still lives on.
+  Dr. Cardet's persecution and the overall increase in repression in 
+Cuba over the past 2 years is a reminder that the policy of rewarding 
+the Castro regime, under the guise of engagement, with cash and 
+concessions has not worked and must be strategically reversed here in 
+the coming months.
+  So I come here today in the hope that our President and our State 
+Department and especially Mr. Tillerson,
+
+[[Page S536]]
+
+in whom I am entrusting my vote for confirmation, and all Members of 
+Congress, for that matter, will add their voices in solidarity with Dr. 
+Cardet, with all the Cuban people yearning to be free, and with those 
+around the world who look to our Nation--to America--for leadership and 
+often for nothing more than for us to lend our voice to their cause.
+  As we move forward here with our Nation's work, we must continue to 
+highlight these cases and to raise awareness of them. We must never 
+forget that there are people all over the world who are challenging 
+authority because they want a better life for themselves and their 
+families. They should be able to challenge authority peacefully and 
+then go home to their families, not be thrown in jail, tortured, or 
+killed.
+  Today I ask all to pray for those who are victims of their own 
+government. I pray for the release of prisoners of conscience and their 
+families, and I pray that our own country at this moment of 
+extraordinary division on so many key issues can reaffirm its founding 
+principles in calling for the sacred right of every man, woman, and 
+child to be free.
+  Mr. LEAHY. Mr. President, today the Senate is considering the 
+nomination of Rex Tillerson to be Secretary of State. Mr. Tillerson is 
+an intelligent, hard-working, and successful businessman. He is also, 
+in my view, the wrong choice to be our Nation's top diplomat.
+  To effectively confront the many challenges our country faces in an 
+increasingly globalized and volatile world, we need a Secretary of 
+State who, with credibility and conviction, can clearly and effectively 
+articulate our interests and values and who has experience advocating 
+for them abroad.
+  We need someone who will work with the international community to 
+combat climate change, bring to justice war criminals like Bashar al-
+Assad, and stand up to corrupt, abusive regimes that violate 
+international humanitarian law and territorial integrity as Russia has 
+done in Syria and Ukraine.
+  We need someone who will advocate for fundamental human rights and 
+democratic values when they are threatened by friend or foe.
+  I am unconvinced that Mr. Tillerson is that person.
+  As an accomplished businessman, Mr. Tillerson's lone qualification 
+for Secretary of State seems to be his success in tirelessly 
+circumnavigating the globe to negotiate oil deals. There is no doubt he 
+has helped ExxonMobil expand its business and made a lot of money doing 
+so. But contrary to the view being promoted by the Trump 
+administration, running a for-profit business is fundamentally 
+different from running a large Federal agency.
+  As the CEO of ExxonMobil, Mr. Tillerson worked closely with corrupt 
+autocrats like Vladimir Putin who were actively undermining U.S. 
+interests and acting in ways that were counter to our values. In doing 
+so, Mr. Tillerson served his shareholders, but he disregarded the 
+national interests of the United States.
+  Unlike some in this body, I believe we should have relations with 
+governments we disagree with. But I also believe that, in doing so, we 
+must act in accordance with our principles and values. And I don't 
+believe that being the CEO of one of this country's wealthiest 
+companies entitles you to ignore those values for the sake of making 
+money.
+  Mr. Tillerson's confirmation hearing provided him the opportunity to 
+reconcile his track record of a lifetime in the oil business with the 
+responsibilities he would have as Secretary of State.
+  In his testimony, he stated that ``American leadership requires moral 
+clarity.'' I agree. But he was challenged by Senators Rubio, Murphy, 
+and others who observed that despite this statement, Mr. Tillerson was 
+unwilling to label the relentless bombardment and destruction of Aleppo 
+by Russian forces as a war crime or the extrajudicial killings of 
+thousands of civilians in the Philippines as a blatant violation of 
+human rights, to cite only two examples of well-documented cases of 
+atrocities he refused to recognize as such.
+  I worry that Mr. Tillerson will too often be inclined to subjugate 
+fundamental human rights to what he perceives as overriding economic or 
+security concerns. There is nothing in the record to suggest that he 
+recognizes that the protection of human rights is itself a national 
+security imperative or that he would differ from the President on these 
+issues that have become even more important since January 20.
+  We also have no idea what Mr. Tillerson thinks about the President's 
+misguided, discriminatory, and probably illegal decision to ban entry 
+to the United States of all citizens of Syria and half a dozen other 
+Muslim countries because he has been conspicuously silent, even though 
+the State Department will have a key role in enforcing it. Our 
+diplomats posted overseas will bear the brunt of the retaliatory 
+actions by outraged governments in countries targeted by this arbitrary 
+and self-defeating Executive order.
+  Nor do we know what he thinks of the President's draft Executive 
+order that signals a drastic reduction in our support for and influence 
+in the United Nations. Will the President consult with Mr. Tillerson 
+before issuing that order? Does Mr. Tillerson think it is a smart way 
+to protect our interests and reassure our allies? We don't know.
+  ExxonMobil, while Mr. Tillerson was CEO, lobbied to overturn section 
+1504 of the Dodd-Frank legislation which is designed to stop the 
+illicit flow of revenues from oil and gas extraction to corrupt 
+governments. Senator Lugar, who played a key role in that bipartisan 
+legislation, said at the time that stopping such corruption is a 
+national security and economic priority for the United States. Does Mr. 
+Tillerson think that shrouding in secrecy corruption involving hundreds 
+of billions of dollars by governments who steal from their own 
+impoverished people is in our national interest? We don't know because 
+he doesn't say.
+  My other abiding concern with this nominee is that we are being asked 
+to confirm the head of the world's largest oil company to be the 
+country's top diplomat, at a time when I believe the most challenging 
+issue we and the world face is climate change resulting from the 
+combustion of fossil fuels.
+  Uniting the world to combat climate change will not be possible 
+without unprecedented U.S. leadership. Leadership requires credibility, 
+and on this issue, Mr. Tillerson has next to none. He has devoted his 
+professional career--and become a billionaire in the process--to 
+extracting and selling as much oil as possible. If, at his confirmation 
+hearing, Mr. Tillerson had said that he recognizes the causal 
+connection between burning fossil fuels and climate change, that he 
+understands the grave threat it poses, and that he is determined to use 
+the position of Secretary of State to build on the record of the Obama 
+administration to combat climate change, I might feel differently. But 
+he said nothing remotely like that.
+  To the contrary, when asked at his confirmation hearing if ExxonMobil 
+concealed what it knew about climate change while funding outside 
+groups that raised doubts about the science, Mr. Tillerson said he was 
+``in no position to speak'' for the company, even though he had been 
+the CEO until only a few days before. When asked whether he lacked the 
+knowledge to answer or was refusing to do so, he replied ``A little of 
+both.'' That should concern each of us.
+  Based on his professional record and his responses at the hearing, I 
+do not believe Mr. Tillerson is the right person to be representing the 
+United States in negotiations to reduce carbon emissions, one of the 
+defining issues of our time.
+  I was also disappointed by Mr. Tillerson's responses to a number of 
+other questions submitted for the record, including regarding U.S. 
+policy toward Cuba and the right of Americans to travel there. By 
+simply repeating the Republican talking points that he would act 
+consistent with the Helms-Burton Act, he appeared to embrace a law that 
+has failed to achieve any of its objectives and has prevented Americans 
+from traveling freely to Cuba or U.S. companies from doing business 
+there.
+  Does Mr. Tillerson believe that Cuba, an impoverished island of 11 
+million people who overwhelmingly have a positive opinion of the United 
+States, should remain the country with the most U.S. sanctions of any 
+in the world? He didn't say.
+
+[[Page S537]]
+
+  I hope that, if confirmed, Mr. Tillerson will evaluate our policy 
+toward Cuba objectively and in a manner that favors diplomatic 
+engagement--as the overwhelming majority of Cubans and Americans want--
+over isolation.
+  I understand that nominees are often unwilling to take hard positions 
+or unable to discuss in detail at this early stage all of the issues 
+they will be required to manage in their new job. But we should expect 
+a nominee for Secretary of State to be willing and able to recognize 
+and condemn horrific violations of human rights and to speak out 
+against actions by foreign governments and our own that are obviously 
+inconsistent with our interests and values.
+  President Obama did not achieve every foreign policy goal he set out 
+to achieve, nor did I always agree with President Obama's or Secretary 
+of State Kerry's priorities. But we worked together, and with our 
+international partners, we made notable progress over the past 8 years 
+on human rights, climate change, reducing poverty, and many other 
+issues--progress we must continue to build on. With nationalism and 
+isolationism on the rise and democracy and fundamental freedoms under 
+threat, we need a Secretary of State who has demonstrated a track 
+record and commitment to more than economic enrichment.
+  If Mr. Tillerson is confirmed, which I expect he will be, I will 
+continue my longstanding support for the funding to enable the State 
+Department to carry out its vital mission to protect and promote U.S. 
+interests and values abroad. When he and I agree, I will support him. 
+When we disagree, I will be vocal in my opposition as I was during the 
+Obama administration.
+  I hope Mr. Tillerson will also be a strong advocate for the State 
+Department's budget and personnel, including by protecting the 
+integrity of the Dissent Channel to ensure that alternative views on 
+important policy decisions can be expressed and considered without fear 
+of retribution. Even the best policies in the world are worth little 
+more than the paper they are printed on without the funds and the 
+people to implement them.
+  We should always remember that the face of the United States is its 
+people. Leadership is possible only through the hard work of the 
+diplomats serving around the world to promote our values, defend our 
+interests, and engage constructively with friends and adversaries. 
+Their service, dedication, and expertise are the reason we are able to 
+effectively confront an increasingly dangerous world. Our success at 
+home is inextricably linked to their success abroad. That is why, just 
+as we support the men and women of our military, so should we recognize 
+and support the diplomats at the Department of State.
+  The State Department's indispensable role, made possible by its 
+outstanding workforce, is recognized by the many widely respected 
+senior U.S. Armed Forces officials, current and retired, who have 
+repeatedly called for increased funding for diplomacy and development. 
+They know better than anyone that preventing wars is far less costly 
+than fighting them and that wars rarely if ever turn out the way one 
+predicts, as the past 50 years painfully illustrate.
+  Regardless of whatever differences of opinion we may have, I hope Mr. 
+Tillerson will consult regularly with Republicans and Democrats, as has 
+been the custom with past successful Secretaries of State of both 
+parties. I have been here a long time, and I would be the first to say 
+that we have had outstanding top diplomats from both parties. I put 
+James Baker in that category, and I sincerely hope that Mr. Tillerson 
+proves me wrong and joins their ranks. We all want what is best for the 
+American people and the Nation, and we are stronger when we work 
+together and with other nations to find a common way forward.
+```
