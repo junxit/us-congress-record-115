@@ -1,0 +1,42 @@
+---
+granule: CRECB-2017-pt1-Pg1466-4
+date: 2017-01-31
+edition: CRECB
+section: HOUSE
+page: 1466
+---
+
+# THANKING REPRESENTATIVE XAVIER BECERRA
+
+```
+                 THANKING REPRESENTATIVE XAVIER BECERRA
+
+  (Ms. MICHELLE LUJAN GRISHAM of New Mexico asked and was given 
+permission to address the House for 1 minute and to revise and extend 
+her remarks.)
+  Ms. MICHELLE LUJAN GRISHAM of New Mexico. Madam Speaker, I stand here 
+today to recognize the extraordinary leadership of Xavier Becerra who 
+for the last 24 years proudly served the people of Los Angeles, 
+California, as a Member of the United States House of Representatives.
+  Xavier's career in public service began as a call to fight for people 
+like his parents, a clerical worker and a construction worker, who were 
+often neglected in the policymaking process.
+  He was elected to Congress in 1992. He most recently served as the 
+first Hispanic member of the Committee on Ways and Means. During his 
+tenure, he was also the chairman of the House Democratic Caucus and 
+chairman of the Congressional Hispanic Caucus.
+  He worked with his colleagues to increase opportunities for working 
+families, to improve Social Security, and to strengthen Medicare. He 
+fought for a Tax Code that was fair to hardworking families and small 
+businesses. He stood for immigrants of all communities in his support 
+of the DREAM Act and comprehensive immigration reform.
+  He continues this important work now as the attorney general of 
+California, where he is already using his position, knowledge, and 
+experience to uphold our values by rejecting policies that this 
+administration hopes to exact on the American people.
+  Representative Becerra, thank you and your family for your service. 
+Your community, your colleagues, your country, and I thank you for your 
+service.
+
+                          ____________________
+```

@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt1-Pg1421-2
+date: 2017-01-31
+edition: CRECB
+section: HOUSE
+page: 1421
+---
+
+# KEEP AMERICANS SAFE
+
+```
+                          KEEP AMERICANS SAFE
+
+  (Mr. SMITH of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. SMITH of Texas. Madam Speaker, anyone who wants to protect 
+Americans from terrorist attacks should support President Trump's 
+immigration executive orders.
+  Put aside the hysteria of his political opponents. Here are the 
+facts:
+  There will be a temporary halt in the admission to the U.S. of those 
+from seven designated countries, including Iraq, Iran, Libya, and 
+Syria. These are the exact same countries designated a security threat 
+by President Obama.
+  Congress passed bipartisan legislation in 2015 designating these 
+countries as security risks in order to protect our homeland from 
+terrorism. In fact, the bill passed the House of Representatives by a 
+vote of 407-19.
+  Despite what the media and others imply, Muslims are not being 
+targeted. Many Muslim majority countries, in fact, are not singled out. 
+The purpose of the temporary halt is to allow time to improve 
+procedures so better background checks can be developed.
+  Who could possibly oppose efforts to keep Americans safe?
+
+                          ____________________
+```

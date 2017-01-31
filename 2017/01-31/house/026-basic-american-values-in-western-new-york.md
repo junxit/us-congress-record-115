@@ -1,0 +1,33 @@
+---
+granule: CRECB-2017-pt1-Pg1420
+date: 2017-01-31
+edition: CRECB
+section: HOUSE
+page: 1420
+---
+
+# BASIC AMERICAN VALUES IN WESTERN NEW YORK
+
+```
+               BASIC AMERICAN VALUES IN WESTERN NEW YORK
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Mr. Speaker, I rise on behalf of so many 
+western New Yorkers and Americans who are outraged by the President's 
+executive order on immigration.
+  The story of America is defined by the struggle of immigrants 
+overcoming incredible odds to claim their piece of the American Dream. 
+The executive order on immigration is callous, unlawful, and 
+unconstitutional. An immigration ban on anyone that is based on 
+religion or country of origin is in conflict with basic American values 
+and who we are as a people.
+  Inspired by the work of the International Institute, Catholic 
+Charities, Jericho Road, Jewish Family Services, and so many more, my 
+western New York community continues to be welcoming to refugees and 
+immigrants from all over the world, including from those countries that 
+are directly affected by this order. I know my community will continue 
+to lead by example and proudly project American values.
+
+                          ____________________
+```
