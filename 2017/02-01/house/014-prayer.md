@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt2-Pg1498-5
+date: 2017-02-01
+edition: CRECB
+section: HOUSE
+page: 1498
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Patrick J. Conroy, offered the following 
+prayer:
+
+[[Page 1499]]
+
+  Eternal God, we give You thanks for giving us another day.
+  We thank You that we are a nation fashioned out of diverse peoples 
+and cultures, brought forth on this continent in a way not unlike the 
+ancient people of Israel. As out of a desert, You led our American 
+ancestors to this promised land where they declared their independence 
+and constituted a new nation founded upon unalienable rights given to 
+us by You, our Creator.
+  Bless our Nation with wisdom, knowledge, and understanding, and bless 
+the Members of this people's House. Renew in us the adoption by Your 
+Spirit that we may affirm our freedoms, not only with the conviction in 
+the way we understand others, but in ourselves by actions proven beyond 
+words.
+  Bless us this day and every day. May all that is done here this day 
+be for Your greater honor and glory.
+  Amen.
+
+                          ____________________
+```

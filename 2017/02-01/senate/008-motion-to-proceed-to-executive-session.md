@@ -1,0 +1,144 @@
+---
+granule: CRECB-2017-pt2-Pg1566-4
+date: 2017-02-01
+edition: CRECB
+section: SENATE
+page: 1566
+---
+
+# MOTION TO PROCEED TO EXECUTIVE SESSION
+
+```
+                 MOTION TO PROCEED TO EXECUTIVE SESSION
+
+  Mr. McCONNELL. Mr. President, I move that the Senate proceed to 
+executive session to consider Calendar No. 11, Elisabeth DeVos to be 
+Secretary of Education.
+  The PRESIDING OFFICER. The question is on agreeing to the motion.
+  Mr. McCONNELL. I ask for the yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There appears to be a sufficient second.
+  The clerk will call the roll.
+  The senior assistant legislative clerk called the roll.
+  Mr. DURBIN. I announce that the Senator from Delaware (Mr. Coons) is 
+necessarily absent.
+  The PRESIDING OFFICER (Mr. Gardner). Are there any other Senators in 
+the Chamber desiring to vote?
+  The result was announced--yeas 52, nays 47, as follows:
+
+                      [Rollcall Vote No. 40 Leg.]
+
+                                YEAS--52
+
+     Alexander
+     Barrasso
+     Blunt
+     Boozman
+     Burr
+     Capito
+     Cassidy
+     Cochran
+     Collins
+     Corker
+     Cornyn
+     Cotton
+     Crapo
+     Cruz
+     Daines
+     Enzi
+     Ernst
+     Fischer
+     Flake
+     Gardner
+     Graham
+     Grassley
+     Hatch
+     Heller
+     Hoeven
+     Inhofe
+     Isakson
+     Johnson
+     Kennedy
+     Lankford
+     Lee
+     McCain
+     McConnell
+     Moran
+     Murkowski
+     Paul
+     Perdue
+     Portman
+     Risch
+     Roberts
+     Rounds
+     Rubio
+     Sasse
+     Scott
+     Sessions
+     Shelby
+     Sullivan
+     Thune
+     Tillis
+     Toomey
+     Wicker
+     Young
+
+                                NAYS--47
+
+     Baldwin
+     Bennet
+     Blumenthal
+     Booker
+     Brown
+     Cantwell
+     Cardin
+     Carper
+     Casey
+     Cortez Masto
+     Donnelly
+     Duckworth
+     Durbin
+     Feinstein
+     Franken
+     Gillibrand
+     Harris
+     Hassan
+     Heinrich
+     Heitkamp
+     Hirono
+     Kaine
+     King
+     Klobuchar
+     Leahy
+     Manchin
+     Markey
+     McCaskill
+     Menendez
+     Merkley
+     Murphy
+     Murray
+     Nelson
+     Peters
+     Reed
+     Sanders
+     Schatz
+     Schumer
+     Shaheen
+     Stabenow
+     Tester
+     Udall
+     Van Hollen
+     Warner
+     Warren
+     Whitehouse
+     Wyden
+
+                             NOT VOTING--1
+
+       
+     Coons
+       
+  The motion was agreed to.
+
+                          ____________________
+```

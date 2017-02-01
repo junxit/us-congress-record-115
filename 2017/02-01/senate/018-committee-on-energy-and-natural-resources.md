@@ -1,0 +1,74 @@
+---
+granule: CRECB-2017-pt2-Pg1591
+date: 2017-02-01
+edition: CRECB
+section: SENATE
+page: 1591
+---
+
+# COMMITTEE ON ENERGY AND NATURAL RESOURCES
+
+```
+               COMMITTEE ON ENERGY AND NATURAL RESOURCES
+
+                                 ______
+                                 
+
+                        SUBCOMMITTEE MEMBERSHIP
+
+  Ms. MURKOWSKI. Mr. President, I ask unanimous consent that the 
+Committee on Energy and Natural Resources' subcommittee assignments for 
+the 115th Congress be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+               COMMITTEE ON ENERGY AND NATURAL RESOURCES
+
+                115th Congress Subcommittee Assignments
+
+
+                                 energy
+
+                         Cory Gardner, Chairman
+
+       James E. Risch; Jeff Flake; Steve Daines; Jeff Sessions; 
+     Lamar Alexander; John Hoeven; Bill Cassidy; Rob Portman; Joe 
+     Manchin III, Ranking; Ron Wyden; Bernard Sanders; Al Franken; 
+     Martin Heinrich; Angus King; Tammy Duckworth; Catherine 
+     Cortez Masto.
+
+
+                   public lands, forests, and mining
+
+                           Mike Lee, Chairman
+
+       John Barrasso; James E. Risch; Jeff Flake; Steve Daines; 
+     Cory Gardner; Jeff Sessions; Lamar Alexander; John Hoeven; 
+     Bill Cassidy; Ron Wyden, Ranking; Debbie Stabenow; Al 
+     Franken; Joe Manchin III; Martin Heinrich; Mazie Hirono; 
+     Catherine Cortez Masto.
+
+
+                             national parks
+
+                         Steve Daines, Chairman
+
+       John Barrasso; Mike Lee; Cory Gardner; Lamar Alexander; 
+     John Hoeven; Rob Portman; Mazie Hirono, Ranking; Bernard 
+     Sanders; Debbie Stabenow; Martin Heinrich; Angus King; Tammy 
+     Duckworth.
+
+
+                            WATER AND POWER
+
+                          Jeff Flake, Chairman
+
+       John Barrasso; James E. Risch; Mike Lee; Jeff Sessions; 
+     Bill Cassidy; Rob Portman; Angus King, Ranking; Ron Wyden; 
+     Bernard Sanders; Al Franken; Joe Manchin III; Tammy 
+     Duckworth.
+       Lisa Murkowski and Maria Cantwell are ex officio members of 
+     all Subcommittees.
+
+                          ____________________
+```
