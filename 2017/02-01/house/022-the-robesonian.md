@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-02-01-pt1-PgH829-5
+date: 2017-02-01
+edition: CREC
+section: HOUSE
+page: H829
+citation: 163 Cong. Rec. H829
+---
+
+# THE ROBESONIAN
+
+**Speaking:** Pittenger, Robert (P000606) [R-NC]
+
+```
+                             THE ROBESONIAN
+
+  (Mr. PITTENGER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. PITTENGER. Mr. Speaker, I rise in honor of The Robesonian 
+newspaper in Lumberton, North Carolina, and their exceptional public 
+service during the massive floods caused by Hurricane Matthew.
+  Last October, Lumberton was inundated with rain. The water treatment 
+plant was under 4 feet of water; Interstate 95 was shut down; hundreds 
+of homes and businesses were destroyed. The devastation, which I 
+witnessed firsthand, was unbelievable. The Robesonian's own offices 
+were destroyed, and much of the staff suffered personal loss, slept in 
+offices, went without showers; yet the newspaper continued to share 
+vital information online and via social media.
+  Mr. Speaker, during this emergency, The Robesonian's website and 
+social media were the only way many residents of Robeson County could 
+access updated information on shelters and water distribution.
+  Thank you to the dedicated staff of The Robesonian for putting the 
+community first and serving with distinction during the Hurricane 
+Matthew floods.
+
+                          ____________________
+```

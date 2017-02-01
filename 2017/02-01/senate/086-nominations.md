@@ -1,0 +1,35 @@
+---
+granule: CREC-2017-02-01-pt1-PgS607-2
+date: 2017-02-01
+edition: CREC
+section: SENATE
+page: S607
+citation: 163 Cong. Rec. S607
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                   SUPREME COURT OF THE UNITED STATES
+
+        NEIL M. GORSUCH, OF COLORADO, TO BE AN ASSOCIATE JUSTICE 
+     OF THE SUPREME COURT OF THE UNITED STATES, VICE ANTONIN 
+     SCALIA, DECEASED.
+
+
+                         DEPARTMENT OF JUSTICE
+
+        ROD J. ROSENSTEIN, OF MARYLAND, TO BE DEPUTY ATTORNEY 
+     GENERAL, VICE SALLY QUILLIAN YATES, RESIGNED.
+        RACHEL L. BRAND, OF IOWA, TO BE ASSOCIATE ATTORNEY 
+     GENERAL, VICE DEREK ANTHONY WEST, RESIGNED.
+        STEVEN ANDREW ENGEL, OF THE DISTRICT OF COLUMBIA, TO BE AN 
+     ASSISTANT ATTORNEY GENERAL, VICE VIRGINIA A. SEITZ, RESIGNED.
+
+                          ____________________
+```

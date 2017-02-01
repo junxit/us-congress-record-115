@@ -1,0 +1,135 @@
+---
+granule: CREC-2017-02-01-pt1-PgH879-6
+date: 2017-02-01
+edition: CREC
+section: HOUSE
+page: H879
+citation: 163 Cong. Rec. H879
+---
+
+# ADDITIONAL SPONSORS
+
+**Measures:** H.Con.Res. 5, H.J.Res. 6, H.J.Res. 17, H.J.Res. 19, H.Res. 23, H.Res. 28, H.Res. 31, H.Res. 35, H.J.Res. 36, H.R. 38, H.J.Res. 38, H.Res. 38, H.J.Res. 43, H.R. 44, H.J.Res. 44, H.J.Res. 46, H.J.Res. 48, H.R. 60, H.Res. 61, H.Res. 72, H.R. 82, H.R. 113, H.R. 122, H.R. 125, H.R. 149, H.R. 151, H.R. 159, H.R. 169, H.R. 174, H.R. 202, H.R. 233, H.R. 241, H.R. 244, H.R. 245, H.R. 246, H.R. 257, H.R. 300, H.R. 334, H.R. 354, H.R. 361, H.R. 365, H.R. 371, H.R. 391, H.R. 392, H.R. 394, H.R. 422, H.R. 488, H.R. 490, H.R. 504, H.R. 512, H.R. 520, H.R. 523, H.R. 532, H.R. 559, H.R. 604, H.R. 625, H.R. 628, H.R. 632, H.R. 637, H.R. 643, H.R. 644, H.R. 660, H.R. 673, H.R. 681, H.R. 683, H.R. 696, H.R. 721, H.R. 722, H.R. 739, H.R. 743, H.R. 747, H.R. 749, H.R. 771, H.R. 772
+
+```
+                          ADDITIONAL SPONSORS
+
+  Under clause 7 of rule XII, sponsors were added to public bills and 
+resolutions, as follows:
+
+       H.R. 38: Mr. Sam Johnson of Texas.
+       H.R. 44: Mr. Loebsack.
+       H.R. 60: Mr. Taylor, Miss Gonzalez-Colon of Puerto Rico, 
+     and Mr. Frelinghuysen.
+       H.R. 82: Mr. Sam Johnson of Texas.
+       H.R. 113: Mr. Kilmer, Mr. Ted Lieu of California, Mr. Smith 
+     of Washington, Mr. Cartwright, Mr. Sires, Mr. Brendan F. 
+     Boyle of Pennsylvania, Mr. Schiff, Mr. McNerney, and Mr. 
+     Foster.
+       H.R. 122: Mr. Cummings, Ms. Norton, Ms. Moore, Ms. Lee, Mr. 
+     Lewis of Georgia, Mr. Jeffries, and Mr. Veasey.
+       H.R. 125: Mrs. Carolyn B. Maloney of New York.
+       H.R. 149: Ms. Schakowsky, Mr. Ellison, Ms. Norton, Ms. Judy 
+     Chu of California, and Mr. Richmond.
+       H.R. 151: Mr. Cohen.
+       H.R. 159: Mr. Serrano.
+       H.R. 169: Mr. Smith of Washington.
+       H.R. 174: Mr. Smith of Nebraska.
+       H.R. 202: Ms. Meng.
+       H.R. 233: Mr. Cook.
+       H.R. 241: Mr. Byrne and Mr. Smith of Texas.
+       H.R. 244: Mr. Carter of Georgia and Mr. Gibbs.
+       H.R. 245: Ms. Gabbard and Mr. Carter of Texas.
+       H.R. 246: Mrs. Brooks of Indiana, Mr. Thomas J. Rooney of 
+     Florida, Mr. Budd, Mr. Wilson of South Carolina, Mr. Trott, 
+     Mr. Hunter, Ms. Kuster of New Hampshire, Mr. Thompson of 
+     Pennsylvania, Mr. Shimkus, and Mr. Goodlatte.
+       H.R. 257: Mr. Vargas.
+       H.R. 300: Mr. Smith of Nebraska.
+       H.R. 334: Ms. Jayapal.
+       H.R. 354: Mr. Rice of South Carolina.
+       H.R. 361: Mr. Gohmert.
+       H.R. 365: Mr. Tipton and Mr. Fortenberry.
+       H.R. 371: Ms. Eshoo, Mrs. Demings, Mr. Price of North 
+     Carolina, and Mr. Jeffries.
+       H.R. 391: Mr. Francis Rooney of Florida.
+       H.R. 392: Mr. Murphy of Pennsylvania, Mr. Perry, Mr. Ted 
+     Lieu of California; Mr. Cramer, Mr. Yoder, Mr. Sensenbrenner, 
+     Mr. Costello of Pennsylvania, Mr. McCaul, Mr. Costa, Mr. 
+     Pallone, Ms. Moore, Mrs. Brooks of Indiana, Mrs. McMorris 
+     Rodgers, and Mr. Cartwright.
+       H.R. 394: Mr. Huizenga, Ms. Sinema, Mr. Long, and Mr. 
+     DeFazio.
+       H.R. 422: Mr. Walker.
+       H.R. 488: Mrs. Torres.
+       H.R. 490: Mr. Babin.
+       H.R. 504: Miss Rice of New York and Mr. Jones.
+       H.R. 512: Mr. Brady of Pennsylvania.
+       H.R. 520: Mr. Culberson.
+       H.R. 523: Mr. Holding.
+       H.R. 532: Mr. Blumenauer, Ms. DeGette, Ms. DeLauro, Ms. 
+     DelBene, Mr. Gallego, Mr. Raskin, and Mr. Veasey.
+       H.R. 559: Mr. Kelly of Mississippi.
+       H.R. 604: Mr. Rogers of Alabama, Mrs. Black, Mr. Barton, 
+     Mr. Sam Johnson of Texas, and Mr. King of Iowa.
+       H.R. 625: Mr. Vela.
+       H.R. 628: Mr. Hultgren.
+       H.R. 632: Ms. Hanabusa, Mr. Massie, and Mr. Valadao.
+       H.R. 637: Mr. Budd, Mrs. Love, Mr. Conaway, Mr. McCaul, Mr. 
+     Mitchell, Mr. McClintock, Mr. Renacci, and Mr. Ross.
+       H.R. 643: Mr. King of Iowa.
+       H.R. 644: Mr. Collins of New York.
+       H.R. 660: Mr. McClintock.
+       H.R. 673: Mr. Gohmert, Mr. Jones, Mrs. Wagner, Mr. Abraham, 
+     and Mr. Latta.
+       H.R. 681: Mr. Smith of Missouri and Mr. Banks of Indiana.
+       H.R. 683: Mr. Cohen.
+       H.R. 696: Mr. Gallego, Ms. Brownley of California, Mr. 
+     McGovern, Mrs. Beatty, and Mr. Garamendi.
+       H.R. 721: Mr. Young of Alaska.
+       H.R. 722: Mr. Danny K. Davis of Illinois and Mr. Evans.
+       H.R. 739: Ms. McCollum, Mr. Gutierrez, and Mr. McGovern.
+       H.R. 743: Mr. Gosar.
+       H.R. 747: Ms. DelBene.
+       H.R. 749: Mr. Peterson.
+       H.R. 771: Mr. McEachin, Mr. Brady of Pennsylvania, Mr. 
+     Rush, and Ms. Bass.
+       H.R. 772: Mrs. Brooks of Indiana.
+       H.J. Res. 6: Mr. Zeldin and Mr. Mast.
+       H.J. Res. 17: Mr. Comer, Mr. Zeldin, and Mr. Barr.
+       H.J. Res. 19: Mr. Polis and Ms. Brownley of California.
+       H.J. Res, 27: Mr. Luetkemeyer and Mr. Allen.
+       H.J. Res. 36: Mr. Williams, Mr. Newhouse, Mr. Biggs, Mr. 
+     Bridenstine, Mr. Brat, Mr. Rothfus, and Mr. Arrington.
+       H.J. Res. 38: Mr. Newhouse, Mr. Yoho, Mr. Woodall, and Mr. 
+     Abraham.
+       H.J. Res. 43: Mr. Rokita, Mr. Collins of Georgia, Mr. 
+     Biggs, Mr. Carter of Georgia, Mr. Arrington, Mr. Emmer, Mr. 
+     Bishop of Utah, Mr. Bost, Mr. Brooks of Alabama, Mr. Byrne, 
+     Mr. Culberson, Mr. Newhouse, Mr. Fortenberry, Mr. Rice of 
+     South Carolina, Mr. Mitchell, Mr. Budd, Mr. Amash, Mr. 
+     Loudermilk, Mr. DeSantis, Mr. Rogers of Kentucky, and Mr. 
+     Thompson of Pennsylvania.
+       H.J. Res. 44: Mr. Young of Alaska, Mrs. Love, Mr. Newhouse, 
+     Mr. Biggs, and Mr. Chaffetz.
+       H.J. Res. 46: Mr. Cramer.
+       H.J. Res. 48: Mr. Beyer and Mr. Serrano.
+       H. Con. Res. 5: Ms. Lee.
+       H. Res. 23: Mr. Pocan and Mr. Grijalva.
+       H. Res. 28: Mr. Reed, Mr. Pascrell, Mrs. Beatty, Mr. 
+     Denham, Mr. Capuano, Mr. Meehan, and Mr. Thompson of 
+     California.
+       H. Res. 31: Mr. Thompson of California, Mr. Ted Lieu of 
+     California, Mr. Bilirakis, Ms. Norton, Mr. Richmond, Mr. 
+     DeFazio, Mr. Hastings, Mr. Johnson of Ohio, Ms. Lofgren, and 
+     Ms. McCollum.
+       H. Res. 35: Mr. DesJarlais.
+       H. Res. 38: Mr. Smith of Texas, Mrs. Blackburn, Mr. 
+     DeSantis, Mr. Sanford, Mr. Roe of Tennessee, Mr. Yoho, Mr. 
+     Barton, Mr. Lamborn, Mr. LaMalfa, Mr. Davidson, and Mr. King 
+     of Iowa.
+       H. Res. 61: Mr. Ellison.
+       H. Res. 72: Mr. King of New York.
+
+                          ____________________
+```
