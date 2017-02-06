@@ -1,0 +1,38 @@
+---
+granule: CRECB-2017-pt2-Pg1848-4
+date: 2017-02-06
+edition: CRECB
+section: HOUSE
+page: 1848
+---
+
+# HONORING COLONEL BYRON DEEL
+
+```
+                      HONORING COLONEL BYRON DEEL
+
+  (Mr. DesJARLAIS asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. DesJARLAIS. Mr. Speaker, I rise to honor Colonel Byron Deel, 
+Chief of the Joint Staff, Tennessee National Guard, who will be 
+retiring this week after 32 years of dedicated service.
+  Throughout his career, Byron has held numerous leadership roles with 
+a wide range of responsibilities. Whether it be his command of the 
+Joint Counterdrug Task Force or his current position as Chief of the 
+Joint Staff, Byron has exemplified a work ethic and a regard for others 
+that is second to none.
+  Colonel Deel's career includes two deployments: in 2001 to Bosnia and 
+in 2005 to Afghanistan. His exemplary service is reflected in the 
+numerous commendations he has received, including the Bronze Star and 
+the Tennessee National Guard Distinguished Service Medal, among a long 
+list of many others. It is also important to mention that his wife, 
+Mary Deel, whom Byron introduces as the ``better deal,'' serves in the 
+National Guard as the Education Services Officer.
+  On a personal note, Byron has been an invaluable resource for me and 
+my staff on issues that impact our guardsmen. While I am sorry that 
+Tennessee is losing an officer of such high caliber, I extend a 
+heartfelt thanks for his outstanding service and wish him the very best 
+in his retirement.
+
+                          ____________________
+```

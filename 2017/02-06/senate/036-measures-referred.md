@@ -1,0 +1,50 @@
+---
+granule: CRECB-2017-pt2-Pg2054-3
+date: 2017-02-06
+edition: CRECB
+section: SENATE
+page: 2054
+---
+
+# MEASURES REFERRED
+
+```
+                           MEASURES REFERRED
+
+  The following bills were read the first and the second times by 
+unanimous consent, and referred as indicated:
+
+       H.R. 337. An act to transfer administrative jurisdiction 
+     over certain Bureau of Land Management land from the 
+     Secretary of the Interior to the Secretary of Veterans 
+     Affairs for inclusion in the Black Hills National Cemetery, 
+     and for other purposes; to the Committee on Energy and 
+     Natural Resources.
+       H.R. 387. An act to amend title 18, United States Code, to 
+     update the privacy protections for electronic communications 
+     information that is stored by third-party service providers 
+     in order to protect consumer privacy interests while meeting 
+     law enforcement needs, and for other purposes; to the 
+     Committee on the Judiciary.
+       H.R. 494. An act to expand the boundary of Fort Frederica 
+     National Monument in the State of Georgia, and for other 
+     purposes; to the Committee on Energy and Natural Resources.
+       H.R. 618. An act to authorize, direct, expedite, and 
+     facilitate a land exchange in El Paso and Teller Counties, 
+     Colorado, and for other purposes; to the Committee on Energy 
+     and Natural Resources.
+       H.R. 688. An act to adjust the boundary of the Arapaho 
+     National Forest, Colorado, and for other purposes; to the 
+     Committee on Energy and Natural Resources.
+       H.R. 689. An act to insure adequate use and access to the 
+     existing Bolts Ditch headgate and ditch segment within the 
+     Holy Cross Wilderness in Eagle County, Colorado, and for 
+     other purposes; to the Committee on Energy and Natural 
+     Resources.
+       H.R. 698. An act to require a land conveyance involving the 
+     Elkhorn Ranch and the White River National Forest in the 
+     State of Colorado, and for other purposes; to the Committee 
+     on Energy and Natural Resources.
+
+                          ____________________
+```

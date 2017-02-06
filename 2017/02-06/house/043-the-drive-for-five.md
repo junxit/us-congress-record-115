@@ -1,0 +1,37 @@
+---
+granule: CRECB-2017-pt2-Pg1850
+date: 2017-02-06
+edition: CRECB
+section: HOUSE
+page: 1850
+---
+
+# THE DRIVE FOR FIVE
+
+```
+                           THE DRIVE FOR FIVE
+
+  (Ms. KUSTER of New Hampshire asked and was given permission to 
+address the House for 1 minute.)
+  Ms. KUSTER of New Hampshire. Mr. Speaker, I rise today because the 
+Drive for Five is complete. I want to join New England in 
+congratulating our New England Patriots on their incredible victory in 
+Super Bowl LI. Fans across the Granite State agree that Super Bowl LI 
+will go down in history as one of the most amazing comebacks of all 
+time, and it cements the legacy of Tom Brady and Bill Belichick as the 
+greatest quarterback-coach duo ever.
+  The game was remarkable for team effort. After finding themselves 
+down by 25 points, the Patriots did not fall victim to despair. They, 
+instead, showed true resolve and perseverance as the offense executed 
+drive after drive and the defense held the powerful Atlanta offense in 
+check.
+  Whether it was the record 14 catches by James White, the record 466 
+passing yards by Tom Brady, the forced fumble by Dont'a Hightower, the 
+mind-boggling catch by Julian Edelman, or the coaching of Bill 
+Belichick, everyone did their part.
+  So let me take a moment, Mr. Speaker, to say to the New England 
+Patriots: Thanks for doing your job.
+  Congrats, Pats.
+
+                          ____________________
+```
