@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-02-06-pt1-PgH980
+date: 2017-02-06
+edition: CREC
+section: HOUSE
+page: H980
+citation: 163 Cong. Rec. H980
+---
+
+# NOAA BETRAYED THE AMERICAN PEOPLE
+
+**Speaking:** Smith, Lamar (S000583) [R-TX]
+
+```
+                   NOAA BETRAYED THE AMERICAN PEOPLE
+
+  (Mr. SMITH of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. SMITH of Texas. Mr. Speaker, a whistleblower has charged that the 
+National Oceanic and Atmospheric Administration falsified data in a 
+study that attempted to disprove the widely accepted 15-year halt in 
+global warming. This was done in an effort to garner public support for 
+the Obama administration's Clean Power Plan and the United Nations' 
+Paris climate agreement.
+  NOAA's officials suppressed internal debate about the study and 
+actively obstructed the House Science Committee's investigations of 
+concerns about the data. However, one brave scientist decided to step 
+forward and blow the whistle on NOAA.
+  According to Dr. John Bates, NOAA put its thumb on the scale to 
+justify their predetermined conclusions and support the President's 
+agenda, even if that meant violating their own scientific integrity 
+rules.
+  The Science Committee will continue to investigate this scandal. 
+Americans have a right to unbiased science.
+  We can thank Dr. Bates for his heroic act and for having the courage 
+to step forward in the face of the liberal media's smear campaigns.
+
+                          ____________________
+```

@@ -1,0 +1,55 @@
+---
+granule: CREC-2017-02-06-pt1-PgS746
+date: 2017-02-06
+edition: CREC
+section: SENATE
+page: S746
+citation: 163 Cong. Rec. S746
+---
+
+# SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+**Measures:** S.Res. 48, S.Res. 49, S.Res. 50, S.Res. 51, S.Res. 52
+
+```
+            SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+  The following concurrent resolutions and Senate resolutions were 
+read, and referred (or acted upon), as indicated:
+
+           By Mr. BURR:
+       S. Res. 48. An original resolution authorizing expenditures 
+     by the Select Committee on Intelligence; from the Select 
+     Committee on Intelligence; to the Committee on Rules and 
+     Administration.
+           By Ms. COLLINS (for herself and Ms. Klobuchar):
+       S. Res. 49. A resolution declaring that achieving the 
+     primary goal of the National Plan to Address Alzheimer's 
+     Disease of the Department of Health and Human Services to 
+     prevent and effectively treat Alzheimer's disease by 2025 is 
+     an urgent national priority; to the Committee on Health, 
+     Education, Labor, and Pensions.
+           By Mr. CARDIN (for himself, Mr. Alexander, Mr. Markey, 
+             Mr. Rubio, Mr. Durbin, Mrs. Shaheen, Mr. Coons, Mr. 
+             Schatz, Mr. Booker, and Mr. Blunt):
+       S. Res. 50. A resolution reaffirming a strong commitment to 
+     the United States-Australia alliance relationship; to the 
+     Committee on Foreign Relations.
+           By Ms. HIRONO (for herself, Mr. Brown, Mr. Cardin, Mr. 
+             Van Hollen, Mr. Blumenthal, Mr. Booker, Mr. Markey, 
+             Ms. Warren, Mr. Carper, Mr. Franken, Mrs. Murray, and 
+             Ms. Cantwell):
+       S. Res. 51. A resolution recognizing the contributions of 
+     Federal employees and pledging to oppose efforts to reduce 
+     Federal workforce pay and benefits, eliminate civil service 
+     employment protections, undermine collective bargaining, and 
+     increase the use of non-Federal contractors for inherently 
+     governmental activities; to the Committee on Homeland 
+     Security and Governmental Affairs.
+           By Mr. HATCH:
+       S. Res. 52. An original resolution authorizing expenditures 
+     by the Committee on Finance; from the Committee on Finance; 
+     to the Committee on Rules and Administration.
+
+                          ____________________
+```
