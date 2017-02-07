@@ -1,0 +1,37 @@
+---
+granule: CRECB-2017-pt2-Pg2222-6
+date: 2017-02-07
+edition: CRECB
+section: HOUSE
+page: 2222
+---
+
+# SERVING THE NEEDS OF VETERANS WITH SNAP
+
+```
+                SERVING THE NEEDS OF VETERANS WITH SNAP
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to speak on 
+behalf of the veterans that have made incredible sacrifices for our 
+country. Our Nation must ensure that they have access to resources that 
+they need to be successful in civilian life. This certainly includes 
+access to nutritious food.
+  Out of the 22 million veterans in the United States, about 1.7 
+million are in households that currently participate in the 
+Supplemental Nutrition Assistance Program, or SNAP. Approximately 46 
+percent of our veterans are senior citizens, including those who served 
+in World War II, Korea, or Vietnam.
+  Veterans of all ages may also have widely varying levels of 
+disabilities or limitations. Veteran advocacy groups are focused on 
+obtaining a veteran's earned benefits. Often veterans are not connected 
+to SNAP right away and they should be.
+  As the Agriculture Committee prepares to reauthorize SNAP, we must 
+remain vigilant in our dedication to serve those who have given so much 
+in defense of our Nation. SNAP cannot solve all of the challenges a 
+veteran faces, but it can be a vital component of serving eligible 
+veterans once they return home.
+
+                          ____________________
+```
