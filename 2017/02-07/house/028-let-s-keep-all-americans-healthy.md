@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-02-07-pt1-PgH1021-5
+date: 2017-02-07
+edition: CREC
+section: HOUSE
+page: H1021
+citation: 163 Cong. Rec. H1021
+---
+
+# LET'S KEEP ALL AMERICANS HEALTHY
+
+**Speaking:** Watson Coleman, Bonnie (W000822) [D-NJ]
+
+```
+                              {time}  1215
+                    LET'S KEEP ALL AMERICANS HEALTHY
+
+  (Mrs. WATSON COLEMAN asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. WATSON COLEMAN. Mr. Speaker, I rise this afternoon because I am 
+appalled by President Trump and my Republican colleagues' attacks on 
+the health of Americans. My Republican colleagues have spent 6 years 
+disparaging the Affordable Care Act from its very inception, describing 
+it as a ``death spiral,'' ``failure,'' and ``collapsing,'' but zero 
+time offering up any viable alternative.
+  After 6 years of hollow grandstanding, Republicans now face the clear 
+realization that repealing the Affordable Care Act will dump massive 
+costs on families and businesses, blow a hole in the Federal budget, 
+and strip coverage for more than 30 million Americans.
+  New Jersey has been a positive example of ACA implementation. Since 
+enactment, Medicaid expansion through ACA has insured more than 700,000 
+middle-income New Jersey residents who couldn't previously afford it. 
+The uninsured rate in New Jersey dropped from 13.2 percent in 2013 to 
+8.7 percent in 2015.
+  Mr. Speaker, these are positive trends, but President Trump and 
+Republicans in Washington callously disregard these facts so they can 
+live up to their reckless promises. I hope that they will see the 
+wisdom in their mistake and make sure that we keep all Americans 
+healthy.
+
+                          ____________________
+```

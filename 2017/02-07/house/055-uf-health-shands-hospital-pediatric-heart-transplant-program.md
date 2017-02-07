@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-02-07-pt1-PgH1059
+date: 2017-02-07
+edition: CREC
+section: HOUSE
+page: H1059
+citation: 163 Cong. Rec. H1059
+---
+
+# UF HEALTH SHANDS HOSPITAL PEDIATRIC HEART TRANSPLANT PROGRAM
+
+**Speaking:** Yoho, Ted S. (Y000065) [R-FL]
+
+```
+      UF HEALTH SHANDS HOSPITAL PEDIATRIC HEART TRANSPLANT PROGRAM
+
+  (Mr. YOHO asked and was given permission to address the House for 1 
+minute.)
+  Mr. YOHO. Mr. Speaker, I rise today to recognize the University of 
+Florida's UF Health Shands Hospital pediatric heart transplant program 
+for being named one of the best in the Nation. According to the 
+Scientific Registry of Transplant Recipients, this unit has had zero 
+pediatric heart transplant deaths in the last 2\1/2\ years.
+  Since 2006, the UF Health Shands Transplant Center has performed a 
+total of 120 pediatric heart and lung transplants, making it one of the 
+most active pediatric heart transplant programs in the Southeast. In 
+fact, in the last year, U.S. News and World Report named UF Health 
+number one in the State and fourth in the Nation for pediatric heart 
+surgeries and cardiology. This recognition speaks volumes about the 
+level of care shown by the physicians and their teams at UF Health, and 
+I look forward to watching them continue to be a leader in patient care 
+and innovation in the coming years.
+  I must end with Go Gators.
+
+                          ____________________
+```

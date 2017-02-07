@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-02-07-pt1-PgE164
+date: 2017-02-07
+edition: CREC
+section: EXTENSIONS
+page: E164
+citation: 163 Cong. Rec. E164
+---
+
+# RECOGNIZING THE POLISH LEGION MOTORCYCLE RIDING CLUB
+
+**Speaking:** Fitzpatrick, Brian K. (F000466) [R-PA]
+
+```
+          RECOGNIZING THE POLISH LEGION MOTORCYCLE RIDING CLUB
+
+                                 ______
+                                 
+
+                       HON. BRIAN K. FITZPATRICK
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                       Tuesday, February 7, 2017
+
+  Mr. FITZPATRICK. Mr. Speaker, I rise today to recognize the Polish 
+Legion Motorcycle Riding Club. Since 2011 this organization has brought 
+together members of our community of all ages who share a passion for 
+riding motorcycles. I would like to give special recognition to the 
+group's President, Szymon Moskal. Millions of citizens in the United 
+States own and ride motorcycles, making ridership as much a part of our 
+identity as baseball or apple pie. The Polish Legion Motorcycle Riding 
+Club continues the proud tradition of motorcycle ridership and 
+enthusiasm found in my district, and across our great nation. It is my 
+privilege to assist them during their trip to our nation's capital.
+
+                          ____________________
+```
