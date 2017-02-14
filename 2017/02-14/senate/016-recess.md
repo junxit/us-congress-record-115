@@ -1,0 +1,22 @@
+---
+granule: CREC-2017-02-14-pt1-PgS1149
+date: 2017-02-14
+edition: CREC
+section: SENATE
+page: S1149
+citation: 163 Cong. Rec. S1149
+---
+
+# RECESS
+
+```
+                                 RECESS
+
+  The PRESIDING OFFICER. Under the previous order, the Senate stands in 
+recess until 2:15 p.m.
+  Thereupon, the Senate, at 12:37 p.m., recessed until 2:15 p.m. and 
+reassembled when called to order by the President Officer (Mr. Portman 
+Presiding).
+
+                          ____________________
+```

@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-02-14-pt1-PgH1160-2
+date: 2017-02-14
+edition: CREC
+section: HOUSE
+page: H1160
+citation: 163 Cong. Rec. H1160
+---
+
+# PROVIDING FOR A JOINT SESSION OF CONGRESS TO RECEIVE A MESSAGE FROM THE PRESIDENT
+
+**Speaking:** Burgess, Michael C. (B001248) [R-TX]
+
+**Measures:** H.Con.Res. 23
+
+```
+PROVIDING FOR A JOINT SESSION OF CONGRESS TO RECEIVE A MESSAGE FROM THE 
+                               PRESIDENT
+
+  Mr. BURGESS. Mr. Speaker, I send to the desk a privileged concurrent 
+resolution and ask for its immediate consideration.
+  The Clerk read the concurrent resolution, as follows:
+
+                            H. Con. Res. 23
+
+       Resolved by the House of Representatives (the Senate 
+     concurring), That the two Houses of Congress assemble in the 
+     Hall of the House of Representatives on Tuesday, February 28, 
+     2017, at 9 p.m., for the purpose of receiving such 
+     communication as the President of the United States shall be 
+     pleased to make to them.
+
+  The concurrent resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
