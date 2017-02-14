@@ -1,0 +1,38 @@
+---
+granule: CRECB-2017-pt2-Pg2524-6
+date: 2017-02-14
+edition: CRECB
+section: HOUSE
+page: 2524
+---
+
+# VOTE AGAINST EXECUTIVE OVERREACH
+
+```
+                    VOTE AGAINST EXECUTIVE OVERREACH
+
+  (Mr. MARCHANT asked and was given permission to address the House for 
+1 minute.)
+  Mr. MARCHANT. Mr. Speaker, at the 11th hour, the Obama 
+administration's Labor Department issued a rule that stonewalled 
+bipartisan changes to the unemployment insurance program. These changes 
+were made so that tax dollars would be used in a more efficient and 
+more effective manner.
+  It has been 5 years since Congress passed legislation giving the 
+States the discretion on drug-testing policy for unemployment 
+applicants. Using delay tactics, the previous administration prevented 
+that law from ever being implemented as designed.
+
+[[Page 2525]]
+
+  This kind of executive overreach impedes the ability of States to 
+ensure that the unemployment insurance program accomplishes its 
+intended purpose, and that is to promote reemployment.
+  In Texas, we take the job of fiscal responsibility very seriously. 
+This week, Congress is responding to that overreach by the previous 
+administration. We hope that Congress will take that responsibility 
+very seriously. I urge my colleagues to vote against the executive 
+overreach and to vote for H.J. Res. 42.
+
+                          ____________________
+```

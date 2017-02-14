@@ -1,0 +1,33 @@
+---
+granule: CRECB-2017-pt2-Pg2525-3
+date: 2017-02-14
+edition: CRECB
+section: HOUSE
+page: 2525
+---
+
+# REAUTHORIZATION OF THE ELECTION ASSISTANCE COMMISSION
+
+```
+         REAUTHORIZATION OF THE ELECTION ASSISTANCE COMMISSION
+
+  (Mr. CLYBURN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. CLYBURN. Mr. Speaker, I am proud to cosponsor H.R. 794, which 
+will reauthorize the Election Assistance Commission until 2022, provide 
+payments to the States to upgrade the security of voter registration 
+databases, and require an assessment of each State's voting systems.
+  Foreign hackers targeted the voter registration databases in more 
+than 20 States in 2016. Candidate Trump encouraged hackers to target 
+his opponent. He won the election and continues to cozy up to Russia.
+  And now, House Republics are moving to eliminate the EAC, a key force 
+in combating foreign cybersecurity attacks against our democracy.
+  ``What do you have to lose?'' candidate Trump asked. Try free and 
+fair elections, Mr. Speaker.
+  I urge my Republic colleagues to put country before party and stand 
+up for American democracy. Stop trying to suppress minority voters. 
+Support an independent commission to investigate Russian meddling in 
+our election.
+
+                          ____________________
+```

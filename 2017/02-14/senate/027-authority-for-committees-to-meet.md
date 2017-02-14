@@ -1,0 +1,51 @@
+---
+granule: CRECB-2017-pt2-Pg2515
+date: 2017-02-14
+edition: CRECB
+section: SENATE
+page: 2515
+---
+
+# AUTHORITY FOR COMMITTEES TO MEET
+
+```
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+  Mr. THUNE. Mr. President, I have four requests for committees to meet 
+during today's session of the Senate. They have the approval of the 
+Majority and Minority leaders.
+  Pursuant to Rule XXVI, paragraph 5(a), of the Standing Rules of the 
+Senate, the following committees are authorized to meet during today's 
+session of the Senate:
+
+
+                      COMMITTEE ON ARMED SERVICES
+
+  The Committee on Armed Services is authorized to meet during the 
+session of the Senate on Tuesday, February 14, 2017, at 9:30 a.m.
+
+
+            COMMITTEE ON BANKING, HOUSING, AND URBAN AFFAIRS
+
+  The Committee on Banking, Housing, and Urban Affairs is authorized to 
+meet during the session of the Senate on February 14, 2017, at 10 a.m., 
+in order to conduct a hearing entitled ``The Semiannual Monetary Policy 
+Report to Congress.''
+
+
+                    SELECT COMMITTEE ON INTELLIGENCE
+
+  The Senate Select Committee on Intelligence is authorized to meet 
+during the session of the 115th Congress of the U.S. Senate on Tuesday, 
+February 14, 2017, from 2 p.m. to 3:30 p.m., in room SH-219 of the 
+Senate Hart Office Building.
+
+
+                       SUBCOMMITTEE ON PERSONNEL
+
+  The Subcommittee on Personnel of the Committee on Armed Services is 
+authorized to meet during the session of the Senate on Tuesday, 
+February 14, 2017, at 2:30 p.m.
+
+                          ____________________
+```
