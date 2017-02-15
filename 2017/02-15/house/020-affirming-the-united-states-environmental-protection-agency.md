@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-02-15-pt1-PgH1191-2
+date: 2017-02-15
+edition: CREC
+section: HOUSE
+page: H1191
+citation: 163 Cong. Rec. H1191
+---
+
+# AFFIRMING THE UNITED STATES ENVIRONMENTAL PROTECTION AGENCY
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+      AFFIRMING THE UNITED STATES ENVIRONMENTAL PROTECTION AGENCY
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Mr. Speaker, I rise to affirm the great work 
+of the United States Environmental Protection Agency.
+  In my home community of Buffalo, New York, we have seen the EPA's 
+effectiveness firsthand. Thirty years ago, the Buffalo River was 
+declared biologically dead and ecologically destroyed because of 
+industrial dumping of toxic waste directly into the river bed. Today, 
+the Buffalo River has been remediated and continues to show vastly 
+improved water quality.
+  The Great Lakes Restoration Initiative, administered by the EPA; the 
+Buffalo Niagara Riverkeeper; and our corporate partner, Honeywell, have 
+invested more than $70 million to remove 67,000 truckloads of toxic 
+waste from the Buffalo River.
+  Today, the Buffalo River and adjacent land are helping to lead an 
+economic and life-quality renaissance at the water's edge in Buffalo, 
+New York.
+
+                          ____________________
+```

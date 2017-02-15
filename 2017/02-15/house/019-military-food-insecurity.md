@@ -1,0 +1,44 @@
+---
+granule: CREC-2017-02-15-pt1-PgH1191
+date: 2017-02-15
+edition: CREC
+section: HOUSE
+page: H1191
+citation: 163 Cong. Rec. H1191
+---
+
+# MILITARY FOOD INSECURITY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                        MILITARY FOOD INSECURITY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, the House Agriculture 
+Committee has been focused on the issue of food insecurity and the 
+programs that serve those in need beyond personal resources, family 
+support, and community programs.
+  Many are surprised to learn that 22,000 Active Duty military families 
+receive supplemental nutritional assistance, or SNAP. Food insecurity 
+for the families of these American heroes can be triggered by low pay 
+among lower-ranking enlistees, high military spouse unemployment, 
+larger household sizes, and unexpected financial emergencies.
+  We lifted one barrier to SNAP assistance for military families by 
+disbanding the Department of Defense-administered Family Subsistence 
+Supplemental Allowance, or FSSA. It was determined that the FSSA 
+benefit was duplicative, underutilized, hard to qualify for, and less 
+valuable than SNAP, with as few as 100 military families utilizing 
+FSSA.
+  Another significant barrier that prevents some military families from 
+qualifying for SNAP is the fact that their off-base housing allowance 
+counts as income when computing eligibility. It is my hope we remedy 
+this.
+  Mr. Speaker, as we prepare for reauthorization of the Supplemental 
+Nutrition Assistance Program, we must remember the needs of America's 
+finest and their families, our American military. After all, nutrition 
+matters.
+
+                          ____________________
+```

@@ -1,0 +1,43 @@
+---
+granule: CREC-2017-02-15-pt1-PgH1192-2
+date: 2017-02-15
+edition: CREC
+section: HOUSE
+page: H1192
+citation: 163 Cong. Rec. H1192
+---
+
+# INHUMANE HUNTING TECHNIQUES ON WILDLIFE REFUGES IN ALASKA
+
+**Speaking:** Titus, Dina (T000468) [D-NV]
+
+**Measures:** H.J.Res. 69
+
+```
+       INHUMANE HUNTING TECHNIQUES ON WILDLIFE REFUGES IN ALASKA
+
+  (Ms. TITUS asked and was given permission to address the House for 1 
+minute.)
+  Ms. TITUS. Mr. Speaker, so far, in 2017, Donald Trump and the 
+Republicans have targeted women, immigrants, and health care. Now they 
+are setting their sights on bear cubs, wolves, and coyotes.
+  Republicans, in cahoots with the gun lobby and with trophy hunters, 
+want to eliminate a rule that currently prohibits hunters from using 
+brutal means to kill our majestic animals in Alaska's 16 wildlife 
+refuges.
+  This rule prevents snaring and trapping bears, including cubs, 
+hunting wolves in their dens, and shooting bears from helicopters, 
+among other methods.
+  Now, those opposed to the rule say that it hurts Alaska's economy, 
+but there is no evidence of that. In fact, big game hunting represents 
+only 2 percent of wildlife-related recreation on our national wildlife 
+refuges.
+  Meanwhile, the National Park Service has estimated that wildlife 
+watchers, those who go to see wildlife, not to shoot them, contribute 
+$1 billion to the State's economy.
+  I ask you: Is a trophy on the wall really worth it?
+  So please vote ``no'' on H.J. Res. 69 introduced by our colleague, 
+Mr. Young.
+
+                          ____________________
+```
