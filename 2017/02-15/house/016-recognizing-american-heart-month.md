@@ -1,0 +1,33 @@
+---
+granule: CRECB-2017-pt2-Pg2649-8
+date: 2017-02-15
+edition: CRECB
+section: HOUSE
+page: 2649
+---
+
+# RECOGNIZING AMERICAN HEART MONTH
+
+```
+                    RECOGNIZING AMERICAN HEART MONTH
+
+  (Ms. ROS-LEHTINEN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. ROS-LEHTINEN. Mr. Speaker, as our Nation celebrates American 
+Heart Month, I want to highlight the groups and individuals working to 
+ensure that south Florida is filled with healthy hearts.
+  Organizations like the Ft. Lauderdale-Miami chapter of the American 
+Heart Association work tirelessly every day to raise awareness and 
+support patients, as well as caregivers. The members will be hosting 
+the Miami Heart and Stroke Ball to help fund lifesaving research and 
+prevention programs in our community.
+  I would also like to recognize the medical researchers, the doctors, 
+and the nurses at the Miami Cardiac and Vascular Institute and so many 
+other medical centers that are working to pioneer innovative treatments 
+that save lives in south Florida every day.
+  This American Heart Month, let us unite as a community to promote 
+exercise, healthy eating habits, and frequent checkups to ensure that 
+south Florida is heart-healthy throughout the entire year.
+
+                          ____________________
+```
