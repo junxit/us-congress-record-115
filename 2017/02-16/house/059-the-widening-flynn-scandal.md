@@ -1,0 +1,44 @@
+---
+granule: CREC-2017-02-16-pt1-PgH1281
+date: 2017-02-16
+edition: CREC
+section: HOUSE
+page: H1281
+citation: 163 Cong. Rec. H1281
+---
+
+# THE WIDENING FLYNN SCANDAL
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                       THE WIDENING FLYNN SCANDAL
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, are we witnessing the first Manchurian 
+presidency in the history of the United States?
+  This resignation of President Trump's National Security Adviser, 
+Michael Flynn, has done nothing to end the controversy surrounding the 
+administration's relationship with Russia. I am calling for an 
+independent investigation into Flynn's actions.
+  The White House knew for weeks that Flynn misled about his secret 
+communications with the Russian Ambassador, but apparently that was not 
+a problem for the Trump administration as long as it was hidden from 
+the public.
+  Did the White House authorize Flynn's secret communications? Did the 
+President? Why wasn't Flynn gone sooner?
+  We don't know yet the answers to these and other questions. What we 
+do know is that the Trump administration is not prepared to protect 
+this Nation.
+  For all their talk of national security, Republicans are giving 
+President Trump a pass. An independent investigation into Flynn's 
+actions is needed. The investigation must determine if improper 
+relationships between the Trump administration and the Russian 
+Government exist.
+  Mr. Speaker, the American people are demanding to know, and they 
+deserve to know just how tight Russia's grip is on the Trump 
+administration.
+
+                          ____________________
+```

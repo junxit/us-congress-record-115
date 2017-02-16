@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-02-16-pt1-PgH1259-4
+date: 2017-02-16
+edition: CREC
+section: HOUSE
+page: H1259
+citation: 163 Cong. Rec. H1259
+---
+
+# WE DESERVE TO KNOW
+
+**Speaking:** Ruppersberger, C. A. Dutch (R000576) [D-MD]
+
+```
+                           WE DESERVE TO KNOW
+
+  (Mr. RUPPERSBERGER asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. RUPPERSBERGER. Mr. Speaker, we live in a dangerous world, and the 
+President needs a National Security Adviser who isn't under a cloud of 
+suspicion. But this resignation isn't the end. Americans now deserve to 
+know if General Flynn was operating under anyone else's authority.
+  The American people deserve to know if Russia has financial, 
+personal, or political grip on President Trump or his campaign. I am 
+urging the agencies involved in the investigation to continue their 
+important work vigorously.
+  I also ask my colleagues in House leadership to launch a bipartisan, 
+independent congressional investigation into Russia's influence on the 
+election and the new administration.
+  Lastly, I once again am calling on President Trump to remove his 
+cheap political strategist, Steve Bannon, from the National Security 
+Council and reinstate the Director of National Intelligence and the 
+Chairman of the Joint Chiefs of Staff to restore some semblance of 
+respectability to the organization's structure.
+
+                          ____________________
+```

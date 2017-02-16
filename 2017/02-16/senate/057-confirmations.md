@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-02-16-pt1-PgS1313-4
+date: 2017-02-16
+edition: CREC
+section: SENATE
+page: S1313
+citation: 163 Cong. Rec. S1313
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate February 16, 2017:
+
+
+                   EXECUTIVE OFFICE OF THE PRESIDENT
+
+       MICK MULVANEY, OF SOUTH CAROLINA, TO BE DIRECTOR OF THE 
+     OFFICE OF MANAGEMENT AND BUDGET.
+
+
+                              IN THE ARMY
+
+       ARMY NOMINATIONS BEGINNING WITH JEREMY D. KARLIN AND ENDING 
+     WITH IRAHAM A. SANCHEZ, WHICH NOMINATIONS WERE RECEIVED BY 
+     THE SENATE AND APPEARED IN THE CONGRESSIONAL RECORD ON 
+     JANUARY 9, 2017.
+
+
+                              IN THE NAVY
+
+       NAVY NOMINATION OF MATHEW M. LEWIS, TO BE LIEUTENANT 
+     COMMANDER.
+```

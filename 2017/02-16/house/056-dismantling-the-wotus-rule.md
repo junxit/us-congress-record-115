@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-02-16-pt1-PgH1280-4
+date: 2017-02-16
+edition: CREC
+section: HOUSE
+page: H1280
+citation: 163 Cong. Rec. H1280
+---
+
+# DISMANTLING THE WOTUS RULE
+
+**Speaking:** Allen, Rick W. (A000372) [R-GA]
+
+```
+                              {time}  1530
+                       DISMANTLING THE WOTUS RULE
+
+  (Mr. ALLEN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ALLEN. Mr. Speaker, waters of the United States, or WOTUS, has 
+been a thorn in the side of Americans, especially our farmers, since 
+its introduction. WOTUS is a rule issued under the Clean Water Act by 
+the EPA and Army Corps of Engineers designed to redefine the scope of 
+waters protected and regulated by the Federal Government.
+  WOTUS would grant the Federal Government regulatory power over 
+virtually any place where water flows in the United States; that 
+includes ditches, puddles, streams, or any manmade constructions, you 
+name it. If enacted, it would undermine the rights of States, local 
+governments and landowners, and create more red tape, preventing 
+economic growth and jobs, particularly in the agriculture industry. If 
+it sounds ridiculous, that is because it is.
+  WOTUS was flawed from the beginning. It has been held up in the 
+courts since 2015.
+  To ensure WOTUS never sees the light of day and completely eliminate 
+the potential of it becoming a reality, I introduced legislation to 
+repeal this harmful rule.
+  I look forward to working with President Trump and my colleagues on 
+this very important issue.
+
+                          ____________________
+```

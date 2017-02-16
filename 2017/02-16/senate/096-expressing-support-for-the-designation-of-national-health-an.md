@@ -1,0 +1,43 @@
+---
+granule: CREC-2017-02-16-pt2-PgS1416-4
+date: 2017-02-16
+edition: CREC
+section: SENATE
+page: S1416
+citation: 163 Cong. Rec. S1416
+---
+
+# EXPRESSING SUPPORT FOR THE DESIGNATION OF "NATIONAL HEALTH AND WELLNESS COACH RECOGNITION WEEK"
+
+**Speaking:** Cornyn, John (C001056) [R-TX]
+
+**Measures:** S.Res. 67
+
+```
+    EXPRESSING SUPPORT FOR THE DESIGNATION OF ``NATIONAL HEALTH AND 
+                   WELLNESS COACH RECOGNITION WEEK''
+
+  Mr. CORNYN. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of S. Res. 67, submitted earlier 
+today.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The senior assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 67) expressing support for health and 
+     wellness coaches for the designation of February 13, 2017, 
+     through February 19, 2017, as ``National Health and Wellness 
+     Coach Recognition Week.''
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. CORNYN. I ask unanimous consent that the resolution be agreed to, 
+the preamble be agreed to, and the motions to reconsider be considered 
+made and laid upon the table with no intervening action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 67) was agreed to.
+  The preamble was agreed to.
+  (The resolution, with its preamble, is printed in today's Record 
+under ``Submitted Resolutions.'')
+
+                          ____________________
+```

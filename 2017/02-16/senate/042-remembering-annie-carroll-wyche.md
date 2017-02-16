@@ -1,0 +1,46 @@
+---
+granule: CREC-2017-02-16-pt1-PgS1301-3
+date: 2017-02-16
+edition: CREC
+section: SENATE
+page: S1301
+citation: 163 Cong. Rec. S1301
+---
+
+# REMEMBERING ANNIE CARROLL WYCHE
+
+**Speaking:** Murkowski, Lisa (M001153) [R-AK]
+
+```
+                    REMEMBERING ANNIE CARROLL WYCHE
+
+● Ms. MURKOWSKI. Mr. President, when I am home in Anchorage this 
+weekend, I plan to attend the grand opening of Roscoe's Food for the 
+Soul Restaurant at the Aviator Hotel. Last December, the Alaska 
+Dispatch News noted that the name Roscoe's has been synonymous in 
+Anchorage with soul food for decades. The original Roscoe's was a 
+father and son enterprise. Roscoe Wyche, Jr., opened the restaurant on 
+Government Hill with his son Roscoe Wyche III in 1988. Roscoe's Food 
+for the Soul continues the family tradition. It is a partnership of 
+Roscoe Wyche III, now 56, and his son, Roscoe Wyche IV, who goes by the 
+moniker ``Roc.'' Roscoe III told the Alaska Dispatch News that he was 
+passing the torch just like his dad did--a very sweet story.
+  But this weekend's opening will be a tad bittersweet. The matriarch 
+of the
+
+[[Page S1302]]
+
+family, Annie Carroll Wyche, Roscoe's mother and Roc's grandmother, 
+passed away on January 18, 2017. Ms. Carol, as she was known, was an 
+entrepreneur in her own right. A native of Thomasville, GA, Ms. Carol 
+came to Anchorage with her late husband, Roscoe Wyche, Jr., who served 
+in the Air Force. Shortly after his retirement, they formed two beauty 
+businesses. Top of the Hill Beauty Salon and Top of the Line Beauty 
+Supply. That was Ms. Carol's domain. Ms. Carol was also a partner in 
+her husband's restaurants. Ms. Carol is remembered for a beautiful 
+spirit, which showed in her smile. She leaves behind a large family. 
+There is no doubt that her entrepreneurial spirit lives on in Roscoe's 
+Food for the Soul.●
+
+                          ____________________
+```

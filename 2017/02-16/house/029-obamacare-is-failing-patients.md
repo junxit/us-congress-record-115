@@ -1,0 +1,47 @@
+---
+granule: CREC-2017-02-16-pt1-PgH1256-6
+date: 2017-02-16
+edition: CREC
+section: HOUSE
+page: H1256
+citation: 163 Cong. Rec. H1256
+---
+
+# OBAMACARE IS FAILING PATIENTS
+
+**Speaking:** Bucshon, Larry (B001275) [R-IN]
+
+```
+                     OBAMACARE IS FAILING PATIENTS
+
+  (Mr. BUCSHON asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+
+[[Page H1257]]
+
+  
+
+  Mr. BUCSHON. Mr. Speaker, many of us have come here to the floor to 
+share with the country and our colleagues statistics and data 
+demonstrating how ObamaCare is failing patients. We have shown the 
+numbers related to skyrocketing premiums and deductibles and reduction 
+of patient choice.
+  Today, I want to share what my constituents are saying about their 
+firsthand experiences with ObamaCare. From comments we have received:
+  My deductible went from $250 to $2,500.
+  Our deductible skyrocketed to double the amount we were paying. Plus, 
+it provided fewer options.
+  Our premiums have skyrocketed. We had few options from plans. We had 
+to switch doctors.
+  We own a pharmacy. We see many with high premiums who can't afford 
+the very things they need.
+  Cost of insurance keeps going up. It has never gone down.
+  I don't have insurance. It is too expensive, and I have kids to feed.
+  Mr. Speaker, the status quo under ObamaCare is unacceptable. It would 
+be irresponsible and unethical not to act.
+  Our plan, House Republicans, will bring families relief by repealing 
+and replacing the Affordable Care Act with reforms that lower costs and 
+expand access to quality affordable health care to all of our citizens.
+
+                          ____________________
+```
