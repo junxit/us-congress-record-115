@@ -1,0 +1,38 @@
+---
+granule: CRECB-2017-pt2-Pg3005-11
+date: 2017-02-21
+edition: CRECB
+section: HOUSE
+page: 3005
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. CHAFFETZ: Committee on Oversight and Government Reform. 
+     H.R. 998. A bill to provide for the establishment of a 
+     process for the review of rules and sets of rules, and for 
+     other purposes (Rept. 115-14, Pt. 1). Referred to the 
+     Committee of the Whole House on the state of the Union.
+       Mr. CHAFFETZ: Committee on Oversight and Government Reform. 
+     H.R. 1004. A bill to amend chapter 3 of title 5, United 
+     States Code, to require the publication of information 
+     relating to pending agency regulatory actions, and for other 
+     purposes (Rept. 115-15). Referred to the Committee of the 
+     Whole House on the state of the Union.
+
+
+                         discharge of committee
+
+  Pursuant to clause 2 of rule XIII, the Committee on the Judiciary 
+discharged from further consideration. H.R. 998 referred to the 
+Committee of the Whole House on the state of the Union.
+
+                          ____________________
+```
