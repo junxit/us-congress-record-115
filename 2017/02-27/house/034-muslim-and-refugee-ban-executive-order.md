@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-02-27-pt1-PgH1341
+date: 2017-02-27
+edition: CREC
+section: HOUSE
+page: H1341
+citation: 163 Cong. Rec. H1341
+---
+
+# MUSLIM AND REFUGEE BAN EXECUTIVE ORDER
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                 MUSLIM AND REFUGEE BAN EXECUTIVE ORDER
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, I ask my Republican colleagues to think about 
+the message that President Trump's Muslim ban sends to our young 
+people. What the President is telling them is that our doors are 
+closed, that the tired, the poor, the persecuted, and the oppressed are 
+no longer welcome.
+  I reject that message, and I am glad to say that I have heard from 
+many young people who reject that message.
+  I want to read from a letter sent by a middle school student from 
+West Orange, New Jersey, in my district. Her name is Calixta.
+  Calixta wrote: ``Immigrants are basically what America is made of. . 
+. . Immigrants work very hard in the country, they get things done. 
+These people fight for their lives.''
+  I am glad that Calixta recognizes President Trump's ban as a threat 
+to American values, but I am concerned that other young people will see 
+it and think it is okay to reject others based on how they look, how 
+they worship, or where they come from.
+  Mr. Speaker, the President's ban is illogical, it is dangerous, and 
+it sends a terrible message to the young people of this Nation.
+
+                          ____________________
+```
