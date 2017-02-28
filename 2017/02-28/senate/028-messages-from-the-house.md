@@ -1,0 +1,66 @@
+---
+granule: CREC-2017-02-28-pt1-PgS1498
+date: 2017-02-28
+edition: CREC
+section: SENATE
+page: S1498
+citation: 163 Cong. Rec. S1498
+---
+
+# MESSAGES FROM THE HOUSE
+
+**Measures:** H.R. 88, H.R. 228, H.R. 609, H.R. 699, H.R. 863, H.R. 1033
+
+```
+                        MESSAGES FROM THE HOUSE
+
+  At 11:05 a.m., a message from the House of Representatives, delivered 
+by Mr. Novotny, one of its reading clerks, announced that the House has 
+passed the following bills, in which it requests the concurrence of the 
+Senate:
+
+       H.R. 88. An act to modify the boundary of the Shiloh 
+     National Military Park located in Tennessee and Mississippi, 
+     to establish Parker's Crossroads Battlefield as an affiliated 
+     area of the National Park System, and for other purposes.
+       H.R. 228. An act to amend the Indian Employment, Training 
+     and Related Services Demonstration Act of 1992 to facilitate 
+     the ability of Indian tribes to integrate the employment, 
+     training, and related services from diverse Federal sources, 
+     and for other purposes.
+       H.R. 699. An act to amend the Omnibus Public Land 
+     Management Act of 2009 to modify provisions relating to 
+     certain land exchanges in the Mt. Hood Wilderness in the 
+     State of Oregon.
+       H.R. 863. An act to facilitate the addition of park 
+     administration at the Coltsville National Historical Park, 
+     and for other purposes.
+       H.R. 1033. An act to amend titles 5 and 28, United States 
+     Code, to require the maintenance of databases on, awards of 
+     fees and other expenses to prevailing parties in certain 
+     administrative proceedings and court cases to which the 
+     United States is a party, and for other purposes.
+
+  The message also announced that pursuant to 20 U.S.C. 2103(b), and 
+the order of the House of January 3, 2017, the Speaker appoints the 
+following individual to the Board of Trustees of the American Folklife 
+Center in the Library of Congress on the part of the House of 
+Representatives for a term of 6 years: Ms. Amy Kitchener of Fresno, 
+California.
+
+
+                          Enrolled Bill Signed
+
+  At 2:16 p.m., a message from the House of Representatives, delivered 
+by Mrs. Cole, one of its reading clerks, announced that the Speaker had 
+signed the following enrolled bill:
+
+       H.R. 609. An act to designate the Department of Veterans 
+     Affairs health care center in Center Township, Butler County, 
+     Pennsylvania, as the ``Abie Abraham VA Clinic''.
+
+  The enrolled bill was subsequently signed by the President pro 
+tempore (Mr. Hatch).
+
+                          ____________________
+```

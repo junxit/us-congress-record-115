@@ -1,0 +1,45 @@
+---
+granule: CREC-2017-02-28-pt1-PgH1363-3
+date: 2017-02-28
+edition: CREC
+section: HOUSE
+page: H1363
+citation: 163 Cong. Rec. H1363
+---
+
+# PRESIDENT TRUMP NEEDS TO WORK WITH ALL PEOPLE
+
+**Speaking:** Engel, Eliot L. (E000179) [D-NY]
+
+```
+             PRESIDENT TRUMP NEEDS TO WORK WITH ALL PEOPLE
+
+  (Mr. ENGEL asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ENGEL. Mr. Speaker, I have long prided myself on working across 
+the aisle to get things done for my constituents and all the American 
+people. That is what the American people want: a government that 
+grapples with tough issues in a constructive way.
+  Unfortunately, since January 20, the new administration has shown no 
+interest in working with the Congress on both sides to tackle problems, 
+including Russia's unlawful interference in last year's election. That 
+is why I decided not to stand on the aisle in the House Chamber to 
+shake the President's hand during the joint session of Congress, as I 
+have done in the past through Democratic and Republican administrations 
+alike. This will be the first time during my 29 years in this House I 
+have made this decision.
+  I have deep respect for the Presidency, and I will attend the joint 
+session, but that respect between the branches must be mutual. The 
+President has attacked the free press by calling it the enemy of the 
+people. He has rejected America's traditional role welcoming refugees 
+who have helped to make our country great. He has cozied up to Vladimir 
+Putin, the strongman who attacks our democracy. He has moved to gut the 
+Affordable Care Act. He has looked the other way when threats against 
+the Jewish community have increased in the recent year.
+  This isn't part of our normal political discourse. This goes beyond 
+ideological and political differences. The President needs to work with 
+all people. Therefore, I will listen to what he has to say today, but I 
+will not greet him and shake his hand.
+
+                          ____________________
+```

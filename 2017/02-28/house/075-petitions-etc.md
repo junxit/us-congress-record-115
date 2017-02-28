@@ -1,0 +1,31 @@
+---
+granule: CREC-2017-02-28-pt1-PgH1394-2
+date: 2017-02-28
+edition: CREC
+section: HOUSE
+page: H1394
+citation: 163 Cong. Rec. H1394
+---
+
+# PETITIONS, ETC.
+
+```
+                            PETITIONS, ETC.
+
+  Under clause 3 of rule XII, petitions and papers were laid on the 
+clerk's desk and referred as follows:
+
+       19. The SPEAKER presented a petition of the Council of 
+     State Governments, Eastern Regional Conference, New York, 
+     relative to Resolution No. HC2016-01 in support of continuing 
+     the Medicaid State/Federal Partnership; which was referred to 
+     the Committee on Energy and Commerce.
+       20. Also, a petition of the Board of Chosen Freeholders, 
+     Hudson County, New Jersey, relative to Resolution No. 26-01-
+     2017, urging the Congress and President-Elect of the United 
+     States not to repeal the Patient Protection and Affordable 
+     Care Act; which was referred jointly to the Committees on 
+     Energy and Commerce, Education and the Workforce, Ways and 
+     Means, Appropriations, the Judiciary, Natural Resources, 
+     House Administration, and Rules.
+```

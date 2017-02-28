@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-02-28-pt1-PgH1391
+date: 2017-02-28
+edition: CREC
+section: HOUSE
+page: H1391
+citation: 163 Cong. Rec. H1391
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.Res. 156, H.R. 1004, H.R. 1009
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. SESSIONS. Committee on Rules. House Resolution 156. 
+     Resolution providing for consideration of the bill (H.R. 
+     1004) to amend chapter 3 of title 5, United States Code, to 
+     require the publication of information relating to pending 
+     agency regulatory actions, and for other purposes, and 
+     providing for consideration of the bill (H.R. 1009) to amend 
+     title 44, United States Code, to require the Administrator of 
+     the Office of Information and Regulatory Affairs to review 
+     regulations, and for other purposes (Rept. 115-21). Referred 
+     to the House Calendar.
+       Mr. TIBERI. Joint Economic Committee. Report of the Joint 
+     Economic Committee on the 2017 Economic Report of the 
+     President (Rept. 115-22). Referred to the Committee of the 
+     Whole House on the State of the Union.
+
+                          ____________________
+```
