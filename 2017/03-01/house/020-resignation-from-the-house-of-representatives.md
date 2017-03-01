@@ -1,0 +1,63 @@
+---
+granule: CREC-2017-03-01-pt1-PgH1400-7
+date: 2017-03-01
+edition: CREC
+section: HOUSE
+page: H1400
+citation: 163 Cong. Rec. H1400
+---
+
+# RESIGNATION FROM THE HOUSE OF REPRESENTATIVES
+
+```
+             RESIGNATION FROM THE HOUSE OF REPRESENTATIVES
+
+  The SPEAKER laid before the House the following resignation from the 
+House of Representatives:
+
+                                    Congress of the United States,
+
+
+                                     House of Representatives,
+
+                                    Washington, DC, March 1, 2017.
+     Hon. Paul Ryan,
+     Speaker of the House of Representatives,
+     Washington, DC.
+       Dear Speaker Ryan: I would like to bring to your attention 
+     the attached resignation letter I have sent to Governor Steve 
+     Bullock of Montana.
+       I have enjoyed my tenure as Montana's sole Congressman, and 
+     I look forward to continuing my service to Montana and our 
+     nation as Secretary of the Interior.
+       If I can be of any assistance during this transition, 
+     please let me know. I would be glad to help however I can.
+           Sincerely,
+     Ryan Zinke.
+                                  ____
+
+                                    Congress of the United States,
+
+
+                                     House of Representatives,
+
+                                    Washington, DC, March 1, 2017.
+     Gov. Steve Bullock,
+     Office of the Governor,
+     Helena, MT.
+       Dear Governor Bullock: I would like to inform you that I am 
+     resigning from my position as the United States Congressman 
+     for Montana's At-Large District on March, 1, 2017, in order 
+     to assume the Secretary of the Interior position. Thank you 
+     for the support and partnership that you have provided my 
+     office during these last few years.
+       I have enjoyed my tenure as Montana's sole Congressman, and 
+     I look forward to continuing my service to Montana and our 
+     nation as Secretary of the Interior.
+       If I can be of any assistance during this transition, 
+     please let me know. I would be glad to help however I can.
+           Sincerely,
+     Ryan Zinke.
+
+                          ____________________
+```
