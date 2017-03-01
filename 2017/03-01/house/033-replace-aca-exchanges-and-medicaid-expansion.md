@@ -1,0 +1,33 @@
+---
+granule: CRECB-2017-pt3-Pg3247
+date: 2017-03-01
+edition: CRECB
+section: HOUSE
+page: 3247
+---
+
+# REPLACE ACA EXCHANGES AND MEDICAID EXPANSION
+
+```
+              REPLACE ACA EXCHANGES AND MEDICAID EXPANSION
+
+  (Mr. MARSHALL asked and was given permission to address the House for 
+1 minute.)
+  Mr. MARSHALL. Madam Speaker, I rise today to support our President's 
+plan to replace the Affordable Care Act, but I want to stop and salute 
+my colleague, my neighbor to the north, General Don Bacon, and the 
+great State of Nebraska. As I tell people, I have never met a bad 
+person from Nebraska yet. General Bacon continues to represent his 
+State in a great manner, and I appreciate his friendship.
+  Madam Speaker, I rise to support the President's plan to replace the 
+ACA exchanges and Medicaid expansion. This is simply in a death spiral 
+right now. It is not working in Kansas. It is not working in the 
+country. We cannot afford to go in that direction.
+  I am committed to helping those with long-term health issues, as well 
+as those that get insurance outside the workplace, to truly find 
+quality, affordable health care. We are not going to turn our backs on 
+anybody. We are going to ensure there is a quality transition time for 
+all patients.
+
+                          ____________________
+```

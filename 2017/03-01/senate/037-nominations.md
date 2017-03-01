@@ -1,0 +1,27 @@
+---
+granule: CRECB-2017-pt3-Pg3238-2
+date: 2017-03-01
+edition: CRECB
+section: SENATE
+page: 3238
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                  UNITED STATES SENTENCING COMMISSION
+
+       DANNY C. REEVES, OF KENTUCKY, TO BE A MEMBER OF THE UNITED 
+     STATES SENTENCING COMMISSION FOR A TERM EXPIRING OCTOBER 31, 
+     2019, VICE RICARDO H. HINOJOSA, TERM EXPIRED.
+       CHARLES R. BREYER, OF CALIFORNIA, TO BE A MEMBER OF THE 
+     UNITED STATES SENTENCING COMMISSION FOR A TERM EXPIRING 
+     OCTOBER 31, 2021. (REAPPOINTMENT)
+
+                          ____________________
+```
