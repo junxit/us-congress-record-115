@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-03-02-pt1-PgS1585-2
+date: 2017-03-02
+edition: CREC
+section: SENATE
+page: S1585
+citation: 163 Cong. Rec. S1585
+---
+
+# APPOINTMENTS
+
+**Measures:** S.Res. 64
+
+```
+                              APPOINTMENTS
+
+  The PRESIDING OFFICER. The Chair, on behalf of the majority leader, 
+pursuant to the provisions of S. Res. 64, adopted March 5, 2013, 
+appoints the following Senators as members of the Senate National 
+Security Working Group for the 115th Congress: James Risch of Idaho 
+(Republican Administrative Co-Chairman), Thad Cochran of Mississippi 
+(Republican Co-Chairman), Lindsey Graham of South Carolina (Republican 
+Co-Chairman), Marco Rubio of Florida (Republican Co-Chairman), Bob 
+Corker of Tennessee, John McCain of Arizona, Roy Blunt of Missouri, 
+James Inhofe of Oklahoma, and Ben Sasse of Nebraska.
+  The Chair, on behalf of the President pro tempore, and upon the 
+recommendation of the majority leader, pursuant to 22 U.S.C. 2761, 
+appoints the following Senator as chairman of the Senate Delegation to 
+the British-American Interparliamentary Group Conference during the 
+115th Congress: the Honorable Thad Cochran of Mississippi.
+  The Chair, on behalf of the Democratic leader, pursuant to the 
+provisions of Public Law 99-93, as amended by Public Law 99-151, 
+appoints the following Senators as members of the United States Senate 
+Caucus on International Narcotics Control: the Honorable Dianne 
+Feinstein of California, the Honorable Sheldon Whitehouse of Rhode 
+Island, and the Honorable Heidi Heitkamp of North Dakota.
+
+                          ____________________
+```

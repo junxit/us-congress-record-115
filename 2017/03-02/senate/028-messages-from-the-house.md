@@ -1,0 +1,63 @@
+---
+granule: CREC-2017-03-02-pt1-PgS1576-2
+date: 2017-03-02
+edition: CREC
+section: SENATE
+page: S1576
+citation: 163 Cong. Rec. S1576
+---
+
+# MESSAGES FROM THE HOUSE
+
+**Measures:** H.J.Res. 83, H.R. 998, H.R. 1004, H.R. 1009
+
+```
+                        MESSAGES FROM THE HOUSE
+
+  At 10:22 a.m., a message from the House of Representatives, delivered 
+by Mr. Novotny, one of its reading clerks, announced that the House has 
+passed the following bill and joint resolution, in which it requests 
+the concurrence of the Senate:
+
+       H.R. 998. An act to provide for the establishment of a 
+     process for the review of rules and sets of rules, and for 
+     other purposes.
+       H.J. Res. 83. Joint resolution disapproving the rule 
+     submitted by the Department of Labor relating to 
+     ``Clarification of Employer's Continuing Obligation to Make 
+     and Maintain an Accurate Record of Each Recordable Injury and 
+     Illness''.
+
+  The message also announced that pursuant to 22 U.S.C. 6913, and the 
+order of the House of January 3, 2017, the Speaker appoints the 
+following Members of the House of Representatives to the Congressional-
+Executive Commission on the People's Republic of China: Mr. Walz of 
+Minnesota and Ms. Kaptur of Ohio.
+  The message further announced that pursuant to 22 U.S.C. 276d and the 
+order of the House of January 3, 2017, the Speaker appoints the 
+following Members of the House of Representatives to the Canada-United 
+States Interparliamentary Group: Mr. Higgins of New York, Ms. Slaughter 
+of New York, Mr. Meeks of New York, Mr. Larsen of Washington, and Mr. 
+DeFazio of Oregon.
+  The message also announced that pursuant to 44 U.S.C. 2702, the 
+Minority Leader reappoints the following individual on the part of the 
+House of Representatives to the Advisory Committee on the Records of 
+Congress: Mr. John A. Lawrence of Washington, DC.
+                                  ____
+
+  At 4:00 p.m., a message from the House of Representatives, delivered 
+by Mrs. Cole, one of its reading clerks, announced that the House has 
+passed the following bills, in which it requests the concurrence of the 
+Senate:
+
+       H.R. 1004. An act to amend chapter 3 of title 5, United 
+     States Code, to require the publication of information 
+     relating to pending agency regulatory actions, and for other 
+     purposes.
+       H.R. 1009. An act to amend title 44, United States Code, to 
+     require the Administrator of the Office of Information and 
+     Regulatory Affairs to review regulations, and for other 
+     purposes.
+
+                          ____________________
+```

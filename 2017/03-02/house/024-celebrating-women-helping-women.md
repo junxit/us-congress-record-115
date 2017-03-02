@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-03-02-pt1-PgH1489-5
+date: 2017-03-02
+edition: CREC
+section: HOUSE
+page: H1489
+citation: 163 Cong. Rec. H1489
+---
+
+# CELEBRATING WOMEN HELPING WOMEN
+
+**Speaking:** Gabbard, Tulsi (G000571) [D-HI]
+
+```
+                    CELEBRATING WOMEN HELPING WOMEN
+
+  (Ms. GABBARD asked and was given permission to address the House for 
+1 minute.)
+  Ms. GABBARD. Mr. Speaker, as we kick off Women's History Month, I 
+want to recognize Women Helping Women, celebrating 40 years of service 
+to the people in my district of Maui County.
+  Since its founding in 1977, Women Helping Women has been an 
+indispensable source of strength and support for survivors of domestic 
+violence in Maui County, many of whom have fled courageously away from 
+life-threatening situations with nothing more than the clothes on their 
+backs, a few dollars in their pockets, and the desire to live without 
+fear. Many of these women flee with young children and have no one to 
+turn to and nowhere to go.
+  Each year, this organization serves more than 1,500 women, men, and 
+children on the Islands of Maui and Lanai through a variety of 
+programs, projects, and activities focused on direct intervention, 
+shelter, advocacy, education, empowerment, and prevention.
+  Mahalo to Women Helping Women, and congratulations on reaching this 
+40th anniversary year.
+
+                          ____________________
+```
