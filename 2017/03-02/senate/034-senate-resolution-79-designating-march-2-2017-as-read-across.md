@@ -1,0 +1,54 @@
+---
+granule: CRECB-2017-pt3-Pg3364
+date: 2017-03-02
+edition: CRECB
+section: SENATE
+page: 3364
+---
+
+# SENATE RESOLUTION 79--DESIGNATING MARCH 2, 2017, AS ``READ ACROSS AMERICA DAY''
+
+```
+   SENATE RESOLUTION 79--DESIGNATING MARCH 2, 2017, AS ``READ ACROSS 
+                             AMERICA DAY''
+
+  Ms. COLLINS (for herself, Mr. Reed, Mr. Blumenthal, Mr. Carper, Mr. 
+Cochran, Mr. Durbin, Mr. Markey, Mr. Tillis, and Mrs. Capito) submitted 
+the following resolution; which was considered and agreed to:
+
+                               S. Res. 79
+
+       Whereas reading is a basic requirement for quality 
+     education and professional success and a source of pleasure 
+     throughout life;
+       Whereas the people of the United States must be able to 
+     read if the United States is to remain competitive in the 
+     global economy;
+       Whereas Congress has placed great emphasis on reading 
+     intervention and providing additional resources for reading 
+     assistance, including through the programs authorized under 
+     the Elementary and Secondary Education Act of 1965 (20 U.S.C. 
+     6301 et seq.) and through annual appropriations for library 
+     and literacy programs; and
+       Whereas more than 50 national organizations concerned about 
+     reading and education have joined with the National Education 
+     Association to designate March 2, the anniversary of the 
+     birth of Theodor Geisel (commonly known as ``Dr. Seuss''), as 
+     a day to celebrate reading: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates March 2, 2017, as ``Read Across America 
+     Day'';
+       (2) honors--
+       (A) Theodor Geisel (commonly known as ``Dr. Seuss'') for 
+     his success in encouraging children to discover the joy of 
+     reading; and
+       (B) the 20th anniversary of Read Across America Day; and
+       (3) encourages--
+       (A) parents to read with their children for at least 30 
+     minutes on Read Across America Day in honor of the commitment 
+     of the Senate to building a country of readers; and
+       (B) the people of the United States to observe Read Across 
+     America Day with appropriate ceremonies and activities.
+
+                          ____________________
+```

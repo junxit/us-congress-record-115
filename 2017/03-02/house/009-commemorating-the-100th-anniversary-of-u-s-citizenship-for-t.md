@@ -1,0 +1,42 @@
+---
+granule: CRECB-2017-pt3-Pg3370-10
+date: 2017-03-02
+edition: CRECB
+section: HOUSE
+page: 3370
+---
+
+# COMMEMORATING THE 100TH ANNIVERSARY OF U.S. CITIZENSHIP FOR THE PEOPLE OF PUERTO RICO
+
+```
+COMMEMORATING THE 100TH ANNIVERSARY OF U.S. CITIZENSHIP FOR THE PEOPLE 
+                             OF PUERTO RICO
+
+  (Mrs. MURPHY of Florida asked and was given permission to address the 
+House for 1 minute.)
+  Mrs. MURPHY of Florida. Mr. Speaker, a century ago today, a Federal 
+law
+
+[[Page 3371]]
+
+granted U.S. citizenship to individuals born in Puerto Rico. Island 
+residents have made countless contributions to this country in times of 
+peace and war, serving with exceptional valor in our Armed Forces. The 
+bonds between Puerto Rico and Florida are unbreakable. The State is 
+home to over 1 million Puerto Ricans, with most living in central 
+Florida.
+  Puerto Rico is going through difficult times, and I am determined to 
+help the Island get back on its feet. The main reason Puerto Rico is 
+struggling is because, as a territory, it is treated unequally under 
+Federal law. I support equal treatment for Puerto Rico because I oppose 
+second class citizenship.
+  Ultimately, I believe Puerto Rico should discard its territory status 
+and become a State or a sovereign nation. The choice lies with the 
+people of Puerto Rico. However, my personal hope is that they will 
+choose statehood so that they have full voting rights and full 
+equality.
+  Puerto Ricans have earned the right to become first class citizens of 
+the Nation they have served with honor.
+
+                          ____________________
+```
