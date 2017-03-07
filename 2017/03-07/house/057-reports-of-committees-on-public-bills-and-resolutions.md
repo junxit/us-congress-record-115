@@ -1,0 +1,45 @@
+---
+granule: CRECB-2017-pt3-Pg3570
+date: 2017-03-07
+edition: CRECB
+section: HOUSE
+page: 3570
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. SHUSTER: Committee on Transportation and 
+     Infrastructure. H.R. 375. A bill to designate the Federal 
+     building and United States courthouse located at 719 Church 
+     Street in Nashville, Tennessee, as the ``Fred D. Thompson 
+     Federal Building and United States Courthouse'' (Rept. 115-
+     23). Referred to the House Calendar.
+       Mr. SHUSTER: Committee on Transportation and 
+     Infrastructure. H.R. 1174. A bill to provide a lactation room 
+     in public buildings (Rept. 115-24). Referred to the Committee 
+     of the Whole House on the state of the Union.
+       Mr. GOODLATTE: Committee on the Judiciary. H.R. 985. A bill 
+     to amend the procedures used in Federal court class actions 
+     and multidistrict litigation proceedings to assure fairer, 
+     more efficient outcomes for claimants and defendants, and for 
+     other purposes (Rept. 115-25). Referred to the Committee of 
+     the Whole House on the state of the Union.
+       Ms. CHENEY: Committee on Rules. House Resolution 174. 
+     Resolution providing for consideration of the bill (H.R. 
+     1301) making appropriations for the Department of Defense for 
+     the fiscal year ending September 30, 2017, and for other 
+     purposes (Rept. 115-26). Referred to the House Calendar.
+       Mr. BUCK: Committee on Rules. House Resolution 175. 
+     Resolution providing for consideration of the bill (H.R. 725) 
+     to amend title 28, United States Code, to prevent fraudulent 
+     joinder (Rept. 115-27). Referred to the House Calendar.
+
+                          ____________________
+```
