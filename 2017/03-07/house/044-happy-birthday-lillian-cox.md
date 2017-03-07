@@ -1,0 +1,33 @@
+---
+granule: CREC-2017-03-07-pt1-PgH1574-5
+date: 2017-03-07
+edition: CREC
+section: HOUSE
+page: H1574
+citation: 163 Cong. Rec. H1574
+---
+
+# HAPPY BIRTHDAY, LILLIAN COX
+
+**Speaking:** Olson, Pete (O000168) [R-TX]
+
+```
+                      HAPPY BIRTHDAY, LILLIAN COX
+
+  (Mr. OLSON asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. OLSON. Mr. Speaker, I work for the Texans in Meadows Place. They 
+are led by Mayor Charles Jessup. The locals call Meadows Place the best 
+square mile of small-town America.
+  Meadows Place has a secret. Shhhhh. Every man who lives there is in 
+love with the same woman. We all love Lillian Cox.
+  Lillian turned 110 on February 22. In 352 days, I am taking Lillian 
+out for her 111th birthday. She will put on a nice dress, a necklace, 
+and earrings. I will take her to the Live Oak Grill, where she will 
+have the fried catfish she loves so much. I will have the chicken fried 
+steak. And we may go dancing, if I can keep up with her.
+  Lillian, happy 110th birthday. I will pick you up at 5 p.m. on 
+February 22, 2018.
+
+                          ____________________
+```

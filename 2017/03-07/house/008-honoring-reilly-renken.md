@@ -1,0 +1,44 @@
+---
+granule: CREC-2017-03-07-pt1-PgH1541
+date: 2017-03-07
+edition: CREC
+section: HOUSE
+page: H1541
+citation: 163 Cong. Rec. H1541
+---
+
+# HONORING REILLY RENKEN
+
+**Speaking:** Davis, Rodney (D000619) [R-IL]
+
+```
+                         HONORING REILLY RENKEN
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Illinois (Mr. Rodney Davis) for 5 minutes.
+  Mr. RODNEY DAVIS of Illinois. Mr. Speaker, I rise today to honor 
+Reilly Renken, a remarkable young lady making a big difference in 
+central Illinois.
+  Just after she was born, Reilly was diagnosed with a rare genetic 
+abnormality, along with a form of epilepsy that severely impacts her 
+neurological development. Her parents were told by numerous specialists 
+that she would need support for the rest of her life and that she would 
+likely never read or write. But Reilly proved them wrong. While her 
+genetic makeup is one of a kind, she also has a one-of-a-kind 
+personality.
+  Despite the obstacles she has overcome, Reilly was determined to be a 
+cheerleader. Now she is an integral part of the cheerleading squad at 
+Glenwood Middle School in Chatham, Illinois.
+  Cheering on the Titans has become one of Reilly's greatest joys, and 
+her presence on the squad has been a joy for her teammates as well. 
+They will tell you that they wouldn't be the squad they are without 
+Reilly and her positive attitude. She brings life to their practices 
+and they always count on her to make them smile.
+  Reilly is a true inspiration. She shows all of us what is possible 
+when we put our minds to something. Thanks to her, students at Glenwood 
+Middle School have learned the importance of celebrating our 
+differences.
+  Way to go, Reilly.
+
+                          ____________________
+```

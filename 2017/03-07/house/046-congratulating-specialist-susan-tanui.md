@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-03-07-pt1-PgH1575
+date: 2017-03-07
+edition: CREC
+section: HOUSE
+page: H1575
+citation: 163 Cong. Rec. H1575
+---
+
+# CONGRATULATING SPECIALIST SUSAN TANUI
+
+**Speaking:** Marshall, Roger (M001198) [R-KS]
+
+```
+                 CONGRATULATING SPECIALIST SUSAN TANUI
+
+  (Mr. MARSHALL asked and was given permission to address the House for 
+1 minute.)
+  Mr. MARSHALL. Mr. Speaker, I am proud to rise today to recognize and 
+congratulate Specialist Susan Tanui, the 2016 Army Soldier-Athlete of 
+the Year.
+  Specialist Tanui currently serves the soldiers at Fort Riley, Kansas, 
+as a dental assistant.
+  During her time in service, she has exemplified the Army's seven core 
+values--loyalty, duty, respect, selfless service, honor, integrity, and 
+personal courage--through her dedicated service, which is exemplified 
+by her numerous decorations and awards.
+  In addition to serving the U.S. Army, Specialist Tanui is currently 
+pursuing a degree at Liberty University, represents the Fort Riley 
+Division running team, the All Army team, and the U.S. Armed Forces as 
+an Army athlete.
+  She has also represented the U.S. Army in the U.S. Track and Field 
+National Cross Country Championships in 2015 and 2016 and hopes, one 
+day, to compete in the Olympics.
+  I commend Specialist Tanui's accomplishments, her outstanding 
+character, and look forward to witnessing what she will do in the near 
+future.
+  Mr. Speaker, we are so proud of Specialist Tanui, the soldiers of 
+Fort Riley, the home of the Big Red One.
+
+                          ____________________
+```
