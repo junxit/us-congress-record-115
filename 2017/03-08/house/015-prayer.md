@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt3-Pg3643-4
+date: 2017-03-08
+edition: CRECB
+section: HOUSE
+page: 3643
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Patrick J. Conroy, offered the following 
+prayer:
+  God of the universe, we give You thanks for giving us another day.
+  We ask Your blessing upon us this day. During these days, the 
+American people can see the difficulties of legislating for this great 
+Nation of ours. Disagreements between and within parties emerge when 
+important and sweeping laws are being considered.
+  So also the push and pull of local, State, and national governmental 
+interests and responsibilities can be seen to contribute to the 
+enormity of our way of government. Be it health care or immigration, 
+the wisdom of our Founders can perhaps be seen in their designing a 
+governmental process that is difficult, resistant to hasty solutions, 
+and demanding of those who engage.
+  May the American people be patient with and supportive of this 
+process, and may the Members of this House, especially, merit the trust 
+of their constituents, those who voted for them and those who did not.
+  And may all that is done this day be for Your greater honor and 
+glory.
+  Amen.
+
+                          ____________________
+```
