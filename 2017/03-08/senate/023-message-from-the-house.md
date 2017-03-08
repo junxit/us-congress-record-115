@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-03-08-pt1-PgS1689
+date: 2017-03-08
+edition: CREC
+section: SENATE
+page: S1689
+citation: 163 Cong. Rec. S1689
+---
+
+# MESSAGE FROM THE HOUSE
+
+**Measures:** H.R. 375, S. 442, H.R. 1174, H.R. 1362
+
+```
+                         MESSAGE FROM THE HOUSE
+
+  At 10:10 a.m., a message from the House of Representatives, delivered 
+by Mr. Novotny, one of its reading clerks, announced that the House has 
+passed the following bill, without amendment:
+
+       S. 442. An act to authorize the programs of the National 
+     Aeronautics and Space Administration, and for other purposes.
+
+  The message also announced that the House has passed the following 
+bills, in which it requests the concurrence of the Senate:
+
+       H.R. 375. An act to designate the Federal building and 
+     United States courthouse located at 719 Church Street in 
+     Nashville, Tennessee, as the ``Fred D. Thompson Federal 
+     Building and United States Courthouse''.
+       H.R. 1174. An act to provide a lactation room in public 
+     buildings.
+       H.R. 1362. An act to name the Department of Veterans 
+     Affairs community-based outpatient clinic in Pago Pago, 
+     American Samoa, the Faleomavaega Eni Fa'aua'a Hunkin VA 
+     Clinic.
+
+                          ____________________
+```
