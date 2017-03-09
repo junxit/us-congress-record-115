@@ -1,0 +1,38 @@
+---
+granule: CRECB-2017-pt3-Pg4076-3
+date: 2017-03-09
+edition: CRECB
+section: HOUSE
+page: 4076
+---
+
+# OPPOSING REPEAL AND REPLACE
+
+```
+                      OPPOSING REPEAL AND REPLACE
+
+  (Mr. SCHNEIDER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SCHNEIDER. Mr. Speaker, I rise today in strong opposition to the 
+repeal and replace bill offered by my Republican colleagues. I have 
+never believed ObamaCare was perfect, but it was a step in the right 
+direction.
+  We will only move our healthcare policy forward by working together 
+to build on the very real successes of ACA and fix the actual problems 
+with the law. But this legislation as proposed does none of that and, 
+in fact, takes us in the opposite direction.
+  Under the proposed legislation, 10 million Americans would lose their 
+health insurance, according to an analysis from Standard and Poor's. 
+Seniors would be charged much more than what others pay for health 
+care, and the 3.2 million Illinoisans who depend on Medicaid will face 
+cuts to their coverage.
+  Mr. Speaker, this House is recklessly and unnecessarily rushing to a 
+vote before we have basic answers. Most importantly, we need to know 
+from the Congressional Budget Office how many people this bill will and 
+will not cover and how much it will cost.
+  We need to set aside the politics and work in a bipartisan way to 
+give all Americans quality, affordable health care.
+  I strongly urge my colleagues to oppose the bill.
+
+                          ____________________
+```

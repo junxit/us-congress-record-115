@@ -1,0 +1,19 @@
+---
+granule: CRECB-2017-pt3-Pg4093-2
+date: 2017-03-09
+edition: CRECB
+section: HOUSE
+page: 4093
+---
+
+# DELETION OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+```
+         DELETION OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 7 of rule XII, sponsors were deleted from public bills 
+and resolutions, as follows:
+
+       H.R. 610: Mr. Olson.
+       H.R. 637: Mr. Sanford.
+```
