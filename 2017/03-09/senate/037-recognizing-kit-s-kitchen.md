@@ -1,0 +1,52 @@
+---
+granule: CREC-2017-03-09-pt1-PgS1741-2
+date: 2017-03-09
+edition: CREC
+section: SENATE
+page: S1741
+citation: 163 Cong. Rec. S1741
+---
+
+# RECOGNIZING KIT'S KITCHEN
+
+**Speaking:** Heller, Dean (H001041) [R-NV]
+
+```
+                       RECOGNIZING KIT'S KITCHEN
+
+● Mr. HELLER. Mr. President, today I wish to recognize a great 
+small business and charitable organization that is leading by example, 
+serving the community, and making a difference in the great State of 
+Nevada. Chanthy Walsh and her husband own a nonprofit restaurant called 
+KIT's Kitchen, which is located in Henderson, NV. The name stems from 
+the nonprofit foundation they run called Kids in Transition. Both 
+organizations work side by side to help those in need.
+  Since November 2016, KIT's Kitchen has been training underprivileged 
+youth, while providing affordable meals to the local community. This 
+restaurant provides its volunteers with real work experience and 
+teaches them what it takes to succeed in the restaurant and hospitality 
+industry. To me, it is more than just learning about the restaurant; 
+these kids are being taught hard work, about giving back to their 
+community, and what it means to make a commitment and be held 
+accountable to it--values that go beyond the workplace.
+  In addition to their impressive restaurant, Mrs. Walsh and her 
+husband, Tim, direct a nonprofit called the Kids in Transition 
+Foundation, which is designed to help young people build a successful 
+career. This foundation provides meals, scholarships, financial aid, 
+and mentoring advice to Nevada's youth. Together, these efforts are 
+building a better future for Nevada.
+  As a father, I understand firsthand how much of an asset Chanthy 
+Walsh and her work is to the Silver State. Considering these young 
+Nevadans are the future, I am proud to see Ms. Walsh strive to make 
+Nevada brighter every single day. It is this dedication to community 
+and giving back that makes a difference in so many people's lives.
+  Today I ask my colleagues and all Nevadans to join me and recognizing 
+this organization, its employees, and its impressive leader. Chanthy 
+Walsh provides an outstanding service to the local community and to our 
+great State. As Nevada's senior Senator, I am humbled by her efforts 
+and a true commitment to making a difference in people's lives. I hope 
+others can look to her for inspiration on how to make their community a 
+better place for everyone.●
+
+                          ____________________
+```

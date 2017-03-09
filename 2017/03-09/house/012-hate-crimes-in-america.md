@@ -1,0 +1,61 @@
+---
+granule: CREC-2017-03-09-pt1-PgH1955-2
+date: 2017-03-09
+edition: CREC
+section: HOUSE
+page: H1955
+citation: 163 Cong. Rec. H1955
+---
+
+# HATE CRIMES IN AMERICA
+
+**Speaking:** Johnson, Henry C. "Hank" (J000288) [D-GA]
+
+```
+                         HATE CRIMES IN AMERICA
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Georgia (Mr. Johnson) for 5 minutes.
+  Mr. JOHNSON of Georgia. Mr. Speaker, since November's election, it 
+seems that there have been a rise in incidents of hate crimes in this 
+country. This wave of hate crimes has spread fear and anxiety in 
+communities of different faiths, ethnicities, and cultures across this 
+country. On Tuesday, multiple Jewish community centers, schools, and 
+organizations across the Nation, including in Atlanta, received 
+anonymous bomb threats. This follows a wave of over 120 threats against 
+Jewish community centers across America as well as the senseless 
+desecration of graves at Jewish cemeteries countrywide.
+  I suspect, Mr. Speaker, that these are not unrelated incidents of 
+juvenile delinquents. This is rank, organized anti-Semitic activity. It 
+is systematic and organized activity meant to terrorize Jews in 
+America. This comes at a time when Islamophobia is taking root and 
+spreading across America. Mosques are being burned to the ground, 
+Muslim children are being bullied at school, and Muslim women are 
+subjected to having attackers snatching their hijabs from their heads 
+as they walk the streets.
+  The President's Muslim ban is payback on the pledge he made to his 
+supporters during the campaign. Meanwhile, in February, a 32-year-old 
+Indian man was shot and killed, another was wounded, and a third man 
+who intervened was shot and wounded by a gunman shouting ``Get out of 
+my country.''
+
+                              {time}  1045
+
+  Again, on March 3, a Sikh man was shot in Seattle by an attacker 
+yelling, ``Go back to your country.'' At that time, the attacker had a 
+mask on. During these incidents, our President has remained 
+uncharacteristically silent on these attacks. His silence comes after 
+his anti-Mexican, anti-Muslim, and anti-Obama campaign sparked American 
+White nationalists to feel emboldened.
+  This is a dangerous and slippery slope that we are on, ladies and 
+gentlemen. It must end, and it must end now. As Dr. King once said: 
+``Injustice anywhere is a threat to justice everywhere.'' We must 
+protect all communities that have come under assault.
+  Today I introduce the Reaffirming DHS' Commitment to Countering All 
+Forms of Violent Extremism Act of 2017 to ensure that countering 
+violent extremism funds within the Department of Homeland Security are 
+used to tackle the rise of rightwing extremism, which threatens the 
+safety of us all here in America.
+
+                          ____________________
+```

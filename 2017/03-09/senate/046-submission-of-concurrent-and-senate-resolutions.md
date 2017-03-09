@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-03-09-pt1-PgS1743
+date: 2017-03-09
+edition: CREC
+section: SENATE
+page: S1743
+citation: 163 Cong. Rec. S1743
+---
+
+# SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+**Measures:** S.Res. 85, S.Res. 86
+
+```
+            SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+  The following concurrent resolutions and Senate resolutions were 
+read, and referred (or acted upon), as indicated:
+
+           By Mr. NELSON (for himself and Mr. Rubio):
+       S. Res. 85. A resolution calling on the Government of Iran 
+     to fulfill repeated promises of assistance in the case of 
+     Robert Levinson, the longest held United States civilian in 
+     our Nation's history; to the Committee on Foreign Relations.
+           By Mr. COONS (for himself, Mr. Cochran, Mrs. Shaheen, 
+             Mr. Wicker, Mr. Carper, Mr. Boozman, Mr. Bennet, Mr. 
+             Durbin, Mr. Tester, Ms. Hirono, Ms. Baldwin, Ms. 
+             Hassan, Mr. Wyden, Mr. Heinrich, Ms. Duckworth, Mr. 
+             Franken, Mr. Whitehouse, Mr. Merkley, Mr. Markey, Mr. 
+             Booker, Mr. Reed, Ms. Warren, Mr. Peters, Mr. Van 
+             Hollen, Mrs. Gillibrand, Mr. McCain, Mr. Moran, Mr. 
+             Blunt, Mr. Manchin, and Mr. Casey):
+       S. Res. 86. A resolution recognizing the contributions of 
+     AmeriCorps members and alumni to the lives of the people of 
+     the United States; considered and agreed to.
+
+                          ____________________
+```
