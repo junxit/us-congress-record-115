@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-03-13-pt2-PgH2057-5
+date: 2017-03-13
+edition: CREC
+section: HOUSE
+page: H2057
+citation: 163 Cong. Rec. H2057
+---
+
+# COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+```
+               COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+  The SPEAKER pro tempore laid before the House the following 
+communication from the Clerk of the House of Representatives:
+
+                                              Office of the Clerk,
+
+
+                                     House of Representatives,
+
+                                   Washington, DC, March 13, 2017.
+     Hon. Paul D. Ryan,
+     The Speaker, House of Representatives,
+     Washington, DC.
+       Dear Mr. Speaker: Pursuant to the permission granted in 
+     Clause 2(h) of Rule II of the Rules of the U.S. House of 
+     Representatives, the Clerk received the following message 
+     from the Secretary of the Senate on March 13, 2017, at 10:18 
+     a.m.:
+       Appointments:
+       Western Hemisphere Drug Policy Commission.
+       Dwight D. Eisenhower Memorial Commission.
+       United States Senate Caucus on International Narcotics 
+     Control.
+       With best wishes, I am
+           Sincerely,
+     Karen L. Haas.
+
+                          ____________________
+```
