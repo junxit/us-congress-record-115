@@ -1,0 +1,40 @@
+---
+granule: CRECB-2017-pt3-Pg4173-2
+date: 2017-03-13
+edition: CRECB
+section: SENATE
+page: 4173
+---
+
+# MESSAGE FROM THE HOUSE
+
+```
+                         MESSAGE FROM THE HOUSE
+
+  At 2:03 p.m., a message from the House of Representatives, delivered 
+by Mr. Novotny, one of its reading clerks, announced that the House has 
+passed the following bills, in which it requests the concurrence of the 
+Senate:
+
+       H.R. 720. An act to amend Rule 11 of the Federal Rules of 
+     Civil Procedure to improve attorney accountability, and for 
+     other purposes.
+       H.R. 725. An act to amend title 28, United States Code, to 
+     prevent fraudulent joinder.
+       H.R. 985. An act to amend the procedures used in Federal 
+     court class actions and multidistrict litigation proceedings 
+     to assure fairer, more efficient outcomes for claimants and 
+     defendants, and for other purposes.
+
+  The message also announced that pursuant to section 2 of the 
+Migratory
+
+[[Page 4174]]
+
+Bird Conservation Act (16 U.S.C. 715a), and the order of the House of 
+January 3, 2017, the Speaker appoints the following Member of the House 
+of Representatives to the Migratory Bird Conservation Commission: Mr. 
+Thompson of California.
+
+                          ____________________
+```
