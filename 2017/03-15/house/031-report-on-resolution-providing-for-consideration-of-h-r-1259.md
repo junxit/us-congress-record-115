@@ -1,0 +1,33 @@
+---
+granule: CRECB-2017-pt3-Pg4268
+date: 2017-03-15
+edition: CRECB
+section: HOUSE
+page: 4268
+---
+
+# REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 1259, VA ACCOUNTABILITY FIRST ACT OF 2017; PROVIDING FOR CONSIDERATION OF H.R. 1367, IMPROVING AUTHORITY OF SECRETARY OF VETERANS AFFAIRS TO HIRE AND RETAIN PHYSICIANS AND OTHER EMPLOYEES; AND PROVIDING FOR CONSIDERATION OF H.R. 1181, VETERANS 2ND AMENDMENT PROTECTION ACT
+
+```
+   REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 1259, VA 
+ ACCOUNTABILITY FIRST ACT OF 2017; PROVIDING FOR CONSIDERATION OF H.R. 
+1367, IMPROVING AUTHORITY OF SECRETARY OF VETERANS AFFAIRS TO HIRE AND 
+RETAIN PHYSICIANS AND OTHER EMPLOYEES; AND PROVIDING FOR CONSIDERATION 
+          OF H.R. 1181, VETERANS 2ND AMENDMENT PROTECTION ACT
+
+  Mr. BUCK from the Committee on Rules, submitted a privileged report 
+(Rept. No. 115-39) on the resolution (H. Res. 198) providing for 
+consideration of the bill (H.R. 1259) to amend title 38, United States 
+Code, to provide for the removal or demotion of employees of the 
+Department of Veterans Affairs based on performance or misconduct, and 
+for other purposes; providing for consideration of the bill (H.R. 1367) 
+to improve the authority of the Secretary of Veterans Affairs to hire 
+and retain physicians and other employees of the Department of Veterans 
+Affairs, and for other purposes; and providing for consideration of the 
+bill (H.R. 1181) to amend title 38, United States Code, to clarify the 
+conditions under which certain persons may be treated as adjudicated 
+mentally incompetent for certain purposes, which was referred to the 
+House Calendar and ordered to be printed.
+
+                          ____________________
+```

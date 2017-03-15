@@ -1,0 +1,40 @@
+---
+granule: CRECB-2017-pt3-Pg4257-11
+date: 2017-03-15
+edition: CRECB
+section: HOUSE
+page: 4257
+---
+
+# IN SUPPORT OF THE GREAT LAKES RESTORATION INITIATIVE
+
+```
+          IN SUPPORT OF THE GREAT LAKES RESTORATION INITIATIVE
+
+  (Mr. SCHNEIDER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SCHNEIDER. Mr. Speaker, I rise today in defense of one of our 
+most magnificent natural wonders: the Great Lakes. They contain a fifth 
+of the world's freshwater and are vitally important to the economy and 
+the quality of life in my district.
+  The Great Lakes Restoration Initiative, which has received strong 
+support from both sides of the aisle, works to clean up the Great 
+Lakes, control invasive species, restore habitats, and reduce runoff. 
+Yet we have heard that
+
+[[Page 4258]]
+
+President Trump may virtually eliminate this critical program with an 
+eye-popping irresponsible 97 percent cut to the budget; $300 million in 
+funding would be reduced to just $10 million.
+  At the same time, his administration may gut EPA funds for climate 
+science, clean air, and safe water.
+  Let me be clear. I am adamantly opposed to these cuts and will do 
+everything in my power to stop them.
+  Tomorrow, on Great Lakes Day, the President is expected to release a 
+budget proposal. I urge him to include robust funding for the Great 
+Lakes Restoration Initiative and the EPA programs and ensure we pass on 
+a sustainable, healthy planet to our children.
+
+                          ____________________
+```
