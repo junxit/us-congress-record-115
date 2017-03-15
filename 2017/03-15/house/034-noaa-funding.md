@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-03-15-pt1-PgH2072-3
+date: 2017-03-15
+edition: CREC
+section: HOUSE
+page: H2072
+citation: 163 Cong. Rec. H2072
+---
+
+# NOAA FUNDING
+
+**Speaking:** Langevin, James R. (L000559) [D-RI]
+
+```
+                              NOAA FUNDING
+
+  (Mr. LANGEVIN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LANGEVIN. Mr. Speaker, I rise today in strong support of the 
+mission of NOAA, the National Oceanic and Atmospheric Administration, 
+now under attack by the Trump administration.
+  An assault on NOAA, Mr. Speaker, is an assault on science. NOAA is a 
+data-driven organization with proven research in the public interest. 
+NOAA defends our coasts from the surges we have seen from Sandy, Irene, 
+and other storms. NOAA's satellites keep watch day and night, providing 
+up-to-the-second data to farmers, forecasters, and fishermen.
+  Mr. Speaker, I acknowledge the Trump administration's denial of 
+climate damage, but I do not understand it. Defunding NOAA, as the 
+President's budget purportedly does, does not make our climate problems 
+simply go away. The mission of NOAA isn't just about our environment. 
+American businesses rely on its data every day to give them an economic 
+advantage. After all, there is a reason NOAA is in the Department of 
+Commerce to begin with.
+
+                          ____________________
+```

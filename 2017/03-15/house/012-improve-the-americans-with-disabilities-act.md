@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-03-15-pt1-PgH2062-2
+date: 2017-03-15
+edition: CREC
+section: HOUSE
+page: H2062
+citation: 163 Cong. Rec. H2062
+---
+
+# IMPROVE THE AMERICANS WITH DISABILITIES ACT
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+              IMPROVE THE AMERICANS WITH DISABILITIES ACT
+
+  (Mr. POE of Texas asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. POE of Texas. Mr. Speaker, Original Pizza in Broomfield, 
+Colorado, has been in business since the 1990s. Now they are being 
+sued.
+  The plaintiff claims they do not have ADA-accessible parking signage 
+or proper insulation wrapped around the pipes under the restroom sink.
+  The claims waged against Original Pizza are mostly false. The sink is 
+compliant, and the parking issue could be fixed with a better sign and 
+a bit of paint. Not to mention, Original Pizza was never notified of 
+the alleged violations by the plaintiff.
+  Now the plaintiff is demanding money to pay or a lawsuit will be 
+filed. The same plaintiff has filed over 70 other lawsuits against 
+businesses for alleged ADA violations.
+  Plaintiffs and attorneys hope companies will decide to settle rather 
+than face an expensive court trial.
+  The ADA Education and Reform Act will require giving businesses 
+notice and time to fix the alleged infraction before the lawsuit is 
+filed. Notice and cure are a fair way to handle ADA violations.
+  And that is just the way it is.
+
+                          ____________________
+```

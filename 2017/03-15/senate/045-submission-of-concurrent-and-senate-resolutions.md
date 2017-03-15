@@ -1,0 +1,49 @@
+---
+granule: CREC-2017-03-15-pt1-PgS1841
+date: 2017-03-15
+edition: CREC
+section: SENATE
+page: S1841
+citation: 163 Cong. Rec. S1841
+---
+
+# SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+**Measures:** S.Con.Res. 9, S.Res. 87, S.Res. 88, S.Res. 89
+
+```
+            SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+  The following concurrent resolutions and Senate resolutions were 
+read, and referred (or acted upon), as indicated:
+
+           By Mr. KAINE (for himself, Mr. McCain, Mr. Rubio, and 
+             Mr. Murphy):
+       S. Res. 87. A resolution expressing the sense of the Senate 
+     concerning the ongoing conflict in Syria as it reaches its 
+     six-year mark in March, the ensuing humanitarian crisis in 
+     Syria and neighboring countries, the resulting humanitarian 
+     and national security challenges, and the urgent need for a 
+     political solution to the crisis; to the Committee on Foreign 
+     Relations.
+           By Ms. STABENOW (for herself, Mrs. Gillibrand, Ms. 
+             Klobuchar, Mr. Brown, Mr. Durbin, Mr. Franken, Mr. 
+             Peters, and Ms. Baldwin):
+       S. Res. 88. A resolution expressing the sense of the Senate 
+     that the President and the Secretary of State should ensure 
+     that the Government of Canada does not permanently store 
+     nuclear waste in the Great Lakes Basin; to the Committee on 
+     Foreign Relations.
+           By Mr. ENZI (for himself and Mr. Menendez):
+       S. Res. 89. A resolution supporting the designation of 
+     March 2017 as ``National Colorectal Cancer Awareness Month''; 
+     considered and agreed to.
+           By Mr. KAINE (for himself and Mr. Warner):
+       S. Con. Res. 9. A concurrent resolution recognizing the 
+     George C. Marshall Museum and George C. Marshall Research 
+     Library in Lexington, Virginia, as the National George C. 
+     Marshall Museum and Library; to the Committee on Energy and 
+     Natural Resources.
+
+                          ____________________
+```
