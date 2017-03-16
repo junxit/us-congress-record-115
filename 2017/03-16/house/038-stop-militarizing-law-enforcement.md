@@ -1,0 +1,37 @@
+---
+granule: CRECB-2017-pt3-Pg4299
+date: 2017-03-16
+edition: CRECB
+section: HOUSE
+page: 4299
+---
+
+# STOP MILITARIZING LAW ENFORCEMENT
+
+```
+                   STOP MILITARIZING LAW ENFORCEMENT
+
+  (Mr. JOHNSON of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. JOHNSON of Georgia. Mr. Speaker, for nearly three decades, State 
+and local law enforcement agencies across America have been flooded 
+with surplus military-grade weaponry through the Pentagon's 1033 
+program.
+  Late last year, law enforcement in North Dakota responded to 
+protesters in Standing Rock in a well-documented, militarized fashion, 
+reminding us of the danger which the use of military equipment by 
+domestic law enforcement poses to the civil liberties of Americans.
+  During the elections, President Trump ran on a promise to restore 
+``law and order.'' I am deeply concerned that the administration will 
+follow up on that promise by making more military equipment available 
+to State and local law enforcement agencies. This would further blur 
+the line between the military and civilian police officers and violate 
+a founding principle of our Nation.
+  For this reason, I am, today, reintroducing the bipartisan Stop 
+Militarizing Law Enforcement Act to rein in the Pentagon's excess 
+property management program and ensure that our communities are not 
+just safe, but that the civil liberties of ordinary Americans continue 
+to be protected.
+
+                          ____________________
+```

@@ -1,0 +1,44 @@
+---
+granule: CRECB-2017-pt3-Pg4298-4
+date: 2017-03-16
+edition: CRECB
+section: HOUSE
+page: 4298
+---
+
+# LET'S FIX AMERICA'S HEALTHCARE SYSTEM
+
+```
+                 LET'S FIX AMERICA'S HEALTHCARE SYSTEM
+
+  (Mr. LOUDERMILK asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. LOUDERMILK. Mr. Speaker, whatever possessed someone to think that 
+a faceless, nameless bureaucrat in an ivory tower in Washington, D.C., 
+who has never been to my district, who has never met with the people, 
+think they know more about what is good for the family and the children 
+of my people than they do?
+  That was a question that was asked of me by a constituent this 
+weekend.
+  What makes you think you know better what is best for my family and 
+my children than I do?
+  He was referring to the Affordable Care Act.
+  He went on to tell me that he used to have an insurance policy that 
+cost $300 a month that he could use. Today, he is paying $1,600 a month 
+for something he cannot use and he doesn't want, but by the force of 
+law, he is forced to have.
+  He went on to say: Will you please, please do something now to fix 
+this problem?
+  Another person said: Are you going to be able to get to a reform to 
+fix America's health care that you like?
+  My answer was no.
+  We are not going to get to something I like, but that is not the 
+issue here. Why? Because America is not ready for what I want. That is 
+true Federalism, that this place has nothing to do with health care.
+  We can't get there right now because we don't have the votes, but we 
+can get to something we need. I call upon my brothers and sisters in 
+the House: Let's fix America's healthcare system. We have the 
+opportunity to do it now.
+
+                          ____________________
+```

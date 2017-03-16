@@ -1,0 +1,41 @@
+---
+granule: CRECB-2017-pt3-Pg4296-3
+date: 2017-03-16
+edition: CRECB
+section: HOUSE
+page: 4296
+---
+
+# HOUSE REPUBLICANS FULFILL PROMISE
+
+```
+                   HOUSE REPUBLICANS FULFILL PROMISE
+
+  (Mr. WILSON of SOUTH CAROLINA asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, an editorial last week in 
+the Post and Courier of Charleston cites ``GOP health bill a start,'' 
+which provided accurate insight into how the American Health Care Act 
+is the first step in a three-step approach on how to put patients back 
+in control of health care.
+  The editorial states: ``Any flaws not withstanding, it's an important 
+step forward for the GOP to put a fully fleshed-out healthcare bill on 
+the table. . . . But there is certainly cause for optimism that a 
+tweaked . . . healthcare bill can at least bandage and begin to cure 
+some of the festering wounds left by ObamaCare. . . .
+  ``Republicans have a chance to make things right. They have a chance 
+to help more Americans afford health care in a sustainable and 
+responsible way. They have the chance to place more healthcare 
+decisions in the hands of patients and doctors and fewer in the hands 
+of government.
+  ``The bill introduced on Tuesday is a first step in the right 
+direction. . . .''
+  I appreciate the positive vision of Speaker Paul Ryan with President 
+Donald Trump and his team of OMB Director Mick Mulvaney and HHS 
+Secretary Tom Price.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism to defeat Islamic 
+extremist terrorists.
+
+                          ____________________
+```
