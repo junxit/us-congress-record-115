@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-03-16-pt1-PgH2139
+date: 2017-03-16
+edition: CREC
+section: HOUSE
+page: H2139
+citation: 163 Cong. Rec. H2139
+---
+
+# CELEBRATING THE LIFE OF LOUISE HOPKINS UNDERWOOD
+
+**Speaking:** Arrington, Jodey C. (A000375) [R-TX]
+
+```
+            CELEBRATING THE LIFE OF LOUISE HOPKINS UNDERWOOD
+
+  (Mr. ARRINGTON asked and was given permission to address the House 
+for 1 minute.)
+  Mr. ARRINGTON. Mr. Speaker, I rise today to celebrate the life and 
+legacy of Louise Hopkins Underwood, a west Texas icon who passed away 
+Tuesday, March 7, at the age of 97.
+  Mrs. Underwood was known as a charismatic woman with a sharp sense of 
+humor. A woman loved by all, she was gracious, she was generous, and 
+she was inspirational.
+  Mrs. Underwood was the mother of six and a pioneer in her quest to 
+promote a passion for the arts and a stronger sense of community on the 
+south plains.
+  Our region, which has a rich history better known for farming and 
+ranching, is now also known for the arts, thanks to Mrs. Underwood.
+  Ecclesiastes 7:1 says:
+
+       A good name is better than fine perfume, and the day of 
+     death better than the day of birth.
+
+  Thank you, Mrs. Underwood. Thank you for your fragrant life and for 
+leaving a legacy of a brighter, more colorful west Texas.
+  God bless the Underwood family.
+
+                          ____________________
+```
