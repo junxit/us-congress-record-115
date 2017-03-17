@@ -1,0 +1,32 @@
+---
+granule: CRECB-2017-pt3-Pg4366-9
+date: 2017-03-17
+edition: CRECB
+section: HOUSE
+page: 4366
+---
+
+# LISTENING TO EVERYBODY'S VOICE
+
+```
+                     LISTENING TO EVERYBODY'S VOICE
+
+  (Mr. BOST asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BOST. Mr. Speaker, you can learn a lot when you listen. During 
+times like these, when political infighting makes it difficult to hear 
+everyone's voice, we need to try even harder.
+  Today I would like to encourage all of my constituents in the 
+Illinois 12th District to visit bost.house.gov/yourstory to share your 
+personal perspective on the Affordable Care Act. Again, that is 
+bost.house.gov/yourstory.
+  If the law has helped you and your family receive care you needed, I 
+want to hear about it. If the law has put you in a situation where you 
+don't have insurance or have higher premiums, I want to hear about 
+that, too.
+  It is important that we deal with this healthcare issue and reform it 
+so that it works for all people. And for the people of southern 
+Illinois, I want to hear your story.
+
+                          ____________________
+```

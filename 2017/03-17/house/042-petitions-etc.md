@@ -1,0 +1,29 @@
+---
+granule: CRECB-2017-pt3-Pg4399
+date: 2017-03-17
+edition: CRECB
+section: HOUSE
+page: 4399
+---
+
+# PETITIONS, ETC.
+
+```
+                            PETITIONS, ETC.
+
+  Under clause 3 of rule XII, petitions and papers were laid on the 
+clerk's desk and referred as follows:
+
+       28. The SPEAKER presented a petition of the City Commission 
+     of Miami, FL, relative to Resolution R-17-0023, urging the 
+     President, the United States Congress, and the EPA to 
+     continue supporting the Clean Power Plan, including the 
+     requirements for states to implement individual plans to 
+     comply with the Clean Power Plan's emission standards under 
+     the current established timeframes; to the Committee on 
+     Energy and Commerce.
+       29. Also, a petition of the Pascua Yaqui Tribe of Tucson, 
+     AZ, relative to Resolution No. C02-36-17, regarding the 
+     hiring freeze for the Indian Health Service; to the Committee 
+     on Oversight and Government Reform.
+```
