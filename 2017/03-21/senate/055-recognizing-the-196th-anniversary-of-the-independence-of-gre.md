@@ -1,0 +1,38 @@
+---
+granule: CRECB-2017-pt4-Pg4515
+date: 2017-03-21
+edition: CRECB
+section: SENATE
+page: 4515
+---
+
+# RECOGNIZING THE 196TH ANNIVERSARY OF THE INDEPENDENCE OF GREECE
+
+```
+    RECOGNIZING THE 196TH ANNIVERSARY OF THE INDEPENDENCE OF GREECE
+
+  Mr. SULLIVAN. Mr. President, I ask unanimous consent that the Foreign 
+Relations Committee be discharged from further consideration of S. Res. 
+81 and the Senate proceed to its immediate consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the resolution by title.
+  The senior assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 81) recognizing the 196th anniversary 
+     of the independence of Greece and celebrating democracy in 
+     Greece and the United States.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. SULLIVAN. Mr. President, I ask unanimous consent that the 
+resolution be agreed to, the preamble be agreed to, and the motions to 
+reconsider be considered made and laid upon the table with no 
+intervening action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 81) was agreed to.
+  The preamble was agreed to.
+  (The resolution, with its preamble, is printed in the Record of March 
+6, 2017, under ``Submitted Resolutions.'')
+
+                          ____________________
+```

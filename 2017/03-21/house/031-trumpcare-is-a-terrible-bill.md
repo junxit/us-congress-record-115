@@ -1,0 +1,41 @@
+---
+granule: CRECB-2017-pt4-Pg4524-4
+date: 2017-03-21
+edition: CRECB
+section: HOUSE
+page: 4524
+---
+
+# TRUMPCARE IS A TERRIBLE BILL
+
+```
+                              {time}  1215
+                      TRUMPCARE IS A TERRIBLE BILL
+
+  (Mr. GENE GREEN of Texas asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. GENE GREEN of Texas. Mr. Speaker, this week Republicans plan to 
+vote on TrumpCare to push 24 million Americans off healthcare coverage 
+and saddle families across the country with massive health costs. 
+TrumpCare is an assault on families and a broken promise to the 
+American people.
+  Twenty-four million people will lose their health insurance. It will 
+terminate the assistance that people depend on to afford quality 
+coverage. It will destroy the Medicaid program, the bedrock of our 
+social safety net for more than 50 years.
+  Medicaid covers 74 million children, pregnant women, people with 
+disabilities, and seniors with long-term care needs. Under TrumpCare, 
+deductibles and out-of-pocket costs will skyrocket and families will be 
+exposed to crushing health costs. Premiums will rise dramatically--
+particularly, for older Americans--because TrumpCare allows insurance 
+companies to charge five times higher than what others pay for the 
+average, five times higher for our near senior citizens. This means 
+thousands and thousands of dollars more in premiums, which low-income 
+seniors cannot afford.
+  TrumpCare shortens the life of the Medicare trust fund by 3 years and 
+cuts $880 billion from Medicaid.
+  Mr. Speaker, this is a terrible bill, and it puts the entire 
+healthcare system at risk.
+
+                          ____________________
+```
