@@ -1,0 +1,50 @@
+---
+granule: CREC-2017-03-21-pt1-PgH2267
+date: 2017-03-21
+edition: CREC
+section: HOUSE
+page: H2267
+citation: 163 Cong. Rec. H2267
+---
+
+# VIETNAM WAR VETERANS RECOGNITION ACT OF 2017
+
+**Speaking:** Goodlatte, Bob (G000289) [R-VA]
+
+**Measures:** S. 305
+
+```
+              VIETNAM WAR VETERANS RECOGNITION ACT OF 2017
+
+  Mr. GOODLATTE. Mr. Speaker, I ask unanimous consent that the 
+Committee on the Judiciary be discharged from further consideration of 
+the bill (S. 305) to amend title 4, United States Code, to encourage 
+the display of the flag of the United States on National Vietnam War 
+Veterans Day, and ask for its immediate consideration in the House.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Virginia?
+  There was no objection.
+  The text of the bill is as follows:
+
+                                 S. 305
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Vietnam War Veterans 
+     Recognition Act of 2017''.
+
+     SEC. 2. DISPLAY OF FLAG ON NATIONAL VIETNAM WAR VETERANS DAY.
+
+       Section 6(d) of title 4, United States Code, is amended by 
+     inserting ``National Vietnam War Veterans Day, March 29;'' 
+     after ``third Monday in February;''.
+
+  The bill was ordered to be read a third time, was read the third 
+time, and passed, and a motion to reconsider was laid on the table.
+
+                          ____________________
+```

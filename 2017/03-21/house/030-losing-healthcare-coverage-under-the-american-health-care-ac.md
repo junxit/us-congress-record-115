@@ -1,0 +1,45 @@
+---
+granule: CREC-2017-03-21-pt1-PgH2251-2
+date: 2017-03-21
+edition: CREC
+section: HOUSE
+page: H2251
+citation: 163 Cong. Rec. H2251
+---
+
+# LOSING HEALTHCARE COVERAGE UNDER THE AMERICAN HEALTH CARE ACT
+
+**Speaking:** Bass, Karen (B001270) [D-CA]
+
+```
+     LOSING HEALTHCARE COVERAGE UNDER THE AMERICAN HEALTH CARE ACT
+
+  (Ms. BASS asked and was given permission to address the House for 1 
+minute.)
+  Ms. BASS. Mr. Speaker, since January I have received hundreds of 
+messages from constituents who are panicked that they will lose 
+healthcare coverage with the Republican plan, where people will pay 
+more for less.
+  Although the talking points of the Republican plan references access 
+to health care, care will only be accessible for people with enough 
+money to pay.
+  A message I received from Vera Caldas:
+
+       My husband has leukemia, and if it wasn't for the ACA, he 
+     would be dead by now. I am living in fear that if he loses 
+     ObamaCare, that will mean his death sentence since he won't 
+     be able to afford insurance to continue his treatment.
+
+  A message from Lee Portillo:
+
+       The ACA allowed my wife to start her Silicon Valley beach 
+     business in Venice, California and still have access to 
+     health care. The ACA is pro small entrepreneur and gives us 
+     the freedom to work on our own and still have insurance.
+
+  My constituents, like millions across the Nation, are afraid they 
+might be one of the 14 million people who will lose coverage if the 
+Republican plan is passed.
+
+                          ____________________
+```

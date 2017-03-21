@@ -1,0 +1,54 @@
+---
+granule: CREC-2017-03-21-pt1-PgS1858-2
+date: 2017-03-21
+edition: CREC
+section: SENATE
+page: S1858
+citation: 163 Cong. Rec. S1858
+---
+
+# CONGRESSIONAL REVIEW ACT RESOLUTION
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY], Schumer, Charles E. (S000148) [D-NY]
+
+```
+                  CONGRESSIONAL REVIEW ACT RESOLUTION
+
+  Mr. McCONNELL. Mr. President, on one final matter, over the past 
+several weeks, the Senate has been working to bring much needed relief 
+from the regulatory onslaught of the last 8 years. Using the 
+Congressional Review Act, or CRA, we have already taken action to end 
+regulations that threaten jobs, weaken our economy, and undermine 
+States' authority. Today we will continue to move forward with our 
+efforts to block more unnecessary regulations that hold our country 
+back in a number of ways. The CRA resolution that we will consider 
+today will end regulation that undercuts Alaska's ability to manage its 
+fish and wildlife resources. As a coalition of hunters, fishing 
+enthusiasts, and conservationists recently wrote me, ``Congress 
+promised that the citizens of Alaska, working through their Department 
+of Fish and Game would be able to manage their own fish and wildlife, 
+as do the other 49 states.''
+  Passing this CRA resolution will roll back the administration's 
+overreach and restore the State-Federal balance that Congress 
+originally intended. Our colleagues from Alaska, Senator Murkowski and 
+Senator Sullivan, are the sponsors of this resolution we will consider 
+today. They know the damage this regulation would do to their home 
+State. They have been working to do something about it.
+  They have also been quick to point out the concerning precedent this 
+rule would mean for the rest of the States. I appreciate their 
+leadership on this issue and look forward to joining them in 
+overturning this harmful Obama administration regulation as soon as 
+possible.
+
+[[Page S1859]]
+
+  Mr. President, I suggest the absence of a quorum.
+  The ACTING PRESIDENT pro tempore. The clerk will call the roll.
+  The senior assistant legislative clerk proceeded to call the roll.
+  Mr. SCHUMER. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+
+                          ____________________
+```

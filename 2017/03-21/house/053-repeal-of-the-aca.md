@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-03-21-pt1-PgH2277-2
+date: 2017-03-21
+edition: CREC
+section: HOUSE
+page: H2277
+citation: 163 Cong. Rec. H2277
+---
+
+# REPEAL OF THE ACA
+
+**Speaking:** Langevin, James R. (L000559) [D-RI]
+
+```
+                              {time}  1700
+                           REPEAL OF THE ACA
+
+  (Mr. LANGEVIN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LANGEVIN. Mr. Speaker, exactly 7 years after the Affordable Care 
+Act became law, we now anticipate a vote this week on a Republican plan 
+to gut it.
+  Mr. Speaker, the ACA expanded health coverage to 20 million people 
+and expanded Medicaid to help our most vulnerable populations, changes 
+that resulted in coverage for more than 100,000 Rhode Islanders.
+  Last week, I joined Democratic colleagues at a hearing to discuss the 
+Republican plan, a hearing Republicans should have organized to assess 
+the impact of their bill, which CBO estimates will result in 14 million 
+additional uninsured by 2018 and 24 million people losing their health 
+insurance by 2026.
+  Mr. Speaker, the Republican plan is not the solution to strengthen 
+our health system. It ignores the sick, the poor, the disabled, and the 
+elderly. Mr. Speaker, Americans cannot benefit from the systemic 
+changes in care delivery, the breakthrough treatments of tomorrow, or 
+improved access to today's therapies if the Republican plan is passed.
+  Mr. Speaker, we should be working in a bipartisan way to improve the 
+Affordable Care Act, not gutting it.
+
+                          ____________________
+```

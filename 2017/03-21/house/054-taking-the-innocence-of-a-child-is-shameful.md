@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-03-21-pt1-PgH2277-3
+date: 2017-03-21
+edition: CREC
+section: HOUSE
+page: H2277
+citation: 163 Cong. Rec. H2277
+---
+
+# TAKING THE INNOCENCE OF A CHILD IS SHAMEFUL
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+              TAKING THE INNOCENCE OF A CHILD IS SHAMEFUL
+
+  (Mr. POE of Texas asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. POE of Texas. Mr. Speaker, a 14-year-old girl last week was 
+kidnapped off the streets of Houston, Texas. After being held against 
+her will for 5 days, she was taken to a motel, where she met a person 
+named Denise Coronado.
+  But Coronado was no friend. Instead, she threatened the girl. 
+Coronado ground cigarettes into the girl's body. She threatened 
+everyone that the child loved. She published photographs of the girl on 
+backpage.com, selling her on the marketplace of sex slavery. In a 1-
+week period, the young girl was forced to have sex with more than 20 
+men. Finally she escaped.
+  But, Mr. Speaker, the reality is that the victim sometimes never 
+truly escapes. The horrors sometimes live with them forever. We can no 
+longer be ignorant to modern day slavery. My legislation, the Shame 
+Act, gives Federal judges the ability to publish the names and 
+photographs of convicted buyers and sellers of humans.
+  Those who sell or buy the innocence of children should be shamed for 
+all to see. Put their photographs on backpage.com.
+
+[[Page H2278]]
+
+  And that is just the way it is.
+
+                          ____________________
+```
