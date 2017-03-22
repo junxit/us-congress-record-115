@@ -1,0 +1,37 @@
+---
+granule: CRECB-2017-pt4-Pg4627-2
+date: 2017-03-22
+edition: CRECB
+section: HOUSE
+page: 4627
+---
+
+# AMERICAN HEALTH CARE ACT MAKES US INSECURE
+
+```
+               AMERICAN HEALTH CARE ACT MAKES US INSECURE
+
+  (Mr. PANETTA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PANETTA. Mr. Speaker, I rise today in opposition to the American 
+Health Care Act and the repeal of the Affordable Care Act.
+  Since the passage of the Affordable Care Act 7 years ago, in my 
+district, the uninsured rate has dropped from 19 percent to 9 percent. 
+In my district, there has been the creation and the funding of 6,500 
+jobs in local hospitals and rural healthcare clinics.
+  Yet, despite this progress in my community and across our country, 
+the majority wants to replace the ACA with a quickly and carelessly 
+crafted AHCA.
+  If the AHCA becomes law, in my district, 56,000 people will lose 
+their healthcare coverage. In Salinas, hardworking families will pay 
+more than $3,000 for healthcare coverage; and in Santa Cruz, low-income 
+senior citizens will be stripped of $10,000 worth of subsidies.
+  Yes, the ACA does have its faults, but we should come together to 
+thoughtfully fix it. But it is not just about money; it is about 
+people. And it is not just about people; it is about the security that 
+the ACA provides people to live their daily lives.
+  Mr. Speaker, the AHCA makes us insecure, and that is why I am voting 
+against it.
+
+                          ____________________
+```

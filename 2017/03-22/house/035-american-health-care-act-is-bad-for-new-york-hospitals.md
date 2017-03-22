@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt4-Pg4626-3
+date: 2017-03-22
+edition: CRECB
+section: HOUSE
+page: 4626
+---
+
+# AMERICAN HEALTH CARE ACT IS BAD FOR NEW YORK HOSPITALS
+
+```
+                              {time}  1215
+         AMERICAN HEALTH CARE ACT IS BAD FOR NEW YORK HOSPITALS
+
+  (Mrs. CAROLYN B. MALONEY of New York asked and was given permission 
+to address the House for 1 minute.)
+  Mrs. CAROLYN B. MALONEY of New York. Mr. Speaker, the GOP's awful, 
+irresponsible healthcare bill will impose an age tax on older 
+Americans, it will raise your premiums, and it will be absolutely 
+disastrous to our Nation's hospitals.
+  In my district in New York, our hospitals serve millions of people 
+every day, and their budgets are already stretched. The GOP healthcare 
+bill will rip away health insurance for over 24 million Americans, 
+forcing more people to get care in high-cost emergency rooms while, at 
+the same time, cutting billions in Federal funding hospitals need to 
+survive.
+  New York's hospitals will lose over $1 billion in 2018 alone. With 
+uncompensated care already skyrocketing, the 27 New York hospitals that 
+are already on a financial distress watch list tell me they may not 
+even be able to survive. That is why the Greater New York Hospital 
+Association, the Healthcare Association of New York State, and other 
+New York health groups are urging all of us to vote ``no'' on this 
+terrible GOP bill.
+
+                          ____________________
+```

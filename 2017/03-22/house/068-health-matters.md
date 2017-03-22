@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt4-Pg4659-5
+date: 2017-03-22
+edition: CRECB
+section: HOUSE
+page: 4659
+---
+
+# HEALTH MATTERS
+
+```
+                             HEALTH MATTERS
+
+  (Mr. CLEAVER asked and was given permission to address the House for 
+1 minute.)
+  Mr. CLEAVER. Mr. Speaker, yesterday I spoke with a dynamic, 
+impressive young woman, Maryn White, from Lee's Summit, Missouri.
+  Maryn is a 16-year-old sophomore at Lee's Summit West High School. 
+When she was 10 years old, she was diagnosed with ulcerative colitis. 
+Despite a lot of pain and a number of major surgeries, Maryn is active 
+in her high school and is raising money for a cure.
+  Maryn was the winner of the Dream Factory of Kansas City. Instead of 
+going on a cruise ship or some tour to an exotic place, she came to 
+Washington to talk to people who are about
+
+[[Page 4660]]
+
+to vote on her health. She is absolutely infuriated that money is not 
+going to the NIH to continue to do research for a cure.
+  There are thousands of similar stories all over the country. This is 
+not a political matter, this is a matter of life and death for people 
+all over this country.
+  Yes, I am saying that TrumpCare will make America ache again.
+
+                          ____________________
+```
