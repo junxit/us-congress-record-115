@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-03-22-pt1-PgH2301-3
+date: 2017-03-22
+edition: CREC
+section: HOUSE
+page: H2301
+citation: 163 Cong. Rec. H2301
+---
+
+# OPPOSING THE GOP AMERICAN HEALTH CARE ACT REPEAL BILL
+
+**Speaking:** Blunt Rochester, Lisa (B001303) [D-DE]
+
+**Measures:** H.R. 1628
+
+```
+         OPPOSING THE GOP AMERICAN HEALTH CARE ACT REPEAL BILL
+
+  (Ms. BLUNT ROCHESTER asked and was given permission to address the 
+House for 1 minute.)
+  Ms. BLUNT ROCHESTER. Mr. Speaker, I know that I am new to the House, 
+but I was elected by my constituents to reach across the aisle and get 
+things done.
+  Sadly, instead of reaching across the aisle to work on commonsense 
+fixes to the Affordable Care Act, some of my Republican colleagues have 
+decided to push through a healthcare bill that, instead of increasing 
+health coverage, actually takes it away from more than 24 million 
+people and imposes an age tax.
+  In my State alone, this bill will cut Medicaid coverage for 60,000 
+individuals and result in a $170 million loss of Federal funds at a 
+time when my State is facing a major budget shortfall. Additionally, 
+almost 22,000 individuals in my State will lose access to employer-
+sponsored insurance, and more than 6,000 individuals who are currently 
+receiving coverage through our healthcare exchange will lose coverage 
+as a result of this bill.
+  Mr. Speaker, given its impact on our Nation's working families and 
+our most vulnerable citizens, I believe passage of this bill would be 
+an act of medical malpractice--pun intended. So I urge all of my 
+colleagues to vote ``no'' on H.R. 1628.
+
+                          ____________________
+```

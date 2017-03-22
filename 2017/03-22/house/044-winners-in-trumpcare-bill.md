@@ -1,0 +1,35 @@
+---
+granule: CREC-2017-03-22-pt1-PgH2302-4
+date: 2017-03-22
+edition: CREC
+section: HOUSE
+page: H2302
+citation: 163 Cong. Rec. H2302
+---
+
+# WINNERS IN TRUMPCARE BILL
+
+**Speaking:** Davis, Susan A. (D000598) [D-CA]
+
+```
+                       WINNERS IN TRUMPCARE BILL
+
+  (Mrs. DAVIS of California asked and was given permission to address 
+the House for 1 minute.)
+  Mrs. DAVIS of California. Mr. Speaker, I understand that major laws 
+often have winners and losers. Unfortunately, I am struggling to figure 
+out who wins under this healthcare plan.
+  We have seen who stands to lose: 24 million fewer people will have 
+insurance; States will lose billions, forcing painful cuts to education 
+and other services; California, alone, will lose $6 billion in 2020 and 
+much more in the years that follow; hospitals and clinics will have to 
+cut back on services and investments.
+  So, who are the winners? It is hard to find any, except, of course, 
+for insurance companies and millionaires who will get almost all of the 
+tax relief included in this package.
+  Do Americans really think that we should pass a bill that cuts 
+coverage in order to give millionaires an average tax cut of $49,000?
+  We can do better. I hope we will.
+
+                          ____________________
+```

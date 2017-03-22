@@ -1,0 +1,45 @@
+---
+granule: CREC-2017-03-22-pt1-PgS1935-3
+date: 2017-03-22
+edition: CREC
+section: SENATE
+page: S1935
+citation: 163 Cong. Rec. S1935
+---
+
+# APPOINTMENTS
+
+```
+                              APPOINTMENTS
+
+  The PRESIDING OFFICER. The Chair, on behalf of the Vice President, 
+pursuant to 10 U.S.C. 4355(a), appoints the following Senators to the 
+Board of Visitors of the U.S. Military Academy: the Honorable Kirsten 
+E. Gillibrand of New York (Committee on Armed Services) and the 
+Honorable Christopher Murphy of Connecticut (Committee on 
+Appropriations).
+  The Chair, on behalf of the Vice President, pursuant to Section 
+1295b(h) of title 46 App., United States Code, appoints the following 
+Senators to the Board of Visitors of the U.S. Merchant Marine Academy: 
+the Honorable Gary C. Peters of Michigan (At Large) and the Honorable 
+Brian Schatz of Hawaii (Committee on Commerce, Science and 
+Transportation).
+  The Chair, on behalf of the Vice President, pursuant to 14 U.S.C. 
+194(a), as amended by Public Law 101-595, and further amended by Public 
+Law 113-281, appoints the following Senators to the Board of Visitors 
+of the U.S. Coast Guard Academy: the Honorable Maria Cantwell of 
+Washington (Committee on Commerce, Science and Transportation) and the 
+Honorable Richard Blumenthal of Connecticut (At Large).
+  The Chair, on behalf of the Vice President, pursuant to 10 U.S.C. 
+6968(a), appoints the following Senators to the Board of Visitors of 
+the U.S. Naval Academy: the Honorable Jeanne Shaheen of New Hampshire 
+(Committee on Appropriations) and the Honorable Benjamin Cardin of 
+Maryland (At Large).
+  The Chair, on behalf of the Vice President, pursuant to 10 U.S.C. 
+9355(a), appoints the following Senators to the Board of Visitors of 
+the U.S. Air Force Academy: the Honorable Tom Udall of New Mexico 
+(Committee on Appropriations) and the Honorable Mazie K. Hirono of 
+Hawaii (Committee on Armed Services).
+
+                          ____________________
+```

@@ -1,0 +1,19 @@
+---
+granule: CREC-2017-03-22-pt1-PgS1940
+date: 2017-03-22
+edition: CREC
+section: SENATE
+page: S1940
+citation: 163 Cong. Rec. S1940
+---
+
+# ADJOURNMENT UNTIL 9:30 A.M. TOMORROW
+
+```
+                  ADJOURNMENT UNTIL 9:30 A.M. TOMORROW
+
+  The PRESIDING OFFICER. Under the previous order, the Senate stands 
+adjourned until 9:30 a.m. tomorrow.
+  Thereupon, the Senate, at 7:07 p.m., adjourned until Thursday, March 
+23, 2017, at 9:30 a.m.
+```

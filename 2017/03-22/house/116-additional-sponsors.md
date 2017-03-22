@@ -1,0 +1,134 @@
+---
+granule: CREC-2017-03-22-pt1-PgH2350-14
+date: 2017-03-22
+edition: CREC
+section: HOUSE
+page: H2350
+citation: 163 Cong. Rec. H2350
+---
+
+# ADDITIONAL SPONSORS
+
+**Measures:** H.J.Res. 6, H.Con.Res. 13, H.Con.Res. 20, H.Res. 30, H.R. 38, H.R. 44, H.Res. 46, H.J.Res. 53, H.Res. 54, H.J.Res. 56, H.J.Res. 59, H.Res. 78, H.Res. 128, H.R. 159, H.R. 160, H.R. 179, H.Res. 184, H.R. 308, H.R. 314, H.R. 350, H.R. 371, H.R. 392, H.R. 463, H.R. 530, H.R. 544, H.R. 548, H.R. 553, H.R. 620, H.R. 632, H.R. 644, H.R. 676, H.R. 721, H.R. 747, H.R. 756, H.R. 772, H.R. 799, H.R. 804, H.R. 810, H.R. 830, H.R. 849, H.R. 855, H.R. 873, H.R. 881, H.R. 891, H.R. 909, H.R. 914, H.R. 918, H.R. 919, H.R. 966, H.R. 973, H.R. 986, H.R. 1001, H.R. 1005, H.R. 1017, H.R. 1046, H.R. 1071, H.R. 1116, H.R. 1130, H.R. 1136, H.R. 1144, H.R. 1148, H.R. 1149, H.R. 1186, H.R. 1225, H.R. 1243, H.R. 1272, H.R. 1316, H.R. 1339, H.R. 1361, H.R. 1406, H.R. 1409, H.R. 1426, H.R. 1436, H.R. 1444, H.R. 1450, H.R. 1456, H.R. 1473, H.R. 1483, H.R. 1488, H.R. 1515, H.R. 1525, H.R. 1542, H.R. 1552, H.R. 1555, H.R. 1580, H.R. 1588, H.R. 1613, H.R. 1656
+
+```
+                          ADDITIONAL SPONSORS
+
+  Under clause 7 of rule XII, sponsors were added to public bills and 
+resolutions, as follows:
+
+       H.R. 38: Mr. Blum.
+       H.R. 44: Mr. Taylor.
+       H.R. 159: Mr. Cicilline and Mr. Raskin.
+       H.R. 160: Mr. DeSaulnier and Ms. Norton.
+       H.R. 179: Mr. Bishop of Georgia, Mr. Brady of Pennsylvania, 
+     and Mr. Stivers.
+       H.R. 308: Mr. Arrington.
+       H.R. 314: Mr. Wittman.
+       H.R. 350: Mr. Ratcliffe.
+       H.R. 371: Mr. Cartwright, Ms. Norton, and Mr. Panetta.
+       H.R. 392: Mr. Calvert, Mr. Cole, Ms. Eddie Bernice Johnson 
+     of Texas, Mr. Nolan, Mr. Polis, and Mr. Larson of 
+     Connecticut.
+       H.R. 463: Mr. Joyce of Ohio and Mr. Roskam.
+       H.R. 530: Mr. Grijalva.
+       H.R. 544: Mr. Peters and Mr. DeFazio.
+       H.R. 548: Mr. Poliquin.
+       H.R. 553: Mr. Griffith and Mr. Renacci.
+       H.R. 620: Mr. Correa and Mr. Collins of Georgia.
+       H.R. 632: Mr. Moulton.
+       H.R. 644: Mr. Young of Iowa.
+       H.R. 676: Mrs. Carolyn B. Maloney of New York, Mr. 
+     Espaillat, and Ms. Barragan.
+       H.R. 721: Mr. Polis and Mr. Babin.
+       H.R. 747: Mr. Kildee, Mr. Conyers, and Mr. Hunter.
+       H.R. 756: Mr. Fortenberry, Mr. Young of Iowa, Mr. 
+     Ruppersberger, and Mr. David Scott of Georgia.
+       H.R. 772: Mr. Rutherford.
+       H.R. 799: Mr. Wenstrup and Mr. Wilson of South Carolina.
+       H.R. 804: Mr. Larson of Connecticut and Mrs. Davis of 
+     California.
+       H.R. 810: Mr. Gutierrez, Ms. Wasserman Schultz, Mrs. 
+     Torres, and Mr. Quigley.
+       H.R. 830: Mr. Diaz-Balart.
+       H.R. 849: Mr. Walberg, Mr. Sam Johnson of Texas, Mr. 
+     Courtney, Mr. Jody B. Hice of Georgia, Mr. O'Halleran, Mr. 
+     Peters, and Ms. Brownley of California.
+       H.R. 855: Mr. Grijalva and Mr. Kilmer.
+       H.R. 873: Mr. Walz.
+       H.R. 881: Mr. Olson.
+       H.R. 891: Mr. Jordan and Mr. Crawford.
+       H.R. 909: Mr. Brown of Maryland.
+       H.R. 914: Mr. Lynch.
+       H.R. 918: Mr. Buchanan.
+       H.R. 919: Mr. Lawson of Florida and Mrs. Carolyn B. Maloney 
+     of New York.
+       H.R. 966: Mr. Cartwright.
+       H.R. 973: Mr. Amodei.
+       H.R. 986: Mr. Emmer.
+       H.R. 1001: Mr. Peters, Mr. Kind, and Mr. Courtney.
+       H.R. 1005: Mr. Katko and Ms. Shea-Porter.
+       H.R. 1017: Ms. Lofgren.
+       H.R. 1046: Mr. Kind.
+       H.R. 1071: Mr. Kuster of New Hampshire.
+       H.R. 1116: Mr. Jenkins of West Virginia, Mr. Peterson, Mr. 
+     Marshall, Mr. McKinley, Mr. Cramer, and Mr. Renacci.
+       H.R. 1130: Mr. Abraham.
+       H.R. 1136: Mr. Long, Mr. Hudson, and Mr. Moolenaar.
+       H.R. 1144: Mr. Huffman.
+       H.R. 1148: Mr. Rutherford.
+       H.R. 1149: Mr. Graves of Georgia.
+       H.R. 1186: Mr. Cartwright.
+       H.R. 1225: Mr. Long.
+       H.R. 1243: Mr. Aguilar and Mr. Kihuen.
+       H.R. 1272: Mrs. Watson Coleman.
+       H.R. 1316: Mr. Wittman.
+       H.R. 1339: Mr. Lewis of Minnesota.
+       H.R. 1361: Mr. Moore.
+       H.R. 1406: Mr. Raskin, Mr. Cohen, Mr. Soto, Mr. Cleaver, 
+     Mrs. Demings, and Mr. Quigley.
+       H.R. 1409: Mr. Blumenauer, Mr. McKinley, and Mr. Kennedy.
+       H.R. 1426: Mr. Cramer.
+       H.R. 1436: Mr. Farenthold.
+       H.R. 1444: Mr. Chabot and Mr. Renacci.
+       H.R. 1450: Mr. Wittman.
+       H.R. 1456: Mr. Kuster of New Hampshire, Mr. Gene Green of 
+     Texas, and Mr. DeFazio.
+       H.R. 1473: Mr. Rush, Mr. DeFazio, and Mr. Ellison.
+       H.R. 1483: Mrs. McMorris Rodgers.
+       H.R. 1488: Mr. Quigley.
+       H.R. 1515: Mr. Katko.
+       H.R. 1525: Mr. Yoho.
+       H.R. 1542: Mr. Khanna, Mr. Sarbanes, Mr. Wittman, Mr. Ryan 
+     of Ohio, Mr. Soto, Mr. Blum, and Mr. Bishop of Georgia.
+       H.R. 1552: Mr. Jody B. Hice of Georgia.
+       H.R. 1555: Ms. Moore, Mr. Mooney of West Virginia, and Mr. 
+     Brady of Pennsylvania.
+       H.R. 1580: Mr. Collins of New York.
+       H.R. 1588: Mr. Khanna.
+       H.R. 1613: Mr. Stivers.
+       H.R. 1656: Mr. Peters.
+       H.J. Res. 6: Mr. Lucas and Mr. Ferguson.
+       H.J. Res. 53: Mr. Carbajal.
+       H.J. Res. 56: Mr. Mooney of West Virginia.
+       H.J. Res. 59: Mr. Graves of Louisiana, Mr. Farenthold, and 
+     Mr. Graves of Georgia.
+       H. Con. Res. 13: Mr. Vela, Mr. Hastings, Mr. Cuellar, Mr. 
+     Graves of Georgia, Mr. Sires, Mr. Zeldin, Mr. Visclosky, and 
+     Mr. Brat.
+       H. Con. Res. 20: Miss Rice of New York.
+       H. Res. 30: Mr. Moulton, Mr. Carson of Indiana, Mr. Evans, 
+     Mr. Gottheimer, Mr. Crist, Mr. Collins of New York, Mrs. 
+     Demings, Mr. Barr, Ms. Michelle Lujan Grisham of New Mexico, 
+     and Ms. Jackson Lee.
+       H. Res. 46: Mr. Peters.
+       H. Res. 54: Mr. Cardenas.
+       H. Res. 78: Ms. Adams.
+       H. Res. 128: Mr. Sessions, Mr. Paulsen, Mr. Grijalva, Mr. 
+     Tipton, and Mr. Hudson.
+       H. Res. 184: Ms. Pingree, Ms. Wasserman Schultz, Mr. 
+     Kennedy, Ms. Speier, Mr. Pascrell, Ms. Clarke of New York, 
+     Ms. Frankel of Florida, and Mr. Panetta.
+
+                          ____________________
+```

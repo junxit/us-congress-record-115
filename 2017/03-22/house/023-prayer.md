@@ -1,0 +1,35 @@
+---
+granule: CREC-2017-03-22-pt1-PgH2299-3
+date: 2017-03-22
+edition: CREC
+section: HOUSE
+page: H2299
+citation: 163 Cong. Rec. H2299
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  Dr. Tom Smiley, Lakewood Baptist Church, Gainesville, Georgia, 
+offered the following prayer:
+  In the name that is above every name, in the name of the One by whom 
+all things were created and by whom all things created are sustained, 
+in the name of the One who was crucified for the sins of all people, 
+raised on the third day, and who, upon His return, every knee will bow 
+and every tongue confess is Lord, in the name of Jesus, my Savior and 
+my Lord, today, I ask:
+  Draw near unto thyself the heart of any in this body who still remain 
+far from You.
+  Give confidence and courage to all who govern from this House, to be 
+unashamed of the Judeo-Christian ethic, which has led this Nation to 
+prominence and prosperity above all other nations.
+  And Father, remind all, who by faith trust You that Your love wants 
+what is best for us, Your wisdom knows what is best for us, and Your 
+power will accomplish what is best for us.
+  In Jesus' name and God's people.
+  Amen.
+
+                          ____________________
+```
