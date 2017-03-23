@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt4-Pg4725-4
+date: 2017-03-23
+edition: CRECB
+section: SENATE
+page: 4725
+---
+
+# AUTHORIZING THE PRINTING OF A COLLECTION OF THE RULES OF THE COMMITTEES OF THE SENATE
+
+```
+AUTHORIZING THE PRINTING OF A COLLECTION OF THE RULES OF THE COMMITTEES 
+                             OF THE SENATE
+
+  Mr. SULLIVAN. Mr. President, I ask unanimous consent that the Senate 
+proceed to the consideration of S. Res. 97, submitted earlier today.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 97) authorizing the printing of a 
+     collection of the rules of the committees of the Senate.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. SULLIVAN. Mr. President, I ask unanimous consent that the 
+resolution be agreed to and the motion to reconsider be considered made 
+and laid upon the table with no intervening action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 97) was agreed to.
+  (The resolution is printed in today's Record under ``Submitted 
+Resolutions.'')
+
+                          ____________________
+```
