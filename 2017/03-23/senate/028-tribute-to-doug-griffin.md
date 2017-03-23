@@ -1,0 +1,45 @@
+---
+granule: CREC-2017-03-23-pt1-PgS1969
+date: 2017-03-23
+edition: CREC
+section: SENATE
+page: S1969
+citation: 163 Cong. Rec. S1969
+---
+
+# TRIBUTE TO DOUG GRIFFIN
+
+**Speaking:** Hassan, Margaret Wood (H001076) [D-NH]
+
+```
+                        TRIBUTE TO DOUG GRIFFIN
+
+● Ms. HASSAN. Mr. President, today I wish to ask my colleagues 
+to join me in recognizing and congratulating Doug Griffin of Newton, 
+NH, for being named an ``Advocate of the Year'' by the Addiction Policy 
+Forum. After Mr. Griffin lost his daughter Courtney to an opioid 
+overdose in September 2014, he became a passionate advocate, determined 
+to increase awareness of the opioid epidemic in the State of New 
+Hampshire. Granite Staters and Americans impacted by this urgent crisis 
+owe him a debt of gratitude for his work, and I am grateful that the 
+Addiction Policy Forum has honored him with this distinction.
+  Mr. Griffin has been a leader in calling for easier access to 
+naloxone, Narcan, for families at risk of an overdose, even testifying 
+on the issue before the New Hampshire State Legislature. My colleagues 
+in the U.S. Senate remember Mr. Griffin from his testimony on the rise 
+of opioid-related deaths and the importance of passing the 
+Comprehensive Addiction and Recovery Act last year. In addition to his 
+role as cochair of the Addiction Policy Forum's families committee, Mr. 
+Griffin has spearheaded several local efforts in the Granite State, 
+including hosting a monthly church service for people with substance 
+use disorders and their families, a club for young students to raise 
+awareness of the dangers of opioids, and a project to create a farm-
+based sober living facility for those in recovery.
+  New Hampshire has benefited greatly from Mr. Griffin's devotion and 
+leadership. On behalf of my colleagues and the U.S. Congress, I thank 
+Mr. Griffin for all the advocacy work he has done and continues to do. 
+I congratulate him again on being named one of the Addiction Policy 
+Forum's ``Advocates of the Year''.●
+
+                          ____________________
+```

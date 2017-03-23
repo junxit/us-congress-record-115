@@ -1,0 +1,425 @@
+---
+granule: CREC-2017-03-23-pt1-PgS1955-2
+date: 2017-03-23
+edition: CREC
+section: SENATE
+page: S1955
+citation: 163 Cong. Rec. S1955
+---
+
+# EXECUTIVE CALENDAR (Executive Session)
+
+**Speaking:** Schatz, Brian (S001194) [D-HI], Udall, Tom (U000039) [D-NM], Franken, Al (F000457) [D-MN], Leahy, Patrick J. (L000174) [D-VT], Van Hollen, Chris (V000128) [D-MD], Rounds, Mike (R000605) [R-SD]
+
+```
+                           EXECUTIVE CALENDAR
+
+  The PRESIDING OFFICER. The clerk will report the nomination.
+  The senior assistant legislative clerk read the nomination of David 
+Friedman, of New York, to be Ambassador Extraordinary and 
+Plenipotentiary of the United States of America to Israel.
+  The PRESIDING OFFICER. The Senator from Hawaii.
+  Mr. SCHATZ. Mr. President, I would like to talk about U.S. support 
+for Israel. It used to be that U.S. support for Israel was bipartisan. 
+One of the most deeply disappointing realities in Washington today is 
+that this support is becoming characterized as increasingly partisan. 
+That is because--what happened was Republicans came out against one of 
+President Obama's signature foreign policy achievements, the Iran 
+nuclear deal.
+  That opposition came in the face of consensus among national security 
+experts across the political spectrum, both here and in Israel, that 
+this deal was good for the security of Israel. Ultimately, what 
+happened is, it politicized our foreign policy in the Middle East to 
+the point that what would have otherwise been a bipartisan vote for a 
+bipartisan consensus Ambassador to the country of Israel from the 
+United States, will now be confirmed along mostly party lines.
+  People will look at this confirmation and say: U.S. support for 
+Israel now exists largely on a partisan basis. Let's be clear. It does 
+not. I support every penny that goes to Israel. I think it is critical 
+that the country maintains its qualitative military edge in the region, 
+and I take a backseat to no one in my personal or professional passion 
+for the United States-Israel relationship.
+  That is why I cannot support Mr. Friedman's nomination to be the U.S. 
+Ambassador to Israel. He has radical views. He has made outrageous and 
+offensive statements on a wide range of issues.
+  Here is a sampling of his past comments. Mr. Friedman has said that 
+the State Department is anti-Semitic. He has said that President Obama 
+is an anti-Semite. He has said that the two-state solution solves a 
+``nonexistent problem.'' Mr. Friedman has called for Israeli citizens 
+who are Arabs to be stripped of their civil rights. He has lobbed one 
+of the worst words in Jewish history at large parts of the American 
+Jewish community, calling them ``kapos,'' which is a term for the Jews 
+who worked for the Nazis in concentration camps. These are more than 
+just provocative statements by Mr. Friedman; they are lies.
+  For decades, the United States has stood firm as an honest broker of 
+peace. We have said to both sides that they can trust us to help end 
+this conflict, and that is based on the principle that the United 
+States is passionate about peace in Israel but dispassionate about how 
+we get there. Mr. Friedman is not objective about how we get there. On 
+the contrary, he is very passionately for settlements, and he is very 
+passionately against the two-state solution, which means he is 
+basically against decades of bipartisan U.S. foreign policy.
+  Just a few months ago, the organization he led advertised that they 
+have a new program that will train students to ``successfully 
+delegitimize the notion of a two-state solution.'' This group is 
+actively working to take the two-state solution off the table.
+  I understand that the Senate is not fully aligned on U.S. foreign 
+policy when it comes to Israel. I understand we have our disagreements. 
+We may disagree on whether a two-state solution is best, on where our 
+Embassy should be located, and on how to approach the peace process, 
+but there are some things we ought to be able to agree upon: that our 
+Ambassador to Israel should not be more involved in Israel's politics 
+than our own, that our Ambassador to Israel should not be so 
+provocative that they wouldn't even be welcome at the negotiating 
+table, and that our Ambassador should not be the kind of person who 
+uses language to fuel violence, hate, and instability. That means we 
+should be able to agree that our Ambassador to Israel cannot be Mr. 
+Friedman.
+
+[[Page S1956]]
+
+  I urge my colleagues to join me in voting no to support U.S.-Israel 
+relations and reject Mr. Friedman's confirmation.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from New Mexico.
+  Mr. UDALL. Mr. President, the Middle East poses some of the most 
+difficult diplomatic challenges faced by our Nation. The region is 
+troubled, unstable, sometimes dangerous. Conflicts span over centuries. 
+Peace throughout the region seems distant and far away. And the 
+problematic powers, like Iran, Syria, Hezbollah, and Russia, promote 
+their own interests in the area, sometimes violently, and those 
+interests are often contrary to ours.
+  The United States is deeply involved throughout the region. Israel is 
+America's staunchest ally in the Middle East and one of our closest 
+friends on the world stage. The United States has had and will continue 
+to have a special relationship with Israel, and our country will 
+continue to protect and aid Israel to help secure her survival.
+  I am a strong supporter of Israel. I believe that a qualitative 
+military edge is necessary for the safety of Israel, and I have always 
+voted to support military aid. I have also been a strong supporter of 
+the two-state solution. A peaceful resolution between Israel and the 
+Palestinian people would help heal the source of many of the 
+insecurities facing Israel, but peace has eluded Israel and the 
+Palestinians for decades. Mutual distrust runs deep. Tensions are high 
+between Israel and many of its neighbors.
+  For all these reasons, the ambassadorship to Israel is one of the 
+State Department's most important diplomatic posts and one of the most 
+sensitive. Since Israel became a nation, the post has been held by 18 
+of some of our most experienced, skilled, and knowledgeable diplomats. 
+The vast majority were career Foreign Service officers. Many served in 
+both Republican and Democratic administrations. All had significant 
+international and government experience prior to their appointment.
+  The Ambassador to Israel must be able to thread the needle between 
+Israel and its neighbors. He or she needs to have the confidence, 
+respect, and trust of powers throughout the region. He or she must be 
+seen as an honest broker and have the temperament and finesse to defuse 
+conflict while able to stand one's ground and have the capacity to find 
+common interests and common ground.
+  However, with David Friedman, the President has put forth a nominee 
+who has no diplomatic experience whatsoever, no government or 
+international experience, who is known for his offensive statements 
+toward Jewish groups and others with whom he disagrees, and who has 
+repeatedly expressed extreme policy views--views antagonistic to any 
+realistic peace process with the Palestinians. Mr. Friedman is not a 
+seasoned diplomat; he is the President's bankruptcy lawyer. President 
+Trump and Mr. Friedman clearly have a lot of experience with 
+bankruptcy, but it is hard to think of a pair of personalities less 
+suited to diplomacy in a volatile region.
+  Mr. Friedman has vocally opposed a two-state solution--a cornerstone 
+of U.S. foreign policy for peace in the region since President Ronald 
+Reagan. He not only supports but has generously funded Israeli 
+settlements--settlements long considered as an obstacle to peace by the 
+United States and deemed illegal by much of the international 
+community.
+  Mr. Friedman's intemperate remarks have been widely reported. He 
+lashed out that liberal Jews ``suffer a cognitive disconnect in 
+identifying good and evil.'' He said that the State Department has 
+``[a] hundred-year history of anti-Semitism'' and that President Obama 
+is ``an anti-Semite.'' Most horrific, he said:
+
+       J-Street supporters . . . are far worse than kapos--Jews 
+     who turned in their fellow Jews in the Nazi death camps. . . 
+     . They are just smug advocates of Israel's destruction 
+     delivered from the comfort of their secure American sofas--
+     it's hard to imagine anyone worse.
+
+  Five former U.S. Ambassadors to Israel, serving under both Democratic 
+and Republican administrations, called Mr. Friedman ``unqualified'' to 
+assume the role of chief diplomat to Israel.
+  Twenty-nine Holocaust scholars objected to his ``kapo'' remarks. The 
+historical record shows, they said, ``that kapos were Jews whom the 
+Nazis forced, at the pain of death, to serve them in the concentration 
+and extermination camps. . . . These Jews faced terrible dilemmas, but 
+ultimately were made into unwilling tools of Nazi brutality. . . . To 
+brand one's political opponents, members of one's own community, as 
+kapos, merely for engaging in legitimate debate, is historically 
+indefensible and is a deeply disturbing example of the abuse of the 
+Holocaust and its victims for present political gain.''
+  A group of Holocaust survivors called his use of ``kapo''--and I 
+quote a group of Holocaust survivors--``slanderous, insulting, 
+irresponsible, cynical and immensely damaging to our people.''
+  More than 600 rabbis wrote that his remarks were ``the very 
+antithesis of the diplomatic behavior Americans expect from their 
+ambassadors.''
+  While Mr. Friedman apologized during his confirmation hearing for his 
+abusive language, I don't believe it erases his past behavior and 
+suddenly qualifies him for the job.
+  This post should be earned over time, through actions and words that 
+demonstrate without question that the nominee has the right judgment, 
+temperament, and skills. Mr. Friedman has not come close to 
+demonstrating that. We should not risk confirming him to this important 
+post. We have seen how distracting and destructive hotheadedness is at 
+the seat of power.
+  During his confirmation hearing, Mr. Friedman also walked back his 
+positions on a two-state solution and Israeli settlements, which 
+prompted the committee chair to wryly ask him why he even wants the 
+Ambassador position if he has to ``recant every single strong belief 
+you've had.''
+  I am a strong supporter of Israel. I want to see the State of Israel 
+prosperous and secure forever into the future. I believe in the right 
+of the Palestinians to self-determination, to chart their own course 
+and their destiny. I want to see peace between Israel and the 
+Palestinians and between Israel and her neighbors. That is what the 
+vast majority of Americans want. The United States has a strong 
+national interest in securing this peace. The last thing we need is 
+another active military conflict in the Middle East, which could draw 
+in U.S. forces. That is why over 40 years U.S. policy has held that the 
+only realistic path to peace is through a two-state solution. The 
+Palestinians are entitled to a homeland. A two-state solution is the 
+only viable path forward for Israel.
+  As Secretary Kerry said, ``If the choice is one state, Israel can 
+either be Jewish or democratic. It cannot be both.''
+  Given Mr. Friedman's past staunch support for a one-state solution 
+and expansion of Israeli settlements, is he really ready and able to 
+embrace and put forward opposing policy positions? Can he ever be 
+viewed by the Palestinians and the international community as an honest 
+broker?
+  I am under no illusion about how difficult it will be to achieve 
+peace between Israel and the Palestinians. Many Presidents and able 
+diplomats have tried and failed to achieve settlement. But the United 
+States must continue to do its best to reach an accord. Above all, we 
+should not make the current situation worse. We need a steady hand in 
+the Middle East.
+  I am not convinced that Mr. Friedman is qualified for this job, with 
+no diplomatic experience and a history of extreme positions and 
+intemperate language. His contrition is too little, too late. I am 
+worried that by ignoring these huge red flags with his nomination, we 
+run the risk of a diplomatic incident that could needlessly increase 
+risk of conflict in the region. Therefore, I must vote no on this 
+nomination.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Minnesota.
+  Mr. FRANKEN. Mr. President, I rise today to talk about President 
+Trump's selection of David Friedman to serve as the U.S. Ambassador to 
+Israel.
+  Our relationship with Israel is of tremendous importance. We are 
+strong allies, and we have a strong military, diplomatic, economic, and 
+cultural relationship with the State of Israel. As a Jew, the 
+importance of that relationship is something that I feel in my bones, 
+and as a Senator, working to
+
+[[Page S1957]]
+
+make our relationship with Israel stronger is a major priority. I 
+strongly believe that part of strengthening that relationship is doing 
+everything we can to help make progress toward a peaceful resolution of 
+the Israeli-Palestinian conflict. Helping to resolve that conflict has 
+consistently been one of the top diplomatic priorities of the United 
+States.
+  There are very important implications in this selection for the 
+Israeli people, the Palestinian people, the Middle East region, and 
+even beyond. We need an Ambassador who can rise to the challenge, 
+someone who can bring the parties together for negotiations and be 
+regarded as legitimate in the eyes of all parties. Mr. Friedman is not 
+that man.
+  Mr. Friedman's past conduct demonstrates that he lacks the tools one 
+needs to be a good diplomat. For starters, diplomacy is about choosing 
+your words carefully. It is about reasoning with those with whom you 
+disagree. Diplomacy means not resorting to insults and to name-calling 
+when you have a disagreement, which is something that Mr. Friedman has 
+done time and time and time again.
+
+  In an op-ed he penned for the newspaper Arutz Sheva, Mr. Friedman 
+called supporters of the American Jewish Organization J Street ``far 
+worse than kapos.''
+  Now, for those who don't share the history, I was born in 1951, and I 
+grew up with the holocaust and the stories of the holocaust pounded 
+into my head, and I know what ``kapos'' are. It is the term that refers 
+to Jews who collaborated with the Nazis--with the Gestapo, the guards 
+at the concentration camps during the holocaust. When asked to 
+repudiate his statement on J Street, Mr. Friedman refused, and in fact 
+doubled down, stating ``They're not Jewish, and they are not pro-
+Israel.'' For those who don't know, J Street is a pro-Israel 
+organization dedicated to the two-state solution--a goal that is shared 
+by successive U.S. administrations, both Democratic and Republican. The 
+two-state solution is the only way to keep Israel a Jewish State and a 
+democracy.
+  Mr. Friedman's smearing of our fellow Jews--my fellow Jews, many of 
+whom are members of J Street, this is a calumny. This should be a 
+disqualifier for someone seeking to represent the United States in the 
+State of Israel. Mr. Friedman's statement shows that he lacks 
+understanding of history--of our history, the history of the Jewish 
+people--it shows he is intolerant of opposing views, and he is 
+profoundly insensitive. That is probably why so many of my fellow Jews 
+have reached out to me, have urged me to reject his nomination.
+  Mr. Friedman's offensive remarks don't stop there. He regularly 
+insults those with whom he disagrees. He even called me a clown and a 
+moron after I pointed out the anti-Semitic stereotypes evoked in the 
+Trump campaign's final ad. As I told Mr. Friedman when we met in my 
+office, I have been called a moron before--that kind of thing happens 
+in campaigns all the time--but as I also reminded him, part of being a 
+diplomat is being diplomatic.
+  Now, while I have serious concerns with Mr. Friedman's temperament, 
+my biggest issue with this nominee is his lack of commitment to the 
+peace process. For example, right after being nominated to serve as 
+Ambassador, Mr. Friedman stated that he ``looked forward to doing this 
+from the U.S. embassy in Israel's eternal capital, Jerusalem.''
+  It has been a longstanding policy of the United States to recognize 
+Tel Aviv as the capital of Israel. This policy has been viewed by 
+successive administrations as important for helping maintain regional 
+stability and peace with Israel and its neighbors. An abrupt change in 
+this tradition would make it more difficult for the United States to 
+play the role of arbiter, to achieve peace and security between the 
+Israelis and the Palestinians. At a time when we need to reduce 
+tensions in the region, Mr. Friedman was sending the exact wrong 
+message. What I find even more troubling is Mr. Friedman's support for 
+settlement building. Successive U.S. administrations have recognized 
+that new settlements are barriers to peace. Mr. Friedman has served as 
+president and has been actively fundraising for the American Friends of 
+Beit El, the nonprofit that supports the expansion of that settlement--
+expansion which is illegal under international law, an expansion deep 
+inside of Palestinian territory.
+  How can we possibly help advance peace between the two parties with a 
+man who believes there ought to be more settlements--one of the very 
+things that observers on both sides of this conflict recognize as a 
+significant obstacle to peace. The Israeli-Palestinian conflict has 
+remained intractable for far too long, proving a hardship--a tragedy--
+for Israelis and Palestinians both and impacting regional and even 
+global security. I believe--I am convinced that a just and lasting 
+agreement between the two parties on a two-state solution, though very 
+difficult, can and must be achieved. Confirming David Friedman as 
+Ambassador of the United States to Israel will only serve to make that 
+job more difficult, if not impossible, and in my mind would be a 
+tragedy.
+  I urge my colleagues to vote no on the Friedman nomination.
+  I thank the Presiding Officer.
+  Mr. LEAHY. Mr. President, Senate will soon vote on the nomination of 
+David Friedman to be U.S. Ambassador to Israel.
+  I oppose his nomination.
+  Mr. Friedman has made a career of derogatory and inflammatory 
+statements about U.S. policy in the Middle East, about former U.S. 
+officials, about the Palestinians, and about American Jews who have 
+views that differ from his own.
+  He has written falsely that President Obama and Secretary Kerry 
+engaged in ``blatant anti-Semitism,'' that liberal American Jews are 
+``far worse than kapos,'' and that they ``suffer a cognitive disconnect 
+in identifying good and evil.''
+  He has accused the State Department of a ``hundred-year history of 
+anti-Semitism,'' apparently because diplomats in both Republican and 
+Democratic administrations have not always agreed with the actions of 
+some of Israel's leaders.
+  Those comments alone should disqualify him for this sensitive 
+position.
+  Mr. Friedman has also raised millions of dollars for Israeli settlers 
+and bragged about leading the effort to remove the two-state solution 
+from the Republican Party's platform.
+  Regarding the two-state solution, he wrote that it is ``an illusion 
+that serves the worst intentions of both the United States and the 
+Palestinian Arabs.'' That renunciation of longstanding U.S. policy 
+should also, by itself, disqualify him for the job of Ambassador to 
+Israel.
+  Mr. Friedman is certainly entitled to his own views as a private 
+citizen, even if they are offensive and counter to U.S. interests and 
+values. But can anyone honestly say that this nominee is qualified or 
+suited to represent the American people in Israel?
+  Five former U.S. Ambassadors to Israel, who served under Republican 
+and Democratic Presidents going back as far as President Reagan, say 
+the answer is no.
+  An alliance as longstanding as ours with Israel, which has far-
+reaching consequences for the entire Middle East, requires effective 
+daily management by an experienced diplomat who not only has knowledge 
+of the region but the temperament and appreciation of our short- and 
+long-term interests.
+  I do not see how anyone could conclude that Mr. Friedman possesses 
+the requisite temperament or objectivity. The record is devoid of 
+evidence that he appreciates the critical distinction between the 
+interests of the United States and the parochial interests of an 
+extreme constituency in Israel that he has fiercely advocated for over 
+the course of his long career.
+  Mr. Friedman's confirmation hearing provided him the opportunity to 
+assuage concerns about his divisiveness, including the many disparaging 
+remarks he has made and his close identification with and support for, 
+the Israeli settler movement.
+  During the hearing, he disavowed his past undiplomatic statements, 
+saying he was speaking as a private citizen.
+  Mr. Friedman's remarkable confirmation conversion falls far short of 
+convincing evidence that changing his title to ``Ambassador'' will 
+cause him to divorce his life's work and objectively serve the 
+interests of the American people.
+  We all want what is best for the American people. We also share a 
+desire to find a viable solution to the
+
+[[Page S1958]]
+
+Israeli-Palestinian conflict that protects the rights and security of 
+both peoples.
+  Neither goal can be achieved by pursuing policies that further 
+inflame tensions and erode the role of the United States as an honest 
+broker for peace.
+  There are any number of qualified Americans who could capably support 
+that role. Mr. Friedman is not among them.
+  Mr. VAN HOLLEN. Mr. President, our Ambassador to Israel is one of our 
+most consequential diplomatic posts. Israel is our greatest friend and 
+ally in the Middle East and one of our closest partners in the world. 
+The bonds between our peoples have been unbreakable from Israel's 
+beginning. Israel is a bastion of democracy and prosperity in a violent 
+and unstable region, where Israel faces relentless threats to its 
+security. It is imperative that our Ambassador to Israel have an even 
+temperament, the utmost of integrity, and the ability to forge unity 
+across entrenched divisions.
+  I have a profound and steadfast commitment to Israel and to the 
+Jewish community. That is why I am so concerned with David Friedman's 
+nomination to become Ambassador to Israel.
+  Mr. Friedman appears to have few, if any, of the qualities needed for 
+this position. He is an extraordinarily polarizing figure who has 
+expressed views far outside of the longstanding bipartisan consensus on 
+Israel. His body of published work makes clear his extreme positions. 
+Mr. Friedman has asserted that Israel cannot trust the majority of 
+American Jews. He has accused the entire State Department--an 
+institution he now seeks to join--of anti-Semitism. He has called our 
+coalition allies and partners in the fight against the Islamic State 
+``cowards,'' ``hypocrites,'' and ``freeloaders.'' Given his radical and 
+divisive rhetoric, I do not believe that he is capable of forging unity 
+at home or stability abroad.
+  Furthermore, Mr. Friedman has written that he does not believe in a 
+two-state solution. For decades, through Democratic and Republican 
+administrations alike, the United States and the international 
+community have held that the two-state solution is the only way to 
+achieve a just and lasting peace between Israelis and Palestinians. Mr. 
+Friedman's position on the two-state solution, coupled with his 
+offensive statements, led five former U.S. Ambassadors to Israel to 
+urge the Senate not to confirm him.
+  Shimon Peres, one of Israel's greatest leaders, once said, ``Our 
+problem is not to submit to the differences but to overcome them.'' 
+Americans and Israelis deserve nothing less than an Ambassador who 
+lives up to this ethos, one who seeks to strengthen Israel by advancing 
+peace in the region. Given Mr. Friedman's public statements, I doubt 
+that he can be that person. For these reasons, I cannot support his 
+nomination.
+  Mr. FRANKEN. I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. ROUNDS. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. ROUNDS. Mr. President, I ask unanimous consent that 
+notwithstanding rule XXII, at 2:15 p.m., the Senate vote on the 
+Friedman nomination and that, if confirmed, the motion to reconsider be 
+considered made and laid upon the table and the President be 
+immediately notified of the Senate's action with no intervening action 
+or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. ROUNDS. Mr. President, I ask unanimous consent to speak as in 
+morning business for a period of 10 minutes.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+```
