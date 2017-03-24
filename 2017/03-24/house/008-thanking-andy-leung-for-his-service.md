@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-03-24-pt1-PgH2374
+date: 2017-03-24
+edition: CREC
+section: HOUSE
+page: H2374
+citation: 163 Cong. Rec. H2374
+---
+
+# THANKING ANDY LEUNG FOR HIS SERVICE
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                  THANKING ANDY LEUNG FOR HIS SERVICE
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to thank a 
+very special member of my team, Andy Leung, who is an intern in my 
+office.
+  Andy comes to us through the Congressional Internship Program for 
+Individuals with Intellectual Disabilities. This is a unique program 
+designed to give students with varying intellectual disabilities an 
+opportunity to gain congressional work experience. It is part of George 
+Mason University's LIFE Program. To date, 150 congressional offices 
+from the House and Senate have participated in this wonderful program.
+  Mr. Speaker, Andy is a part of our team, and we look forward to the 
+hours he spends with us each week. He quickly settled into the office, 
+and he is always in great spirits.
+  Andy is hardworking and curious. He is interested in the projects the 
+full-time staff are working on. He loves picking up the flags from the 
+Capitol, and we are truly fortunate to have such a dedicated intern.
+  I would like to thank Andy for his service and thank his employment 
+assistant and the Congressional Internship Program for Individuals with 
+Intellectual Disabilities for making this possible.
+
+                          ____________________
+```
