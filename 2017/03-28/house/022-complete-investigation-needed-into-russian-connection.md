@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-03-28-pt1-PgH2470-4
+date: 2017-03-28
+edition: CREC
+section: HOUSE
+page: H2470
+citation: 163 Cong. Rec. H2470
+---
+
+# COMPLETE INVESTIGATION NEEDED INTO RUSSIAN CONNECTION
+
+**Speaking:** Raskin, Jamie (R000606) [D-MD]
+
+```
+         COMPLETE INVESTIGATION NEEDED INTO RUSSIAN CONNECTION
+
+  (Mr. RASKIN asked and was given permission to address the House for 1 
+minute.)
+  Mr. RASKIN. Mr. Speaker, every American who loves freedom, democracy, 
+and public integrity this week is expressing solidarity with the 
+hundreds of thousands of anticorruption protesters in Russia who took 
+to the streets on Sunday. That huge throng of brave Russians, including 
+hundreds arrested and jailed by agents of Vladimir Putin, were 
+protesting the autocrats and kleptocrats running their country, a key 
+target being Prime Minister Dmitry Medvedev, who has amassed vineyards, 
+luxury yachts, and mansions worth more than $1 billion.
+  We should be standing with the protesters, but the corrupt autocrats 
+of Russia have found good friends in the billionaire Cabinet of 
+international businessman Donald Trump, whose administration is 
+administering a spreading staph infection: disgraced former National 
+Security Adviser Michael Flynn, who was paid by Russian companies to 
+appear at Russian events; Secretary of State Rex Tillerson, former CEO 
+of ExxonMobil and a close friend of Vladimir Putin who was awarded in 
+2013 a title of nobility called the Russian Order of Friendship; Paul 
+Manafort, the former Trump campaign manager who collected $10 million a 
+year to advance the agenda of Russia and Russian oligarchs.
+  We should be standing with the protesters. Two-thirds of Americans 
+want to see a complete, independent 9/11-style investigation into the 
+Russian connection, and we owe them no less.
+
+                          ____________________
+```
