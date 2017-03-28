@@ -1,0 +1,33 @@
+---
+granule: CRECB-2017-pt4-Pg4949-4
+date: 2017-03-28
+edition: CRECB
+section: HOUSE
+page: 4949
+---
+
+# REMEMBERING JOHN CRUTCHER
+
+```
+                       REMEMBERING JOHN CRUTCHER
+
+  (Ms. FOXX asked and was given permission to address the House for 1 
+minute.)
+  Ms. FOXX. Mr. Speaker, today I rise to mourn the loss of John 
+Crutcher, who passed away on March 12, 2017, at the age of 100.
+  A native of Kansas, John spent many years in public service, 
+including teaching in a one-room school on the prairie. He was elected 
+to a seat in the Kansas Senate and served two terms as Lieutenant 
+Governor in his home State. In 1982, President Reagan appointed him to 
+the Federal Postal Rate Commission, where he gained a reputation as an 
+outspoken critic of the Postal Service.
+  In World War II he served as a Navy officer in the Pacific theater 
+and Korea. He retired as a captain in the U.S. Naval Reserve and always 
+remained active in Navy organizations.
+  A true, very modest gentleman, John was respected and beloved by all 
+who knew him. He will be greatly missed in the mountains of North 
+Carolina, which he came to call home after marrying his lovely wife, 
+Edith.
+
+                          ____________________
+```

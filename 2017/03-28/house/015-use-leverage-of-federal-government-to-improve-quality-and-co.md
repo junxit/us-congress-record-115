@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt4-Pg4949-3
+date: 2017-03-28
+edition: CRECB
+section: HOUSE
+page: 4949
+---
+
+# USE LEVERAGE OF FEDERAL GOVERNMENT TO IMPROVE QUALITY AND COST OF HEALTH CARE
+
+```
+   USE LEVERAGE OF FEDERAL GOVERNMENT TO IMPROVE QUALITY AND COST OF 
+                              HEALTH CARE
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Mr. Speaker, last week's healthcare disaster 
+was instructive because, in the end, it was never really about health 
+care at all.
+  Your plan was a thinly-veiled scheme to deliver a massive tax cut to 
+health insurance executives and their cronies. UnitedHealthcare is one 
+of America's largest, private healthcare insurance companies. 
+UnitedHealthcare is under investigation for defrauding Medicare and the 
+Federal Government out of billions of dollars. UnitedHealthcare's CEO 
+made $66 million in 2014--one man, one salary, in 1 year--$66 million 
+under investigation for defrauding the Medicare program; and your bill, 
+on page 67, in seven simple words, would have rewarded this potentially 
+criminal behavior with a massive tax cut.
+  Mr. Speaker, Americans, on average, will pay more than $10,000 per 
+person for health care this year. Let's use the enormous leverage of 
+the Federal Government to drive down those costs and to drive up 
+quality for all Americans.
+
+                          ____________________
+```

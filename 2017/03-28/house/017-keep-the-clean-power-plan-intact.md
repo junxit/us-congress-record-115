@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt4-Pg4949-5
+date: 2017-03-28
+edition: CRECB
+section: HOUSE
+page: 4949
+---
+
+# KEEP THE CLEAN POWER PLAN INTACT
+
+```
+                    KEEP THE CLEAN POWER PLAN INTACT
+
+  (Mr. WELCH asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. WELCH. Mr. Speaker, President Trump today plans to unravel the 
+Clean Power Plan that, once implemented, would reduce carbon emissions 
+by 870 million tons, the equivalent of 166 million cars.
+  Why? False science, false economics.
+  Some of the best minds of the 18th century apparently are advising 
+President Trump on science matters. This planet is melting. We have had 
+the worst wild weather in centuries; the three hottest years on record. 
+Let's not deny what is before our very eyes, false economics.
+  President Trump apparently believes we have to make a choice: either 
+jobs or a clean environment. The exact opposite is true; 8.1 million 
+people worldwide work in clean energy. It will be 24 million in 2030. 
+Solar jobs in Vermont grew at the fastest pace of any jobs. President 
+Trump believes we either have jobs or a clean environment. He has it 
+exactly wrong. We have both or we have neither.
+  A confident nation faces its problems. It doesn't deny them. Keep the 
+Clean Power Plan intact.
+
+                          ____________________
+```

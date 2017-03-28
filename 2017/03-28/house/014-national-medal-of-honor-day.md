@@ -1,0 +1,38 @@
+---
+granule: CRECB-2017-pt4-Pg4949-2
+date: 2017-03-28
+edition: CRECB
+section: HOUSE
+page: 4949
+---
+
+# NATIONAL MEDAL OF HONOR DAY
+
+```
+                      NATIONAL MEDAL OF HONOR DAY
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, last Saturday, March 25, 
+marked National Medal of Honor Day. Designated by Congress in 1990, the 
+National Medal of Honor Day celebrates each of the men and women who 
+have earned America's highest, most prestigious military decoration.
+  I am grateful that South Carolina has a long tradition of military 
+service, with 34 Medal of Honor recipients, including the youngest 
+living honoree, Corporal Kyle Carpenter of Gilbert.
+  To mark National Medal of Honor Day, I join Medal of Honor recipient 
+Major General James Livingston and South Carolina Attorney General Alan 
+Wilson with a wreath-laying ceremony at Mount Pleasant Memorial Garden. 
+The inspiring program was organized by the Fort Sullivan Chapter, 
+National Society Daughters of the American Revolution, led by Regent 
+Nancy Herritage.
+  Additionally, congratulations to the University of South Carolina 
+women's basketball team and head coach Dawn Staley on their victory in 
+the Elite Eight last night. I am happy to cheer for the Gamecocks as 
+they head to Dallas, Texas, for their second Final Four appearance in 
+just 3 years.
+  In conclusion, God bless our troops. We will never forget September 
+the 11th in the global war on terrorism.
+
+                          ____________________
+```
