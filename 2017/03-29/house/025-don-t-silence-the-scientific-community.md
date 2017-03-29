@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-03-29-pt1-PgH2526-8
+date: 2017-03-29
+edition: CREC
+section: HOUSE
+page: H2526
+citation: 163 Cong. Rec. H2526
+---
+
+# DON'T SILENCE THE SCIENTIFIC COMMUNITY
+
+**Speaking:** Davis, Susan A. (D000598) [D-CA]
+
+```
+                 DON'T SILENCE THE SCIENTIFIC COMMUNITY
+
+  (Mrs. DAVIS of California asked and was given permission to address 
+the House for 1 minute.)
+  Mrs. DAVIS of California. Mr. Speaker, it looks like my colleagues 
+have wasted no time moving back to familiar territory after their 
+healthcare disaster last week.
+  Instead of fighting over how many people should lose health coverage, 
+they decided that it is easier to unite around the shared cause of 
+climate denial. This week President Trump announced plans to gut 
+President Obama's landmark Clean Power Plan, and the House will vote on 
+legislation to block the EPA from reviewing peer reviewed scientific 
+research when forming regulations.
+  So think about that for a second--the majority couldn't agree on how 
+many people should lose healthcare coverage; so they are united around 
+the shared cause of climate denial. The President likes to claim that 
+climate change is a hoax created by the Chinese.
+  Well, I know that the President and his party have developed a 
+disdain for fact-checkers, but silencing the scientific community takes 
+things to a whole new level.
+  Mr. Speaker, I have to ask: Can my colleagues handle the truth?
+
+                          ____________________
+```

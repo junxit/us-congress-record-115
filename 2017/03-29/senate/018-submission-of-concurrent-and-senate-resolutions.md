@@ -1,0 +1,32 @@
+---
+granule: CREC-2017-03-29-pt1-PgS2099
+date: 2017-03-29
+edition: CREC
+section: SENATE
+page: S2099
+citation: 163 Cong. Rec. S2099
+---
+
+# SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+**Measures:** S.Res. 102, S.Res. 103
+
+```
+            SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+  The following concurrent resolutions and Senate resolutions were 
+read, and referred (or acted upon), as indicated:
+
+           By Mr. CORNYN (for himself, Mr. Cardin, Mr. Rubio, Mr. 
+             Durbin, Mr. McCain, and Mr. Menendez):
+       S. Res. 102. A resolution reaffirming the strategic 
+     partnership between the United States and Mexico, and 
+     recognizing bilateral cooperation that advances the national 
+     security and national interests of both countries; to the 
+     Committee on Foreign Relations.
+           By Mr. BURR (for himself and Mr. Manchin):
+       S. Res. 103. A resolution designating March 29, 2017, as 
+     ``Vietnam Veterans Day''; considered and agreed to.
+
+                          ____________________
+```

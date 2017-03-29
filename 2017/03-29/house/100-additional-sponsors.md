@@ -1,0 +1,172 @@
+---
+granule: CREC-2017-03-29-pt1-PgH2560-9
+date: 2017-03-29
+edition: CREC
+section: HOUSE
+page: H2560
+citation: 163 Cong. Rec. H2560
+---
+
+# ADDITIONAL SPONSORS
+
+**Measures:** H.Con.Res. 8, H.Con.Res. 10, H.R. 24, H.Res. 28, H.Res. 31, H.R. 38, H.R. 40, H.Res. 54, H.R. 60, H.Res. 65, H.Res. 90, H.R. 91, H.R. 95, H.R. 103, H.R. 112, H.Res. 135, H.Res. 137, H.R. 169, H.R. 179, H.Res. 184, H.Res. 187, H.Res. 188, H.R. 227, H.R. 253, H.R. 299, H.R. 350, H.R. 365, H.R. 389, H.R. 390, H.R. 440, H.R. 442, H.R. 448, H.R. 449, H.R. 453, H.R. 462, H.R. 469, H.R. 489, H.R. 490, H.R. 564, H.R. 592, H.R. 608, H.R. 613, H.R. 620, H.R. 631, H.R. 669, H.R. 672, H.R. 676, H.R. 721, H.R. 770, H.R. 800, H.R. 807, H.R. 818, H.R. 848, H.R. 849, H.R. 873, H.R. 896, H.R. 904, H.R. 907, H.R. 918, H.R. 941, H.R. 959, H.R. 986, H.R. 1035, H.R. 1057, H.R. 1058, H.R. 1063, H.R. 1066, H.R. 1093, H.R. 1120, H.R. 1143, H.R. 1148, H.R. 1156, H.R. 1173, H.R. 1206, H.R. 1222, H.R. 1225, H.R. 1236, H.R. 1242, H.R. 1267, H.R. 1272, H.R. 1279, H.R. 1299, H.R. 1305, H.R. 1318, H.R. 1322, H.R. 1334, H.R. 1346, H.R. 1445, H.R. 1456, H.R. 1496, H.R. 1515, H.R. 1544, H.R. 1565, H.R. 1582, H.R. 1595, H.R. 1600, H.R. 1626, H.R. 1632, H.R. 1639, H.R. 1661, H.R. 1664, H.R. 1676, H.R. 1678, H.R. 1685, H.R. 1697, H.R. 1711, H.R. 1731, H.R. 1732
+
+```
+                          ADDITIONAL SPONSORS
+
+  Under clause 7 of rule XII, sponsors were added to public bills and 
+resolutions, as follows:
+
+       H.R. 24: Mr. Perry, Mr. Smith of Nebraska, and Mr. 
+     Bridenstine.
+       H.R. 38: Mr. McClintock.
+       H.R. 40: Ms. Wilson of Florida and Mrs. Lawrence.
+       H.R. 60: Mr. Higgins of Louisiana.
+       H.R. 91: Mr. Higgins of Louisiana.
+       H.R. 95: Mr. Higgins of Louisiana and Mr. O'Rourke.
+       H.R. 103: Mr. Nolan.
+       H.R. 112: Mr. Franks of Arizona.
+       H.R. 169: Mr. Larsen of Washington, Mr. Cardenas, Ms. 
+     Barragan, and Mr. McNerney.
+       H.R. 179: Mr. Ben Ray Lujan of New Mexico and Mr. 
+     Lowenthal.
+       H.R. 227: Mr. Blumenauer.
+       H.R. 253: Mr. Soto.
+       H.R. 299: Ms. Clarke of New York, Mr. Schrader, Mr. 
+     DeSantis, Mr. Carter of Texas, Mr. DeSaulnier, Mr. Peterson, 
+     Mr. Price of North Carolina, Mr. Schneider, and Mr. Ben Ray 
+     Lujan of New Mexico.
+       H.R. 350: Mr. DesJarlais
+       H.R. 365: Mr. Hensarling.
+       H.R. 389: Mr. Cook and Mr. McClintock.
+       H.R. 390: Mr. Royce of California.
+       H.R. 440: Mrs. Wagner.
+       H.R. 442: Mr. Abraham.
+       H.R. 448: Mr. Perlmutter.
+       H.R. 449: Mr. McKinley.
+       H.R. 453: Mr. Hudson.
+       H.R. 462: Mr. Ferguson.
+       H.R. 469: Mr. King of Iowa.
+       H.R. 489: Mr. Levin.
+       H.R. 490: Mr. Farenthold.
+       H.R. 564: Mr. Walberg, Mr. Courtney, Mr. Coffman, and Mr. 
+     Kinzinger.
+       H.R. 592: Mr. Richmond, Mr. Marshall, and Mr. McNerney.
+       H.R. 608: Mr. Rohrabacher.
+       H.R. 613: Mr. Faso, Mr. Rutherford, and Mr. Duncan of South 
+     Carolina.
+       H.R. 620: Ms. Sinema and Mr. Mitchell.
+       H.R. 631: Mr. Young of Iowa, Mr. Russell, Mr. Mitchell, Mr. 
+     Smith of Texas, Mr. Faso, Mr. Sessions, Mr. Mast, Mr. Duncan 
+     of South Carolina, Mr. Franks of Arizona, Mr. Allen, Mr. 
+     Westerman, Ms. Foxx, Mr. Hultgren, Mr. Comer, Mr. Pittenger, 
+     Mr. Banks of Indiana, Mrs. Roby, Mr. Duffy, Mr. Lewis of 
+     Minnesota, and Mr. Barton.
+       H.R. 669: Ms. Lofgren.
+       H.R. 672: Mr. Ted Lieu of California.
+       H.R. 676: Ms. Wilson of Florida and Ms. Gabbard.
+       H.R. 721: Mr. Johnson of Louisiana.
+       H.R. 770: Mr. Meeks, Mrs. Beatty, and Mr. Vargas.
+       H.R. 800: Mr. Grijalva.
+       H.R. 807: Mr. McKinley and Mr. Courtney.
+       H.R. 818: Mr. Meehan.
+       H.R. 848: Mr. Sessions, Mr. Marshall, Mr. Gallagher, and 
+     Mr. Williams.
+       H.R. 849: Ms. Sanchez, Mr. McKinley, Mr. Palazzo, and Mr. 
+     Flores.
+       H.R. 873: Mr. Valadao.
+       H.R. 896: Mr. Lewis of Minnesota.
+       H.R. 904: Mr. Brendan F. Boyle of Pennsylvania.
+       H.R. 907: Mr. Knight.
+       H.R. 918: Mr. Higgins of Louisiana.
+       H.R. 941: Mr. Bridenstine.
+       H.R. 959: Mrs. Napolitano.
+       H.R. 986: Mr. Mitchell and Ms. Stefanik.
+       H.R. 1035: Mr. Nolan.
+       H.R. 1057: Ms. Herrera Beutler, Mr. Murphy of Pennsylvania, 
+     Mr. Smucker, and Mr. Wilson of South Carolina.
+       H.R. 1058: Mr. Heck.
+       H.R. 1063: Mr. Goodlatte.
+       H.R. 1066: Mr. Bacon and Mr. Peters.
+       H.R. 1093: Ms. Esty.
+       H.R. 1120: Ms. Blunt Rochester.
+       H.R. 1143: Ms. Judy Chu of California.
+       H.R. 1148: Ms. DelBene, Mr. Wilson of South Carolina, Mrs. 
+     Blackburn, and Ms. Brownley of California.
+       H.R. 1156: Mr. Burgess and Mr. Holding.
+       H.R. 1173: Mr. Nolan, Ms. Shea-Porter, Mr. Murphy of 
+     Pennsylvania, and Mr. Kilmer.
+       H.R. 1206: Mr. Valadao.
+       H.R. 1222: Mr. Nolan.
+       H.R. 1225: Mr. Pascrell.
+       H.R. 1236: Mr. Nadler.
+       H.R. 1242: Mrs. Carolyn B. Maloney of New York, Mr. Lynch, 
+     and Mr. Griffith.
+       H.R. 1267: Mr. Ross.
+       H.R. 1272: Ms. Norton.
+       H.R. 1279: Mr. Soto.
+       H.R. 1299: Mr. O'Rourke.
+       H.R. 1305: Mr. Rokita.
+       H.R. 1318: Mr. Nolan, Mr. Roe of Tennessee, and Mr. Raskin.
+       H.R. 1322: Mr. Schneider.
+       H.R. 1334: Mr. Farenthold.
+       H.R. 1346: Mr. Emmer.
+       H.R. 1445: Mr. Jones.
+       H.R. 1456: Mr. Kind, Mr. Heck, Mr. Lynch, Mr. Sean Patrick 
+     Maloney of New York, and Mrs. Lowey.
+       H.R. 1496: Mr. Grijalva.
+       H.R. 1515: Mr. Sean Patrick Maloney of New York.
+       H.R. 1544: Mr. Schneider, Mr. Curbelo of Florida, Mrs. 
+     Wagner, and Ms. Tsongas.
+       H.R. 1565: Mr. Ferguson, Mr. Stivers, Mr. Olson, and Mr. 
+     McKinley.
+       H.R. 1582: Mr. Olson.
+       H.R. 1595: Mr. Tipton.
+       H.R. 1600: Mr. Jones.
+       H.R. 1626: Mr. Aderholt, Mr. LaMalfa, Mr. Poe of Texas, Mr. 
+     Hurd, and Mr. King of Iowa.
+       H.R. 1632: Mr. Garrett, Mr. Fleischmann, and Mr. Messer.
+       H.R. 1639: Ms. McCollum.
+       H.R. 1661: Mr. Budd, Mr. Larson of Connecticut, and Mr. 
+     Messer.
+       H.R. 1664: Mr. Cohen, Mr. Carson of Indiana, and Mr. 
+     Lowenthal.
+       H.R. 1676: Mr. Harper and Mr. Rush.
+       H.R. 1678: Ms. Wilson of Florida.
+       H.R. 1685: Mr. Peters.
+       H.R. 1697: Mr. Schweikert, Mr. McKinley, Mr. Marshall, Mr. 
+     Duffy, Mr. LaHood, Mr. Weber of Texas, Mr. Bost, Mr. Harris, 
+     and Mr. Walker.
+       H.R. 1711: Mrs. Bustos, Mr. Kind, Ms. Wasserman Schultz, 
+     Mr. Conyers, Mr. Welch, and Ms. Lofgren.
+       H.R. 1731: Mr. McKinley and Mr. Stivers.
+       H.R. 1732: Mr. Meehan.
+       H. Con. Res. 8: Mr. Meadows, Mr. Tipton, Mr. Royce of 
+     California, Mr. Messer, Mr. Lance, and Mr. Jordan.
+       H. Con. Res. 10: Mr. Lipinski and Mr. Kelly of 
+     Pennsylvania.
+       H. Res. 28: Mr. Kind and Mr. Larson of Connecticut.
+       H. Res 31: Mr. Vargas.
+       H. Res. 54: Mr. Visclosky, Mr. Sherman, Mr. Cicilline, and 
+     Mr. Stewart.
+       H. Res. 65: Mr. McGovern and Mr. Neal.
+       H. Res. 90: Mr. Evans.
+
+[[Page H2561]]
+
+  
+
+       H. Res. 135: Mr. Kinzinger.
+       H. Res. 137: Mr. Royce of California.
+       H. Res. 184: Mr. Kind, Ms. Esty, Mr. Al Green of Texas, Mr. 
+     Richmond, Ms. Fudge, Mrs. Bustos, Mrs. Davis of California, 
+     Ms. DeLauro, Mr. Michael F. Doyle of Pennsylvania, Mr. Brown 
+     of Maryland, Mr. Crowley, Mr. Lynch, Ms. Sewell of Alabama, 
+     Ms. Maxine Waters of California, Mrs. Beatty, Ms. Adams, Mr. 
+     Lipinski, and Ms. Michelle Lujan Grisham of New Mexico.
+       H. Res. 187: Mr. Thomas J. Rooney of Florida, Mr. Royce of 
+     California, and Ms. Bonamici.
+       H. Res. 188: Mr. Clay and Mr. Poe of Texas.
+
+                          ____________________
+```

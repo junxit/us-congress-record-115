@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-03-29-pt1-PgH2549-4
+date: 2017-03-29
+edition: CREC
+section: HOUSE
+page: H2549
+citation: 163 Cong. Rec. H2549
+---
+
+# HONORING LIEUTENANT FREDERICK DELLECKER
+
+**Speaking:** Yoho, Ted S. (Y000065) [R-FL]
+
+```
+                HONORING LIEUTENANT FREDERICK DELLECKER
+
+  (Mr. YOHO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. YOHO. Madam Speaker, I rise today to honor the loss of a 
+Floridian, a patriot, and one of the Air Force's finest.
+  Two weeks ago, three servicemembers were lost in a crash of a 
+reconnaissance and surveillance plane in New Mexico. These young men 
+were not just servicemembers serving in our United States Air Force; 
+they were sons, brothers, husbands, and fathers.
+  In particular, Florida's own Lieutenant Frederick Dellecker, a 
+dedicated first lieutenant, had a long and promising career ahead of 
+him. Lieutenant Dellecker was 26 and known amongst his friends for his 
+legendary humor.
+  As a veterinarian, I was particularly touched by Lieutenant 
+Dellecker's love of animals. His friends and family recently revealed 
+that, while in pilot training, Lieutenant Dellecker once shared a 
+hotdog with a flea-bitten stray who had just delivered a litter of 
+puppies and was starving. He ended up taking her in and giving her a 
+second chance at a new life.
+  I would like to take a moment on behalf of all Americans and all of 
+the Members here today to thank him and his family for their service.
+  Lieutenant Frederick Dellecker, your name will not be forgotten.
+
+                          ____________________
+```
