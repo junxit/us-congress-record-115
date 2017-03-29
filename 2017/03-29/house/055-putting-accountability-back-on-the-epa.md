@@ -1,0 +1,37 @@
+---
+granule: CRECB-2017-pt4-Pg5041-2
+date: 2017-03-29
+edition: CRECB
+section: HOUSE
+page: 5041
+---
+
+# PUTTING ACCOUNTABILITY BACK ON THE EPA
+
+```
+                 PUTTING ACCOUNTABILITY BACK ON THE EPA
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Madam Speaker, tonight I rise to commend the House for 
+passing H.R. 1430, what is known as the HONEST Act. This would put more 
+of the onus on to the Environmental Protection Agency, sometimes known 
+as the employment prevention agency, to disclose where they get their 
+science or where they get their reasoning when they are going to make a 
+regulation upon the people that produce in this country.
+  My own constituents have suffered from that in my district in 
+northern California, where arbitrary rules are put in place without 
+even the opportunity to face their accuser of what kind of science they 
+are using or what kind of reasoning they are using to put a regulation 
+in place that they have to fight, and fight sometimes for many years, 
+in order to have the opportunity just to use their land, just to use 
+their land for planting crops or for grazing or for other things that 
+would help them with their livelihood, with their economy, like they 
+have been using for so many years, even decades, in their families.
+  The HONEST Act will put accountability back on the EPA to say you 
+have to come forward with reasoning, with logic, and with science that 
+is publicly available and not hidden from the public so that we can see 
+what you are using to regulate the people.
+
+                          ____________________
+```

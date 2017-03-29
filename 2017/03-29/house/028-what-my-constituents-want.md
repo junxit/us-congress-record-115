@@ -1,0 +1,33 @@
+---
+granule: CRECB-2017-pt4-Pg5017-4
+date: 2017-03-29
+edition: CRECB
+section: HOUSE
+page: 5017
+---
+
+# WHAT MY CONSTITUENTS WANT
+
+```
+                       WHAT MY CONSTITUENTS WANT
+
+  (Mr. MARCHANT asked and was given permission to address the House for 
+1 minute.)
+  Mr. MARCHANT. Mr. Speaker, I made a promise to my constituents when 
+they sent me back to office this year. They entrusted me to represent 
+them on the issues that affect them the most.
+  They sent me here to repeal ObamaCare, our health system. Our health 
+insurance system is crushing those that it is supposed to help.
+  They sent me here to remove Washington bureaucrats from the 
+healthcare business and to restore the doctor-patient relationship that 
+has broken down. If ObamaCare has shown us anything, it is that 
+coverage and affordable care are two very different things.
+  They sent me here for sweeping tax reform that benefits every 
+American, to create a tax structure that rewards American workers and 
+American businesses.
+  Lastly, they sent me here to make sure that we secure our borders and 
+enforce our border laws because border security is national security.
+  Mr. Speaker, these are the issues this House should be tackling.
+
+                          ____________________
+```
