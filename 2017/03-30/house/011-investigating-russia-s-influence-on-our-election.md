@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-03-30-pt1-PgH2564-2
+date: 2017-03-30
+edition: CREC
+section: HOUSE
+page: H2564
+citation: 163 Cong. Rec. H2564
+---
+
+# INVESTIGATING RUSSIA'S INFLUENCE ON OUR ELECTION
+
+**Speaking:** Velazquez, Nydia M. (V000081) [D-NY]
+
+```
+            INVESTIGATING RUSSIA'S INFLUENCE ON OUR ELECTION
+
+  (Ms. VELAZQUEZ asked and was given permission to address the House 
+for 1 minute.)
+  Ms. VELAZQUEZ. Madam Speaker, Russia's efforts to influence our 
+election constitutes a direct assault on our democracy. These alarming 
+events must be thoroughly investigated. In particular, we must 
+determine if any Americans collaborated in these attacks and are 
+legally culpable.
+  Sadly, the House Intelligence Committee chairman is either unwilling 
+or incapable of conducting a fair investigation. How can Mr. Nunes run 
+this investigation if he is briefing the President before talking with 
+members of his committee? How can he be secretly meeting with so-called 
+sources at the White House?
+  Madam Speaker, the American people need to know that democracy is 
+intact, and that requires a full, fair, and impartial investigation.
+  Since December, I have repeatedly called for the Department of 
+Justice to appoint a special counsel. I have also cosponsored 
+legislation to create a bipartisan commission to investigate.
+  The bottom line is this: Chairman Nunes has lost all credibility. He 
+must recuse himself. We need a real investigation. Appoint a special 
+counsel now.
+
+                          ____________________
+```

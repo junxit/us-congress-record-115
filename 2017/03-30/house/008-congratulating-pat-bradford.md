@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-03-30-pt1-PgH2563-7
+date: 2017-03-30
+edition: CREC
+section: HOUSE
+page: H2563
+citation: 163 Cong. Rec. H2563
+---
+
+# CONGRATULATING PAT BRADFORD
+
+**Speaking:** Rouzer, David (R000603) [R-NC]
+
+```
+                      CONGRATULATING PAT BRADFORD
+
+  (Mr. ROUZER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ROUZER. Madam Speaker, I rise today to make special mention of 
+Pat Bradford, who recently stepped down as publisher and editor of the 
+local paper she founded, the Lumina News.
+  The Lumina News has served as the voice of Wrightsville Beach and its 
+surrounding communities since 2002. This local paper covers a wide 
+range of topics but sets itself apart by covering matters especially 
+important to coastal communities.
+  The Lumina News has consistently been ranked first in its North 
+Carolina Press Association newspaper category. In fact, first in nine 
+new top awards for 2016.
+  With her recent departure from the paper, Pat is focusing her 
+attention on the very successful monthly sister publication which she 
+co-founded, the Wrightsville Beach Magazine.
+  I have had the pleasure of getting to know Pat in the past few years 
+and will certainly miss interacting with her as publisher and editor of 
+the Lumina News.
+  Congratulations to you, Pat, for your continued success in all these 
+endeavors and for your continued contributions to the Wrightsville 
+Beach community and beyond.
+
+                          ____________________
+```
