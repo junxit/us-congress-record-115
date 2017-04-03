@@ -1,0 +1,32 @@
+---
+granule: CREC-2017-04-03-pt1-PgH2614-2
+date: 2017-04-03
+edition: CREC
+section: HOUSE
+page: H2614
+citation: 163 Cong. Rec. H2614
+---
+
+# PRINCIPLES FOR REFORMING THE MILITARY SELECTIVE SERVICE PROCESS-- MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 115-27)
+
+```
+   PRINCIPLES FOR REFORMING THE MILITARY SELECTIVE SERVICE PROCESS--
+  MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 115-27)
+
+  The SPEAKER pro tempore laid before the House the following message 
+from the President of the United States; which was read and, together 
+with the accompanying papers, referred to the Committee on Armed 
+Services and ordered to be printed:
+
+To the Congress of the United States:
+  I transmit herewith Principles for Reforming the Military Selective 
+Service Process, in accordance with section 555 of the National Defense 
+Authorization Act for Fiscal Year 2017 (Public Law 114-328), which 
+calls for the President to establish principles for reform of the 
+military selective service process in support of the National 
+Commission on Military, National, and Public Service.
+                                                     Donald J. Trump.  
+The White House, April 3, 2017.
+
+                          ____________________
+```

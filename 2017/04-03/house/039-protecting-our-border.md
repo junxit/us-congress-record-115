@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-04-03-pt1-PgH2618-2
+date: 2017-04-03
+edition: CREC
+section: HOUSE
+page: H2618
+citation: 163 Cong. Rec. H2618
+---
+
+# PROTECTING OUR BORDER
+
+**Speaking:** Rothfus, Keith J. (R000598) [R-PA]
+
+```
+                         PROTECTING OUR BORDER
+
+  (Mr. ROTHFUS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. ROTHFUS. Mr. Speaker, the past several days, I had my first-ever 
+tour of our southwest border. During my visit, I met with Border Patrol 
+agents in New Mexico and Texas, as well as ranchers and business 
+leaders on the border.
+  Border security was a significant issue in the last election, as 
+Americans are concerned about the flow of illegal narcotics and aliens 
+across the border. Although gaps in security remain, I saw an 
+impressive array of assets, including drones and manned aircraft, 
+walls, cameras, and other materiel.
+  More impressive, however, are the men and women who work for Customs 
+and Border Protection, who, at no small risk to themselves, work to 
+keep America secure. They are very encouraged lately as they see policy 
+changes coming that will allow them to enforce our laws. Mr. Speaker, 
+these individuals are literally on the front line defending our Nation 
+and communities, and I thank them for their service.
+  I understand that there are job opportunities with Border Patrol. For 
+those seeking a public service career doing something bigger than 
+themselves, that is something to consider.
+
+                          ____________________
+```
