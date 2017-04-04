@@ -1,0 +1,48 @@
+---
+granule: CREC-2017-04-04-pt2-PgS2371-4
+date: 2017-04-04
+edition: CREC
+section: SENATE
+page: S2371
+citation: 163 Cong. Rec. S2371
+---
+
+# CONDEMNING HATE CRIME AND ANY OTHER FORM OF RACISM, RELIGIOUS OR ETHNIC BIAS, DISCRIMINATION, INCITEMENT TO VIOLENCE, OR ANIMUS TARGETING A MINORITY IN THE UNITED STATES
+
+**Speaking:** Gardner, Cory (G000562) [R-CO]
+
+**Measures:** S.Res. 118
+
+```
+CONDEMNING HATE CRIME AND ANY OTHER FORM OF RACISM, RELIGIOUS OR ETHNIC 
+  BIAS, DISCRIMINATION, INCITEMENT TO VIOLENCE, OR ANIMUS TARGETING A 
+                     MINORITY IN THE UNITED STATES
+
+  Mr. GARDNER. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of S. Res. 118, submitted 
+earlier today.
+
+[[Page S2372]]
+
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 118) condemning hate crime and any 
+     other form of racism, religious or ethnic bias, 
+     discrimination, incitement to violence, or animus targeting a 
+     minority in the United States.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. GARDNER. Mr. President, I ask unanimous consent that the 
+resolution be agreed to, the preamble be agreed to, and the motions to 
+reconsider be considered made and laid upon the table with no 
+intervening action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 118) was agreed to.
+  The preamble was agreed to.
+  (The resolution, with its preamble, is printed in today's Record 
+under ``Submitted Resolutions.'')
+
+                          ____________________
+```
