@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-04-05-pt1-PgH2733-4
+date: 2017-04-05
+edition: CREC
+section: HOUSE
+page: H2733
+citation: 163 Cong. Rec. H2733
+---
+
+# OPIOID EPIDEMIC
+
+**Speaking:** Tenney, Claudia (T000478) [R-NY]
+
+```
+                            OPIOID EPIDEMIC
+
+  (Ms. TENNEY asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TENNEY. Mr. Speaker, I rise today to recognize families across 
+this great country who have been tragically affected by the growing 
+opioid epidemic plaguing our communities.
+  All too often, we hear the heart-wrenching stories from families who 
+have lost loved ones to this pernicious scourge. We have heard from law 
+enforcement officers and healthcare providers who have chronicled the 
+growing influx of crime and addiction in our society.
+  In 2016, in Broome County alone in my district, 76 people died from 
+drug overdoses. Ninety percent of those deaths were opioid related.
+  We have kicked the can down the road for far too long. Now, Congress 
+must act swiftly and work to provide resources for those struggling 
+with addiction by supporting rehabilitation centers, as well as 
+educational and preventative programs.
+  That is why I am taking the lead on the national level by supporting 
+the funding of the Comprehensive Addiction and Recovery Act in the 2018 
+budget. This is only a start, but I will continue to fight across all 
+sectors to find comprehensive and caring solutions to this tragedy in 
+our communities.
+
+                          ____________________
+```

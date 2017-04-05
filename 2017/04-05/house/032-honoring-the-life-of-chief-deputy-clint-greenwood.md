@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-04-05-pt1-PgH2706-5
+date: 2017-04-05
+edition: CREC
+section: HOUSE
+page: H2706
+citation: 163 Cong. Rec. H2706
+---
+
+# HONORING THE LIFE OF CHIEF DEPUTY CLINT GREENWOOD
+
+**Speaking:** Babin, Brian (B001291) [R-TX]
+
+```
+           HONORING THE LIFE OF CHIEF DEPUTY CLINT GREENWOOD
+
+  (Mr. BABIN asked and was given permission to address the House for 1 
+minute.)
+  Mr. BABIN. Mr. Speaker, it is with a heavy heart that I rise today to 
+honor the life of Harris County Precinct 3 Assistant Chief Deputy 
+Constable Clint Greenwood.
+  On Monday morning, Chief Deputy Greenwood was tragically murdered as 
+he arrived to work at the Baytown, Texas, courthouse. Chief Deputy 
+Greenwood was a respected and committed 30-year law enforcement veteran 
+of the Houston area.
+  My heartfelt prayers go out to Chief Deputy Greenwood, his family, 
+and the entire law enforcement community.
+  After yet another intentional killing of a Texas law enforcement 
+officer, we must do more to end the continued violence and hate-filled 
+rhetoric directed at our brave law enforcement officers. We hope for a 
+quick apprehension of the evil perpetrators and an answer to why.
+  I stand in strong solidarity with the law enforcement community and 
+offer my deepest condolences to all those impacted by the senseless 
+murder of Chief Deputy Greenwood.
+  Rest in peace, Brother Clint Greenwood, and may God bless your family 
+and all those who wear the uniform.
+
+                          ____________________
+```
