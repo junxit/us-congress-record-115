@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt4-Pg5582-9
+date: 2017-04-05
+edition: CRECB
+section: HOUSE
+page: 5582
+---
+
+# REMEMBERING RIVERSIDE COUNTY SUPERVISOR JOHN J. BENOIT
+
+```
+         REMEMBERING RIVERSIDE COUNTY SUPERVISOR JOHN J. BENOIT
+
+  (Mr. RUIZ asked and was given permission to address the House for 1 
+minute.)
+  Mr. RUIZ. Mr. Speaker, Riverside County supervisor John J. Benoit 
+served his community with duty, honor, and integrity.
+  Last year, Supervisor Benoit passed away in December 2016 after 
+battling pancreatic cancer. His legacy of service to his constituents 
+lives on throughout my district.
+  Supervisor Benoit dedicated his life to the safety of our community 
+as a police officer for the Corona Police Department, and then as a 
+commander in the California Highway Patrol. He served as a board member 
+for the Desert Sands Unified School District, as a California 
+assemblyman and State senator, and most recently as supervisor of 
+Riverside County.
+  I was honored to work with Supervisor Benoit. His dedication, 
+respect, and devotion to his constituents is exemplary and admirable.
+  My thoughts and prayers remain with his wife, Sheryl, and to their 
+two children, Ben and Sarah.
+  On behalf of the people of California's 36th Congressional District, 
+my wife, Monica, and my family, thank you sincerely for your service.
+
+                          ____________________
+```

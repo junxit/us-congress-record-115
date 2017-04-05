@@ -1,0 +1,39 @@
+---
+granule: CRECB-2017-pt4-Pg5578-2
+date: 2017-04-05
+edition: CRECB
+section: HOUSE
+page: 5578
+---
+
+# EMPOWER SYRIAN PEOPLE AND REMOVE ASSAD
+
+```
+                 EMPOWER SYRIAN PEOPLE AND REMOVE ASSAD
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Indiana (Mrs. Brooks) for 5 minutes.
+  Mrs. BROOKS of Indiana. Mr. Speaker, I rise today to condemn 
+yesterday's deadly chemical attack in Syria.
+  Early yesterday morning, while most people were asleep in the rebel-
+held city of Khan Shaykhun, airstrikes hit, carrying what is suspected 
+to be poisonous gas. These airstrikes are believed to be the work of 
+the Syrian Government or its ally, Russia.
+  According to the AP, at least 72, if not up to 100 people, including 
+at least 10 children, were killed and hundreds more injured. Entire 
+families were found dead in their homes, and healthcare workers who 
+rushed to help others were also overcome by the poison. A second 
+airstrike hit near a hospital where victims were being treated.
+  The Assad regime's continued use of chemical weapons on its own 
+people, innocent families, and children is despicable, and this is not 
+the first time. Besides these unspeakable, horrific acts against 
+innocent people since the Syrian civil war began 6 years ago, more than 
+11 million Syrians--half of the country's prewar population--have been 
+displaced from their homes.
+  The urgency of this situation cannot be denied. We can no longer 
+ignore the continued abuse and killing of the Syrian people. We must 
+take meaningful action to empower the Syrian people and remove Assad 
+from power.
+
+                          ____________________
+```

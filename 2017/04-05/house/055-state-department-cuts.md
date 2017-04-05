@@ -1,0 +1,44 @@
+---
+granule: CRECB-2017-pt4-Pg5611-6
+date: 2017-04-05
+edition: CRECB
+section: HOUSE
+page: 5611
+---
+
+# STATE DEPARTMENT CUTS
+
+```
+                         STATE DEPARTMENT CUTS
+
+  (Mr. SCHNEIDER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SCHNEIDER. Mr. Speaker, I rise today in support of our Nation's 
+dedicated diplomats, the hardworking men and women at the State 
+Department and USAID who are heroically serving our country here and 
+around the world.
+  In his very first budget, President Trump has proposed draconian cuts 
+to these agencies. These reductions threaten not only our leadership in 
+the world, but they put our Nation's people and interests at 
+unnecessary risk.
+  Our global leadership depends on balanced investment in three areas: 
+defense, diplomacy, and development. Undermining any one of these 
+pillars weakens all of them.
+  The State Department and USAID's effectiveness and success is not a 
+function of equipment or technology. Rather, it is the experience, 
+capabilities, and strategic deployment of our people.
+  In a world where our challenges are, every day, more numerous and 
+more complex, we are constantly sending our diplomats to places further 
+afield.
+
+[[Page 5612]]
+
+They are deserving of our full support and our utmost respect for their 
+bravery, dedication, and service in defense of the United States and 
+our values.
+  I call on my colleagues to join me in protecting our strategically 
+important investments in diplomats, diplomacy, and development, as well 
+as defense.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CRECB-2017-pt4-Pg5612-4
+date: 2017-04-05
+edition: CRECB
+section: HOUSE
+page: 5612
+---
+
+# MAJOR GOALS
+
+```
+                              MAJOR GOALS
+
+  (Mr. BIGGS asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BIGGS. Mr. Speaker, I rise today to speak to my constituents and 
+report on promises I made to them.
+  I promised to introduce legislation to prevent Members of Congress 
+from being paid until a balanced budget is passed.
+  I promised to rein in bureaucratic rulemaking and restore Article I 
+authority to Congress.
+  I promised to end the ObamaCare loophole that is designed to benefit 
+Members of Congress.
+  I promised to pass Grant's Law to protect innocent U.S. citizens from 
+violent illegal immigrants.
+  I promised to ensure that Common Core never becomes a Federal 
+mandate, and that States and local officials have authority over the 
+teaching of our Nation's youth.
+  I promised to remove Arizona from the Ninth Circuit Court of Appeals 
+and place it into a newly established 12th circuit that can provide 
+more equal access to justice.
+  I am pleased to inform and report to my constituents that I have 
+cosponsored legislation to address all six of my promises. I am working 
+every day to pass these bills through the United States Congress. My 
+constituents expect me to keep every promise I made. I intend to do 
+that just as long as I am in this body.
+
+                          ____________________
+```
