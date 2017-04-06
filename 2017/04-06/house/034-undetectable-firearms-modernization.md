@@ -1,0 +1,38 @@
+---
+granule: CRECB-2017-pt4-Pg5717-6
+date: 2017-04-06
+edition: CRECB
+section: HOUSE
+page: 5717
+---
+
+# UNDETECTABLE FIREARMS MODERNIZATION
+
+```
+                  UNDETECTABLE FIREARMS MODERNIZATION
+
+  (Mr. KIHUEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. KIHUEN. Mr. Speaker, in 1988, Congress realized the danger posed 
+by guns that can pass through security checkpoints undetected, and 
+passed the Undetectable Firearms Act.
+  The act, signed by President Reagan, has since been reauthorized 
+under every single President, both Democrats and Republicans alike.
+  When this bill originally became law, fully plastic guns were science 
+fiction. But, today, plans for plastic guns are available online and 
+can be produced at home with no technical expertise. Unfortunately, the 
+Undetectable Firearms Act hasn't been updated since 1988, and glaring 
+gaps exist.
+  That is why today I am introducing the Undetectable Firearms 
+Modernization Act. This bill will make modest changes to the original 
+act to more fully adhere to the spirit of the law.
+  Mr. Speaker, we need to be working to ensure that terrorists and 
+criminals can't walk through security checkpoints with firearms 
+undetected.
+
+[[Page 5718]]
+
+
+
+                          ____________________
+```
