@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-04-06-pt1-PgH2789
+date: 2017-04-06
+edition: CREC
+section: HOUSE
+page: H2789
+citation: 163 Cong. Rec. H2789
+---
+
+# MEMORIALS
+
+**Measures:** S.Res. 22, S.Res. 26
+
+```
+                               MEMORIALS
+
+  Under clause 3 of rule XII, memorials were presented and referred as 
+follows:
+
+       21. The SPEAKER presented a memorial of the Senate of the 
+     State of California, relative to Senate Resolution No. 26, 
+     affirming strong support for the Affordable Care Act and 
+     calls upon the United States Congress to reject any effort to 
+     repeal the Affordable Care Act unless it is simultaneously 
+     replaced with an alternative program that meets the standards 
+     clearly and consistently articulated by President Trump; 
+     which was referred to the Committee on Energy and Commerce.
+       22. Also, a memorial of the Senate of the State of 
+     California, relative to Senate Resolution No. 22, calling 
+     upon President Trump and Secretary Kelly to publicly and 
+     explicitly reaffirm the principles and content of the ICE 
+     policy memorandum dated October 24, 2011, regarding 
+     enforcement actions at or focused on sensitive locations; 
+     which was referred to the Committee on the Judiciary.
+
+                          ____________________
+```

@@ -1,0 +1,29 @@
+---
+granule: CREC-2017-04-06-pt1-PgH2782-9
+date: 2017-04-06
+edition: CREC
+section: HOUSE
+page: H2782
+citation: 163 Cong. Rec. H2782
+---
+
+# ADJOURNMENT
+
+**Speaking:** Sessions, Pete (S000250) [R-TX]
+
+**Measures:** H.Con.Res. 48
+
+```
+                              ADJOURNMENT
+
+  Mr. SESSIONS. Mr. Speaker, pursuant to the order of the House of 
+today, I move that the House do now adjourn.
+  The motion was agreed to; accordingly (at 2 o'clock and 32 minutes 
+p.m.), under its previous order, the House adjourned until Saturday, 
+April 8, 2017, at 11 a.m., unless it sooner has received a message from 
+the Senate transmitting its adoption of House Concurrent Resolution 48, 
+in which case the House shall stand adjourned pursuant to that 
+concurrent resolution.
+
+                          ____________________
+```

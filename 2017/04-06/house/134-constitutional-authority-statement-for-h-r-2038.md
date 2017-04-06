@@ -1,0 +1,21 @@
+---
+granule: CREC-2017-04-06-pt1-PgH2791-30
+date: 2017-04-06
+edition: CREC
+section: HOUSE
+page: H2791
+citation: 163 Cong. Rec. H2791
+---
+
+# Constitutional Authority Statement for H.R. 2038
+
+**Measures:** H.R. 2038
+
+```
+            By Mr. LARSON of Connecticut:
+        H.R. 2038.
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+        Article I, Section 8, Clause 1 and Article I, Section 9, 
+     Clause 7
+```

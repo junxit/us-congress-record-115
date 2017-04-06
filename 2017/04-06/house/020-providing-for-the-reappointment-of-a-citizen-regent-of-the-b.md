@@ -1,0 +1,50 @@
+---
+granule: CREC-2017-04-06-pt1-PgH2767-4
+date: 2017-04-06
+edition: CREC
+section: HOUSE
+page: H2767
+citation: 163 Cong. Rec. H2767
+---
+
+# PROVIDING FOR THE REAPPOINTMENT OF A CITIZEN REGENT OF THE BOARD OF REGENTS OF THE SMITHSONIAN INSTITUTION
+
+**Speaking:** Harper, Gregg (H001045) [R-MS]
+
+**Measures:** S.J.Res. 30
+
+```
+  PROVIDING FOR THE REAPPOINTMENT OF A CITIZEN REGENT OF THE BOARD OF 
+                 REGENTS OF THE SMITHSONIAN INSTITUTION
+
+  Mr. HARPER. Madam Speaker, I ask unanimous consent that the Committee 
+on House Administration be discharged from further consideration of the 
+joint resolution (S.J. Res. 30) providing for the reappointment of 
+Steve Case as a citizen regent of the Board of Regents of the 
+Smithsonian Institution, and ask for its immediate consideration in the 
+House.
+  The Clerk read the title of the joint resolution.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Mississippi?
+  There was no objection.
+  The text of the joint resolution is as follows:
+
+                              S.J. Res. 30
+
+       Resolved by the Senate and House of Representatives of the 
+     United States of America in Congress assembled, That, in 
+     accordance with section 5581 of the Revised Statutes (20 
+     U.S.C. 43), the vacancy on the Board of Regents of the 
+     Smithsonian Institution, in the class other than Members of 
+     Congress, occurring by reason of the expiration of the term 
+     of Steve Case of Virginia on April 25, 2017, is filled by the 
+     reappointment of the incumbent. The reappointment is for a 
+     term of 6 years, beginning on the later of April 26, 2017, or 
+     the date of the enactment of this joint resolution.
+
+  The joint resolution was ordered to be read a third time, was read 
+the third time, and passed, and a motion to reconsider was laid on the 
+table.
+
+                          ____________________
+```
