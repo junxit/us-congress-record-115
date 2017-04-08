@@ -1,0 +1,31 @@
+---
+granule: CREC-2017-04-08-pt1-PgH2795-7
+date: 2017-04-08
+edition: CREC
+section: HOUSE
+page: H2795
+citation: 163 Cong. Rec. H2795
+---
+
+# ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+
+**Measures:** S.J.Res. 30, S.J.Res. 35, S.J.Res. 36, S. 544
+
+```
+                ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+
+  The SPEAKER pro tempore. Pursuant to clause 4 of rule I, the 
+following enrolled bill and joint resolutions were signed by the 
+Speaker on Thursday, April 6, 2017:
+  S. 544, to amend the Veterans Access, Choice, and Accountability Act 
+of 2014 to modify the termination date for the Veterans Choice Program, 
+and for other purposes;
+  S.J. Res. 30, providing for the reappointment of Steve Case as a 
+citizen regent of the Board of Regents of the Smithsonian Institution;
+  S.J. Res. 35, providing for the appointment of Michael Govan as a 
+citizen regent of the Board of Regents of the Smithsonian Institution;
+  S.J. Res. 36, providing for the appointment of Roger W. Ferguson as a 
+citizen regent of the Board of Regents of the Smithsonian Institution.
+
+                          ____________________
+```

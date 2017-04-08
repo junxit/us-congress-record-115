@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-04-08-pt1-PgH2795-9
+date: 2017-04-08
+edition: CREC
+section: HOUSE
+page: H2795
+citation: 163 Cong. Rec. H2795
+---
+
+# COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+```
+               COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+  The SPEAKER pro tempore laid before the House the following 
+communication from the Clerk of the House of Representatives:
+
+[[Page H2796]]
+
+                                              Office of the Clerk,
+
+
+                                     House of Representatives,
+
+                                    Washington, DC, April 7, 2017.
+     Hon. Paul D. Ryan,
+     Speaker, House of Representatives,
+     Washington, DC.
+       Dear Mr. Speaker: Pursuant to the permission granted in 
+     Clause 2(h) of Rule II of the Rules of the U.S. House of 
+     Representatives, the Clerk received the following message 
+     from the Secretary of the Senate on April 7, 2017, at 10:41 
+     a.m.:
+       Appointments:
+       National Commission on Military, National, and Public 
+     Service.
+       With best wishes, I am,
+           Sincerely,
+     Karen L. Haas.
+
+                          ____________________
+```
