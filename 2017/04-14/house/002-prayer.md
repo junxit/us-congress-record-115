@@ -1,0 +1,25 @@
+---
+granule: CRECB-2017-pt4-Pg5813-4
+date: 2017-04-14
+edition: CRECB
+section: HOUSE
+page: 5813
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  Reverend Gene Hemick, St. Joseph's Catholic Church, Washington, D.C., 
+offered the following prayer:
+  At this sacred time in which Christian and Jewish religions celebrate 
+God's loving care, we pray our Congress will be blessed with the 
+devoted support God has bestowed on humankind throughout time.
+  May the strength of God's compassion sustain our Congress and enable 
+it to wisely confront the complex challenges it encounters in guiding 
+our country.
+  Amen.
+
+                          ____________________
+```
