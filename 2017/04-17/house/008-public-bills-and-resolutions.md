@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt4-Pg5822-9
+date: 2017-04-17
+edition: CRECB
+section: HOUSE
+page: 5822
+---
+
+# PUBLIC BILLS AND RESOLUTIONS
+
+```
+                      PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XII, public bills and resolutions of the 
+following titles were introduced and severally referred, as follows:
+
+           By Mr. AMODEI:
+       H.R. 2101. A bill to amend the Federal Election Campaign 
+     Act of 1971 to expand the ability of trade associations to 
+     solicit contributions from the stockholders and executive or 
+     administrative personnel of their member corporations, and 
+     for other purposes; to the Committee on House Administration.
+           By Mr. KIHUEN:
+       H.R. 2102. A bill to amend the Investment Company Act of 
+     1940 to require a report on improving access to capital in 
+     rural areas for small businesses and qualifying venture 
+     capital funds; to the Committee on Financial Services.
+           By Mr. RUTHERFORD (for himself and Mr. Peters):
+       H.R. 2103. A bill to amend title 38, United States Code, to 
+     include the Frye Scholarship in the Yellow Ribbon G.I. 
+     Education Enhancement Program; to the Committee on Veterans' 
+     Affairs.
+
+                          ____________________
+```
