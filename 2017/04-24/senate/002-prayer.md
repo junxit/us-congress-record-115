@@ -1,0 +1,31 @@
+---
+granule: CRECB-2017-pt4-Pg5840-3
+date: 2017-04-24
+edition: CRECB
+section: SENATE
+page: 5840
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, Dr. Barry C. Black, offered the following prayer:
+  Eternal Lord God, our sure foundation, we need You during this 
+challenging season.
+  As our lawmakers face a Friday deadline to fund the Federal 
+Government beyond April 28, inspire them to be part of the solutions 
+and not the problems. Remind them that Your first command to humanity 
+in Genesis 1 was to be productive, to solve problems, to subdue the 
+Earth, and to have sovereignty.
+  Lord, give our Senators the wisdom to subdue division, rancor, and 
+partisanship. May their primary desire be to unite in the common cause 
+of doing what is best for our Nation and world. Show them how to 
+protect the Constitution against all enemies, foreign and domestic.
+  May those who believe in You remember that You are the only 
+constituent whom they must always seek to please.
+  We pray in Your merciful Name. Amen.
+
+                          ____________________
+```
