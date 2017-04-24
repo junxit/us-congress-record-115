@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-04-24-pt1-PgS2475-2
+date: 2017-04-24
+edition: CREC
+section: SENATE
+page: S2475
+citation: 163 Cong. Rec. S2475
+---
+
+# NOMINATION OF ROD ROSENSTEIN
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+```
+                      NOMINATION OF ROD ROSENSTEIN
+
+  Mr. SCHUMER. Mr. President, finally, one final issue, the nomination 
+of Rod Rosenstein to be Deputy Attorney General, which we will vote to 
+proceed on later tonight.
+  I sat down with Mr. Rosenstein a few weeks ago and spent time asking 
+him about his career, his views on the Department of Justice, and 
+protecting the integrity of the Department. I came away with the 
+impression that he is someone who is independent, who would stand up 
+for the law, regardless of which party controlled the White House, and 
+his career backs that up.
+  With respect to the executive branch investigation into ties between 
+the Trump campaign and Russia, Mr. Rosenstein committed to me he would 
+appoint a special counsel to conduct that investigation if one is 
+required. He has developed a reputation for integrity. He has promised 
+to give this issue careful consideration. I believe, if he studies the 
+Department regulations, he will come to the same conclusion many of us 
+have; that a special counsel is merited.
+  For those reasons, I will be voting for cloture this evening and 
+voting for his confirmation.
+  Thank you, Mr. President.
+  I yield the floor.
+
+                          ____________________
+```
