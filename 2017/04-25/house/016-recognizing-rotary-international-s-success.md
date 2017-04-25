@@ -1,0 +1,43 @@
+---
+granule: CREC-2017-04-25-pt1-PgH2819
+date: 2017-04-25
+edition: CREC
+section: HOUSE
+page: H2819
+citation: 163 Cong. Rec. H2819
+---
+
+# RECOGNIZING ROTARY INTERNATIONAL'S SUCCESS
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+**Measures:** H.Res. 165
+
+```
+               RECOGNIZING ROTARY INTERNATIONAL'S SUCCESS
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, through my service to 
+South Carolina's Second Congressional District and as past Cayce-West 
+Columbia Rotary Club president, I appreciate Rotary International's 
+work in promoting worldwide Service Above Self.
+  In coordination with national governments, Rotary International 
+created the Global Polio Eradication Initiative, producing Polio Plus 
+as one of the most successful public-private health initiatives in 
+history. The initiative has provided immunizations for more than 2.5 
+billion children, spared 15 million from disability, prevented over 1.5 
+million deaths, and has reduced polio illnesses by 99 percent.
+  Earlier this year, I introduced H. Res. 165, recognizing Rotary 
+International's work on the Global Polio Eradication Initiative and 
+supporting their ongoing services.
+  While we have made remarkable strides, more work remains. I am 
+grateful to support the current president of the Global Polio 
+Eradication Initiative with Rotary International President John Germ 
+and past Vice President Anne Matthews of Columbia, South Carolina.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism. Our sympathy to the 
+family of National Review conservative stalwart Kate O'Beirne.
+
+                          ____________________
+```
