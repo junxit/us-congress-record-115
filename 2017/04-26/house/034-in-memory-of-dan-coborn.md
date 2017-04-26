@@ -1,0 +1,43 @@
+---
+granule: CREC-2017-04-26-pt1-PgH2858-6
+date: 2017-04-26
+edition: CREC
+section: HOUSE
+page: H2858
+citation: 163 Cong. Rec. H2858
+---
+
+# IN MEMORY OF DAN COBORN
+
+**Speaking:** Emmer, Tom (E000294) [R-MN]
+
+```
+                        IN MEMORY OF DAN COBORN
+
+  (Mr. EMMER asked and was given permission to address the House for 1 
+minute.)
+  Mr. EMMER. Mr. Speaker, I rise today to remember the life of 
+Minnesota's very own Dan Coborn.
+  Dan Coborn, a native son of the St. Cloud community, recently passed, 
+but his memory will live on.
+  Dan will be remembered as an executive who helped his family's 
+business grow and succeed. He will be remembered as a loving husband 
+and father whose wife and five children meant the world to him.
+
+[[Page H2859]]
+
+  Perhaps most importantly, Dan Coborn will be remembered for his 
+charity and generosity. Over the span of his life, Dan Coborn gave back 
+to a number of charities that included the St. Cloud Area Family YMCA, 
+Big Brothers Big Sisters of Central Minnesota, and the Boys and Girls 
+Clubs of Central Minnesota.
+  In addition to financially giving back to these charities, he also 
+gave his time by serving as a board member of the St. Cloud Hospital 
+and the Sauk Rapids-Rice Schools, in addition to serving as a founding 
+member of the United Way of Central Minnesota.
+  Dan Coborn was a hero in our community, and his passing is a massive 
+loss to us all. I wish his family peace during this difficult time, and 
+I promise his life's work will not be forgotten.
+
+                          ____________________
+```

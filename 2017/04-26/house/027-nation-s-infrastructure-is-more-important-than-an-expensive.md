@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-04-26-pt1-PgH2857-5
+date: 2017-04-26
+edition: CREC
+section: HOUSE
+page: H2857
+citation: 163 Cong. Rec. H2857
+---
+
+# NATION'S INFRASTRUCTURE IS MORE IMPORTANT THAN AN EXPENSIVE WALL
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+    NATION'S INFRASTRUCTURE IS MORE IMPORTANT THAN AN EXPENSIVE WALL
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Mr. Speaker, while the President continues 
+to drone on about his southern border wall, a wall that he told America 
+Mexico would pay for--which, of course, they will not--a wall that the 
+Massachusetts Institute of Technology reports will cost Americans $40 
+billion, there is no discussion of a promised $1 trillion 
+infrastructure bill.
+  This week, a Reuters report named my hometown of Buffalo, New York, 
+as among the most dangerous lead hotspots in America. The lead 
+waterlines in places like Buffalo, New York, and Flint, Michigan, are 
+more than 100 years old, and they need to be replaced. Forty percent of 
+kids in lead hotspots could suffer from cognitive delays and other 
+neurological problems.
+  Mr. Speaker, the President needs to stop talking about an expensive 
+and ineffective wall and start taking action on removing the toxic 
+levels of lead from our Nation's drinking water systems, particularly 
+in places like Buffalo, New York, and Flint, Michigan.
+
+                          ____________________
+```
