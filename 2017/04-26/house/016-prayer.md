@@ -1,0 +1,33 @@
+---
+granule: CRECB-2017-pt5-Pg5995-4
+date: 2017-04-26
+edition: CRECB
+section: HOUSE
+page: 5995
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  Reverend Michael D. Gutierrez, St. John the Baptist Catholic Church, 
+Baldwin Park, California, offered the following prayer:
+  God, source of goodness and mercy, today we pray that You touch the 
+minds and hearts of the Members of Congress.
+  Grant them wisdom and insight to make effective decisions that 
+benefit the common good of our Nation, respecting all ethnicities, 
+genders, and faith traditions.
+  We pray, Lord, that our Representatives may listen to one another so 
+that they may seek what is good and true for all people. We ask You, 
+Lord, to guide them and grant them courage to act in peace and justice 
+so that other nations may see the goodness of our Nation and our 
+leaders.
+  God, may this day be a continual exchange of ideas and prosperous 
+debate, that people may see that our Representatives are being guided 
+by You, God, and that Your wisdom be reflected in their decisions.
+  We lift up this prayer in Your holy name.
+  Amen.
+
+                          ____________________
+```

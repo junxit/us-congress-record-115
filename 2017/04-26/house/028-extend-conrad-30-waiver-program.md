@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt5-Pg5997
+date: 2017-04-26
+edition: CRECB
+section: HOUSE
+page: 5997
+---
+
+# EXTEND CONRAD 30 WAIVER PROGRAM
+
+```
+                    EXTEND CONRAD 30 WAIVER PROGRAM
+
+  (Mr. SCHNEIDER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SCHNEIDER. Mr. Speaker, I rise today in support of the Conrad 30 
+Waiver program set to expire at the end of this week. This program 
+helps match medically underserved communities, both rural and urban, 
+with much-needed doctors. Currently, foreign medical students studying 
+here using J-1 visas must return to their home country and wait 2 years 
+before they can apply to work in the United States. This makes no 
+sense.
+  The American medical education system attracts the best and the 
+brightest and produces the best medical graduates in the world. When so 
+many of our communities are struggling to attract medical 
+professionals, we should be creating incentives for these newly trained 
+doctors to stay.
+  Through the Conrad 30 program, a limited number of new physicians can 
+stay if they can commit to work 3 years in underserved communities. 
+Continuing the Conrad 30 Waiver program is a commonsense step towards 
+helping underserved Americans. I am proud to introduce H.R. 2141 with 
+Congressman Issa of California to extend and expand this program.
+  Mr. Speaker, I urge my colleagues to do the same.
+
+                          ____________________
+```

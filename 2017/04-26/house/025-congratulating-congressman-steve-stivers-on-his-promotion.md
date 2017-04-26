@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt5-Pg5996-4
+date: 2017-04-26
+edition: CRECB
+section: HOUSE
+page: 5996
+---
+
+# CONGRATULATING CONGRESSMAN STEVE STIVERS ON HIS PROMOTION
+
+```
+       CONGRATULATING CONGRESSMAN STEVE STIVERS ON HIS PROMOTION
+
+  (Mr. JOHNSON of Ohio asked and was given permission to address the 
+House for 1 minute.)
+  Mr. JOHNSON of Ohio. Mr. Speaker, I want to join my colleagues in 
+congratulating Steve Stivers on his promotion to brigadier general. I 
+served for 26\1/2\ years in the United States Air Force, and I can tell 
+you that every officer who puts on the uniform, in the quiet moments of 
+their own minds, they dream of the day that maybe someday they might 
+aspire to become a flag officer or to attain the rank of general 
+officer.
+  I can tell you that, from my perspective, it is a lot easier to get 
+elected to the House of Representatives than it is to earn the rank of 
+general--at least that is what my experience shows. I can tell you, I 
+never served under Steve Stivers and his command, but if his military 
+leadership and performance is anything like his performance here in the 
+House, he is going to represent the State of Ohio and our Nation very 
+well.
+  Congratulations to my colleague, Steve Stivers. God bless you, and 
+thank you for your service to our country.
+
+                          ____________________
+```

@@ -1,0 +1,38 @@
+---
+granule: CRECB-2017-pt5-Pg6018-2
+date: 2017-04-26
+edition: CRECB
+section: HOUSE
+page: 6018
+---
+
+# MOMENT OF SILENCE HONORING FORMER REPRESENTATIVE JAY DICKEY
+
+```
+      MOMENT OF SILENCE HONORING FORMER REPRESENTATIVE JAY DICKEY
+
+  (Mr. WESTERMAN asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. WESTERMAN. Mr. Speaker, I rise today to remember the life of 
+former Congressman Jay Dickey, who represented the Fourth District of 
+Arkansas for 8 years. In the days since Congressman Dickey's death last 
+week at the age of 77, tributes have poured in, with many noting his 
+sense of civic duty, his love of family, and, most of all, his faith in 
+God.
+  If you spent much time with Jay, you likely reached a point in the 
+conversation where he would pause and ask a pointed question: When you 
+die, where will you spend eternity?
+  I remember Jay asking me that question, and when I quickly responded 
+``Heaven,'' he didn't let me off easy, as he followed up with: How do 
+you know? After which, we had a long discussion sharing our common 
+faith in Christ.
+  There are current Members of this House who served with Jay, the 
+first Republican to represent Arkansas' Fourth Congressional District. 
+Regardless of political party, he was a representative of all 
+Arkansans, and he genuinely cared about people.
+  Mr. Speaker, I ask the Members of the House to join me and the 
+Members of the Arkansas congressional delegation in observing a moment 
+of silence in remembrance of Congressman Jay Dickey.
+
+                          ____________________
+```

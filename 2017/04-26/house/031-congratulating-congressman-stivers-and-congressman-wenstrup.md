@@ -1,0 +1,37 @@
+---
+granule: CRECB-2017-pt5-Pg5997-4
+date: 2017-04-26
+edition: CRECB
+section: HOUSE
+page: 5997
+---
+
+# CONGRATULATING CONGRESSMAN STIVERS AND CONGRESSMAN WENSTRUP ON THEIR PROMOTIONS
+
+```
+ CONGRATULATING CONGRESSMAN STIVERS AND CONGRESSMAN WENSTRUP ON THEIR 
+                               PROMOTIONS
+
+  (Mr. TIBERI asked and was given permission to address the House for 1 
+minute.)
+  Mr. TIBERI. Mr. Speaker, I rise today to recognize two Members of our 
+congressional delegation, and two of my friends, Congressman Steve 
+Stivers and Congressman Brad Wenstrup, upon their military promotions.
+  Now Brigadier General Stivers in the Ohio National Guard, and Colonel 
+Brad Wenstrup in the United States Army Reserve, they both have served 
+their country beyond the boundaries of their district.
+  Today I am humbled and honored to join my colleagues in 
+congratulating them on their distinguished public and military careers.
+  Congressman Stivers, 30 years ago as a young Buckeye, assumed the 
+title--one very important to him and to us--as citizen soldier.
+  In 1998, Congressman Wenstrup joined the U.S. Army Reserve after 
+already establishing himself as a doctor in the Cincinnati area.
+  To Congressman Stivers and Congressman Wenstrup, as faithful 
+Representatives to your constituents, as members of our military, and 
+veterans of the Iraq war and recipients of the Bronze Star, you have 
+always put service to our country first.
+  Thank you from a grateful Congress and a grateful nation. 
+Congratulations on your respective promotions.
+
+                          ____________________
+```
