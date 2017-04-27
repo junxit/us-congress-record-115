@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-04-27-pt1-PgH2907-4
+date: 2017-04-27
+edition: CREC
+section: HOUSE
+page: H2907
+citation: 163 Cong. Rec. H2907
+---
+
+# TAX FREEDOM DAY
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                            TAX FREEDOM DAY
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, last Sunday marked Tax 
+Freedom Day, determined by the Tax Foundation, led by President Scott 
+Hodge. This is the day when our citizens have earned enough money to 
+pay their tax bill for the year.
+  It is alarming that American taxpayers must work 113 days to foot the 
+bill for their annual tax obligation. Collectively, American families 
+spent more on their taxes this year than on food, clothing, and housing 
+combined. This is an abuse of the American people, limiting their 
+ability to spend their own hard-earned wages.
+  As Tax Freedom Day is pushed later each year, we must commit to 
+commonsense reforms to the Tax Code. The Federal Government takes too 
+much from American workers with an obsessive push to increase taxes, 
+destroying jobs.
+  I am encouraged by the tax plan President Donald Trump outlined 
+yesterday and look forward to working with him to provide tax reform 
+that will create jobs, simplify the Tax Code, and grow the economy. I 
+am confident that, by working together, we can deliver comprehensive, 
+balanced tax reforms for American families which will promote jobs.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism.
+
+                          ____________________
+```

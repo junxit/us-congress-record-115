@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-04-27-pt1-PgS2612-3
+date: 2017-04-27
+edition: CREC
+section: SENATE
+page: S2612
+citation: 163 Cong. Rec. S2612
+---
+
+# TRIBUTE TO EMMA HOMER
+
+**Speaking:** Daines, Steve (D000618) [R-MT]
+
+```
+                         TRIBUTE TO EMMA HOMER
+
+● Mr. DAINES. Mr. President, this week, I have the distinct 
+honor of recognizing Emma Homer of Ashland for the many years she has 
+helped children in eastern Montana. Her generosity and compassion is 
+commendable.
+  Emma began fostering children in 1979. For nearly 38 years, she has 
+opened her home, and her heart in order to help the local community. 
+The longevity of her noble accomplishment is truly remarkable. Over the 
+years, Emma has directly helped to improve the lives of over 40 
+children through her service as foster parent. The children she has 
+cared for have varied in age from infants just a few months old to 
+teenagers in high school.
+  In addition to her contributions as a foster parent, since 1981, Emma 
+has worked in the food service department at St. Labre Indian School. 
+During that time, she has helped prepare hundreds of thousands of 
+nutritious meals for the students and staff.
+  A loving home and a warm meal are essential elements in every Montana 
+community. Emma has helped provide both of these essentials to many 
+children for well over a generation. Thank you, Emma, for the 
+outstanding example you have set for the next generation.●
+
+                          ____________________
+```

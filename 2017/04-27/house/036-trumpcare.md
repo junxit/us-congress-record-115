@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-04-27-pt1-PgH2909-2
+date: 2017-04-27
+edition: CREC
+section: HOUSE
+page: H2909
+citation: 163 Cong. Rec. H2909
+---
+
+# TRUMPCARE
+
+**Speaking:** Green, Gene (G000410) [D-TX]
+
+```
+                               TRUMPCARE
+
+  (Mr. GENE GREEN of Texas asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. GENE GREEN of Texas. Mr. Speaker, I rise to oppose the latest 
+version of TrumpCare. Once again, House Republicans have confirmed 
+their approach to fixing health care requires gutting key provisions 
+for people with preexisting conditions, increasing costs, and offering 
+fewer protections. Letting the States cherry-pick the essential health 
+benefits--the 10 basic medical care categories covered, like emergency 
+care, mental health, addiction treatment, or lab tests--is just crazy.
+  The obvious problem with eliminating the Affordable Care Act's 
+essential health benefits is that it will leave people without access 
+to reasonable quality health insurance. The consumer should know what 
+their health insurance covers.
+  Without some minimum requirements, insurance companies can offer 
+plans that are insurance in name only. Anyone who is actually sick and 
+needs care will be left out in the cold.
+  The essential health benefits make the marketplace viable because 
+they help pool the risk among the whole population instead of just 
+attracting sick people who need these services.
+  If Republicans thought TrumpCare was so great, why would they exempt 
+Members of Congress and our staff?
+  I urge my colleagues to scrap this political game and work with us to 
+strengthen health care for all Americans.
+
+                          ____________________
+```
