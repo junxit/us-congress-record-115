@@ -1,0 +1,40 @@
+---
+granule: CRECB-2017-pt5-Pg6059-3
+date: 2017-04-27
+edition: CRECB
+section: HOUSE
+page: 6059
+---
+
+# PRESIDENT TRUMP'S FIRST 100 DAYS
+
+```
+                    PRESIDENT TRUMP'S FIRST 100 DAYS
+
+  (Mr. SARBANES asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. SARBANES. Mr. Speaker, the President said he would drain the 
+swamp in Washington. He has flooded it. He said he would break the 
+cycle of corruption. He has accelerated it. Nearly 100 days into his 
+administration, the President has reneged on the fundamental promise 
+that he would clean up Washington.
+  Today, the Democracy Reform Task Force is releasing a report 
+detailing 100 ways the Trump administration has flooded the swamp in 
+the first 100 days. As the report chronicles, President Trump has made 
+a mockery of ethics law and regulation, promoted a culture of secrecy 
+in the executive branch, stacked his Cabinet with Big Money campaign 
+donors, installed a special interest revolving door into the Trump 
+White House, put big money ahead of the public interest, turned the 
+Presidency into a profit-making enterprise, pursued public policy for 
+his personal benefit, and raided the Treasury to pay for vacations and 
+private business promotion.
+  These are not the actions of a President intent on draining the swamp 
+or restoring a voice to the voiceless or restoring power to the 
+powerless. Americans of all political stripes are starting to wonder: 
+``Maybe the President isn't looking out for me and my family. Maybe he 
+is just looking out for himself, his business, and his brand.''
+  The SPEAKER pro tempore. Members are reminded to refrain from 
+engaging in personalities toward the President.
+
+                          ____________________
+```

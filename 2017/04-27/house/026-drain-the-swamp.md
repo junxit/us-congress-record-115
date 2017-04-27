@@ -1,0 +1,44 @@
+---
+granule: CRECB-2017-pt5-Pg6057-7
+date: 2017-04-27
+edition: CRECB
+section: HOUSE
+page: 6057
+---
+
+# DRAIN THE SWAMP
+
+```
+                            DRAIN THE SWAMP
+
+  (Ms. KELLY of Illinois asked and was given permission to address the 
+House for 1 minute.)
+  Ms. KELLY of Illinois. Mr. Speaker, Saturday marks 100 days since 
+President Trump took office. He is far from
+
+[[Page 6058]]
+
+``draining the swamp'' as promised. He stacked his administration with 
+billionaires, family members, and people with dangerous ties to Russian 
+interests.
+  His national security policies have been a far cry from the steady-
+handed decisionmaking he promised. From Mar-a-Lago missile strikes to 
+aggressive and impulsive national security rhetoric, the President has 
+made our foreign policy as murky as swamp water--a dangerous practice 
+in today's world.
+  One hundred days in, the President is heavy on alternative facts and 
+light on action. Where is his job bill? Where is his infrastructure and 
+cybersecurity plan? Where is all of the ``winning'' we were supposed to 
+be sick of by now?
+  It has been 100 days, Mr. President. It is time to do something the 
+American people can get behind. You can start by draining the swamp you 
+created at the White House.
+  Mr. Speaker, I would also like to recognize the life and legacy of 
+Donna Lynn Johnson who, for 40 years, brought quality eye care to the 
+South Side of Chicago. She will be greatly missed by her patients, 
+family, and especially her niece, Donna Miller.
+  Lastly, I am proud to have Baily Lynn Compton from Texas as my shadow 
+today.
+
+                          ____________________
+```
