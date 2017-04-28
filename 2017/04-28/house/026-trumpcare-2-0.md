@@ -1,0 +1,34 @@
+---
+granule: CREC-2017-04-28-pt1-PgH2961
+date: 2017-04-28
+edition: CREC
+section: HOUSE
+page: H2961
+citation: 163 Cong. Rec. H2961
+---
+
+# TRUMPCARE 2.0
+
+**Speaking:** Ruiz, Raul (R000599) [D-CA]
+
+```
+                             TRUMPCARE 2.0
+
+  (Mr. RUIZ asked and was given permission to address the House for 1 
+minute.)
+  Mr. RUIZ. Mr. Speaker, with TrumpCare 2.0, Republican leaders took a 
+bad bill and made it worse.
+  On top of causing at least 24 million more Americans to be uninsured, 
+raising costs for middle class families, imposing an age tax on older 
+Americans, and making everyone pay more for less coverage, this bill 
+now guts protections for patients with preexisting illnesses and 
+removes the essential health benefits: guaranteed coverage for things 
+like prescription drugs, emergency care, maternity care, and mental 
+health. All this while still giving billions in tax breaks to 
+millionaires.
+  Stop being ideologically driven. Put people above partisanship. Put 
+patients first, and let's work for a bipartisan plan to reduce out-of-
+pocket costs for care and medicine for all Americans.
+
+                          ____________________
+```

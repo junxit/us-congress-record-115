@@ -1,0 +1,46 @@
+---
+granule: CREC-2017-04-28-pt1-PgH2946-5
+date: 2017-04-28
+edition: CREC
+section: HOUSE
+page: H2946
+citation: 163 Cong. Rec. H2946
+---
+
+# QUALITY ACCESS AND INCLUSION FOR THOSE WITH DOWN SYNDROME
+
+**Speaking:** Fitzpatrick, Brian K. (F000466) [R-PA]
+
+**Measures:** H.R. 1896
+
+```
+       QUALITY ACCESS AND INCLUSION FOR THOSE WITH DOWN SYNDROME
+
+  (Mr. FITZPATRICK asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. FITZPATRICK. Mr. Speaker, I rise today in recognition of my 
+constituent Evan Rothholz, an energetic, tech-savvy kindergarten 
+student who happens to have Down syndrome.
+  Down syndrome is a condition that results from having an additional 
+full or partial copy of chromosome 21. Since his diagnosis, 6-year-old 
+Evan, along with his parents, Mitchel and Julie, advocate for others 
+with Down syndrome and help educate families facing this unexpected 
+diagnosis.
+  I am appreciative of the work of the Pennsylvania Down Syndrome 
+Advocacy Coalition, a group of concerned parents, self-advocates, 
+supporters, committed to achieving quality access and inclusion for all 
+individuals with Down syndrome in the State of Pennsylvania.
+  As a member of the Congressional Task Force on Down Syndrome, I am 
+very proud to support H.R. 1896, the ABLE to Work Act, which provides 
+more flexibility for thousands of individuals with disabilities, 
+allowing them to save and plan for the future.
+  It is Evan's hope that individuals with Down syndrome, and all of 
+those in the special needs community, will have the same educational 
+and financial opportunities that are afforded to others.
+
+[[Page H2947]]
+
+  
+
+                          ____________________
+```
