@@ -1,0 +1,40 @@
+---
+granule: CRECB-2017-pt5-Pg6182-3
+date: 2017-04-28
+edition: CRECB
+section: HOUSE
+page: 6182
+---
+
+# WHERE IS THE PLAN, PRESIDENT TRUMP?
+
+```
+                  WHERE IS THE PLAN, PRESIDENT TRUMP?
+
+  (Mr. BROWN of Maryland asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. BROWN of Maryland. Mr. Speaker, as we approach President Trump's 
+100th day in office, I rise to address the vision, the agenda, and the 
+plans the White House has laid out. Except, Mr. Speaker, there are no 
+plans to speak up.
+  President Trump promised an agenda that was supposed to make America 
+great again, but no one in America or the administration seems to know 
+what that includes. As the dust settles on the cruise missile strike in 
+Syria and the dropping of bombs in Afghanistan, where is the plan for 
+ISIS, Iraq, Syria, or Afghanistan that Candidate Trump promised?
+  The President said his $1 trillion infrastructure plan to create 
+millions of jobs is coming fast, but, again, where is the plan? 
+Instead, President Trump's one-page proposal is a massive $2 trillion 
+giveaway to corporations and the wealthy and doesn't include a penny 
+for infrastructure. That is a missed opportunity.
+  I could keep going. Where is the plan on fixing America's water 
+infrastructure? Where is the plan on making trade fair for American 
+workers? Where is the plan to provide affordable childcare that the 
+President promised?
+  Mr. Speaker, there is a hard truth the President needs to realize: 
+the difficult work of governing on behalf of the American people is 
+more than tweets and photo ops. The President's first 100 days have 
+been all talk and no action.
+
+                          ____________________
+```

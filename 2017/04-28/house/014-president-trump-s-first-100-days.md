@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt5-Pg6183
+date: 2017-04-28
+edition: CRECB
+section: HOUSE
+page: 6183
+---
+
+# PRESIDENT TRUMP'S FIRST 100 DAYS
+
+```
+                              {time}  0915
+                    PRESIDENT TRUMP'S FIRST 100 DAYS
+
+  (Mrs. WATSON COLEMAN asked and was given permission to address the 
+House for 1 minute.)
+  Mrs. WATSON COLEMAN. Mr. Speaker, tomorrow marks President Donald 
+Trump's first 100 days in office. While President Trump has claimed 
+that this is the most productive any President has been, he has not met 
+his own deadlines that were set during his campaign and subsequent 
+victory.
+  Since day one, this administration has pursued only works that 
+represent the detriment to this country and our democracy. He has made 
+outlandish, hateful, and harmful healthcare proposals. He has plans to 
+gut the Federal budget in exchange for tax cuts for his wealthy 
+friends. He has rolled back the progress made by the Department of 
+Justice under the previous administration. He and his family continue 
+to make money off of his position, and he has used the Congressional 
+Review Act to roll back protections for our environment, public 
+education, gun safety, and women's rights.
+  We are 100 days in, and we have over 4,000 more days to go. Mr. 
+President, Mr. Speaker, and the residents of New Jersey's 12th 
+Congressional District, we are counting down those days.
+
+                          ____________________
+```

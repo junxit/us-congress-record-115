@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt5-Pg6182
+date: 2017-04-28
+edition: CRECB
+section: HOUSE
+page: 6182
+---
+
+# PRESIDENT TRUMP'S 100 DAYS
+
+```
+                       PRESIDENT TRUMP'S 100 DAYS
+
+  (Ms. DelBENE asked and was given permission to address the House for 
+1 minute.)
+  Ms. DelBENE. Mr. Speaker, President Trump's first 100 days have been 
+chaos and confusion for American families and businesses. One thing is 
+clear: he has consistently ignored the middle class. His budget 
+decimates programs like Meals on Wheels. His tax plan is a huge 
+giveaway to the wealthiest few. And now, he is trying to eliminate 
+protections for people with preexisting conditions.
+  The Republican's latest bill to repeal the Affordable Care Act would 
+be devastating. And as I have heard from constituents--hundreds of 
+constituents throughout my district--getting sick should never mean 
+going bankrupt, like Christine, from Kirkland, who was born with a 
+congenital heart defect and relies on costly medical care to stay 
+alive. She told me her condition is, ``a cruel reality that is nobody's 
+fault. But it is malicious and disgraceful that we might face financial 
+ruin for me to stay alive.''
+  President Trump spent his first 100 days putting families like 
+Christine's in jeopardy. This must change in the next 100 days for 
+Christine and so many others.
+
+                          ____________________
+```
