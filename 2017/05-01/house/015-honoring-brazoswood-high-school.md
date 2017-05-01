@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-05-01-pt1-PgH2978-2
+date: 2017-05-01
+edition: CREC
+section: HOUSE
+page: H2978
+citation: 163 Cong. Rec. H2978
+---
+
+# HONORING BRAZOSWOOD HIGH SCHOOL
+
+**Speaking:** Weber, Randy K. Sr. (W000814) [R-TX]
+
+```
+                    HONORING BRAZOSWOOD HIGH SCHOOL
+
+  (Mr. WEBER of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. WEBER of Texas. Mr. Speaker, earlier this year, the Brazoswood 
+High School band was awarded one of the highest honors: the Sudler Flag 
+of Honor by the John Philip Sousa Foundation.
+  The Sudler Flag of Honor is given to distinguished high school bands 
+that have demonstrated particularly high standards of excellence in 
+concert activities over a period of several years. There is a 7-year 
+minimum process, with countless documents, recordings, letters of 
+recommendation, and performances at not only the State but the local 
+level as well.
+  Of the nearly 50 Sudler Flags that have been awarded since 1983, 
+almost 30 of them have gone to Texas high school bands. The Brazoswood 
+Buccaneer Band is the most recent addition to this prestigious group, 
+and they are the only band to have been awarded the Sudler Flag in 
+2017.
+  My sincere congratulations to the students; the alumni; the band; Mr. 
+Brian Casey, the band director; and the principal, Rita Pintavalle, on 
+this outstanding achievement.
+
+                          ____________________
+```
