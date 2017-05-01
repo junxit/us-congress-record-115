@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt5-Pg6256-2
+date: 2017-05-01
+edition: CRECB
+section: HOUSE
+page: 6256
+---
+
+# TELL ME IT ISN'T SO
+
+```
+                          TELL ME IT ISN'T SO
+
+  (Ms. JACKSON LEE asked and was given permission to address the House 
+for 1 minute.)
+  Ms. JACKSON LEE. Mr. Speaker, a few of us were at the United Nations 
+this morning and this afternoon, and what we heard most was the 
+importance of empowering women in developing countries who have 
+experienced violence, sexual violence. Tell me it isn't so that the 
+President of the United States has discontinued Let Girls Learn, 
+fostered and supported by Mrs. Obama, which is an important key element 
+of the Peace Corps, which is attempting to help these girls learn and 
+empower them.
+  Tell me it isn't so that the President of the United States, not 
+recognizing the Constitution and freedom of speech, is trying to expand 
+or change the libel laws that if you don't like what they say about you 
+as a politician, you can undermine and you can charge First Amendment 
+privilege, First Amendment press, and others with a violation of those 
+laws.
+  Tell me it isn't so that America is going back on her values and her 
+commitment to helping people around the world, particularly vulnerable 
+women and children, and, of course, denigrating the First Amendment and 
+the freedom of the press. Tell me it isn't so.
+
+                          ____________________
+```

@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt5-Pg6242-4
+date: 2017-05-01
+edition: CRECB
+section: HOUSE
+page: 6242
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Patrick J. Conroy, offered the following 
+prayer:
+  We give You thanks, O God, for giving us another day.
+  We ask Your blessing upon this assembly and upon all to whom the 
+authority of government is given. Help them to meet their 
+responsibilities during these days, to attend to the immediate needs 
+and concerns of the moment, enlightened by Your eternal spirit.
+  We thank You for Your gifts of patience and perseverance that have 
+led to agreements on the funding of government. It is difficult work 
+calling for true leadership. Continue to bless those Members who 
+continue to work toward solutions that redound to the benefit of our 
+Nation.
+  Please send Your spirit of peace upon those areas of our world where 
+conflicts continue and threaten to break out. May all Your children 
+learn to live in peace.
+  And may all that is done within the people's House be for Your 
+greater honor and glory.
+  Amen.
+
+                          ____________________
+```

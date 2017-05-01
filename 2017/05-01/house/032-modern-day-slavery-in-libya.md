@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt5-Pg6255-3
+date: 2017-05-01
+edition: CRECB
+section: HOUSE
+page: 6255
+---
+
+# MODERN DAY SLAVERY IN LIBYA
+
+```
+                      MODERN DAY SLAVERY IN LIBYA
+
+  (Mr. POE of Texas asked and was given permission to address the House 
+for 1 minute.)
+  Mr. POE of Texas. Mr. Speaker, after the United States toppled the 
+Government of Libya, the nation became a failed state, one that is a 
+brothel of slavery. Fleeing persecution from terrorists and vast 
+famine, west Africans hand their life savings over to drivers who will 
+take them to Niger, then off to Europe. But these refugees are labor 
+trafficked as slaves to Libya instead. They are bound to the slave 
+block and sold at the auction of slavery.
+  The slave drivers force them to work inside private prisons for 
+little or no food. Meanwhile, the slave masters demand ransoms from the 
+families. If the families don't pay the ransom, the refugees are sold 
+again to larger prisons and the demand doubles. If the ransom is never 
+paid, the slaves are eventually murdered.
+  Mr. Speaker, human slavery still exists in north Africa, and it is a 
+scourge on humanity. But the United States should be very careful about 
+taking out a regime like it did in Libya without understanding the 
+long-term consequences like what happened in Libya.
+  And that is just the way it is.
+
+                          ____________________
+```

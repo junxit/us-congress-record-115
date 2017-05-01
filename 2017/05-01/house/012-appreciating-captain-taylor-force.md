@@ -1,0 +1,40 @@
+---
+granule: CRECB-2017-pt5-Pg6242-7
+date: 2017-05-01
+edition: CRECB
+section: HOUSE
+page: 6242
+---
+
+# APPRECIATING CAPTAIN TAYLOR FORCE
+
+```
+                   APPRECIATING CAPTAIN TAYLOR FORCE
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, Captain Taylor Force of 
+South Carolina was a graduate of West Point, a veteran who had served 
+in Afghanistan and Iraq, and he was an MBA candidate at Vanderbilt 
+University when he was, at random, stabbed to death by a Palestinian 
+terrorist in March of 2016 as he innocently departed from a bus as a 
+tourist in Israel. He was only 28 years old.
+  His merciless murder at the hands of Palestinian terrorists is even 
+more gruesome because of the Palestinian Authority program of paying 
+out hundreds of millions of dollars to terrorists and their families in 
+support of mass murder.
+  I am grateful to support the Taylor Force Act, legislation that 
+restricts all aid from the Palestinian Authority until the Secretary of 
+State confirms they do not provide financial rewards for terrorists in 
+their murderous activities. I appreciate the leadership of Senator 
+Lindsey Graham, Congressman Doug Lamborn, and Congressman Lee Zeldin 
+for introducing the Taylor Force Act.
+  As Palestinian Prime Minister Mahmoud Abbas travels to Washington to 
+meet with President Trump on Wednesday, I am confident that President 
+Trump will show his commitment to ending financial rewards for 
+terrorists.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism.
+
+                          ____________________
+```
