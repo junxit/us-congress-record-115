@@ -1,0 +1,43 @@
+---
+granule: CRECB-2017-pt5-Pg6314-5
+date: 2017-05-02
+edition: CRECB
+section: HOUSE
+page: 6314
+---
+
+# NATIONAL INSTITUTES OF HEALTH FUNDING
+
+```
+                              {time}  1215
+                 NATIONAL INSTITUTES OF HEALTH FUNDING
+
+  (Mrs. DAVIS of California asked and was given permission to address 
+the House for 1 minute.)
+  Mrs. DAVIS of California. Mr. Speaker, recently I met with leaders of 
+the San Diego medical research community who had a unified message: We 
+need to end the cuts in research that have slowed medical innovation 
+for the last decade.
+  This year I was proud to lead the bipartisan effort, along with over 
+200 of my colleagues, to push for an additional $2 billion in funding 
+for the National Institutes of Health.
+  This is a very personal issue. Almost all of us know someone who is 
+struggling with a disease where NIH funding is used to find a cure. 
+That person could be a mother, father, family friend, or even more 
+heart-wrenching, a child.
+  I am thrilled that the spending bill before us this week avoids the 
+cuts proposed by President Trump and actually increases NIH funding by 
+$2 billion. We have seen what can happen when leadership takes a 
+bipartisan approach: top priorities like medical research actually get 
+funded.
+  This isn't the bill that I would have written, but it is a compromise 
+that I am very happy to vote for. Let's hope that Speaker Ryan has 
+learned from this experience and will work with us on health care, on 
+transportation, and other priorities moving forward.
+
+[[Page 6315]]
+
+
+
+                          ____________________
+```
