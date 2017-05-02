@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-05-02-pt1-PgH3011-2
+date: 2017-05-02
+edition: CREC
+section: HOUSE
+page: H3011
+citation: 163 Cong. Rec. H3011
+---
+
+# ANNIVERSARY OF THE FOUNDING OF THE MODERN STATE OF ISRAEL
+
+**Speaking:** Deutch, Theodore E. (D000610) [D-FL]
+
+```
+       ANNIVERSARY OF THE FOUNDING OF THE MODERN STATE OF ISRAEL
+
+  (Mr. DEUTCH asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. DEUTCH. Mr. Speaker, I rise today to recognize the 69th 
+anniversary of the founding of the modern State of Israel. Like our own 
+country, our friend and ally has a deep commitment to meeting human 
+needs around the world.
+  Throughout its history, Israel has been a leader in humanitarian 
+assistance. Israel established the very first field hospital in Haiti 
+after the devastating earthquake in 2010 and rebuilt villages ravaged 
+by cyclones in Fiji. Israel sent over 100 tons of supplies to aid 
+Indonesia and Sri Lanka after the 2004 tsunami, and dispatched doctors 
+to Greece to care for refugees fleeing the horrors of war in Syria.
+  When Israeli soldiers reported wounded Syrians arriving at their 
+border, medics from the Israeli military were dispatched and over 3,000 
+Syrians were treated by Israeli doctors.
+  Today, as we celebrate Israel's proud history and the bond between 
+our nations, we are reminded of the importance of looking beyond our 
+own borders and our proud shared history of welcoming those fleeing 
+persecution from all around the globe. We renew our shared commitment 
+to helping those in need in every corner of the world.
+
+                          ____________________
+```
