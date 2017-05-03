@@ -1,0 +1,31 @@
+---
+granule: CRECB-2017-pt5-Pg6441-2
+date: 2017-05-03
+edition: CRECB
+section: HOUSE
+page: 6441
+---
+
+# SMALL BUSINESS WEEK
+
+```
+                          SMALL BUSINESS WEEK
+
+  (Mr. PERRY asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PERRY. Mr. Speaker, I rise to recognize the first week in May as 
+Small Business Week in the United States and to applaud the 
+contributions of the 1 million small-business owners from across the 
+Commonwealth of Pennsylvania.
+  The entrepreneurs at the helm of these businesses take on great risk. 
+As a former small-business owner myself, I fully understand that risk 
+as well as the colossal responsibility associated with signing the 
+front side of a paycheck.
+  Small business is the backbone of the Commonwealth of Pennsylvania, 
+employing millions of people, roughly half of the private sector 
+workforce in our Commonwealth. Their success is our success. We thank 
+them for all they do to drive innovation forward and create and sustain 
+careers of tomorrow.
+
+                          ____________________
+```
