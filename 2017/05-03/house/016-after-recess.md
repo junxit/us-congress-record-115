@@ -1,0 +1,20 @@
+---
+granule: CREC-2017-05-03-pt1-PgH3076-2
+date: 2017-05-03
+edition: CREC
+section: HOUSE
+page: H3076
+citation: 163 Cong. Rec. H3076
+---
+
+# AFTER RECESS
+
+```
+                              {time}  1200
+                              AFTER RECESS
+
+  The recess having expired, the House was called to order by the 
+Speaker at noon.
+
+                          ____________________
+```

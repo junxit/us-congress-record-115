@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-05-03-pt1-PgH3310-5
+date: 2017-05-03
+edition: CREC
+section: HOUSE
+page: H3310
+citation: 163 Cong. Rec. H3310
+---
+
+# 2017 CONTINUED APPROPRIATIONS
+
+**Speaking:** Jackson Lee, Sheila (J000032) [D-TX]
+
+```
+                     2017 CONTINUED APPROPRIATIONS
+
+  (Ms. JACKSON LEE asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. JACKSON LEE. Mr. Speaker, I rise to support the continued 
+appropriations for 2017 and to say: Say it isn't so.
+  When the Trump budget was presented--the skinny budget--$600 billion 
+was cut out of NIH, which would impact a major research in diseases 
+that impact Americans. Thank goodness that we worked for a $2 billion 
+increase for the NIH in this appropriations bill.
+  And, equally so, how important it is that we can announce in Houston 
+that the Houston Housing Authority will be able to reissue vouchers for 
+homeless families because $654 million-plus was put in the section 8 
+vouchers, $40 million-plus was put in for veterans who are homeless, 
+and $10 million was put in for the disabled.
+  In addition, we added to the Cops on the Beat program and, as well, 
+provided additional dollars to enhance the Civil Rights Division some 
+$897.5 million.
+  The budget or the appropriations should be a road map for serving 
+Americans, not a nickel-and-dime approach to undermine. I am glad the 
+resistance remains strong, and that is why we have a budget or an 
+appropriation that listens to the people and the healthcare subsidies 
+are being paid for, so that people can have that health insurance.
+
+                          ____________________
+```

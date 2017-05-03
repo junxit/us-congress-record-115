@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-05-03-pt1-PgH3078-2
+date: 2017-05-03
+edition: CREC
+section: HOUSE
+page: H3078
+citation: 163 Cong. Rec. H3078
+---
+
+# TEACHER APPRECIATION WEEK
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                       TEACHER APPRECIATION WEEK
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, next week marks Teacher 
+Appreciation Week, which recognizes the special role educators make for 
+American families.
+  As the husband of a retired schoolteacher and a grateful dad of four 
+sons with eight grandchildren, I know firsthand the positive impact 
+educators have for students.
+  South Carolina's Second Congressional District is filled with 
+dedicated and talented teachers and administrators, and it is always a 
+pleasure to visit with them at their school or when their classes visit 
+Washington.
+  I would also like to recognize the 2017 Teacher of the Year, Jennifer 
+Wise, of Hand Middle School of Columbia, which my mother attended. As a 
+math teacher, Jennifer motivates her students for mathematics to 
+energize their lives outside of the classroom.
+  The success of our teachers is amplified by the leadership of State 
+Superintendent of Education Molly Spearman, working with Education 
+Secretary Betsy DeVos, and the parents, teachers, administrators, and 
+locally elected school boards who are making a difference for the 
+students of South Carolina for job opportunities and meaningful lives.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism.
+
+                          ____________________
+```

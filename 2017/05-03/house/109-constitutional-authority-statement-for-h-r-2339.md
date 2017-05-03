@@ -1,0 +1,30 @@
+---
+granule: CREC-2017-05-03-pt1-PgH3325-5
+date: 2017-05-03
+edition: CREC
+section: HOUSE
+page: H3325
+citation: 163 Cong. Rec. H3325
+---
+
+# Constitutional Authority Statement for H.R. 2339
+
+**Measures:** H.R. 2339
+
+```
+           By Mr. MARCHANT:
+       H.R. 2339.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       U.S. Constitution Art. I Sec. 8 cl. 1, under the ``Power To 
+     lay and collect Taxes'';
+       Amd. 16, under the ``power to lay and collect taxes on 
+     incomes, from whatever source derived, without apportionment 
+     among the several States, and without regard to any census or 
+     enumeration''; and
+       Art. I Sec. 8 cl. 18, under the power ``To make all Laws 
+     which shall be necessary and proper for carrying into 
+     Execution the foregoing Powers, and all other Powers vested 
+     by this Constitution in the Government of the United States, 
+     or in any Department or Officer thereof.''
+```

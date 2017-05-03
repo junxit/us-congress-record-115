@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-05-03-pt1-PgH3079-6
+date: 2017-05-03
+edition: CREC
+section: HOUSE
+page: H3079
+citation: 163 Cong. Rec. H3079
+---
+
+# SMALL BUSINESS WEEK
+
+**Speaking:** Kustoff, David (K000392) [R-TN]
+
+```
+                          SMALL BUSINESS WEEK
+
+  (Mr. KUSTOFF of Tennessee asked and was given permission to address 
+the House for 1 minute.)
+  Mr. KUSTOFF of Tennessee. Mr. Speaker, I rise today in honor of Small 
+Business Week.
+  Small businesses are the backbone of the American economy and the 
+main driver of our local communities. In fact, two-thirds of all new 
+jobs in the United States are created by small businesses. It is 
+crucial that our entrepreneurs and small-business owners have the 
+support that they need; and as legislators, it is incumbent upon us to 
+create an environment that allows them to succeed.
+  I am proud to be a member of the Financial Services Committee as we 
+mark up a bill today that will give our small businesses the boost that 
+they need.
+  The previous administration enacted rules and regulations that helped 
+some big companies and some big cities but slowed growth for our small 
+businesses in rural communities. The Financial CHOICE Act will repeal 
+Dodd-Frank's one-size-fits-all regulations and finally allow small 
+businesses to access the capital they need to grow and to prosper.
+  I am grateful for this opportunity to celebrate the remarkable small 
+businesses in the Eighth Congressional District of Tennessee, and I 
+look forward to working with my colleagues to pass financial regulatory 
+reform that will revive our economy.
+
+                          ____________________
+```

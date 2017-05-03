@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-05-03-pt1-PgH3077-4
+date: 2017-05-03
+edition: CREC
+section: HOUSE
+page: H3077
+citation: 163 Cong. Rec. H3077
+---
+
+# MATKINS FLOWERS AND GREENHOUSE CELEBRATES 90 YEARS IN BUSINESS
+
+**Speaking:** Womack, Steve (W000809) [R-AR]
+
+```
+     MATKINS FLOWERS AND GREENHOUSE CELEBRATES 90 YEARS IN BUSINESS
+
+  (Mr. WOMACK asked and was given permission to address the House for 1 
+minute.)
+  Mr. WOMACK. Mr. Speaker, I rise today to honor a small business in my 
+district that is celebrating its 90th anniversary this week.
+  Matkins Flowers and Greenhouse in Bentonville, Arkansas, has served 
+the northwest Arkansas region since 1927, when Henry Lenny Matkins, 
+Sr., founded the company. Throughout the last nine decades, this 
+Arkansas small business has persevered in good times and bad, and it 
+serves as an example of how you make a small business sustainable with 
+integrity, accountability, and hard work.
+  Working through the Great Depression, World War II, and the modern 
+era, the Matkins family has continuously exhibited the importance of 
+the family-owned small business to the American economy. Now in its 
+fourth generation of leadership with Jim and his son Jeff, it is worth 
+celebrating this important milestone.
+  Mr. Speaker, I am honored to represent this outstanding family and 
+offer my thanks and admiration for the success of Matkins Flowers and 
+Greenhouse.
+
+[[Page H3078]]
+
+  
+
+                          ____________________
+```
