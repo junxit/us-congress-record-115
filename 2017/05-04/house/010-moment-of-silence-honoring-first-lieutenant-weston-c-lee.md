@@ -1,0 +1,32 @@
+---
+granule: CRECB-2017-pt6-Pg7511
+date: 2017-05-04
+edition: CRECB
+section: HOUSE
+page: 7511
+---
+
+# MOMENT OF SILENCE HONORING FIRST LIEUTENANT WESTON C. LEE.
+
+```
+       MOMENT OF SILENCE HONORING FIRST LIEUTENANT WESTON C. LEE.
+
+  (Mr. AUSTIN SCOTT of Georgia asked and was given permission to 
+address the House for 1 minute.)
+  Mr. AUSTIN SCOTT of Georgia. Mr. Speaker, I rise today to honor First 
+Lieutenant Weston C. Lee of Bluffton, Georgia, who died on April 29, 
+2017, in Mosul, Iraq, in support of Operation Inherent Resolve.
+  First Lieutenant Lee died from injuries sustained while part of a 
+train, advise, and assist mission in support of partner forces.
+  First Lieutenant Lee was assigned to Charlie Company, 1st Battalion, 
+325th Infantry Regiment of the 82nd Airborne Division, Fort Bragg, 
+North Carolina.
+  I would like to extend my heartfelt sympathy and condolences to his 
+team, his family, and his friends who have suffered this loss.
+  Thank you, Lieutenant Weston Lee, for your service and sacrifice to 
+our Nation.
+  Mr. Speaker, I would use the remainder of my time in a moment of 
+silence in honor of Lieutenant Lee.
+
+                          ____________________
+```
