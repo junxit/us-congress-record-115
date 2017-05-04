@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-05-04-pt1-PgH4114-3
+date: 2017-05-04
+edition: CREC
+section: HOUSE
+page: H4114
+citation: 163 Cong. Rec. H4114
+---
+
+# OPPOSITION TO THE AMERICAN HEALTH CARE ACT
+
+**Speaking:** Brown, Anthony G. (B001304) [D-MD]
+
+```
+               OPPOSITION TO THE AMERICAN HEALTH CARE ACT
+
+  (Mr. BROWN of Maryland asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. BROWN of Maryland. Mr. Speaker, I rise today in opposition to the 
+so-called American Health Care Act. It was a bad deal for America 
+before, and it is a worse deal today. It is an offense to working 
+families. You are going to pay more for your premiums, co-pays, and 
+deductibles, and you are going to get less.
+  Preventative services, gone. Mental and behavioral health services, 
+no more. Prescription drugs, gone or, at best, a whole lot more 
+expensive.
+  It is a life-and-death proposition for the 326,000 people in my 
+district with preexisting conditions, segregated into expensive high-
+risk pools, facing mind-boggling premium increases if you happen to 
+have asthma, diabetes, cancer, or become pregnant.
+  It is a broken promise to America. President Trump promised not to 
+cut Medicaid; broken. He promised insurance for everybody; broken. He 
+promised preexisting conditions would be covered; broken.
+  Mr. Speaker, I won't be complicit in this broken promise. I won't 
+uninsure 24 million Americans. I am resisting. I am voting ``no.''
+
+                          ____________________
+```

@@ -1,0 +1,46 @@
+---
+granule: CREC-2017-05-04-pt1-PgS2772
+date: 2017-05-04
+edition: CREC
+section: SENATE
+page: S2772
+citation: 163 Cong. Rec. S2772
+---
+
+# RECOGNIZING HYDROHOIST
+
+**Speaking:** Inhofe, James M. (I000024) [R-OK]
+
+```
+                         RECOGNIZING HYDROHOIST
+
+● Mr. INHOFE. Mr. President, small businesses play an integral 
+role in Oklahoma's economy. They consist of over 52 percent of all 
+employees in Oklahoma. Additionally, within Oklahoma, over 84 percent 
+of all exports come from small businesses. Today I have the distinct 
+honor of recognizing one of the many successful small businesses in my 
+home State of Oklahoma for National Small Business Week. While there 
+are many businesses worthy of recognition, I am particularly proud of 
+HydroHoist.
+  For over 53 years, HydroHoist has been not only a leader but an 
+originator and industry innovator of the market for boat lifts, 
+personal watercraft--PWC--ports, and boat protection packages. Their 
+products range from 900-pound drive-on docking platforms for PWCs, to 
+lifts with the holding capacity for 130,000 pound watercraft. 
+HydroHoist launched half a century ago by an Oklahoma marina owner in 
+Grand Lake, OK. By 1971, the company moved into an old World War II 
+munitions plant in Claremore, OK, where it is still located today. 
+HydroHoist's technology revolutionized the boating industry, and 
+remarkably, some of these original hoists are still in use today. 
+HydroHoist has expanded far beyond America's borders to international 
+waters, too.
+  I want to congratulate and thank president and CEO Mick Webber of 
+HydroHoist for his outstanding and devoted work in creating a shining 
+business model with over 4 distribution warehouses and over 600 dealers 
+throughout the world. Mr. Webber's dedication to making these products 
+in America should not only make Oklahomans proud, but all Americans. 
+HydroHoist's success should be an example for all businesses, and I am 
+proud to recognize their hard work and dedication.●
+
+                          ____________________
+```
