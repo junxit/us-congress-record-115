@@ -1,0 +1,57 @@
+---
+granule: CRECB-2017-pt6-Pg7689-2
+date: 2017-05-10
+edition: CRECB
+section: SENATE
+page: 7689
+---
+
+# EXECUTIVE SESSION
+
+```
+                           EXECUTIVE SESSION
+
+                                 ______
+                                 
+
+                           EXECUTIVE CALENDAR
+
+  Mr. McCONNELL. Mr. President, I move to proceed to executive session 
+to consider Calendar No. 37, Jeffrey Rosen
+
+[[Page 7690]]
+
+to be Deputy Secretary of Transportation.
+  The PRESIDING OFFICER. The question is on agreeing to the motion.
+  The motion was agreed to.
+  The PRESIDING OFFICER. The clerk will report the nomination.
+  The legislative clerk read the nomination of Jeffrey A. Rosen, of 
+Virginia, to be Deputy Secretary of Transportation.
+
+
+                             Cloture Motion
+
+  Mr. McCONNELL. Mr. President, I send a cloture motion to the desk.
+  The PRESIDING OFFICER. The cloture motion having been presented under 
+rule XXII, the Chair directs the clerk to read the motion.
+  The legislative clerk read as follows:
+
+                             Cloture Motion
+
+       We, the undersigned Senators, in accordance with the 
+     provisions of rule XXII of the Standing Rules of the Senate, 
+     do hereby move to bring to a close debate on the nomination 
+     of Jeffrey A. Rosen, of Virginia, to be Deputy Secretary of 
+     Transportation.
+         Mitch McConnell, John Cornyn, Tom Cotton, Dan Sullivan, 
+           Shelley Moore Capito, John Barrasso, Roger F. Wicker, 
+           Mike Rounds, Orrin G. Hatch, Bill Cassidy, Pat Roberts, 
+           Mike Crapo, Lamar Alexander, Richard Burr, John Thune, 
+           Jerry Moran, James E. Risch.
+
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the 
+mandatory quorum call with respect to the cloture motion be waived.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
