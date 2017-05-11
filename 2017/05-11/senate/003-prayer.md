@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-05-11-pt1-PgS2891-2
+date: 2017-05-11
+edition: CREC
+section: SENATE
+page: S2891
+citation: 163 Cong. Rec. S2891
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The PRESIDING OFFICER. Today's opening prayer will be offered by our 
+guest Chaplain, the Reverend Bruce Scott, pastor of Pentecostals of 
+South Lake, from Merrillville, IN.
+  The guest Chaplain offered the following prayer:
+  Let us pray.
+  Precious Lord, Creator of the heavens and the Earth, and all that 
+dwells therein, we honor You from a grateful heart, knowing all of our 
+blessings that we enjoy every day come from You.
+  Heavenly Father, as the Senators assemble in this Chamber today, let 
+them come together in unity to build a stronger and better America. 
+Thank You for their dedication and commitment, as they labor together 
+with You for what is right and acceptable in Your sight. This Nation 
+was founded on biblical principles. Lord, I pray that You would grant 
+to them wisdom to make right decisions. The Old Testament prophet 
+declares it is not by might, nor by power but by My Spirit, saith the 
+Lord. Bless their families at home with peace and safety.
+  Lord, bless our military all over this world. Just as You paid the 
+ultimate price for our freedom on Calvary, our brave military men and 
+women are willing to give their all so we may live in freedom today. 
+Strengthen and encourage each family as they wait for the safe return 
+of their loved one. Bless and protect our first responders, police, 
+fire, and EMS personnel.
+  It is true that God has shed His Grace on us. Lord, surround this 
+Chamber with Your presence.
+  We pray in Jesus's Name. Amen.
+
+                          ____________________
+```
