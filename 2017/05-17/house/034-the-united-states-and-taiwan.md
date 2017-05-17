@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-05-17-pt1-PgH4235-3
+date: 2017-05-17
+edition: CREC
+section: HOUSE
+page: H4235
+citation: 163 Cong. Rec. H4235
+---
+
+# THE UNITED STATES AND TAIWAN
+
+**Speaking:** Foxx, Virginia (F000450) [R-NC]
+
+```
+                      THE UNITED STATES AND TAIWAN
+
+  (Ms. FOXX asked and was given permission to address the House for 1 
+minute.)
+  Ms. FOXX. Mr. Speaker, the mutual relationship between the United 
+States and Taiwan--enshrined in the Taiwan Relations Act of 1979 and 
+reinforced by the Six Assurances of 1982--has endured, due to our 
+shared beliefs in democratic government, freedom of expression, the 
+rule of law, and a market economy.
+  It is my hope that this relationship will continue to deepen and 
+strengthen in all areas. I hope the Trump administration will move 
+expeditiously with a military sales package that will help to guarantee 
+Taiwan's security and freedom for the future.
+  The people of Taiwan have great friends in the people of the United 
+States. I know many of my colleagues will join me in expressing our 
+shared desire to work together with our friends on the old and new 
+challenges that Taiwan faces.
+  Mr. Speaker, I wish President Tsai and the people of Taiwan all the 
+best on their first anniversary of her administration.
+
+                          ____________________
+```

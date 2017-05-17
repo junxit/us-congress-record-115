@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-05-17-pt1-PgH4234-2
+date: 2017-05-17
+edition: CREC
+section: HOUSE
+page: H4234
+citation: 163 Cong. Rec. H4234
+---
+
+# JUSTICE DEPARTMENT SHOULD APPOINT AN INDEPENDENT PROSECUTOR
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+      JUSTICE DEPARTMENT SHOULD APPOINT AN INDEPENDENT PROSECUTOR
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Mr. Speaker, last night we learned that 
+President Trump may have tried to interfere with an ongoing 
+investigation, asking the FBI Director to end an investigation into his 
+former National Security Adviser's ties to Russia.
+  The Justice Department today should appoint an independent prosecutor 
+to aggressively pursue the truth. There are a lot of informational 
+dots. They either connect or they don't.
+  There is no dispute that Russia interfered with the United States' 
+Presidential election. The question is: Did Russia interfere with the 
+Presidential election in coordination with the Trump campaign?
+  It is deeply troubling that the Attorney General recused himself--a 
+self-declared conflict--from the Russian investigation and then played 
+a role in firing the man leading it.
+  The American people rightfully suspect the decision to fire the FBI 
+Director is part of a coverup. Appoint a special prosecutor to pursue 
+the truth.
+  Despots all over the world like Putin want to discredit American 
+democracy to keep their own people from wanting it. We as Americans, 
+Republicans and Democrats all, cannot allow this to happen, ever.
+
+                          ____________________
+```

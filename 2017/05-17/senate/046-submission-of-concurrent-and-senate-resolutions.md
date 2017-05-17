@@ -1,0 +1,56 @@
+---
+granule: CREC-2017-05-17-pt1-PgS3010
+date: 2017-05-17
+edition: CREC
+section: SENATE
+page: S3010
+citation: 163 Cong. Rec. S3010
+---
+
+# SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+**Measures:** S.Res. 167, S.Res. 168, S.Res. 169, S.Res. 170, S.Res. 171
+
+```
+            SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+  The following concurrent resolutions and Senate resolutions were 
+read, and referred (or acted upon), as indicated:
+
+           By Mr. HELLER (for himself, Mr. Graham, Mr. Rubio, and 
+             Mr. Cruz):
+       S. Res. 167. A resolution relating to the recognition of 
+     Jerusalem as the capital of Israel and the relocation of the 
+     United States Embassy to Jerusalem; to the Committee on 
+     Foreign Relations.
+           By Mr. CARDIN (for himself, Mr. Rubio, Mr. Tillis, Mr. 
+             Wyden, Mr. Durbin, Mr. Cornyn, Ms. Stabenow, Mr. 
+             Coons, Mr. Gardner, Mr. Booker, Mr. Brown, Mr. 
+             Franken, Mr. Van Hollen, Mr. Merkley, and Mr. 
+             Warner):
+       S. Res. 168. A resolution supporting respect for human 
+     rights and encouraging inclusive governance in Ethiopia; to 
+     the Committee on Foreign Relations.
+           By Ms. DUCKWORTH (for herself and Mr. Durbin):
+       S. Res. 169. A resolution congratulating Fermi National 
+     Accelerator Laboratory on 50 years of groundbreaking 
+     discoveries; to the Committee on Energy and Natural 
+     Resources.
+           By Mr. DONNELLY (for himself, Mr. Portman, Mr. Brown, 
+             Mr. Heinrich, Mr. Nelson, Mr. Peters, Mr. Reed, Mrs. 
+             Shaheen, Mr. Van Hollen, Ms. Warren, and Mrs. 
+             Gillibrand):
+       S. Res. 170. A resolution expressing the sense of the 
+     Senate that defense laboratories are on the cutting-edge of 
+     scientific and technological advancement, and supporting the 
+     designation of May 18, 2017, as ``Department of Defense 
+     Laboratory Day''; considered and agreed to.
+           By Ms. KLOBUCHAR (for herself, Mr. Blunt, Mr. Schatz, 
+             and Mr. Heller):
+       S. Res. 171. A resolution supporting the goals and ideals 
+     of National Travel and Tourism Week and honoring the valuable 
+     contributions of travel and tourism to the United States; 
+     considered and agreed to.
+
+                          ____________________
+```

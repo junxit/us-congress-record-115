@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-05-17-pt1-PgH4237
+date: 2017-05-17
+edition: CREC
+section: HOUSE
+page: H4237
+citation: 163 Cong. Rec. H4237
+---
+
+# NATIONAL INFRASTRUCTURE WEEK
+
+**Speaking:** Carbajal, Salud O. (C001112) [D-CA]
+
+```
+                      NATIONAL INFRASTRUCTURE WEEK
+
+  (Mr. CARBAJAL asked and was given permission to address the House for 
+1 minute.)
+  Mr. CARBAJAL. Mr. Speaker, today I urge President Trump again to make 
+good on his promise of partnering with Congress to invest $1 trillion 
+in America's infrastructure.
+  This week marks National Infrastructure Week; and yet, 
+disappointingly, little action has been taken by this President and the 
+majority in Congress to provide substantive funds for our Nation's 
+crumbling infrastructure. Easing congestion on our highways is just one 
+investment that will have a significant return, getting central coast 
+residents to their jobs and back home to their families faster.
+  This is also an issue of safety for our constituents. California 
+currently has over 1,300 structurally deficient bridges, 678 high-
+hazard dams, and 50 percent of its nearly 200,000 miles of public roads 
+are in poor condition.
+  I urge my colleagues to work together in a bipartisan way to address 
+the infrastructure crisis in our country.
+
+                          ____________________
+```
