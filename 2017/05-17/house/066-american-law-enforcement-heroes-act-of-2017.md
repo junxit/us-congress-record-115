@@ -1,0 +1,50 @@
+---
+granule: CRECB-2017-pt6-Pg7980-2
+date: 2017-05-17
+edition: CRECB
+section: HOUSE
+page: 7980
+---
+
+# AMERICAN LAW ENFORCEMENT HEROES ACT OF 2017
+
+```
+              AMERICAN LAW ENFORCEMENT HEROES ACT OF 2017
+
+  Mr. GOODLATTE. Mr. Speaker, I ask unanimous consent to take from the 
+Speaker's table the bill (S. 583) to amend the Omnibus Crime Control 
+and Safe Streets Act of 1968 to authorize COPS grantees to use grant 
+funds to hire veterans as career law enforcement officers, and for 
+other purposes, and ask for its immediate consideration in the House.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore (Mr. Arrington). Is there objection to the
+
+[[Page 7981]]
+
+request of the gentleman from Virginia?
+  There was no objection.
+  The text of the bill is as follows:
+
+                                 S. 583
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``American Law Enforcement 
+     Heroes Act of 2017''.
+
+     SEC. 2. PRIORITIZING HIRING AND TRAINING OF VETERANS.
+
+       Section 1701(b)(2) of title I of the Omnibus Crime Control 
+     and Safe Streets Act of 1968 (42 U.S.C. 3796dd(b)(2)) is 
+     amended by inserting ``, including by prioritizing the hiring 
+     and training of veterans (as defined in section 101 of title 
+     38, United States Code)'' after ``Nation''.
+
+  The bill was ordered to be read a third time, was read the third 
+time, and passed, and a motion to reconsider was laid on the table.
+
+                          ____________________
+```

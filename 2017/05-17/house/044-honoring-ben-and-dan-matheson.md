@@ -1,0 +1,33 @@
+---
+granule: CRECB-2017-pt6-Pg7920-2
+date: 2017-05-17
+edition: CRECB
+section: HOUSE
+page: 7920
+---
+
+# HONORING BEN AND DAN MATHESON
+
+```
+                     HONORING BEN AND DAN MATHESON
+
+  (Mr. BARTON asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BARTON. Mr. Speaker, I rise to bring to the House's attention two 
+fine Texans who are sitting up in the House gallery, Ben and Dan 
+Matheson.
+  Ben has been on my Air Force advisory committee down in Texas for the 
+entire 32 years that I have been in Congress. He and the other two 
+members of that nominating committee have recommended to me over 100 
+young men and women whom we have nominated to the Air Force Academy and 
+who are now serving, defending our Nation.
+  His son is Dan Matheson, one of my best friends, a proud graduate of 
+the University of Texas Law School, former head of the Texas State Fed 
+office, and a successful practicing attorney in Austin, Texas.
+  I am very proud to have their friendship, and I am glad to bring to 
+the attention of the House these two fine Americans.
+  The SPEAKER pro tempore. The Chair reminds Members not to refer to 
+persons in the gallery.
+
+                          ____________________
+```

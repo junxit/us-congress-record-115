@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt6-Pg7981-4
+date: 2017-05-17
+edition: CRECB
+section: HOUSE
+page: 7981
+---
+
+# OUR NATION'S INFRASTRUCTURE NEEDS
+
+```
+                   OUR NATION'S INFRASTRUCTURE NEEDS
+
+  (Mrs. BEATTY asked and was given permission to address the House for 
+1 minute.)
+  Mrs. BEATTY. Mr. Speaker, I rise today with hundreds of business, 
+labor, and advocacy organizations to recognize National Infrastructure 
+Week. The purpose of this week is to highlight the state of the 
+Nation's infrastructure and its critical importance to our economy and 
+well-being.
+  Building and strengthening our infrastructure is vital to all of us, 
+but it oftentimes goes unnoticed. Our Nation's deteriorating 
+infrastructure is hampering our ability to compete in the thriving 
+global economy and create jobs that our Nation needs. As an example, in 
+my home State of Ohio, we face significant challenges: 17 percent of 
+the public roads are in poor condition, and almost 7 percent of all the 
+bridges are structurally deficient.
+  Mr. Speaker, we cannot continue to turn a blind eye to our Nation's 
+infrastructure needs. Congress must work together to upgrade our 
+Nation's highways, bridges, airports, water systems, energy grid, 
+broadband network, and the like so that our economy can continue to 
+lead the world in the 21st century and beyond.
+
+                          ____________________
+```
