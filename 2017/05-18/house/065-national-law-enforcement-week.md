@@ -1,0 +1,37 @@
+---
+granule: CRECB-2017-pt6-Pg8070-5
+date: 2017-05-18
+edition: CRECB
+section: HOUSE
+page: 8070
+---
+
+# NATIONAL LAW ENFORCEMENT WEEK
+
+```
+                     NATIONAL LAW ENFORCEMENT WEEK
+
+  (Mr. BRENDAN F. BOYLE of Pennsylvania asked and was given permission 
+to address the House for 1 minute.)
+  Mr. BRENDAN F. BOYLE of Pennsylvania. Mr. Speaker, this week, it is a 
+privilege to honor the men and women of law enforcement who put their 
+lives on the line every single day to keep us safe.
+  In my hometown of Philadelphia and across the Nation, police officers 
+serve our communities with immeasurable courage. Every police officer 
+goes to work knowing that any day could be their last. In Philadelphia 
+alone, more than 260 police officers throughout our city's history have 
+lost their lives.
+  One thing in Congress that we could do to show just how much we honor 
+their sacrifice is to enact the legislation that myself, along with 
+Congressman Fitzpatrick, Senators  Casey and Toomey, have introduced. 
+It would provide a boost of education aid, up to the maximum Pell grant 
+award, for the children of fallen law enforcement and first responders 
+who have died in the line of duty. The bipartisan Children of Fallen 
+Heroes Scholarship Act is widely supported by the law enforcement 
+community.
+  Although we can never fully repay our debt to those families who have 
+made the ultimate sacrifice, I believe this would be an important step 
+in the right direction.
+
+                          ____________________
+```

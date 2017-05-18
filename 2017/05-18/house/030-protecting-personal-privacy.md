@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt6-Pg8048-2
+date: 2017-05-18
+edition: CRECB
+section: HOUSE
+page: 8048
+---
+
+# PROTECTING PERSONAL PRIVACY
+
+```
+                      PROTECTING PERSONAL PRIVACY
+
+  (Ms. GABBARD asked and was given permission to address the House for 
+1 minute.)
+  Ms. GABBARD. Mr. Speaker, for years now the NSA has been collecting 
+phone and online communications from everyday Americans from all across 
+the country, defying the rights and liberties granted to us under the 
+Fourth Amendment of the Constitution.
+  The 2008 FISA amendments, specifically section 702, has led to 
+massive government-led exploitation of personal privacy through the 
+collection of American citizens' emails. We need serious reforms that 
+balance the protections of our civil liberties and rights through our 
+Constitution and also keep the American people safe.
+  The NSA recently announced that they would stop collecting our emails 
+and electronic communications under section 702, but what is to say it 
+wouldn't start up again?
+  That is why I am introducing legislation today to keep our country 
+from backtracking on this progress. My bill will permanently codify 
+this policy change and ban this privacy-evading collection from taking 
+place again.
+  I urge my colleagues to join me in supporting this legislation and 
+defending our civil liberties.
+
+                          ____________________
+```

@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt6-Pg8071-2
+date: 2017-05-18
+edition: CRECB
+section: HOUSE
+page: 8071
+---
+
+# TRIBUTE TO WILLIAM ``DOC'' LONG
+
+```
+                    TRIBUTE TO WILLIAM ``DOC'' LONG
+
+  (Ms. FOXX asked and was given permission to address the House for 1 
+minute.)
+  Ms. FOXX. Mr. Speaker, I rise today to honor William ``Doc'' Long of 
+Oak Ridge, North Carolina.
+  Doc is a veteran who served under the command of General Patton in 
+World War II. For his service, the United States awarded him two Purple 
+Hearts, two Bronze Stars, the Good Conduct Medal, the American Campaign 
+Medal, and the Combat Infantry Badge.
+  Doc has worked tirelessly to help his fellow citizens understand the 
+meaning of freedom and to ensure the sacrifices made on behalf of our 
+Nation are not forgotten.
+  In 2014, the Carolina Field of Honor opened at Triad Park in 
+Kernersville, North Carolina, to honor all who serve or have served in 
+the Armed Forces of the United States of America. As one of its biggest 
+supporters, Doc personally sponsored two of its military service 
+monuments: the U.S. Army Monument and the U.S. Navy Monument.
+  On Saturday, May 27, family and friends will gather to celebrate this 
+remarkable man's 93rd birthday. North Carolina is fortunate to call Doc 
+one of its own.
+
+                          ____________________
+```

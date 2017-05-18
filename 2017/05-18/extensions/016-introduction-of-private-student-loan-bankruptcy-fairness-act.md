@@ -1,0 +1,79 @@
+---
+granule: CRECB-2017-pt6-Pg8091
+date: 2017-05-18
+edition: CRECB
+section: EXTENSIONS
+page: 8091
+---
+
+# INTRODUCTION OF PRIVATE STUDENT LOAN BANKRUPTCY FAIRNESS ACT
+
+```
+      INTRODUCTION OF PRIVATE STUDENT LOAN BANKRUPTCY FAIRNESS ACT
+
+                                 ______
+                                 
+
+                            HON. STEVE COHEN
+
+                              of tennessee
+
+                    in the house of representatives
+
+                         Thursday, May 18, 2017
+
+  Mr. COHEN. Mr. Speaker, I rise today in support of the Private 
+Student Loan Bankruptcy Fairness Act, a bill I introduced earlier today 
+with my colleagues Danny Davis and Eric Swalwell which would restore 
+fairness in student lending by treating privately issued student loans 
+in bankruptcy the same as other types of private debt.
+  Graduation season is a time for joy, but increasingly that joy is 
+tempered with worry about student debt.
+  It is sad enough that our children are increasingly burdened by a 
+crushing weight of student debt. But the fact that students under the 
+weight of this debt are treated so unfairly in bankruptcy is 
+unconscionable.
+  Before 2005, private student loans issued by for-profit lenders were 
+treated in bankruptcy like most other unsecured consumer debt, such as 
+credit card debt. Our bill will ensure that privately issued student 
+loans will once again be treated like other consumer debt and be 
+dischargeable in bankruptcy.
+  Private student loans have much in common with credit cards and 
+subprime mortgages. For example, private student loans often have 
+onerous interest rates with no caps and can include exorbitant fees and 
+hidden charges. In addition, many lenders have used aggressive 
+marketing and high-pressure sales tactics to target particularly 
+vulnerable people, namely, young men and women without financial 
+experience, and older Americans seeking to re-start their careers by 
+pursuing higher education and training.
+  The harmful features of many private student loans have resulted in a 
+substantial rise in the number of delinquencies.
+  To make matters worse, private student loans lack the critical 
+consumer protections that come with federal student loans. For 
+instance, private lenders are not required to--and typically do not--
+provide any of the deferments, income-based repayment plans, 
+cancellation rights, or loan forgiveness programs that are available to 
+federal student loan borrowers.
+  A hallmark of our Nation's bankruptcy law is to give an honest but 
+unfortunate debtor a chance to obtain meaningful relief. To that end, 
+the law exempts very few types of debt from elimination through the 
+bankruptcy process, and only for principled policy reasons, such as 
+debts for child support, taxes, criminal fines and intentional injury.
+  In 2005, however, Congress changed the bankruptcy law without any 
+substantive analysis so that student loans made by private, for-profit 
+lenders became very difficult to discharge in bankruptcy.
+  Currently, the Bankruptcy Code prohibits the discharge of private 
+educational debt unless the debtor, in addition to meeting the already 
+stringent requirements for personal bankruptcy, proves that repayment 
+would impose an, ``undue hardship,'' on the debtor and the debtor's 
+dependents. In practice, however, it's hard for a debtor to ever 
+successfully meet this standard.
+  The current bankruptcy law unjustly punishes hardworking Americans 
+who are simply trying to improve their lives by pursuing a higher 
+education and became victims of predatory private student loan lenders.
+  We can do better.
+  I urge my colleagues to support the Private Student Loan Bankruptcy 
+Fairness Act.
+
+                          ____________________
+```
