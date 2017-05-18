@@ -1,0 +1,86 @@
+---
+granule: CREC-2017-05-18-pt1-PgS3040-6
+date: 2017-05-18
+edition: CREC
+section: SENATE
+page: S3040
+citation: 163 Cong. Rec. S3040
+---
+
+# MESSAGES FROM THE HOUSE
+
+**Measures:** H.R. 194, H.R. 195, S. 419, S. 583, H.R. 653, H.R. 672, H.R. 984, H.R. 1177, H.R. 1677, H.R. 2154, H.R. 2169, H.R. 2227, H.R. 2266, H.R. 2281
+
+```
+                        MESSAGES FROM THE HOUSE
+
+  At 10:02 a.m., a message from the House of Representatives, delivered 
+by Mr. Novotny, one of its reading clerks, announced that the House has 
+passed the following bills, without amendment:
+
+       S. 419. An act to require adequate reporting on the Public 
+     Safety Officers' Benefits program, and for other purposes.
+       S. 583. An act to amend the Omnibus Crime Control and Safe 
+     Streets Act of 1968 to authorize COPS grantees to use grant 
+     funds to hire veterans as career law enforcement officers, 
+     and for other purposes.
+                                  ____
+
+  At 11:46 a.m., a message from the House of Representatives, delivered 
+by Mr. Novotny, one of its reading clerks, announced that the House has 
+passed the following bills, in which it request the concurrence of the 
+Senate:
+
+       H.R. 194. An act to ensure the effective processing of mail 
+     by Federal agencies, and for other purposes.
+       H.R. 195. An act to amend title 44, United States Code, to 
+     restrict the distribution of free printed copies of the 
+     Federal Register to Members of Congress and other officers 
+     and employees of the United States, and for other purposes.
+       H.R. 653. An act to amend title 5, United States Code, to 
+     protect unpaid interns in the Federal Government from 
+     workplace harassment and discrimination, and for other 
+     purposes.
+       H.R. 672. An act to require continued and enhanced annual 
+     reporting to Congress in
+
+[[Page S3041]]
+
+     the Annual Report on International Religious Freedom on anti-
+     Semitic incidents in Europe, the safety and security of 
+     European Jewish communities, and the efforts of the United 
+     States to partner with European governments, the European 
+     Union, and civil society groups, to combat anti-Semitism, and 
+     for other purposes.
+       H.R. 984. An act to extend Federal recognition to the 
+     Chickahominy Indian Tribe, the Chickahominy Indian Tribe--
+     Eastern Division, the Upper Mattaponi Tribe, the Rappahannock 
+     Tribe, Inc., the Monacan Indian Nation, and the Nansemond 
+     Indian Tribe.
+       H.R. 1177. An act to direct the Secretary of Agriculture to 
+     release on behalf of the United States the condition that 
+     certain lands conveyed to the City of Old Town, Maine, be 
+     used for a municipal airport, and for other purposes.
+       H.R. 1677. An act to halt the wholesale slaughter of the 
+     Syrian people, encourage a negotiated political settlement, 
+     and hold Syrian human rights abusers accountable for their 
+     crimes.
+       H.R. 2154. An act to rename the Red River Valley 
+     Agricultural Research Center in Fargo, North Dakota, as the 
+     Edward T. Schafer Agricultural Research Center.
+       H.R. 2169. An act to amend the Homeland Security Act of 
+     2002 to enhance information sharing in the Department of 
+     Homeland Security State, Local, and Regional Fusion Center 
+     Initiative, and for other purposes.
+       H.R. 2227. An act to modernize Government information 
+     technology, and for other purposes.
+       H.R. 2266. An act to amend title 28 of the United States 
+     Code to authorize the appointment of additional bankruptcy 
+     judges; and for other purposes.
+        H.R. 2281. An act to amend the Homeland Security Act of 
+     2002 to reauthorize the Border Enforcement Security Task 
+     Force program within the Department of Homeland Security, and 
+     for other purposes.
+
+                          ____________________
+```

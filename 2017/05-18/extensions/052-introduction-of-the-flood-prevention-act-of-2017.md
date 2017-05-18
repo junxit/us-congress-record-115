@@ -1,0 +1,76 @@
+---
+granule: CREC-2017-05-18-pt1-PgE671-2
+date: 2017-05-18
+edition: CREC
+section: EXTENSIONS
+page: E671
+citation: 163 Cong. Rec. E671
+---
+
+# INTRODUCTION OF THE FLOOD PREVENTION ACT OF 2017
+
+**Speaking:** Norton, Eleanor Holmes (N000147) [D-DC]
+
+```
+            INTRODUCTION OF THE FLOOD PREVENTION ACT OF 2017
+
+                                 ______
+                                 
+
+                       HON. ELEANOR HOLMES NORTON
+
+                      of the district of columbia
+
+                    in the house of representatives
+
+                         Thursday, May 18, 2017
+
+  Ms. NORTON. Mr. Speaker, I rise to introduce the Flood Prevention Act 
+of 2017. The bill would amend the Coastal Zone Management Act of 1972 
+(CZMA) to include the nation's capital in the definition of ``coastal 
+state.'' Our bill would correct an apparent oversight in the omission 
+of the District of Columbia, and would make the District eligible to 
+receive federal funding and provide oversight for federally issued 
+permits/facilities/ actions that affect the coastal waters of the 
+District. The District urgently needs the protection of the CZMA 
+because of serious flood risks that currently affect both residents, 
+businesses and federal assets, including the National Mall and the 
+cluster of downtown federal agencies.
+  In an effort to reduce coastal flood risk, Congress has authorized a 
+number of programs to help states and territories respond to floods and 
+mitigate risk through resiliency projects. Among these programs, the 
+CZMA provides planning and technical services to assist states in 
+protecting, restoring and developing coastal communities and resources. 
+Once the federal government approves a state's coastal management plan, 
+the state becomes eligible for grants. Federal actions must be 
+consistent with the state plans and vice versa.
+  Even though the District is located on two rivers and has suffered 
+substantial coastal floods in the past, D.C. was omitted from the list 
+of eligible states and territories in the CZMA. This oversight may have 
+occurred because the CZMA was passed in 1972--before the District 
+achieved home rule or had a Member of Congress. Under Section 304 of 
+the CZMA, ``coastal state[s]'' include the states and the U.S. 
+territories (Puerto Rico, the Virgin Islands, Guam, the Commonwealth of 
+the Northern Mariana Islands, the Trust Territories of the Pacific 
+Islands, and American Samoa). Absent from this definition is the 
+District, even though the District, including the federal complex, is 
+under a serious threat from rising sea levels. Because the territories 
+are included in the definition of ``coastal states,'' it appears that 
+D.C.'s omission is a mistake, which only Congress can correct.
+  Scientists have predicted that the tides on the Atlantic Coast could 
+rise two to four feet by the year 2100, causing property worth as much 
+as $7 billion in the District to be routinely under threat by 
+floodwaters. This damage not only includes private homes and 
+businesses, but the National Mall, federal buildings, and three 
+military bases located in the District. The Anacostia and Potomac 
+rivers are both tidally influenced, showing tangible salt water effects 
+(and fish) and are part of an ``intertidal-zone'' existing between high 
+and low maritime tides. In addition, the Maryland and Virginia coastal 
+zones each include the tidal Potomac River, with Maryland's zone ending 
+at the District line. Because of these factors, the District should be 
+eligible for CZMA grants just like the states and territories already 
+listed in the CZMA.
+  I urge support for this bill.
+
+                          ____________________
+```

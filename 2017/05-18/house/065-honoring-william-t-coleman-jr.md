@@ -1,0 +1,34 @@
+---
+granule: CREC-2017-05-18-pt1-PgH4344-4
+date: 2017-05-18
+edition: CREC
+section: HOUSE
+page: H4344
+citation: 163 Cong. Rec. H4344
+---
+
+# HONORING WILLIAM T. COLEMAN, JR.
+
+**Speaking:** Hill, J. French (H001072) [R-AR]
+
+```
+                    HONORING WILLIAM T. COLEMAN, JR.
+
+  (Mr. HILL asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. HILL. Mr. Speaker, I rise today to honor the life and legacy of 
+one of our Nation's greatest leaders and, for me, in my young career, a 
+mentor and good friend, William Coleman, Jr., who passed away earlier 
+this year at the age of 96.
+  Throughout his long career, Bill helped shape the future of our 
+country in a past full of racial tension.
+  In 1948, Bill became the first African American to serve as a law 
+clerk on the United States Supreme Court, and helped draft the legal 
+brief for the landmark 1954 case, Brown v. Board of Education.
+  Bill later became our Nation's second African-American Cabinet 
+official, serving as Transportation Secretary for Gerald Ford.
+  I extend my respect, affection, and prayers to his family, his loved 
+ones, his former law partners, and his staff.
+
+                          ____________________
+```
