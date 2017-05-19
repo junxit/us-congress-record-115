@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt6-Pg8122-2
+date: 2017-05-19
+edition: CRECB
+section: HOUSE
+page: 8122
+---
+
+# NATIONAL POLICE WEEK
+
+```
+                          NATIONAL POLICE WEEK
+
+  (Ms. TENNEY asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TENNEY. Mr. Speaker, it is a distinct honor to rise today to 
+recognize National Police Week, honoring our heroes of the thin blue 
+line. During this week each year, our Nation joins together to honor 
+our brave men and women in blue.
+  In their mission to serve and protect, our law enforcement officers 
+put their lives on the line each day, keeping our families and our 
+communities safe from harm. Day in and day out, we witness the 
+countless sacrifices made by the men and women who serve as our front 
+line of defense here at home.
+  We stand to recognize their service this week. We also pay tribute to 
+those who have tragically lost their lives in the line of duty. Their 
+bravery and sacrifice will never be forgotten.
+  I would like to specifically thank the dedicated officers serving 
+throughout the State of New York. From the New York State troopers to 
+the county sheriffs and to our local law enforcement, the heroism and 
+bravery of the men and women in blue continues to inspire us all.
+
+                          ____________________
+```
