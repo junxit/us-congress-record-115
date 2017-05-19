@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-05-19-pt1-PgH4379-3
+date: 2017-05-19
+edition: CREC
+section: HOUSE
+page: H4379
+citation: 163 Cong. Rec. H4379
+---
+
+# TAX SYSTEM BROKEN
+
+**Speaking:** Peters, Scott H. (P000608) [D-CA]
+
+```
+                           TAX SYSTEM BROKEN
+
+  (Mr. PETERS asked and was given permission to address the House for 1 
+minute.)
+  Mr. PETERS. Mr. Speaker, our tax system is broken and in desperate 
+need of comprehensive reform. I am ready to get to work on a simpler 
+Tax Code that is fiscally responsible, makes our businesses more 
+competitive, and gives relief to our working families. But President 
+Trump's plan, if you can call it that, is not the answer.
+  According to the Committee for a Responsible Federal Budget, Trump's 
+tax plan will cost $5.5 trillion over the next 10 years. Instead of 
+targeting relief to the deserving middle class, President Trump wants 
+to give big breaks to the wealthiest Americans. It is time to stop 
+pretending that tax cuts that favor the wealthy somehow pay for 
+themselves. They don't.
+  Conservative economist Gregory Mankiw has said that only one-third of 
+the cost of tax costs is recouped from growth. So Trump's tax plan 
+would actually be paid for by blowing up the national debt. That will 
+crowd out investment and hurt economic growth, which is the opposite of 
+what we want.
+  We have to do better for working Americans, and I express my interest 
+in working with Members on both sides of the aisle to do just that.
+
+                          ____________________
+```

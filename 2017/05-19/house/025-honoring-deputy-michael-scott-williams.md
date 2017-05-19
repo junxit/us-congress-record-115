@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-05-19-pt1-PgH4379-2
+date: 2017-05-19
+edition: CREC
+section: HOUSE
+page: H4379
+citation: 163 Cong. Rec. H4379
+---
+
+# HONORING DEPUTY MICHAEL SCOTT WILLIAMS
+
+**Speaking:** Dunn, Neal P. (D000628) [R-FL]
+
+```
+                 HONORING DEPUTY MICHAEL SCOTT WILLIAMS
+
+  (Mr. DUNN asked and was given permission to address the House for 1 
+minute.)
+  Mr. DUNN. Mr. Speaker, I rise today to honor the memory of fallen 
+Taylor County Sheriff's Deputy Michael Scott Williams.
+  On the morning of October 31, 2016, Deputy Williams put on his 
+uniform and climbed into his patrol car, heading to the job he loved. 
+He was tragically killed in a collision that morning.
+  Deputy Williams joined the Taylor County Sheriff's Department in May 
+of 2015, and was promoted to officer in charge, serving as his 
+sergeant's second in command. He dedicated his life to law enforcement. 
+For him, it was not just a job; it was a calling. Friends and family 
+described Deputy Williams as a quick study and an experienced lawman 
+who loved to make people laugh.
+  This week, Deputy Williams was honored at the National Peace 
+Officers' Memorial Service in Washington, a fitting reminder that his 
+heroism will not be forgotten.
+  Please join me in honoring Deputy Michael Scott Williams and all of 
+our fallen law enforcement heroes who have made the ultimate sacrifice 
+to ensure our safety.
+
+                          ____________________
+```
