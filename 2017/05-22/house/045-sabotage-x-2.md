@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-05-22-pt1-PgH4417-4
+date: 2017-05-22
+edition: CREC
+section: HOUSE
+page: H4417
+citation: 163 Cong. Rec. H4417
+---
+
+# SABOTAGE X 2
+
+**Speaking:** Soto, Darren (S001200) [D-FL]
+
+```
+                              SABOTAGE X 2
+
+  (Mr. SOTO asked and was given permission to address the House for 1 
+minute.)
+  Mr. SOTO. Madam Speaker, sabotage.
+  A plot is afoot in Washington. It is time to sound the alarms. It is 
+time to let the people know. It is time to ride like Paul Revere across 
+our Nation and awaken Americans to this sinister scheme.
+  President Trump is sabotaging the Affordable Care Act. Trump has 
+threatened to cut subsidies to millions of Americans, creating more 
+uncertainty today by stalling in court. He has refused to fund the 
+high-risk corridors, causing insurance companies to flee States like 
+Iowa and Kentucky. He has cut the public notices to keep those in need 
+of healthcare in the dark. He has cut the signup period in half to 
+prevent more Americans from signing up.
+  Is sabotage destroying the healthcare market worth it? Is robbing 
+millions of Americans of healthcare coverage worth it? Is that the 
+price Trump is willing to pay for repeal? To give tax cuts to 
+billionaires?
+  Mr. Trump, ObamaCare works. If you break it, you own it. When you 
+sabotage healthcare for millions of Americans, you are responsible. And 
+the people ought to know.
+  The SPEAKER pro tempore. Members are reminded to direct their remarks 
+to the Chair.
+
+                          ____________________
+```

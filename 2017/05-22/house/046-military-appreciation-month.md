@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-05-22-pt1-PgH4417-5
+date: 2017-05-22
+edition: CREC
+section: HOUSE
+page: H4417
+citation: 163 Cong. Rec. H4417
+---
+
+# MILITARY APPRECIATION MONTH
+
+**Speaking:** Arrington, Jodey C. (A000375) [R-TX]
+
+```
+                      MILITARY APPRECIATION MONTH
+
+  (Mr. ARRINGTON asked and was given permission to address the House 
+for 1 minute.)
+  Mr. ARRINGTON. Madam Speaker, if history has taught us anything over 
+the years, it is that freedom is not free. It comes at a great price.
+  It is easy to take for granted the freedoms we enjoy, but this 
+Military Appreciation Month I pray that we all reflect upon the 
+sacrifices the men and women of our Armed Forces have made for our 
+liberty and our security.
+  Specifically, I am reminded today of the 5,100 dedicated men and 
+women serving at Dyess Air Force Base, home of the 7th Bomb Wing and 
+the 317th Airlift Group, and the 40,000 veterans in my district in west 
+Texas.
+  It is with them in mind, Madam Speaker, that I would like to express 
+my gratitude for those who have served, my sorrow for those who did not 
+make it back home, and my condolences to those who have lost someone 
+dear in service to our great country. Let us never forget them. Let us 
+always remind our children and grandchildren of the sacrifices of those 
+who gave up their today so that we can have our tomorrow.
+  God bless our men and women in uniform. And God bless these United 
+States of America.
+
+                          ____________________
+```
