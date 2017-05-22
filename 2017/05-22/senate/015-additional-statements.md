@@ -1,0 +1,48 @@
+---
+granule: CRECB-2017-pt6-Pg8160-2
+date: 2017-05-22
+edition: CRECB
+section: SENATE
+page: 8160
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+              TRIBUTE TO MAJOR GENERAL H. MICHAEL EDWARDS
+
+● Mr. GARDNER. Mr. President, today I wish to recognize and 
+commend Maj. Gen. H. Michael Edwards, who retired on March 31, 2017, 
+after 43 years of exceptional leadership and service to our country, 
+including 36 years in the Colorado Air National Guard.
+  For almost a decade in the position of the adjutant general for 
+Colorado, General Edwards was responsible for the command 
+administration of over 5,300 Army and Air National Guard members.
+  He also served as the executive director of the Department of 
+Military and Veterans Affairs and was a member of the Governor's 
+cabinet.
+  He had responsibility for the Colorado National Guard's primary 
+missions of national defense and State emergency response. In addition, 
+he was responsible for supporting the missions of the Civil Air 
+Patrol's Colorado wing.
+  General Edwards received his commission in 1973, after graduating 
+from the Air Force Academy, and earned his pilot wings in 1974 at Reese 
+Air Force Base, TX.
+  He served as an F-4 pilot and AT-38 fighter lead-in instructor pilot 
+at Osan
+
+[[Page 8161]]
+
+Air Base, Korea, and Holloman Air Force Base, NM, respectively.
+  General Edwards joined the Colorado Air National Guard in August 
+1980. He has served in numerous assignments in flying and operations, 
+as well as command positions at squadron, group, and wing levels--
+culminating as the adjutant general for Colorado.●
+
+                          ____________________
+```

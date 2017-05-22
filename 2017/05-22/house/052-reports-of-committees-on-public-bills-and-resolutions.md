@@ -1,0 +1,103 @@
+---
+granule: CRECB-2017-pt6-Pg8203-4
+date: 2017-05-22
+edition: CRECB
+section: HOUSE
+page: 8203
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. GOODLATTE: Committee on the Judiciary. H.R. 1973. A 
+     bill to prevent the sexual abuse of minors and amateur 
+     athletes by requiring the prompt reporting of sexual abuse to 
+     law enforcement authorities, and for other purposes; with an 
+     amendment (Rept. 115-136, Pt. 1). Referred to the Committee 
+     of the Whole House on the state of the Union.
+       Mr. GOODLATTE: Committee on the Judiciary. H.R. 1761. A 
+     bill to amend title 18, United States Code, to criminalize 
+     the knowing consent of the visual depiction, or live 
+     transmission, of a minor engaged in sexually explicit 
+     conduct, and for other purposes; with an amendment (Rept. 
+     115-137). Referred to the Committee of the Whole House on the 
+     state of the Union.
+       Mr. GOODLATTE: Committee on the Judiciary. H.R. 695. A bill 
+     to amend the National Child Protection Act of 1993 to 
+     establish a national criminal history background check system 
+     and criminal history review program for certain individuals 
+     who, related to their employment, have access to children, 
+     the elderly, or individuals with disabilities, and for other 
+     purposes; with an amendment (Rept. 115-138). Referred to the 
+     Committee of the Whole House on the state of the Union.
+       Mr. GOODLATTE: Committee on the Judiciary. H.R. 1862. A 
+     bill to amend title 18, United States Code, to expand the 
+     scope of certain definitions pertaining to unlawful sexual 
+     conduct, and for other purposes (Rept. 115-139). Referred to 
+     the Committee of the Whole House on the state of the Union.
+       Mr. GOODLATTE: Committee on the Judiciary. H.R. 1842. A 
+     bill to amend title 18,
+
+[[Page 8204]]
+
+     United States Code, to include State crimes of violence as 
+     grounds for an enhanced penalty when sex offenders fail to 
+     register or report certain information as required by Federal 
+     law, to include prior military offenses for purposes of 
+     recidivist sentencing provisions, and for other purposes 
+     (Rept. 115-140). Referred to the Committee of the Whole House 
+     on the state of the Union.
+       Mr. GOODLATTE: Committee on the Judiciary. H.R. 883. A bill 
+     to amend title 18, United States Code, to provide a 
+     certification process for the issuance of nondisclosure 
+     requirements accompanying certain administrative subpoenas, 
+     to provide for judicial review of such nondisclosure 
+     requirements, and for other purposes (Rept. 115-141). 
+     Referred to the Committee of the Whole House on the state of 
+     the Union.
+       Mr. GOODLATTE: Committee on the Judiciary. H.R. 1188. A 
+     bill to reauthorize certain programs established by the Adam 
+     Walsh Child Protection and Safety Act of 2006, and for other 
+     purposes; with an amendment (Rept. 115-142). Referred to the 
+     Committee of the Whole House on the state of the Union.
+       Mr. McCAUL: Committee on Homeland Security. H.R. 1370. A 
+     bill to amend the Homeland Security Act of 2002 to require 
+     the Secretary of Homeland Security to issue Department of 
+     Homeland Security-wide guidance and develop training programs 
+     as part of the Department of Homeland Security Blue Campaign, 
+     and for other purposes; with an amendment (Rept. 115-143, Pt. 
+     1). Referred to the Committee of the Whole House on the state 
+     of the Union.
+       Mr. ROE of Tennessee: Committee on Veterans' Affairs. H.R. 
+     1545. A bill to amend title 38, United States Code, to 
+     clarify the authority of the Secretary of Veterans Affairs to 
+     disclose certain patient information to State controlled 
+     substance monitoring programs, and for other purposes (Rept. 
+     115-144). Referred to the Committee of the Whole House on the 
+     state of the Union.
+       Mr. WOODALL: Committee on Rules. House Resolution 348. 
+     Resolution providing for consideration of the bill (H.R. 953) 
+     to amend the Federal Insecticide, Fungicide, and Rodenticide 
+     Act and the Federal Water Pollution Control Act to clarify 
+     Congressional intent regarding the regulation of the use of 
+     pesticides in or near navigable waters, and for other 
+     purposes (Rept. 115-145). Referred to the House Calendar.
+
+
+                         DISCHARGE OF COMMITTEE
+
+  Pursuant to clause 2 of rule XIII, the Committee on the Judiciary 
+discharged from further consideration. H.R. 1370 referred to the 
+Committee of the Whole House on the state of the Union.
+  Pursuant to clause 2 of rule XIII, the Committee on Education and the 
+Workforce discharged from further consideration. H.R. 1973 referred to 
+the Committee of the Whole House on the state of the Union.
+
+                          ____________________
+```
