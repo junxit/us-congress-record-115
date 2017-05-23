@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt6-Pg8250
+date: 2017-05-23
+edition: CRECB
+section: HOUSE
+page: 8250
+---
+
+# HONORING THOSE WHO DIED FOR OUR FREEDOM
+
+```
+                HONORING THOSE WHO DIED FOR OUR FREEDOM
+
+  (Mr. SMUCKER asked and was given permission to address the House for 
+1 minute.)
+  Mr. SMUCKER. Mr. Speaker, I rise today to honor and remember those 
+who fought and died for our freedom, to thank the brave men and women 
+who today defend our freedom, and to recognize the sacrifice of all 
+their families.
+  Pennsylvania has produced some of the greatest examples of valor and 
+bravery the world has ever seen. It is home to pivotal moments in 
+American history, like Gettysburg, Valley Forge, and the Battle of Lake 
+Erie. Pennsylvania's sons have stormed the beaches of Normandy. They 
+have liberated the oppressed from fascism and communism, and they have 
+sought out terror in the depths of Afghanistan and Iraq in order to 
+protect our way of life.
+  Memorial Day is coming up this weekend. We will all enjoy time with 
+our families and friends, but we must always remember that is only 
+possible because of the brave men and women who gave what Abraham 
+Lincoln called the ``last full measure of devotion,'' and those who 
+protect us today.
+
+                          ____________________
+```
