@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-05-23-pt1-PgH4432-5
+date: 2017-05-23
+edition: CREC
+section: HOUSE
+page: H4432
+citation: 163 Cong. Rec. H4432
+---
+
+# HONORING THE LIFE OF YODELL BILLAH
+
+**Speaking:** O'Halleran, Tom (O000171) [D-AZ]
+
+```
+                   HONORING THE LIFE OF YODELL BILLAH
+
+  (Mr. O'HALLERAN asked and was given permission to address the House 
+for 1 minute.)
+  Mr. O'HALLERAN. Mr. Speaker, I rise today to pay my respects to 
+Yodell Billah, who passed away earlier this month at the age of 97. Mr. 
+Billah was a Navajo code talker and World War II Army veteran, fighting 
+against the Germans in Italy until their surrender in 1945. His heroic 
+actions and the work of our code talkers saved the lives of innumerable 
+soldiers and civilians.
+  For his service, he was awarded the American Defense Service Medal, 
+American Campaign Medal, and the European African Middle East Campaign 
+Medal.
+  We can never repay the debts that we owe Mr. Billah, code talkers 
+from all our Tribal Nations, and our veterans, but I am proud and 
+humbled to stand before you today to bring attention to his service and 
+honor his legacy.
+  Mr. Billah will forever be remembered as an active member of his 
+community, a loving father, a grandfather, and, above all, a hero.
+
+                          ____________________
+```

@@ -1,0 +1,33 @@
+---
+granule: CREC-2017-05-23-pt1-PgS3076-9
+date: 2017-05-23
+edition: CREC
+section: SENATE
+page: S3076
+citation: 163 Cong. Rec. S3076
+---
+
+# Manchester Attack (Executive Calendar)
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY], McConnell, Mitch (M000355) [R-KY]
+
+```
+                           Manchester Attack
+
+  Mr. SCHUMER. Mr. President, first, the Senate's thoughts and prayers 
+go out to everyone in Manchester, England. Such violence is 
+particularly heartbreaking when it happens, as it did in Manchester, at 
+a concert with so many young people there to enjoy.
+  We mourn the families of the victims of last night's terrorist 
+attack. We hope the perpetrators are quickly found and brought to 
+justice. I saw on TV a mother waiting, trying to email and text her 
+daughter. She got no answer. She was wondering where her daughter was. 
+It brought back the horrible memories for me after 9/11, the day after, 
+when I went up there and saw hundreds of people holding up signs: 
+``Have you seen my wife Evelyn?'' ``Have you seen my son John,'' not 
+knowing if they were alive or dead. Most of them ended up being dead.
+  We hope and pray that mother, and all the other mothers, fathers, 
+brothers, and sisters who are waiting for news that maybe their child, 
+their relative, is alive, will find them alive. Our prayers go out to 
+them.
+```
