@@ -1,0 +1,32 @@
+---
+granule: CRECB-2017-pt6-Pg8384-3
+date: 2017-05-24
+edition: CRECB
+section: HOUSE
+page: 8384
+---
+
+# PROMOTING FREEDOM, ANTICORRUPTION, THE RULE OF LAW, AND AN INDEPENDENT JUDICIARY SYSTEM IN NICARAGUA
+
+```
+PROMOTING FREEDOM, ANTICORRUPTION, THE RULE OF LAW, AND AN INDEPENDENT 
+                     JUDICIARY SYSTEM IN NICARAGUA
+
+  (Ms. ROS-LEHTINEN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. ROS-LEHTINEN. Mr. Speaker, today, the Western Hemisphere 
+Subcommittee passed a bill that I authored, the Nicaraguan Investment 
+and Conditionality Act, the NICA Act.
+  I thank Chairman Duncan and Ranking Member Sires for working with me 
+to pass this important bipartisan measure that seeks to promote 
+freedom, anticorruption, the rule of law, and supports an independent 
+judiciary system in Nicaragua.
+  This measure sends a strong message of support to the people of 
+Nicaragua that they are not alone. We in the United States Congress 
+recognize their plight and aspirations for a better future of freedom 
+and opportunity. We share their values of a free and fair electoral 
+system, of justice and liberty for all Nicaraguans, and we support 
+their pursuit of a more open and democratic society.
+
+                          ____________________
+```
