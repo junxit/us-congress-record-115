@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-05-24-pt1-PgH4520-2
+date: 2017-05-24
+edition: CREC
+section: HOUSE
+page: H4520
+citation: 163 Cong. Rec. H4520
+---
+
+# MEDIA TARGET PRESIDENT TRUMP
+
+**Speaking:** Smith, Lamar (S000583) [R-TX]
+
+```
+                      MEDIA TARGET PRESIDENT TRUMP
+
+  (Mr. SMITH of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. SMITH of Texas. Mr. Speaker, from a recent Investor's Business 
+Daily editorial, a Harvard University study found that ``During the 
+first 100 days of Trump's Presidency, TV networks CNN, NBC, and CBS 
+provided negative coverage 93 percent, 93 percent, and 91 percent of 
+the time.''
+  Meanwhile, ``The New York Times delivered 87 percent negative 
+coverage, while The Washington Post 83 percent and The Wall Street 
+Journal 70 percent were only a bit less negative.''
+  ``Trump's overall score of 80 percent negative coverage during the 
+start of his Presidency compares with Obama's 41 percent, Bush's 57 
+percent, and Bill Clinton's 60 percent.''
+  ``Both the Post and the Times, for instance, have used unnamed 
+sources and even the supposed content of documents that they have never 
+viewed as the basis for major revelations about Trump in recent days. 
+They have let their raw hatred get the better of them.
+  ``Such a media environment is dangerous for American democracy.''
+  Expecting basic professionalism from the media, sadly, seems to be 
+too much.
+
+                          ____________________
+```

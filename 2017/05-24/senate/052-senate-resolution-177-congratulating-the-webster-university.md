@@ -1,0 +1,46 @@
+---
+granule: CREC-2017-05-24-pt1-PgS3148-3
+date: 2017-05-24
+edition: CREC
+section: SENATE
+page: S3148
+citation: 163 Cong. Rec. S3148
+---
+
+# SENATE RESOLUTION 177--CONGRATULATING THE WEBSTER UNIVERSITY CHESS TEAM FOR WINNING A RECORD-BREAKING FIFTH CONSECUTIVE NATIONAL TITLE AT THE PRESIDENT'S CUP COLLEGIATE CHESS CHAMPIONSHIP IN NEW...
+
+**Measures:** S.Res. 177
+
+```
+SENATE RESOLUTION 177--CONGRATULATING THE WEBSTER UNIVERSITY CHESS TEAM 
+ FOR WINNING A RECORD-BREAKING FIFTH CONSECUTIVE NATIONAL TITLE AT THE 
+     PRESIDENT'S CUP COLLEGIATE CHESS CHAMPIONSHIP IN NEW YORK CITY
+
+  Mrs. McCASKILL (for herself and Mr. Blunt) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 177
+
+       Whereas Webster University is the first team in the history 
+     of the President's Cup collegiate chess championship to win 5 
+     consecutive national titles;
+       Whereas the 2017 victory is the seventh consecutive 
+     national championship for Grandmaster and coach Susan Polgar 
+     and the program at the Susan Polgar Institute for Chess 
+     Excellence;
+       Whereas Webster University is a leader in promoting chess 
+     as a vehicle for enriching the education of children and 
+     young adults; and
+       Whereas Webster University has become a hub for developing 
+     chess excellence in students from across the United States 
+     and around the world: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) congratulates Webster University for winning a record-
+     breaking fifth consecutive national title at the President's 
+     Cup collegiate chess championship; and
+       (2) encourages Webster University to continue promoting the 
+     educational benefits of chess among its students and the 
+     larger community.
+
+                          ____________________
+```
