@@ -1,0 +1,41 @@
+---
+granule: CRECB-2017-pt6-Pg8567-4
+date: 2017-05-25
+edition: CRECB
+section: HOUSE
+page: 8567
+---
+
+# SEXUAL ASSAULT IN CALIFORNIA
+
+```
+                              {time}  1215
+                      SEXUAL ASSAULT IN CALIFORNIA
+
+  (Mr. POE of Texas asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. POE of Texas. Mr. Speaker, Nolan Bruder's younger sister believed 
+that she could trust her big brother. So when this 19-year-old brother 
+offered her marijuana ``dabs'' and the opportunity to get high, she 
+accepted, trusting him. But with Nolan's pushing, she became so stoned 
+that she no longer recognized the man in front of her, that it was her 
+older brother.
+  Taking advantage of her drugged state, he sexually assaulted his own 
+16-year-old sister. This is repugnant, Mr. Speaker.
+  On May 17, Nolan was sentenced for rape of an intoxicated person. The 
+sentence? A mere 240 days in prison and then probation. Why? Because 
+the judge decided that prison would severely impact Bruder.
+  Well, Mr. Speaker, isn't that the point?
+  Even evidence showed the defendant had no remorse and was smug at the 
+trial.
+  I was a prosecutor and a judge in Texas for over 30 years. I met a 
+lot of rape victims and learned that their lives were forever 
+devastated by rapists.
+  Mr. Speaker, sexual assault is never the fault of the victim, 
+contrary to what Judge Follett thinks. Judge Follett got it wrong, Mr. 
+Speaker. He got it wrong in this case. It is time for him to pack his 
+toothbrush and leave the bench.
+  And that is just the way it is.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CRECB-2017-pt6-Pg8546-5
+date: 2017-05-25
+edition: CRECB
+section: HOUSE
+page: 8546
+---
+
+# WELCOME TO ROLLING THUNDER
+
+```
+                       WELCOME TO ROLLING THUNDER
+
+  (Mr. LANCE asked and was given permission to address the House for 1 
+minute.)
+  Mr. LANCE. Mr. Speaker, I rise today to welcome the veterans from 
+Rolling Thunder to Washington for their Memorial Day events. Veterans 
+like Gus Dante of Branchburg, New Jersey, serve on Rolling Thunder's 
+national board, and every year he and others help organize events here 
+in Washington to commemorate those brave Americans lost in war.
+  For 30 years, Rolling Thunder's voices and motorcycles have been 
+roaring in Washington, and lawmakers and the new administration are 
+listening. Veterans' issues are front and center in the Halls of 
+Congress, and Secretary Shulkin is reforming the Veterans 
+Administration to restore the trust Rolling Thunder and all veterans 
+demand.
+  We must keep up the fight for the rights and benefits veterans have 
+earned in the service to the Nation. I am proud to join with Rolling 
+Thunder in introducing two important measures: legislation to end the 
+40-mile rule for private care through the VA and legislation to display 
+the POW/MIA flag on Federal properties.
+  Mr. Speaker, on this commemorative Memorial Day weekend, let us all 
+recall those who answered the call of
+
+[[Page 8547]]
+
+service, especially those who did not return home.
+
+                          ____________________
+```
