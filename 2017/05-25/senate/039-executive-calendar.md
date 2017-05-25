@@ -1,0 +1,46 @@
+---
+granule: CREC-2017-05-25-pt1-PgS3188
+date: 2017-05-25
+edition: CREC
+section: SENATE
+page: S3188
+citation: 163 Cong. Rec. S3188
+---
+
+# EXECUTIVE CALENDAR
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+```
+                           EXECUTIVE CALENDAR
+
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the Senate 
+proceed to the en bloc consideration of the following nominations: 
+Executive Calendar Nos. 60, 62, and 64.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+  The clerk will report the nominations en bloc.
+  The legislative clerk read the nominations of David L. Norquist, of 
+Virginia, to be Under Secretary of Defense (Comptroller); Kari A. 
+Bingen, of Virginia, to be a Principal Deputy Under Secretary of 
+Defense; and Robert Story Karem, of the District of Columbia, to be an 
+Assistant Secretary of Defense.
+  Thereupon, the Senate proceeded to consider the nominations en bloc.
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the Senate 
+vote on the nominations en bloc with no intervening action or debate; 
+that if confirmed, the motions to reconsider be considered made and 
+laid upon the table en bloc; that the President be immediately notified 
+of the Senate's action; that no further motions be in order; that any 
+statements related to the nominations be printed in the Record; and 
+that the Senate then resume legislative session.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+  Mr. McCONNELL. Mr. President, I know of no further debate on the 
+nominations.
+  The PRESIDING OFFICER. Hearing no further debate, the question is, 
+Will the Senate advise and consent to the Norquist, Bingen, and Karem 
+nominations en bloc?
+  The nominations were confirmed en bloc.
+
+                          ____________________
+```

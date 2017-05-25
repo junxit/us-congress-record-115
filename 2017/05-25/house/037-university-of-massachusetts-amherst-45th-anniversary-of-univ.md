@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-05-25-pt1-PgH4594-4
+date: 2017-05-25
+edition: CREC
+section: HOUSE
+page: H4594
+citation: 163 Cong. Rec. H4594
+---
+
+# UNIVERSITY OF MASSACHUSETTS AMHERST 45TH ANNIVERSARY OF UNIVERSITY WITHOUT WALLS
+
+**Speaking:** McGovern, James P. (M000312) [D-MA]
+
+```
+  UNIVERSITY OF MASSACHUSETTS AMHERST 45TH ANNIVERSARY OF UNIVERSITY 
+                             WITHOUT WALLS
+
+  (Mr. McGOVERN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McGOVERN. Mr. Speaker, I rise today to recognize the 45th 
+anniversary of the University of Massachusetts Amherst University 
+Without Walls, one of the oldest and most highly regarded adult 
+bachelor's degree completion programs in the Nation.
+  Founded in 1971, UWW provides nontraditional students with access to 
+the resources of our best universities. It has developed into a 
+national leader in adult education, having graduated nearly 4,300 
+students, including basketball legend, Julius Erving.
+  One of the first programs in the Nation to offer an innovative blend 
+of online and classroom learning, UWW provides an excellent education 
+to students, including many veterans who are unable to complete a 
+traditional college degree due to financial constraints, family 
+obligations, or personal hardship.
+  The key to success is the incredible team of UMass Amherst faculty 
+and staff who have dedicated their lives to teaching and supporting 
+adult students as they balance family, community, and academic 
+responsibilities.
+  I wish to personally thank all of the faculty, staff, and UWW 
+students for their dedication to excellence.
+
+                          ____________________
+```

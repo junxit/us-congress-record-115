@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-05-25-pt1-PgH4574-5
+date: 2017-05-25
+edition: CREC
+section: HOUSE
+page: H4574
+citation: 163 Cong. Rec. H4574
+---
+
+# HONORING HENRI TERMEER
+
+**Speaking:** Moulton, Seth (M001196) [D-MA]
+
+```
+                         HONORING HENRI TERMEER
+
+  (Mr. MOULTON asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. MOULTON. Mr. Speaker, I come to the floor today to honor a 
+constituent, a friend, and a beloved member of our community, Henri 
+Termeer. Henri was a resident of my hometown in Massachusetts and the 
+retired CEO of Genzyme, the biotech firm credited with launching the 
+Boston biotech revolution that now leads the globe.
+  Henri has been described as the epitome of a renaissance man, and he 
+embodied the nexus of business, culture, and civic responsibility. He 
+also left a lasting imprint on those he loved. His 16-year-old 
+daughter, Adriana, referred to him as the giving tree because of the 
+seemingly endless energy he devoted to the causes he believed in and 
+the lives he touched.
+  At dinner the night he passed away, Henri said to his guests: We are 
+getting older and running out of runway here. We need new leaders now.
+  Mr. Speaker, we would all do well to aspire to be the kind of 
+thoughtful, passionate, and impactful leader Henri was. He saved 
+countless lives, yet he was known for his modesty. Henri was one of the 
+kindest men I have ever known, and we will miss him.
+
+[[Page H4575]]
+
+  
+
+                          ____________________
+```

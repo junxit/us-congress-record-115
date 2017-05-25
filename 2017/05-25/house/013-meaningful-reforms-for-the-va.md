@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-05-25-pt1-PgH4574-4
+date: 2017-05-25
+edition: CREC
+section: HOUSE
+page: H4574
+citation: 163 Cong. Rec. H4574
+---
+
+# MEANINGFUL REFORMS FOR THE VA
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                     MEANINGFUL REFORMS FOR THE VA
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, I rise today to note the veterans' bills 
+passed by the House of Representatives this week. Amongst the 
+legislation are bills to provide veterans with a cost-of-living 
+adjustment for disability compensation, create a pilot program to 
+explore magnetic resonant therapy as treatment for veterans with mental 
+health conditions, and streamline the disability claims process at the 
+VA, amongst other legislation.
+  I would like to specifically highlight the VA Scheduling 
+Accountability Act. A 2014 investigation found that no less than 40 
+veterans died while on unauthorized waiting lists, waiting to receive 
+care that they never got. This is completely unacceptable. This 
+legislation puts into place measures to ensure every facility is in 
+compliance with VA scheduling policies and will withhold any awards or 
+bonuses from any centers who fail to certify their compliance.
+  Together with our new VA Secretary David Shulkin, whom we met with 
+this week, I am confident that we will continue to create meaningful 
+reforms for the VA. As we head into the Memorial Day weekend, this is 
+just one way we can honor veterans and those who have fallen for us.
+
+                          ____________________
+```
