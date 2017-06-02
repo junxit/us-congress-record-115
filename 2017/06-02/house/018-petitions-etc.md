@@ -1,0 +1,33 @@
+---
+granule: CREC-2017-06-02-pt1-PgH4623
+date: 2017-06-02
+edition: CREC
+section: HOUSE
+page: H4623
+citation: 163 Cong. Rec. H4623
+---
+
+# PETITIONS, ETC.
+
+**Measures:** H.Res. 1628
+
+```
+                            PETITIONS, ETC.
+
+  Under clause 3 of rule XII, petitions and papers were laid on the 
+clerk's desk and referred as follows:
+
+       47. The SPEAKER presented a petition of the Mayor and City 
+     Council of Franklin, Louisiana, relative to a Resolution 
+     urging the United States Congress to enact legislation that 
+     will enable local governments to collect revenues already due 
+     that are essential to the maintenance and expansion of local 
+     and regional economies, the creation of thousands of new 
+     jobs, the enhancement of the quality of life, and the 
+     preservation of limited local revenue sources; to the 
+     Committee on the Judiciary.
+       48. Also, a petition of City Council of Cincinnati, OH, 
+     relative to Resolution 37-2017, opposing House Resolution 
+     1628, the American Health Care Act of 2017; jointly to the 
+     Committees on Energy and Commerce and Ways and Means.
+```
