@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-06-06-pt1-PgH4644-2
+date: 2017-06-06
+edition: CREC
+section: HOUSE
+page: H4644
+citation: 163 Cong. Rec. H4644
+---
+
+# D-DAY
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                                 D-DAY
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, on this day, June 6, 1944, 73 years ago, 
+the largest amphibious assault in history landed on the beaches of 
+Normandy, known as Operation Overlord, which we know more commonly as 
+D-Day.
+  I rise today, 73 years later, to honor the thousands of Allied 
+soldiers who lost their lives on the beaches of Omaha, Utah, Gold, 
+Juno, and Sword, and those, as well, that lived to carry the battle, 
+ultimately, to Berlin and win.
+  General Eisenhower told his soldiers that ``the hopes and prayers of 
+liberty-loving people everywhere march with you.'' Today we commemorate 
+the operation which began the liberation of Europe from Nazi control 
+and paved the way for the eventual Allied victory in Europe--and for 
+all of us to remain vigilant to preserve that same precious and fragile 
+freedom.
+  As was said in the movie ``Saving Private Ryan,'' for all of us, 
+``Earn this.''
+
+                          ____________________
+```
