@@ -1,0 +1,32 @@
+---
+granule: CRECB-2017-pt6-Pg8720-2
+date: 2017-06-06
+edition: CRECB
+section: HOUSE
+page: 8720
+---
+
+# HONORING THE LIFE OF LONNY KAPLAN
+
+```
+                   HONORING THE LIFE OF LONNY KAPLAN
+
+  (Mrs. WATSON COLEMAN asked and was given permission to address the 
+House for 1 minute.)
+  Mrs. WATSON COLEMAN. Mr. Speaker, on Saturday, New Jersey's 12th 
+Congressional District lost a man of great strength and valor. We lost 
+a husband, a father, an activist. For many others, we lost a great 
+friend.
+  Lonny Kaplan and I met in the 1970s and long maintained a friendship 
+of love and mutual respect. He is not only a statesman, but a hero. His 
+commitment to political activism, especially towards pro-Israel causes, 
+made him instrumental in strengthening the relationship between the 
+United States and Israel.
+  Lonny was a respected leader in the Jewish community both here in the 
+state and nationally, and will long be revered by those who had the 
+honor to know him. The loss we feel as a congressional district and as 
+a nation is deep, but I know that Lonny will never be forgotten by the 
+countless lives that he touched.
+
+                          ____________________
+```
