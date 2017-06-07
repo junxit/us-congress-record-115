@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt6-Pg8800-2
+date: 2017-06-07
+edition: CRECB
+section: HOUSE
+page: 8800
+---
+
+# RECOGNIZING EMILY AND MICHAEL BROADBRIDGE
+
+```
+               RECOGNIZING EMILY AND MICHAEL BROADBRIDGE
+
+  (Mr. MITCHELL asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. MITCHELL. Mr. Speaker, I rise today to talk about some incredible 
+young people back home in Michigan. Meet Emily and Michael Broadbridge. 
+Emily is a sixth grader and Michael is a first grader in Macomb County.
+  This is no ordinary lemonade stand. Instead of simply making money 
+for themselves, Emily and Michael are donating all the money they earn 
+to the Homeless Education Project, which provides school supplies and 
+clothes for homeless students in Macomb County.
+  Emily held her first lemonade stand on National Lemonade Day in 
+2011--yes, there is one--when she was just 5. Her parents thought it 
+would be a good lesson in entrepreneurship, but it became so much more 
+when she decided on her own to donate her proceeds to charity. Since 
+then, Emily and her brother, Michael, have raised over $13,000 for the 
+Homeless Education Project. They expect to raise $7,000 this year.
+  Emily and Michael have selflessly put others' needs before their own. 
+I am proud to recognize them and their example today as role models for 
+our community.
+
+                          ____________________
+```

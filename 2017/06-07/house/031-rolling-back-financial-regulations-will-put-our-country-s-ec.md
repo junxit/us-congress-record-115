@@ -1,0 +1,40 @@
+---
+granule: CRECB-2017-pt6-Pg8801-3
+date: 2017-06-07
+edition: CRECB
+section: HOUSE
+page: 8801
+---
+
+# ROLLING BACK FINANCIAL REGULATIONS WILL PUT OUR COUNTRY'S ECONOMIC SECURITY AT RISK
+
+```
+                              {time}  1215
+  ROLLING BACK FINANCIAL REGULATIONS WILL PUT OUR COUNTRY'S ECONOMIC 
+                            SECURITY AT RISK
+
+  (Ms. GABBARD asked and was given permission to address the House for 
+1 minute.)
+  Ms. GABBARD. Mr. Speaker, rolling back financial regulations that are 
+in place to protect the American people will put them and our country's 
+economic security at risk. However, the Financial CHOICE Act that is 
+being considered by Congress today does just that: it erodes 
+protections against dishonest big bank practices that rob people of 
+their hard-earned salaries.
+  This bill repeals the Volcker rule. It dismantles the Consumer 
+Financial Protection Bureau, strips regulations in place to protect the 
+American people's savings, and actually lets the big banks maintain 
+even less capital that they need to absorb catastrophic losses, making 
+it so that they are relying once again on the American taxpayer to bail 
+them out.
+  We don't need to remind the families who have suffered so much about 
+the pain caused by the Great Recession. In my own home State of Hawaii, 
+from 2008 to 2010, our unemployment rate more than doubled, and 11 
+million people in America lost their homes. The big banks of 2008 are 
+even bigger and more powerful today.
+  I urge my colleagues to reject this dangerous bill and, instead, pass 
+H.R. 790, the Return to Prudent Banking Act, which would reinstate a 
+21st century Glass-Steagall Act.
+
+                          ____________________
+```

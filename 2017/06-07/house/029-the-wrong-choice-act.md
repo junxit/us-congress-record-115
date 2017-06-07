@@ -1,0 +1,42 @@
+---
+granule: CRECB-2017-pt6-Pg8801
+date: 2017-06-07
+edition: CRECB
+section: HOUSE
+page: 8801
+---
+
+# THE ``WRONG'' CHOICE ACT
+
+```
+                        THE ``WRONG'' CHOICE ACT
+
+  (Mr. DeFAZIO asked and was given permission to address the House for 
+1 minute.)
+  Mr. DeFAZIO. Mr. Speaker, today the House will consider the ``Wrong'' 
+CHOICE Act. The Republicans would take us back to the good old days.
+  Remember the good old days? Enron, the collapse of Wall Street 
+because of millions of bad mortgages and virtual collateralized debt 
+obligations, and other schemes that pyramided the problem to a point 
+where it caused the worst economic collapse since the Great Depression.
+  Now Goldman Sachs populates the White House. They run the Treasury. 
+Now they want to deregulate Wall Street again with a so-called CHOICE 
+Act.
+  Now, there are problems with overregulation of the community banks 
+and small banks; they didn't cause the problem. But they want to say, 
+``No, let's just deregulate everybody again,'' not targeting the 
+problem. So they are going to repeal the Volcker Rule. They are going 
+to do away with the Consumer Financial Protection Bureau.
+  No more requiring lenders to be certain that people are borrowers who 
+can repay their loans. No, the credit card companies, the payday 
+lenders, the debt collectors, there are no abuses there. We don't need 
+a watchdog overlooking them.
+  And then, finally, they do away with something called orderly 
+liquidation authority. Back to the good old days when firms on Wall 
+Street were too big to fail. We can't have in place a process that 
+would allow us to remove overpaid executives who crash their firm and 
+to make the stockholders pay instead of the taxpayers.
+  That is what this bill does today. It is the ``Wrong'' CHOICE Act.
+
+                          ____________________
+```
