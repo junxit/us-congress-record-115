@@ -1,0 +1,216 @@
+---
+granule: CREC-2017-06-07-pt1-PgS3339-5
+date: 2017-06-07
+edition: CREC
+section: SENATE
+page: S3339
+citation: 163 Cong. Rec. S3339
+---
+
+# Text of Senate Amendment 220
+
+**Speaking:** Blumenthal, Richard (B001277) [D-CT]
+
+```
+  SA 220. Mr. BLUMENTHAL (for himself and Mr. Portman) submitted an 
+amendment intended to be proposed by him to the bill S. 722, to impose 
+sanctions with respect to Iran in relation to Iran's ballistic missile 
+program, support for acts of international terrorism, and violations of 
+human rights, and for other purposes; which was ordered to lie on the 
+table; as follows:
+
+       At the end, add the following:
+
+[[Page S3340]]
+
+  
+
+
+     SEC. 13. SENSE OF SENATE ON THE UNWAVERING COMMITMENT OF THE 
+                   UNITED STATES TO THE NORTH ATLANTIC TREATY 
+                   ORGANIZATION.
+
+       (a) Findings.--The Senate makes the following findings:
+       (1) Following World War II, the United States rejected 
+     isolationism, established its role as a world leader, and 
+     developed an international alliance system that protected the 
+     United States while supporting democracy, freedom, and 
+     economic prosperity with European nations.
+       (2) 70 years ago, the United States announced the Marshall 
+     Plan for Europe, a strategic investment in Europe, as well as 
+     articulated the Truman Doctrine, which sought to contain a 
+     growing Soviet threat in Southern Europe.
+       (3) In 1949, the United States, Canada, Belgium, Denmark, 
+     France, Iceland, Italy, Luxemburg, the Netherlands, Norway, 
+     Portugal, and the United Kingdom signed the North Atlantic 
+     Treaty that formed the basis of the North Atlantic Treaty 
+     Organization (in this section referred to as ``NATO'').
+       (4) NATO was created to protect countries from a growing 
+     Soviet threat, promote international peace and stability, and 
+     defend freedom.
+       (5) To date, 29 countries have joined NATO.
+       (6) For more than 67 years, NATO has served as a central 
+     pillar of United States national security and a deterrent 
+     against adversaries and external threats.
+       (7) NATO continues to improve its collective defense 
+     measures, enhance its military capabilities to address a full 
+     spectrum of complex threats, and partner with non-NATO 
+     countries to promote international stability.
+       (8) Article 5 of the North Atlantic Treaty is an integral 
+     part of NATO and states that ``[t]he Parties agree that an 
+     armed attack against one or more of them in Europe or North 
+     America shall be considered an attack against them all . . 
+     .''.
+       (9) NATO invoked Article 5 for the first time less than 24 
+     hours after the September 11, 2001, terrorist attacks against 
+     the United States.
+       (10) In Afghanistan, NATO allies and partners have served 
+     alongside United States forces since 2001, reaching a peak of 
+     more than 42,000 ally and partner forces, 6,300 NATO forces 
+     continue to serve today alongside the 6,900 United States 
+     forces there, and more than 1,100 NATO ally and partner 
+     forces have paid the ultimate price in service to the 
+     collective defense of NATO.
+       (11) NATO took the lead in helping combat the terrorist 
+     threat in Afghanistan through the International Security 
+     Assistance Force and Operation Resolute Support, contributing 
+     to the safety of the United States and the international 
+     community.
+       (12) All 29 NATO allies and many NATO partners are 
+     contributing to the Global Coalition to Counter the Islamic 
+     State of Iraq and the Levant.
+       (13) Approximately 18,000 military personnel are currently 
+     engaged in NATO missions around the world, conducting 
+     operations in Afghanistan, Kosovo, the Mediterranean, and off 
+     the Horn of Africa.
+       (14) NATO conducts a range of maritime security operations 
+     in the Mediterranean and is essential to establishing 
+     stability along the borders of Europe and to responding to 
+     the ongoing refugee and migrant crisis.
+       (15) For nearly 10 years, NATO has provided airlift support 
+     for the mission of the African Union in Somalia, as well as 
+     assisted with training the African Standby Force at the 
+     request of the African Union.
+       (16) For more than 17 years, NATO has led peace-support 
+     operations in Kosovo to maintain safety and security in a 
+     volatile region.
+       (17) NATO has three standing forces on active duty at all 
+     times to defend the Alliance, air policing capability, 
+     maritime forces, and an integrated air defense system.
+       (18) Whereas NATO allies and the international community 
+     continue to look to NATO to deter the increasingly revanchist 
+     activities of Russia.
+       (19) Chairman of the Joint Chiefs of Staff, General Joseph 
+     Dunford, testified before the Committee on Armed Services of 
+     the Senate on July 19, 2015, that Russia presents the 
+     ``greatest existential threat'' to the United States.
+       (20) The malign actions of Russia--its 2008 incursion into 
+     Georgia, its illegal annexation of Crimea, its continued 
+     military action in Ukraine, its targeting of civilians in 
+     Syria, its ongoing information war in Europe, its continued 
+     violations of the Intermediate Nuclear Forces Agreement, and 
+     its cyberattacks aimed at influencing United States 
+     elections--have violated international laws and norms.
+       (21) Russia continues to use disinformation campaigns and 
+     promote state propaganda to discredit democracy and undermine 
+     NATO members.
+       (22) Since the illegal annexation of Crimea and direct 
+     support to the conflict in Eastern Ukraine by Russia in 2014, 
+     NATO members have undertaken the biggest reinforcement of the 
+     collective defense of NATO since the end of the Cold War, 
+     enhancing allied readiness and deterrence measures in 
+     response to Russian aggression.
+       (23) The efforts of NATO to confront and deter Russian 
+     aggression in Eastern Europe have included a three-fold 
+     increase in the size of the NATO Response Force (NRF) to 
+     40,000 troops; the creation of a Spearhead Force of 5,000 
+     troops capable of deploying within a few days to respond to 
+     any threat against an ally, particularly on the eastern flank 
+     of NATO; the forward deployment of up to 4,000 troops to 
+     Poland, Estonia, Latvia, and Lithuania; an increase in the 
+     air policing and maritime missions of NATO in Eastern Europe; 
+     and a significant increase in NATO training and military 
+     exercises in Eastern Europe.
+       (24) Following the invasion of Ukraine by Russia in 2014, 
+     the United States established Operation Atlantic Resolve and 
+     the European Reassurance Initiative to reassure NATO allies 
+     that the United States would uphold its global security 
+     commitments and work in coordination with European partners 
+     to deter Russian aggression.
+       (25) Since 2014, Operation Atlantic Resolve and the 
+     European Reassurance Initiative have demonstrated the 
+     continued commitment of the United States to its NATO allies 
+     and partners by engaging in deterrence and security measures 
+     against potential Russian aggression in the region.
+       (26) Whereas the United States is further strengthening its 
+     force presence in Europe through the continuous deployment of 
+     an armored brigade combat team to Poland on a rotating basis.
+       (27) On January 6, 2017, as a part of Operation Atlantic 
+     Resolve, 3,500 United States troops from the 4th Infantry 
+     Division in Fort Carson, Colorado, along with more than 2,500 
+     military vehicles, were deployed to Eastern Europe to deter 
+     regional aggression.
+       (28) Continued United States leadership in NATO is critical 
+     to ensuring that NATO remains the greatest military alliance 
+     in history.
+       (29) All NATO members have recommitted themselves to 
+     sharing the security burden of NATO at the 2014 NATO Wales 
+     Summit by pledging to meet the defense spending target for 
+     NATO members of 2 percent of gross domestic product within 10 
+     years.
+       (30) The United States, Greece, Poland, Estonia, and the 
+     United Kingdom all have exceeded that defense spending 
+     target.
+       (31) Since the Wales Summit, Latvia, Lithuania, and many 
+     other allies have increased defense spending in an effort to 
+     meet that defense spending target.
+       (32) NATO remains committed to its open door policy on 
+     enlargement, working with countries in the Euro-Atlantic 
+     region that aspire to join NATO to help meet the requirements 
+     for membership.
+       (33) General James Jones, United States Marine Corps 
+     (retired), former National Security Advisor, testified before 
+     the Committee on Armed Services of the Senate in July 2016 
+     that ``[o]ur 27 NATO allies offer America forward basing, 
+     which allows us to better fight enemies like ISIS and deter 
+     adversaries like the new Russia and to meet shared 
+     challenges. Twenty-eight countries acting as one is a 
+     powerful alliance''.
+       (34) Secretary of Defense James Mattis testified before the 
+     Committee on Armed Services of the Senate, during his hearing 
+     as nominee for Secretary of Defense, that ``[w]e must also 
+     embrace our international alliances and security 
+     partnerships. History is clear: Nations with strong allies 
+     thrive and those without them wither''.
+       (35) There is a long tradition of strong bipartisan 
+     agreement that participation in NATO strengthens the security 
+     of the United States.
+       (36) NATO is the first peacetime military alliance the 
+     United States entered into outside the Western Hemisphere and 
+     today remains the largest peacetime military alliance in the 
+     world.
+       (37) A fractured NATO alliance would harm the interests of 
+     the United States and embolden adversaries of the United 
+     States.
+       (38) A strong and united Europe is important to United 
+     States strategic interests.
+       (b) Sense of Senate.--It is the sense of the Senate--
+       (1) to pledge that the United States will continue to 
+     maintain strong leadership and strengthen its commitments to 
+     NATO;
+       (2) to strongly encourage NATO members to fulfill their 
+     pledge to invest at least 2 percent of gross domestic product 
+     on defense spending, invest at least 20 percent of such 
+     spending on major equipment (including research and 
+     development), and shoulder appropriate responsibility within 
+     NATO;
+       (3) to welcome Montenegro as the newest member of NATO;
+       (4) to recognize the historic contribution and sacrifice 
+     NATO member countries have made while combating terrorism in 
+     Afghanistan through the International Security Assistance 
+     Force and Operation Resolute Support; and
+       (5) to honor the men and women who served under NATO and 
+     gave their lives to promote peace, security, and 
+     international cooperation since 1949.
+                                 ______
+```

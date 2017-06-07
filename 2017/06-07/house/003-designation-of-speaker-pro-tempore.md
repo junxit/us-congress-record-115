@@ -1,0 +1,27 @@
+---
+granule: CREC-2017-06-07-pt1-PgH4651-2
+date: 2017-06-07
+edition: CREC
+section: HOUSE
+page: H4651
+citation: 163 Cong. Rec. H4651
+---
+
+# DESIGNATION OF SPEAKER PRO TEMPORE
+
+```
+                   DESIGNATION OF SPEAKER PRO TEMPORE
+
+  The SPEAKER pro tempore laid before the House the following 
+communication from the Speaker:
+
+                                               Washington, DC,
+
+                                                     June 7, 2017.
+       I hereby appoint the Honorable Mike Johnson to act as 
+     Speaker pro tempore on this day.
+                                                     Paul D. Ryan,
+     Speaker of the House of Representatives.
+
+                          ____________________
+```

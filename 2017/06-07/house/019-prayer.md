@@ -1,0 +1,32 @@
+---
+granule: CREC-2017-06-07-pt1-PgH4657-4
+date: 2017-06-07
+edition: CREC
+section: HOUSE
+page: H4657
+citation: 163 Cong. Rec. H4657
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Patrick J. Conroy, offered the following 
+prayer:
+  We give You thanks, O God, for giving us another day.
+  As we begin the 84th year since the heroic efforts of our troops and 
+our allies on D-day, help us to be mindful of the freedoms we enjoy and 
+must be vigilant in protecting.
+  Bless our allies throughout the world and all those who stand with us 
+in confronting the dangers and evils of our time. In all things, may 
+the United States continue to be a beacon of light and hope.
+  Bless the Members of this people's House. Give them the wisdom and 
+patience to do the work of Congress even in times of complexity both at 
+home and abroad.
+  God bless America, and help us all to be our best selves. May all 
+that is done this day be for Your greater honor and glory.
+  Amen.
+
+                          ____________________
+```
