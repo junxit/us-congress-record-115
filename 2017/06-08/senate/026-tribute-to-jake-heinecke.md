@@ -1,0 +1,44 @@
+---
+granule: CREC-2017-06-08-pt1-PgS3359
+date: 2017-06-08
+edition: CREC
+section: SENATE
+page: S3359
+citation: 163 Cong. Rec. S3359
+---
+
+# TRIBUTE TO JAKE HEINECKE
+
+**Speaking:** Daines, Steve (D000618) [R-MT]
+
+```
+                        TRIBUTE TO JAKE HEINECKE
+
+● Mr. DAINES. Mr. President, this week, I have the distinct 
+honor of recognizing Jake Heinecke, a law enforcement officer from 
+Fergus County who retired from full-time service at the end of May. 
+Deputy Heinecke spent two decades protecting and serving the people of 
+Montana.
+  Deputy Heinecke was raised with a strong family background in law 
+enforcement. His father was an instructor at the Montana Law 
+Enforcement Academy, and the calling to law enforcement was clearly a 
+natural fit for Jake. During the midnineties, Deputy Heinecke began his 
+career as a reserve deputy in Beaverhead County, nestled in the 
+southwestern corner of Montana. He quickly transitioned to full-time 
+law enforcement after finishing college and served Beaverhead County 
+for 15 more years. During the final chapters of his full-time law 
+enforcement career, Deputy Heinecke served the people of Fergus County, 
+located in the geographic center of the State. Troy Eades, the Fergus 
+County sheriff, described Deputy Heinecke's performance in the 
+department with concise clarity, ``Great job. Great officer.''
+  Despite retiring from full-time law enforcement, Jake plans to 
+continue to play a role in the community by serving in the Central 
+Montana Ambulance Service as a full-time EMT. Montanans appreciate the 
+work of our law enforcement and emergency services professionals. When 
+someone gives over two decades of their professional life to protect 
+and serve others, that accomplishment deserves our sincere gratitude. 
+Thanks, Jake, for helping keep ``The Last Best Place'' safe for all of 
+us to enjoy.●
+
+                          ____________________
+```

@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-06-08-pt1-PgH4714-4
+date: 2017-06-08
+edition: CREC
+section: HOUSE
+page: H4714
+citation: 163 Cong. Rec. H4714
+---
+
+# HONORING STEVE HARDY
+
+**Speaking:** Garamendi, John (G000559) [D-CA]
+
+```
+                          HONORING STEVE HARDY
+
+  (Mr. GARAMENDI asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. GARAMENDI. Mr. Speaker, I rise today to celebrate the memory of 
+Mayor Steve Hardy of Vacaville, California, a man who dedicated his 
+life to service, first in the U.S. Navy for 5 years, then as a 
+policeman, and later in the California State Senate, where I had the 
+privilege of working with him when he was the staff director of the 
+Governmental Organization Committee.
+  During his tenure as mayor, he led the city through a very difficult 
+period--the Great Recession--revising the city's finances, bringing it 
+back to vitality, and also continuing the role of Vacaville as one of 
+the major cities in my district. It was a great pleasure working with 
+him during those years.
+  His marriage of 46 years to his wife, Jerri, is a testament not only 
+to his service to the community, but also to his family. He is survived 
+by his children. I look forward to his memory and to the future of 
+Vacaville.
+
+                          ____________________
+```

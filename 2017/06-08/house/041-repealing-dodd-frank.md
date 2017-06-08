@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-06-08-pt1-PgH4715
+date: 2017-06-08
+edition: CREC
+section: HOUSE
+page: H4715
+citation: 163 Cong. Rec. H4715
+---
+
+# REPEALING DODD-FRANK
+
+**Speaking:** Raskin, Jamie (R000606) [D-MD]
+
+```
+                          REPEALING DODD-FRANK
+
+  (Mr. RASKIN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. RASKIN. Mr. Speaker, I rise because the majority is expected to 
+vote today to repeal Dodd-Frank, the legislation that we passed after 
+Wall Street predators in the mortgage meltdown crisis cost the American 
+people 8.7 million jobs and $19 trillion, including $2.7 trillion in 
+retirement savings. Ten million Americans lost their homes and entire 
+communities were devastated.
+  But, amazingly, the majority wants to destroy the most important 
+piece of financial safety legislation passed for the American people in 
+75 years. They call it the Financial CHOICE Act, but what kind of 
+choice does it give you?
+  It destroys the Consumer Financial Protection Bureau, which has saved 
+26 million people nearly $12 billion from scams and rip-offs. It 
+destroys the Volcker rule, which keeps banks from making speculative 
+bets with your money.
+  The Financial CHOICE Act is the wrong choice for America and a very 
+bad choice for Congress.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-06-08-pt1-PgH4804
+date: 2017-06-08
+edition: CREC
+section: HOUSE
+page: H4804
+citation: 163 Cong. Rec. H4804
+---
+
+# TWO IMPORTANT ISSUES
+
+**Speaking:** Jackson Lee, Sheila (J000032) [D-TX]
+
+```
+                          TWO IMPORTANT ISSUES
+
+  (Ms. JACKSON LEE asked and was given permission to address the House 
+for 1 minute.)
+  Ms. JACKSON LEE. Madam Speaker, I rise to discuss two issues and to 
+speak on their impact to the American people.
+  The first one is the Financial CHOICE Act, which we just debated. I 
+oppose it for the very reason that we passed Dodd-Frank. We passed it 
+to respond to the greatest recession in 80 years, which saw a financial 
+crisis that caused working men and women to lose the greatest amount of 
+wealth they have ever lost. Yet, our colleagues here believe that it is 
+important to choose large corporate interests over working men and 
+women.
+  At the same time, today we heard the testimony of Director Comey 
+under oath. He gave a list of very troublesome acts and words offered 
+by the President of the United States. Shortly thereafter, the 
+President's lawyer, who was not under oath, came forward to deny, 
+disparage, and suggest that Director Comey was not telling the truth.
+  That is clearly an indication that the Judiciary Committee should 
+begin an inquiry. That is our jurisdictional duty: to begin an inquiry 
+to discern who is telling the truth. The FBI is under our jurisdiction.
+  It is time for the House to hold hearings now. The truth must be 
+known by the American people.
+
+                          ____________________
+```
