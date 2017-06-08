@@ -1,0 +1,41 @@
+---
+granule: CRECB-2017-pt7-Pg8906-2
+date: 2017-06-08
+edition: CRECB
+section: HOUSE
+page: 8906
+---
+
+# HONORING AIR FORCE CAPTAIN JOE SMITH
+
+```
+                  HONORING AIR FORCE CAPTAIN JOE SMITH
+
+  (Mr. RODNEY DAVIS of Illinois asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. RODNEY DAVIS of Illinois. Mr. Speaker, I rise today to honor an 
+American hero, Air Force Captain Joe Smith, as he makes his final 
+flight home.
+  Though it has been nearly half a century since the 25-year-old 
+fighter pilot was fatally shot down during the Vietnam war, he will 
+finally be laid to rest in his hometown of Assumption, Illinois.
+  Thanks to the efforts of the Defense POW/MIA Accounting Agency, a 
+group which searches the world for missing American veterans, the 
+remains of Joe Smith were identified, along with his plane, by using 
+DNA analysis. The effort made to bring him home all these years later 
+is a true testament to the military's motto of no soldier left behind.
+  Those who knew Joe remember him as being a bright, polite young man, 
+who was well educated, earning his master's degree in business at the 
+University of Notre Dame and Washington University.
+  Though he did not have to, Joe went willingly into the service, where 
+he began as a first lieutenant and quickly worked his way up to the 
+promotion of being a captain.
+  With the help of the Assumption Historical Society, Joe's widow, 
+Elaine Mills, a native of Decatur, has worked hard to keep his memory 
+alive and honor his service to our Nation.
+  I hope to do the same by recognizing him today on this House floor. 
+Joe is a true hero. This country and this House will long remember his 
+valor.
+
+                          ____________________
+```

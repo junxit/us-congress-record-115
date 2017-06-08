@@ -1,0 +1,31 @@
+---
+granule: CRECB-2017-pt7-Pg8999-4
+date: 2017-06-08
+edition: CRECB
+section: HOUSE
+page: 8999
+---
+
+# 100TH ANNIVERSARY OF 1ST INFANTRY DIVISION
+
+```
+               100TH ANNIVERSARY OF 1ST INFANTRY DIVISION
+
+  (Mr. MARSHALL asked and was given permission to address the House for 
+1 minute.)
+  Mr. MARSHALL. Madam Speaker, I rise today in recognition of the 100th 
+anniversary of the Army's 1st Infantry Division, or the ``Big Red 
+One.''
+  From their heroic start, the 1st Infantry Division has played a vital 
+role in our Nation's history, serving in almost every American war 
+since 1917. Today, the Big Red One has over 5,000 soldiers deployed 
+worldwide, with an additional 10,000 in my district at Fort Riley. They 
+are preparing to deploy in support of ongoing operations.
+  Since 1917, more than 13,000 soldiers of the 1st Infantry Division 
+have paid the ultimate sacrifice. We honor those who have worn the 
+patch of the Big Red One and those that do so today. I cannot be more 
+proud of our troops at Fort Riley. I am honored to represent them. I 
+thank them all for their service.
+
+                          ____________________
+```

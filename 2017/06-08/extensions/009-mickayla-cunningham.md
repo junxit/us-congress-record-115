@@ -1,0 +1,45 @@
+---
+granule: CRECB-2017-pt7-Pg9020-4
+date: 2017-06-08
+edition: CRECB
+section: EXTENSIONS
+page: 9020
+---
+
+# MICKAYLA CUNNINGHAM
+
+```
+                          MICKAYLA CUNNINGHAM
+
+                                 ______
+                                 
+
+                           HON. ED PERLMUTTER
+
+                              of colorado
+
+                    in the house of representatives
+
+                         Thursday, June 8, 2017
+
+  Mr. PERLMUTTER. Mr. Speaker, I rise today to recognize and applaud 
+Mickayla Cunningham for receiving the Arvada Wheat Ridge Service 
+Ambassadors for Youth award.
+  Mickayla Cunningham is a student at Arvada K-8 School and received 
+this award because her determination and hard work have allowed her to 
+overcome adversities.
+  The dedication demonstrated by Mickayla Cunningham is exemplary of 
+the type of achievement that can be attained with hard work and 
+perseverance. It is essential students at all levels strive to make the 
+most of their education and develop a work ethic which will guide them 
+for the rest of their lives.
+
+[[Page 9021]]
+
+  I extend my deepest congratulations to Mickayla Cunningham for 
+winning the Arvada Wheat Ridge Service Ambassadors for Youth award. I 
+have no doubt she will exhibit the same dedication and character in all 
+of her future accomplishments.
+
+                          ____________________
+```
