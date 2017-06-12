@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-06-12-pt1-PgH4823-9
+date: 2017-06-12
+edition: CREC
+section: HOUSE
+page: H4823
+citation: 163 Cong. Rec. H4823
+---
+
+# ALZHEIMER'S AND BRAIN AWARENESS MONTH
+
+**Speaking:** Bilirakis, Gus M. (B001257) [R-FL]
+
+```
+                 ALZHEIMER'S AND BRAIN AWARENESS MONTH
+
+  (Mr. BILIRAKIS asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. BILIRAKIS. Mr. Speaker, June is Alzheimer's and Brain Awareness 
+Month.
+  Alzheimer's is the sixth leading cause of death in the United States, 
+impacting more than 500,000 people in Florida, and 5 million Americans 
+nationwide. It is also the only top 10 cause of death in America that 
+cannot be prevented or cured.
+  Beyond the statistics, finding treatments and cures for Alzheimer's 
+is a deeply personal mission to so many people, including myself.
+  In Florida, the Byrd Alzheimer's Institute at USF is one of the 
+largest freestanding institutes dedicated to Alzheimer's research in 
+the Nation. Their work brings us closer to cures and treatments every 
+day.
+  We are also making great strides in the fight against Alzheimer's 
+with the 21st Century Cures Act. This historic, nonpartisan 
+legislation, which was signed into law late last year, creates a 
+national data collection system for neurological diseases. Better data 
+will pave the path forward to better treatments.
+
+                          ____________________
+```

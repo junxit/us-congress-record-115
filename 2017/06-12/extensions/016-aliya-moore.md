@@ -1,0 +1,48 @@
+---
+granule: CREC-2017-06-12-pt1-PgE803-6
+date: 2017-06-12
+edition: CREC
+section: EXTENSIONS
+page: E803
+citation: 163 Cong. Rec. E803
+---
+
+# ALIYA MOORE
+
+**Speaking:** Perlmutter, Ed (P000593) [D-CO]
+
+```
+                              ALIYA MOORE
+
+                                 ______
+                                 
+
+                           HON. ED PERLMUTTER
+
+                              of colorado
+
+                    in the house of representatives
+
+                         Monday, June 12, 2017
+
+  Mr. PERLMUTTER. Mr. Speaker, I rise today to recognize and applaud 
+Aliya Moore for receiving the Arvada Wheat Ridge Service Ambassadors 
+for Youth award.
+
+[[Page E804]]
+
+   Aliya Moore is a student at Peck Elementary and received this award 
+because her determination and hard work have allowed her to overcome 
+adversities.
+   The dedication demonstrated by Aliya Moore is exemplary of the type 
+of achievement that can be attained with hard work and perseverance. It 
+is essential students at all levels strive to make the most of their 
+education and develop a work ethic which will guide them for the rest 
+of their lives.
+   I extend my deepest congratulations to Aliya Moore for winning the 
+Arvada Wheat Ridge Service Ambassadors for Youth award. I have no doubt 
+she will exhibit the same dedication and character in all of her future 
+accomplishments.
+
+                          ____________________
+```

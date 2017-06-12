@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-06-12-pt1-PgS3400-2
+date: 2017-06-12
+edition: CREC
+section: SENATE
+page: S3400
+citation: 163 Cong. Rec. S3400
+---
+
+# AUTHORITY FOR COMMITTEES TO MEET
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+```
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+  Mr. McCONNELL. Mr. President, I have two requests for committees to 
+meet during today's session of the Senate. They have the approval of 
+the Majority and Minority leaders.
+  Pursuant to rule XXVI, paragraph 5(a), of the Standing Rules of the 
+Senate, the following committees are authorized to meet during today's 
+session of the Senate:
+
+
+        committee on homeland security and governmental affairs
+
+  The Committee on Homeland Security and Governmental Affairs is 
+authorized to meet during the session of the Senate on Monday, June 12, 
+2017, at 5:30 p.m., for a business meeting.
+
+
+                       committee in intelligence
+
+  The Senate Select Committee on Intelligence is authorized to meet 
+during the session of the 115th Congress of the U.S. Senate on Monday, 
+June 12, 2017 from 7 p.m. to 9 p.m., in room SH-219 of the Hart Senate 
+Office Building to hold a closed briefing.
+
+                          ____________________
+```

@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-06-12-pt1-PgH4836-2
+date: 2017-06-12
+edition: CREC
+section: HOUSE
+page: H4836
+citation: 163 Cong. Rec. H4836
+---
+
+# LITTLE ROCK'S CHI ST. VINCENT INFIRMARY
+
+**Speaking:** Hill, J. French (H001072) [R-AR]
+
+```
+                LITTLE ROCK'S CHI ST. VINCENT INFIRMARY
+
+  (Mr. HILL asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. HILL. Mr. Speaker, I rise today in recognition of Little Rock's 
+CHI St. Vincent for being named to the 2017 list of 100 Great Hospitals 
+in America by Becker's Hospital Review.
+  CHI St. Vincent Infirmary's history of excellence in patient care 
+dates back to 1888, when it began as a 10-bed charity hospital and the 
+first hospital in Little Rock.
+  Over the years, to meet increasing demand for patient care, in 
+addition to expansion for construction, the hospital has made four 
+moves to larger facilities. In 1906, the hospital opened Arkansas' 
+first nursing school, the St. Vincent's Infirmary School of Nursing.
+  I am proud to have come into this world at St. Vincent, as did our 
+two children.
+  I would like to thank CHI St. Vincent for continuing its 129-year 
+legacy of leadership in patient care centered on service and quality 
+care in central Arkansas.
+
+                          ____________________
+```
