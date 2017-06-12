@@ -1,0 +1,28 @@
+---
+granule: CRECB-2017-pt7-Pg9046
+date: 2017-06-12
+edition: CRECB
+section: HOUSE
+page: 9046
+---
+
+# REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 2581, VERIFY FIRST ACT, AND PROVIDING FOR CONSIDERATION OF S. 1094, DEPARTMENT OF VETERANS AFFAIRS ACCOUNTABILITY AND WHISTLEBLOWER PROTECTION ACT OF 2017
+
+```
+ REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 2581, VERIFY 
+ FIRST ACT, AND PROVIDING FOR CONSIDERATION OF S. 1094, DEPARTMENT OF 
+  VETERANS AFFAIRS ACCOUNTABILITY AND WHISTLEBLOWER PROTECTION ACT OF 
+                                  2017
+
+  Mr. BUCK, from the Committee on Rules, submitted a privileged report 
+(Rept. No. 115-177) on the resolution (H. Res. 378) providing for 
+consideration of the bill (H.R. 2581) to amend the Internal Revenue 
+Code of 1986 to require the provision of social security numbers as a 
+condition of receiving the health insurance premium tax credit, and 
+providing for consideration of the bill (S. 1094) to amend title 38, 
+United States Code, to improve the accountability of employees of the 
+Department of Veterans Affairs, and for other purposes, which was 
+referred to the House Calendar and ordered to be printed.
+
+                          ____________________
+```

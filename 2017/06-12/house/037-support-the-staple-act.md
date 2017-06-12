@@ -1,0 +1,38 @@
+---
+granule: CRECB-2017-pt7-Pg9047-2
+date: 2017-06-12
+edition: CRECB
+section: HOUSE
+page: 9047
+---
+
+# SUPPORT THE STAPLE ACT
+
+```
+                         SUPPORT THE STAPLE ACT
+
+  (Mr. PAULSEN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PAULSEN. Mr. Speaker, brilliant minds from around the world come 
+to the United States to pursue advanced degrees. Unfortunately, for 
+many of these individuals, after we train them, after we educate them, 
+we force them to return to their home countries due to our outdated 
+immigration policy. And then guess what? They compete with us. They 
+compete with the American economy, and this makes no sense.
+  That is why I am authoring the bipartisan Stopping Trained in America 
+Ph.D.'s from Leaving the Economy Act, the STAPLE Act, along with my 
+colleague Congressman Quigley.
+  The STAPLE Act exempts individuals born outside the United States 
+from the limits of employment-based green cards and H-1B visas that are 
+awarded annually if that individual has earned a Ph.D. from an American 
+institution in the STEM fields of science, technology, engineering, or 
+math.
+  Mr. Speaker, by retaining the talent that has benefited from our 
+education system, we can unleash even more economic and innovative 
+opportunity here at home. Not only does the STAPLE Act help promote the 
+American Dream for those from overseas, but it also brings the 
+potential for new invention and ideas that benefit American families 
+and jobs here at home.
+
+                          ____________________
+```
