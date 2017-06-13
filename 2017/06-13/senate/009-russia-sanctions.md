@@ -1,0 +1,55 @@
+---
+granule: CRECB-2017-pt7-Pg9111-3
+date: 2017-06-13
+edition: CRECB
+section: SENATE
+page: 9111
+---
+
+# RUSSIA SANCTIONS
+
+```
+                            RUSSIA SANCTIONS
+
+  Mr. SCHUMER. Mr. President, last night Senators reached a bipartisan 
+agreement on a package of Russia sanctions for the Senate to vote on as 
+an amendment to the pending Iran sanctions.
+  It was the result of several days of negotiations and hard work. The 
+Republican leader and I spent a lot of time on this, and I thank him 
+for that, as did Senators Crapo, Brown, Cardin, Corker, Shaheen, 
+Durbin, and Menendez. I thank each of them for their efforts and their 
+expertise in getting this done.
+  In particular, I thank Senator Cardin, ranking member of the Foreign 
+Relations Committee, who is one of the most trusted voices in our 
+caucus on this issue. He did an excellent job of forging a bipartisan 
+consensus on this committee with little regard for the credit he would 
+receive. I also want to thank Senator Brown, our ranking member on 
+Banking, who has been steadfast in making sure we would get a good, 
+effective sanctions bill done. We wouldn't have done this also without 
+Senators Shaheen, Durbin, Menendez, and their staffs. I thank all of 
+them.
+  The final result of these negotiations is a good result for our 
+country. By codifying the existing sanctions and requiring 
+congressional review of any decision to weaken or lift them, we are 
+ensuring that the United States continues to punish President Putin for 
+his reckless and destabilizing actions. I believe it is particularly 
+significant that a bipartisan coalition is seeking to reestablish 
+Congress as a final arbiter of sanctions relief, no matter what the 
+administration does, particularly,
+
+[[Page 9112]]
+
+considering that this administration has been too eager to put 
+sanctions relief on the table. These additional sanctions will also 
+send a powerful and bipartisan statement to Russia and any other 
+country that might try to interfere in our elections that they will be 
+punished, and Congress will stand firm in making sure they are 
+punished, Democrats and Republicans.
+  Again, I thank my Republican and Democratic colleagues for putting 
+party aside, for doing what is best for the country. I hope this 
+agreement quickly passes both the House and Senate, and we hope the 
+President will sign this legislation as well, even though it cedes the 
+power to Congress.
+
+                          ____________________
+```

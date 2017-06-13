@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt7-Pg9167-4
+date: 2017-06-13
+edition: CRECB
+section: HOUSE
+page: 9167
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  Reverend M. Davies Kirkland, Dulin United Methodist Church, Falls 
+Church, Virginia, offered the following prayer:
+  Gracious and loving God, we offer thanks for this day that You have 
+given us, a day full of new beginnings, opportunities, and potential 
+for our country.
+  We ask Your blessings upon these Representatives, their staffs, and 
+all here who work through government to serve people of varied 
+traditions, faiths, and races.
+  Give them guidance and strength as they debate, deliberate, and make 
+difficult decisions on laws which will govern our country.
+  Give them patience and civility to listen compassionately, to show 
+respect for each other, and to work together for the common good.
+  And, O God, give them hope. For though the path may seem perilous and 
+the hurdles high, may hope sustain these public servants that they 
+might accomplish the more perfect union that our forebears dreamed of: 
+a more perfect union of justice, freedom, and liberty for all.
+  I pray this in Your Almighty name.
+  Amen.
+
+                          ____________________
+```
