@@ -1,0 +1,43 @@
+---
+granule: CREC-2017-06-14-pt1-PgH4915-6
+date: 2017-06-14
+edition: CREC
+section: HOUSE
+page: H4915
+citation: 163 Cong. Rec. H4915
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Patrick J. Conroy, offered the following 
+prayer:
+  Almighty God, on a day when violence has come to this assembly, we 
+ask Your blessing on our brother Representative Steve Scalise, the two 
+officers, and the staffer who have been shot. Bless the hands of those 
+who tend to their injuries.
+  We as Americans are blessed by a free and open society, with rights 
+secured by law and the Constitution. But once again we are reminded 
+that there is a vulnerability that comes with that openness.
+  May we all be vigilant in being good citizens, neighbors, and 
+defenders of our way of life at a time when so many challenges to our 
+way of life and government seem under siege.
+  We thank You for the men and women who respond to the crises that 
+befall us, especially the Capitol Police, and all first responders. May 
+their heroism and generosity of spirit be an inspiration to us all, and 
+may they be assured of our appreciation of their service.
+  And in this great silence, as we are gathered most dramatically as 
+this assembly at the people's House, may Republicans and Democrats be 
+mindful of the rare companionship they share, men and women who have 
+taken very public responsibility for our country, that carries so many 
+burdens and, today, the reminder, shared danger.
+  May this day be characterized by kindness, goodwill, and compassion 
+one to another.
+  God, bless America, and may all that is done this day be for Your 
+greater honor and glory.
+  Amen.
+
+                          ____________________
+```
