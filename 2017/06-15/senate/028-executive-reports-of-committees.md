@@ -1,0 +1,39 @@
+---
+granule: CRECB-2017-pt7-Pg9355
+date: 2017-06-15
+edition: CRECB
+section: SENATE
+page: 9355
+---
+
+# EXECUTIVE REPORTS OF COMMITTEES
+
+```
+                    EXECUTIVE REPORTS OF COMMITTEES
+
+  The following executive reports of nominations were submitted:
+
+       By Mr. BARRASSO for the Committee on Environment and Public 
+     Works.
+       *Kristine L. Svinicki, of Virginia, to be a Member of the 
+     Nuclear Regulatory Commission for the term of five years 
+     expiring June 30, 2022.
+       By Mr. GRASSLEY for the Committee on the Judiciary.
+       David C. Nye, of Idaho, to be United States District Judge 
+     for the District of Idaho.
+       Scott L. Palk, of Oklahoma, to be United States District 
+     Judge for the Western District of Oklahoma.
+       Vishal J. Amin, of Michigan, to be Intellectual Property 
+     Enforcement Coordinator, Executive Office of the President.
+       Lee Francis Cissna, of Maryland, to be Director of United 
+     States Citizenship and Immigration Services, Department of 
+     Homeland Security.
+
+  *Nomination was reported with recommendation that it be confirmed 
+subject to the nominee's commitment to respond to requests to appear 
+and testify before any duly constituted committee of the Senate.
+  (Nominations without an asterisk were reported with the 
+recommendation that they be confirmed.)
+
+                          ____________________
+```

@@ -1,0 +1,53 @@
+---
+granule: CRECB-2017-pt7-Pg9327-2
+date: 2017-06-15
+edition: CRECB
+section: SENATE
+page: 9327
+---
+
+# EXECUTIVE SESSION
+
+```
+                           EXECUTIVE SESSION
+
+                                 ______
+                                 
+
+                           EXECUTIVE CALENDAR
+
+  Mr. McCONNELL. Madam President, I move to proceed to executive 
+session to consider Calendar No. 94.
+  The PRESIDING OFFICER. The question is on agreeing to the motion.
+  The motion was agreed to.
+  The PRESIDING OFFICER. The clerk will report the nomination.
+  The senior assistant legislative clerk read the nomination of Sigal 
+Mandelker, of New York, to be Under Secretary for Terrorism and 
+Financial Crimes.
+
+
+                             Cloture Motion
+
+  Mr. McCONNELL. Madam President, I send a cloture motion to the desk.
+  The PRESIDING OFFICER. The cloture motion having been presented
+
+[[Page 9328]]
+
+under rule XXII, the Chair directs the clerk to read the motion.
+  The senior assistant legislative clerk read as follows:
+
+                             Cloture Motion
+
+       We, the undersigned Senators, in accordance with the 
+     provisions of rule XXII of the Standing Rules of the Senate, 
+     do hereby move to bring to a close debate on the nomination 
+     of Sigal Mandelker, of New York, to be Under Secretary for 
+     Terrorism and Financial Crimes.
+         Mitch McConnell, Roger F. Wicker, John Thune, Mike 
+           Rounds, Tim Scott, John Hoeven, Pat Roberts, Orrin G. 
+           Hatch, Tom Cotton, Thom Tillis, Michael B. Enzi, John 
+           Boozman, James M. Inhofe, John Cornyn, James Lankford, 
+           Cory Gardner, John Barrasso.
+
+                          ____________________
+```
