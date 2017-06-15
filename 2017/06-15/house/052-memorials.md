@@ -1,0 +1,58 @@
+---
+granule: CREC-2017-06-15-pt1-PgH4938
+date: 2017-06-15
+edition: CREC
+section: HOUSE
+page: H4938
+citation: 163 Cong. Rec. H4938
+---
+
+# MEMORIALS
+
+**Measures:** S.J.Res. 1, S.J.Res. 4, S.J.Res. 5, S.J.Res. 8, S.J.Res. 12, S.J.Res. 13
+
+```
+                               MEMORIALS
+
+  Under clause 3 of rule XII, memorials were presented and referred as 
+follows:
+
+       62. The SPEAKER presented a memorial of the Legislature of 
+     the State of Nevada, relative to Senate Joint Resolution No. 
+     8, urging Congress not to repeal the Patient Protection and 
+     Affordable Care Act or its most important provisions; to the 
+     Committee on Energy and Commerce.
+       63. Also, a memorial of the Legislature of the State of 
+     Nevada, relative to Senate Joint Resolution No. 12, 
+     rescinding Senate Joint Resolution No. 1 of the 78th Session 
+     of the Nevada Legislature and expressing support for the 
+     retention of federal management and control of federal public 
+     lands in this State; to the Committee on Natural Resources.
+       64. Also, a memorial of the Legislature of the State of 
+     Nevada, relative to Senate Joint Resolution No. 13, 
+     expressing the support of the Nevada Legislature for certain 
+     recommendations relating to the conservation of wildlife in 
+     this State; to the Committee on Natural Resources.
+       65. Also, a memorial of the Legislature of the State of 
+     Nevada, relative to Senate Joint Resolution No. 5, urging 
+     Congress to enact the Marketplace Fairness Act; to the 
+     Committee on the Judiciary.
+       66. Also, a memorial of the Legislature of the State of 
+     Nevada, relative to Senate Joint Resolution No. 4, urging 
+     Congress to propose an amendment to the United States 
+     Constitution to allow the governments of the United States to 
+     regulate and limit political contributions and expenditures 
+     to protect the integrity of elections and the equal right of 
+     all Americans to effective representation; to the Committee 
+     on the Judiciary.
+       67. Also, a memorial of the General Assembly of the State 
+     of New Jersey, relative to Assembly Resolution No. 219, 
+     urging relevant federal and State authorities to investigate 
+     actions taken by Argentina's state-owned oil company, YPF 
+     S.A., to discharge its Superfund obligations in New Jersey 
+     through federal bankruptcy proceedings; jointly to the 
+     Committees on the Judiciary, Financial Services, and Energy 
+     and Commerce.
+
+                          ____________________
+```

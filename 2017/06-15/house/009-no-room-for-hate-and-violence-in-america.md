@@ -1,0 +1,58 @@
+---
+granule: CREC-2017-06-15-pt1-PgH4921-2
+date: 2017-06-15
+edition: CREC
+section: HOUSE
+page: H4921
+citation: 163 Cong. Rec. H4921
+---
+
+# NO ROOM FOR HATE AND VIOLENCE IN AMERICA
+
+**Speaking:** Lewis, John (L000287) [D-GA]
+
+```
+                NO ROOM FOR HATE AND VIOLENCE IN AMERICA
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Georgia (Mr. Lewis) for 5 minutes.
+  Mr. LEWIS of Georgia. Mr. Speaker, I rise today with the heaviest of 
+hearts.
+  Mr. Speaker, I want to be crystal clear that there is not any room in 
+our society for hate. There is no room for violence. Whatever we do and 
+wherever we may stand, we must act in a peaceful, orderly, and 
+nonviolent fashion.
+  We must understand that we are one people--the American people; we 
+are one family--the American family; and we live in the same house--the 
+American house.
+  Mr. Speaker, we must teach all of our people to respect the dignity 
+and the worth of every human being. We must be the headlights, not the 
+taillights, in loving and cherishing our brothers and sisters. We are 
+brothers and sisters.
+  We must understand that our foremothers and our forefathers came to 
+this great Nation in different ships, but we are all in the same boat 
+now.
+  As Dr. Martin Luther King, Jr. once said:
+
+       We must all learn to live together as brothers and sisters; 
+     if not, we will perish as fools.
+
+  Yesterday, was a difficult and dark day. There was so much pain and 
+suffering for so many people--for our fellow Members, for our families, 
+and for our staffs. It shook the Congress and our Nation to its core. 
+I, too, was in shock. My heart and my soul ached for those who were 
+attacked and for those who witnessed the violence.
+  Again, Mr. Speaker, I would like to express my love and my feelings 
+for all of our colleagues, our friends, our staffs, the officers, and 
+their families.
+
+[[Page H4922]]
+
+In each and every moment, my thoughts and prayers have been with all of 
+the victims and their families as they begin the long road to healing 
+and recovery. They must understand that we are with them.
+  We are with you. You are not alone. We love you, and we are praying 
+for your safety and recovery.
+
+                          ____________________
+```
