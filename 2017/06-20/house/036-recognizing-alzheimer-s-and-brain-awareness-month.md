@@ -1,0 +1,43 @@
+---
+granule: CREC-2017-06-20-pt1-PgH4984-3
+date: 2017-06-20
+edition: CREC
+section: HOUSE
+page: H4984
+citation: 163 Cong. Rec. H4984
+---
+
+# RECOGNIZING ALZHEIMER'S AND BRAIN AWARENESS MONTH
+
+**Speaking:** Paulsen, Erik (P000594) [R-MN]
+
+```
+           RECOGNIZING ALZHEIMER'S AND BRAIN AWARENESS MONTH
+
+  (Mr. PAULSEN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PAULSEN. Mr. Speaker, I rise today to recognize Alzheimer's and 
+Brain Awareness Month. Alzheimer's is
+
+[[Page H4985]]
+
+the sixth-leading cause of death in the United States, and more than 5 
+million Americans are currently living with it. Every 66 seconds, 
+someone in the United States cultivates the disease.
+  This disease is not only deadly, but it is also costly. Alzheimer's, 
+as well as other forms of dementia, cost the Nation roughly $259 
+billion annually.
+  Our communities are stepping up. Last year, I joined the Walk 2 End 
+Alzheimer's event at Target Field, where more than 12,000 people turned 
+out for the cause. It is this passion that has led to initiatives like 
+the Alzheimer's Breakthrough Act, of which I am a cosponsor. This is an 
+important step in finding a cure through the forming of public-private 
+partnerships to pursue different and new research opportunities.
+  Mr. Speaker, we are at a reflection point--an important reflection 
+point for Alzheimer's research. The more commitment we put forward, the 
+more progress that we will make in finding a cure. While we have made 
+significant progress, we will not be satisfied until a cure has been 
+found.
+
+                          ____________________
+```

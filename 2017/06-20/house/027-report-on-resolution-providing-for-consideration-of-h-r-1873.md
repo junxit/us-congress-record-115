@@ -1,0 +1,35 @@
+---
+granule: CREC-2017-06-20-pt1-PgH4978
+date: 2017-06-20
+edition: CREC
+section: HOUSE
+page: H4978
+citation: 163 Cong. Rec. H4978
+---
+
+# REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 1873, ELECTRICITY RELIABILITY AND FOREST PROTECTION ACT, AND PROVIDING FOR CONSIDERATION OF H.R. 1654, WATER SUPPLY PERMITTING COORDINATION ACT
+
+**Measures:** H.Res. 392, H.R. 1654, H.R. 1873
+
+```
+    REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 1873, 
+ ELECTRICITY RELIABILITY AND FOREST PROTECTION ACT, AND PROVIDING FOR 
+  CONSIDERATION OF H.R. 1654, WATER SUPPLY PERMITTING COORDINATION ACT
+
+  Mr. NEWHOUSE, from the Committee on Rules, submitted a privileged 
+report (Rept. No. 115-186) on the resolution (H. Res. 392) providing 
+for consideration of the bill (H.R. 1873) to amend the Federal Land 
+Policy and Management Act of 1976 to enhance the reliability of the 
+electricity grid and reduce the threat of wildfires to and from 
+electric transmission and distribution facilities on Federal lands by 
+facilitating vegetation management on such lands, and providing for 
+consideration of the bill (H.R. 1654) to authorize the Secretary of the 
+Interior to coordinate Federal and State permitting processes related 
+to the construction of new surface water storage projects on lands 
+under the jurisdiction of the Secretary of the Interior and the 
+Secretary of Agriculture and to designate the Bureau of Reclamation as 
+the lead agency for permit processing, and for other purposes, which 
+was referred to the House Calendar and ordered to be printed.
+
+                          ____________________
+```

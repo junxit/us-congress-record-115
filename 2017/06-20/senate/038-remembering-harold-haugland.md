@@ -1,0 +1,58 @@
+---
+granule: CREC-2017-06-20-pt1-PgS3645-2
+date: 2017-06-20
+edition: CREC
+section: SENATE
+page: S3645
+citation: 163 Cong. Rec. S3645
+---
+
+# REMEMBERING HAROLD HAUGLAND
+
+**Speaking:** Tester, Jon (T000464) [D-MT]
+
+```
+                      REMEMBERING HAROLD HAUGLAND
+
+● Mr. TESTER. Mr. President, today I wish to honor the life and 
+legacy of a brave Montanan and American, Harold Haugland.
+  Harold's story begins in Glendive, MT, where he was born in 1928 to 
+Peter and Alma Haugland. Harold and his family were well known in the 
+community for their compassionate hearts and unrelenting work ethic. 
+Harold took these Montana values to the U.S. Army in 1949, where he 
+quickly became a highly decorated soldier, receiving a number of medals 
+and citations.
+  In late November 1950, Harold joined the Company D, 15th antiaircraft 
+Artillery Battalion, 7th Infantry Division.
+  Two thousand five hundred U.S. and 700 South Korean soldiers were 
+deployed east of the Chosin Reservoir in North Korea when they were 
+engaged by an overwhelming number of Chinese forces. By early December, 
+the U.S. Army evacuated approximately 1,500 wounded servicemembers; the 
+remaining soldiers had been either captured or killed in enemy 
+territory.
+  Because Harold could not be accounted for by his unit at the end of 
+the battle, he was reported missing in action as of December 2, 1950. 
+Harold's name did not appear on any prisoner of war lists, and no 
+returning soldiers reported him as a prisoner of war. The U.S. Army 
+declared him deceased as of December 31, 1953.
+  In 1954, a number of remains were recovered from north of the Korean 
+Demilitarized Zone. However, Harold's remains were not included and he 
+was declared nonrecoverable. After his death, Harold was awarded the 
+Distinguished Service Cross for his heroism and leadership.
+  During a joint recovery operation in 2004, Harold's remains were 
+found in a mass grave on the eastern bank of the Chosin Reservoir in 
+North Korea. Thanks to recent technological advancements in forensic 
+science, the U.S. Department of Defense positively identified one of 
+the individuals as Harold Haugland. After nearly 66 years, an American 
+hero has been brought home to Montana for a full and proper military 
+burial.
+  Harold represents the very best that this Nation has to offer with 
+his profound bravery and dedication to service. Like many before him 
+and after him, Harold paid the ultimate sacrifice to protect the 
+freedoms that make the United States the greatest Nation in the world.
+  To Harold and his family, on behalf of myself, Montana, and a 
+grateful nation, I extend our deepest thanks for Harold's service, 
+sacrifice, and valor.●
+
+                          ____________________
+```
