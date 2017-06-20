@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt7-Pg9523-4
+date: 2017-06-20
+edition: CRECB
+section: HOUSE
+page: 9523
+---
+
+# RECOGNIZING THE ST. PETE PRIDE PARADE
+
+```
+                 RECOGNIZING THE ST. PETE PRIDE PARADE
+
+  (Mr. CRIST asked and was given permission to address the House for 1 
+minute.)
+  Mr. CRIST. Mr. Speaker, I rise today to recognize the St. Pete Pride 
+Parade for the significance to Pinellas County, Florida, and our LGBTQ 
+community.
+  Every June, for the past 15 years, the St. Pete Pride Parade has 
+brightened the streets of my hometown, leaving joy, love, and equality 
+in its wake. It has become one of the largest pride celebrations in the 
+country, hosting over 200,000 attendees last year alone; all possible, 
+thanks to our large, diverse LGBTQ community and city leadership that 
+understands this community as a source of our strength.
+  As we mark 1 year since the 49 souls were taken from us at the Pulse 
+Nightclub in Orlando, this pride is much more than a celebration. It is 
+a vibrant act of strength for a community that has endured persecution 
+simply for being who they are and who they love.
+  As St. Pete looks forward to the celebration this weekend, I wish the 
+community happy pride. Be loud and be proud because we are proud of 
+you.
+
+                          ____________________
+```
