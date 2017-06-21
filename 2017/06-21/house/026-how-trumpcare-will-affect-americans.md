@@ -1,0 +1,42 @@
+---
+granule: CRECB-2017-pt7-Pg9556-3
+date: 2017-06-21
+edition: CRECB
+section: HOUSE
+page: 9556
+---
+
+# HOW TRUMPCARE WILL AFFECT AMERICANS
+
+```
+                  HOW TRUMPCARE WILL AFFECT AMERICANS
+
+  (Mrs. BUSTOS asked and was given permission to address the House for 
+1 minute.)
+  Mrs. BUSTOS. Mr. Speaker, I worked in healthcare for a decade. I have 
+seen up close how healthcare impacts families. That is why I began a 
+short video series that we call ``Hear from the Heartland''. In this, I 
+listen to families about how TrumpCare would affect them.
+  I have spoken most recently with a woman named Anastasia. She has a 
+little boy named Gryphon. They are from a town called Elizabeth, 
+Illinois, just a small town.
+  Gryphon was born with cerebral palsy, and because of TrumpCare, 
+Gryphon's family might not have anywhere to turn for affordable 
+coverage and would be at risk of reaching their lifetime limits on 
+their insurance.
+  Anastasia said it best when she said that her son's preexisting 
+condition was simply being born.
+  Whether it is at a grocery store or small business, I hear it: people 
+talking about their grave concerns about TrumpCare and what it would do 
+to them.
+  I want us to work together on healthcare and make sure that we focus 
+on lowering the costs for American families, but, instead, take a look 
+at this. TrumpCare would raise costs, it would rip health insurance 
+away from 23 million Americans, and it is so bad that, in the Senate, 
+they are hiding their bill away. That is not what we were elected to 
+do.
+  I want to work with my colleagues to improve the healthcare that we 
+deliver to American families.
+
+                          ____________________
+```
