@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-06-21-pt1-PgH5002-9
+date: 2017-06-21
+edition: CREC
+section: HOUSE
+page: H5002
+citation: 163 Cong. Rec. H5002
+---
+
+# HONORING SAILORS LOST AT SEA
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                      HONORING SAILORS LOST AT SEA
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, the USS Fitzgerald 
+collided with a cargo vessel in the Sea of Japan on Saturday, resulting 
+in the loss of life of seven patriotic sailors. Each of the deceased 
+sailors was dedicated in the service to their Nation and exemplified 
+the U.S. Navy's motto, ``Not for self but for country.''
+
+[[Page H5003]]
+
+  As the grateful father of an orthopedic surgeon currently serving in 
+the United States Navy, the sailors and their families are in my 
+thoughts and prayers.
+  May we never forget these sailors: Shingo Douglass, 25, of 
+California; Noe Hernandez, 26, of Texas; Ngoc Huynh, 25, of 
+Connecticut; Xavier Martin, 24, of Maryland; Gary Rehm, Jr., 37, of 
+Ohio; Dakota Rigsby, 19, of Virginia; Carlos Sibayan, 23, of 
+California.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism.
+  Our sympathy to the family of former State Representative Skipper 
+Perry of Aiken, South Carolina, Aiken Chamber of Commerce ``Man of the 
+Year.''
+
+                          ____________________
+```

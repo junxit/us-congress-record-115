@@ -1,0 +1,45 @@
+---
+granule: CREC-2017-06-21-pt1-PgH5003-2
+date: 2017-06-21
+edition: CREC
+section: HOUSE
+page: H5003
+citation: 163 Cong. Rec. H5003
+---
+
+# REMOTE AREA MEDICAL
+
+**Speaking:** Duncan, John J., Jr. (D000533) [R-TN]
+
+**Measures:** H.R. 860
+
+```
+                          REMOTE AREA MEDICAL
+
+  (Mr. DUNCAN of Tennessee asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. DUNCAN of Tennessee. Mr. Speaker, this morning I met, once again, 
+with representatives from Remote Area Medical, its founder and 
+president, Stan Brock, and its leaders, Jeff Eastman and Anabel Evora.
+  Remote Area Medical, also known as RAM, is an organization that helps 
+medical professionals volunteer their services to our Nation's 
+neediest.
+  Over its 32 years, RAM has provided free healthcare to almost 1 
+million people over the course of 862 weekend events so far. Their 
+largest clinic was in Los Angeles, where over 7,000 people showed up to 
+receive free dental care, eyeglasses, women's health services, and 
+other free medical services.
+  Unfortunately, only 12 States currently allow RAM to host these free 
+clinics with volunteer medical professionals from all over the country. 
+That is why I introduced H.R. 860, the HEALTHIER Act, so that people 
+nationwide can have access to free healthcare clinics like RAM's.
+  RAM is willing to provide these free healthcare services to several 
+million more people across the Nation if only we will allow them to do 
+so.
+  Mr. Speaker, I commend Stan, Anabel, Jeff, and all the others who 
+work with RAM for their great work, and I urge my colleagues to help to 
+support my bill, the HEALTHIER Act, to help many more people receive 
+free medical care.
+
+                          ____________________
+```

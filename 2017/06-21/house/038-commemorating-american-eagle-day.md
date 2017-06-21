@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-06-21-pt1-PgH5005-2
+date: 2017-06-21
+edition: CREC
+section: HOUSE
+page: H5005
+citation: 163 Cong. Rec. H5005
+---
+
+# COMMEMORATING AMERICAN EAGLE DAY
+
+**Speaking:** Roe, David P. (R000582) [R-TN]
+
+```
+                    COMMEMORATING AMERICAN EAGLE DAY
+
+  (Mr. ROE of Tennessee asked and was given permission to address the 
+House for 1 minute.)
+  Mr. ROE of Tennessee. Mr. Speaker, I am proud once again to rise and 
+join in commemorating June 20, 2017, as American Eagle Day and to 
+celebrate the recovery and restoration of the bald eagle, the national 
+symbol of the United States.
+  On June 20, 1782, the eagle was designated as the national symbol of 
+the U.S. by the Founding Fathers at the Second Continental Congress. 
+The bald eagle is the central image of the Great Seal of the United 
+States and is displayed in the official seal of many branches and 
+departments of the Federal Government.
+  The bald eagle is an inspiring symbol of freedom and the democracy of 
+the United States. Since the founding of the Nation, the image, 
+meaning, and symbolism of the eagle have played a significant role in 
+art, music, history, commerce, literature, architecture, and culture of 
+the United States.
+  The bald eagle's habitat exists only in North America. I hope my 
+colleagues will join me in celebrating June 20, 2017, as American Eagle 
+Day, which marks the recovery and restoration of the bald eagle.
+
+                          ____________________
+```
