@@ -1,0 +1,42 @@
+---
+granule: CRECB-2017-pt7-Pg9701-2
+date: 2017-06-22
+edition: CRECB
+section: SENATE
+page: 9701
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED
+
+[[Page 9702]]
+
+     WHILE ASSIGNED TO A POSITION OF IMPORTANCE AND RESPONSIBILITY 
+     UNDER TITLE 10, U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+LT. GEN. WILLIAM C. MAYVILLE, JR.
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601 AND FOR APPOINTMENT AS A SENIOR MEMBER OF 
+     THE MILITARY STAFF COMMITTEE OF THE UNITED NATIONS UNDER 
+     TITLE 10, U.S.C., SECTION 711:
+
+                        To be lieutenant general
+
+MAJ. GEN. RICHARD D. CLARKE
+
+                          ____________________
+```

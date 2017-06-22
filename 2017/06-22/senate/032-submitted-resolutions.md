@@ -1,0 +1,52 @@
+---
+granule: CRECB-2017-pt7-Pg9697
+date: 2017-06-22
+edition: CRECB
+section: SENATE
+page: 9697
+---
+
+# SUBMITTED RESOLUTIONS
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+   SENATE RESOLUTION 199--DESIGNATING JUNE 2017 AS ``GREAT OUTDOORS 
+                                MONTH''
+
+  Mr. DAINES (for himself, Mr. Peters, Mr. Gardner, Mrs. Shaheen, Mr. 
+Risch, Mr. Heinrich, and Ms. Hirono) submitted the following 
+resolution; which was referred to the Committee on the Judiciary:
+  Mr. DAINES. Mr. President, I ask unanimous consent that the text of 
+the resolution be printed in the Record.
+  There being no objection, the text of the resolution was ordered to 
+be printed in the Record, as follows:
+
+                              S. Res. 199
+
+       Whereas hundreds of millions of people in the United States 
+     participate in outdoor recreation annually;
+       Whereas Congress enacted the Outdoor Recreation Jobs and 
+     Economic Impact Act of 2016 (Public Law 114-249; 130 Stat. 
+     999) to assess and analyze the outdoor recreation economy of 
+     the United States and the effects attributable to the outdoor 
+     recreation economy on the overall economy of the United 
+     States;
+       Whereas regular outdoor recreation is associated with 
+     positive health outcomes and better quality of life;
+       Whereas outdoor recreation is part of the national heritage 
+     of the United States; and
+       Whereas June 2017 is an appropriate month to designate as 
+     ``Great Outdoors Month'' to provide an opportunity to 
+     celebrate the importance of the great outdoors: Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) designates June 2017 as ``Great Outdoors Month''; and
+       (2) encourages all people of the United States to recreate 
+     in the great outdoors in June 2017 and year-round.
+
+                          ____________________
+```

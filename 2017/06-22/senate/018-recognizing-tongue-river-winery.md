@@ -1,0 +1,40 @@
+---
+granule: CRECB-2017-pt7-Pg9691-3
+date: 2017-06-22
+edition: CRECB
+section: SENATE
+page: 9691
+---
+
+# RECOGNIZING TONGUE RIVER WINERY
+
+```
+                    RECOGNIZING TONGUE RIVER WINERY
+
+● Mr. DAINES. Mr. President, this week I have the distinct honor 
+of recognizing the team at the Tongue River Winery, in Custer County, 
+for having the skill, patience, and dedication required to produce 
+quality wines on the high plains of eastern Montana. Despite a 
+difficult growing climate, this humble, family-run operation has 
+successfully combined vineyard and winery functions and has received 
+numerous awards and recognition for their efforts.
+  The married couple of Bob and Marilyn Thaden, along with their son 
+Josh, are the team that makes the Tongue River Winery successful; 2017 
+marks the fifth consecutive year that the Tongue River Winery has won 
+the Granite Peak Award. This award is presented to the top Montana 
+winery at the Northwest Wine Summit.
+  For Bob, this year marks his 50th anniversary making wine. It has 
+also been about 50 years since he met his wife, Marilyn, so it comes as 
+no surprise that, when asked about winemaking, he compares the process 
+of selecting good grapes to courtship. Bob reflected, ``it's like 
+courtship, plant the wrong one and you will regret it for a long time; 
+take your time, choose carefully, so not to be disappointed later on.'' 
+Bob has selected wisely in both endeavors. His advice on being 
+thoughtful and patient can be applied to many other areas of life.
+  In the years ahead, I wish Bob, Marilyn, and Josh all the best as 
+they continue to cultivate and create uniquely Montana wines. For their 
+efforts, I raise my glass to the team at the Tongue River 
+Winery.●
+
+                          ____________________
+```
