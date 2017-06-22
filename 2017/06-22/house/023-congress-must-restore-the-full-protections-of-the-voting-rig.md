@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-06-22-pt1-PgH5056-6
+date: 2017-06-22
+edition: CREC
+section: HOUSE
+page: H5056
+citation: 163 Cong. Rec. H5056
+---
+
+# CONGRESS MUST RESTORE THE FULL PROTECTIONS OF THE VOTING RIGHTS ACT NOW
+
+**Speaking:** Brown, Anthony G. (B001304) [D-MD]
+
+```
+CONGRESS MUST RESTORE THE FULL PROTECTIONS OF THE VOTING RIGHTS ACT NOW
+
+  (Mr. BROWN of Maryland asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. BROWN of Maryland. Mr. Speaker, last year's Presidential election 
+was the first in 50 years without the full protections of the Voting 
+Rights Act. What was the result?
+  Fourteen States had new voting restrictions, including strict voter 
+ID, cuts to same-day registration and early voting, and fewer polling 
+places. This suppressed the vote, particularly among voters of color 
+and in poor communities, and had a major impact in close races in North 
+Carolina, Virginia, and Florida, according to the Brennan Center for 
+Justice.
+  The Voting Rights Act once enjoyed bipartisan support, and Congress 
+should, once again, come together to modernize the law and respond to 
+the Supreme Court's objections. Yet despite calls to pass legislation 
+for the past 4 years, nothing has happened.
+  Voting is a right, not a privilege, and there is no debating that 
+point.
+  The Founders in Philadelphia, women at Seneca Falls, and marchers in 
+Selma all recognized the power of the vote. When we protect the rights 
+of voters to make their choices, whatever they may be, we do our part 
+to build a more perfect union.
+  We can't wait for the next election. Congress must restore the full 
+protections of the Voting Rights Act now.
+
+                          ____________________
+```

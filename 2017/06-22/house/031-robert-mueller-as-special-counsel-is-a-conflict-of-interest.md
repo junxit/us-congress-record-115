@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-06-22-pt1-PgH5058
+date: 2017-06-22
+edition: CREC
+section: HOUSE
+page: H5058
+citation: 163 Cong. Rec. H5058
+---
+
+# ROBERT MUELLER AS SPECIAL COUNSEL IS A CONFLICT OF INTEREST
+
+**Speaking:** Duncan, John J., Jr. (D000533) [R-TN]
+
+```
+      ROBERT MUELLER AS SPECIAL COUNSEL IS A CONFLICT OF INTEREST
+
+  (Mr. DUNCAN of Tennessee asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. DUNCAN of Tennessee. Mr. Speaker, for 7\1/2\ years before coming 
+to Congress, I was a judge in Tennessee trying felony criminal cases. I 
+tried the attempted murder of James Earl Ray and many other high-
+profile cases.
+  Robert Mueller, with his close relationship with James Comey, should 
+never have been appointed as special prosecutor in a case in which Mr. 
+Comey is such a central player. Mr. Mueller should never have accepted 
+such an appointment when offered. That would have been the honorable 
+thing to do.
+  Then, to make matters much worse, he has hired several lawyers who 
+are big contributors to and are active campaigners for Hillary Clinton 
+and other Democrats.
+  Most people believe there are many conflicts of interest here. There 
+are hundreds of thousands of lawyers who could have been hired who had 
+not been involved in any way for either the President or Mrs. Clinton.
+  This investigation has been tainted, and any action now will look 
+like a partisan witch hunt. Former Speaker Gingrich said what we now 
+need is a special counsel to investigate the special counsel.
+
+                          ____________________
+```

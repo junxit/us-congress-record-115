@@ -1,0 +1,44 @@
+---
+granule: CREC-2017-06-22-pt1-PgH5057-6
+date: 2017-06-22
+edition: CREC
+section: HOUSE
+page: H5057
+citation: 163 Cong. Rec. H5057
+---
+
+# CONGRATULATIONS TO ALZHEIMER'S DISEASE ADVOCATE JEANNIE CASTELLS
+
+**Speaking:** Lance, Leonard (L000567) [R-NJ]
+
+```
+    CONGRATULATIONS TO ALZHEIMER'S DISEASE ADVOCATE JEANNIE CASTELLS
+
+  (Mr. LANCE asked and was given permission to address the House for 1 
+minute.)
+  Mr. LANCE. Mr. Speaker, I rise today to celebrate the tireless 
+dedication of one of New Jersey's greatest Alzheimer's awareness 
+advocates, Jeannie Castells of Lambertville, Hunterdon County.
+  Jeannie has served as a congressional ambassador for the Alzheimer's 
+Association since 2014, meeting with Members of Congress here on 
+Capitol Hill, holding educational events in which I have participated 
+in Congressional District Seven, and organizing fundraisers like the 
+Walk to End Alzheimer's.
+  Unfortunately, Jeannie's advocacy does not come without tragedy 
+because the disease has claimed the lives of both her mother and her 
+husband.
+  And Jeannie's family is not alone, Mr. Speaker. Alzheimer's is the 
+Nation's sixth leading cause of death. More than 5 million Americans 
+are currently living with Alzheimer's, and as many as 16 million 
+Americans are estimated to have Alzheimer's by 2050.
+  That is why in June, Alzheimer's Awareness Month, I urge advocates 
+around the country, like Jeannie, to continue to fight for Alzheimer's 
+research funding. We are on the verge of a breakthrough, and with your 
+help, we will certainly find one.
+
+[[Page H5058]]
+
+  
+
+                          ____________________
+```
