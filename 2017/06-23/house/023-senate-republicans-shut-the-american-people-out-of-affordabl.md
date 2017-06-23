@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt7-Pg9798
+date: 2017-06-23
+edition: CRECB
+section: HOUSE
+page: 9798
+---
+
+# SENATE REPUBLICANS SHUT THE AMERICAN PEOPLE OUT OF AFFORDABLE HEALTHCARE
+
+```
+                              {time}  1115
+     SENATE REPUBLICANS SHUT THE AMERICAN PEOPLE OUT OF AFFORDABLE 
+                               HEALTHCARE
+
+  (Mr. CARBAJAL asked and was given permission to address the House for 
+1 minute.)
+  Mr. CARBAJAL. Mr. Speaker, I rise today in strong opposition to the 
+recently unveiled Senate healthcare repeal legislation. The Republicans 
+have shut the American public out of their debate and, with this bill, 
+they aim to shut them out of affordable healthcare, too.
+  This bill sets us on a dangerous path backwards, back to a time when 
+cancer patients could be kept out of coverage or kicked off of their 
+insurance because the cost of their care was too high, and to a time 
+where pregnancy could be considered a preexisting condition.
+  Congress must work collaboratively to bring down insurance premium 
+costs and work together toward insuring every American, but denying 
+millions of people access to insurance by repealing protections for 
+individuals with preexisting conditions, gutting Medicaid, and 
+threatening the solvency of the Medicare trust fund all in order to 
+give the wealthiest Americans a tax cut is wrong.
+  I urge my colleagues in the Senate to reject this misguided proposal.
+
+                          ____________________
+```

@@ -1,0 +1,41 @@
+---
+granule: CRECB-2017-pt7-Pg9798-2
+date: 2017-06-23
+edition: CRECB
+section: HOUSE
+page: 9798
+---
+
+# UNSEAL RECORDS INTO AGENT BRIAN TERRY'S DEATH
+
+```
+             UNSEAL RECORDS INTO AGENT BRIAN TERRY'S DEATH
+
+  (Mr. BIGGS asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BIGGS. Mr. Speaker, in December 2010, U.S. Border Patrol Agent 
+Brian Terry was killed with a gun that was traced back to the 
+Department of Justice's Operation Fast and Furious. His family awaits 
+answers.
+  Agent Terry's family recently testified before the House Oversight 
+and Government Reform Committee that the Obama administration 
+continually denied all efforts to release any additional information 
+about his death. They are now calling on President Trump to finally 
+unseal the records and expose the dirty secrets behind this tragic 
+scandal.
+  It is shameful that the Trump administration has been repeatedly 
+accused of collusion and coverups based on unsourced rumors, while 
+little attention was given to the Obama administration's blatant 
+efforts to cover up the truth into Agent Terry's murder.
+  Under Operation Fast and Furious, roughly 2,000 firearms were 
+purposely sold to criminals, which were later smuggled into Mexico, and 
+have been linked to multiple homicides.
+  The Obama administration stonewalled Congress, investigators, and 
+Americans for years and, to this day, refuse to take responsibility for 
+their mistake.
+  It is time for the truth. We have an opportunity to return 
+transparency and trust to our government, and I fully support the Terry 
+family's request for the records to be unsealed.
+
+                          ____________________
+```
