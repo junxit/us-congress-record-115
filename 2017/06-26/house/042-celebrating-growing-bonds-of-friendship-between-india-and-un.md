@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-06-26-pt1-PgH5168
+date: 2017-06-26
+edition: CREC
+section: HOUSE
+page: H5168
+citation: 163 Cong. Rec. H5168
+---
+
+# CELEBRATING GROWING BONDS OF FRIENDSHIP BETWEEN INDIA AND UNITED STATES
+
+**Speaking:** Krishnamoorthi, Raja (K000391) [D-IL]
+
+```
+CELEBRATING GROWING BONDS OF FRIENDSHIP BETWEEN INDIA AND UNITED STATES
+
+  (Mr. KRISHNAMOORTHI asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. KRISHNAMOORTHI. Mr. Speaker, Prime Minister Modi's visit this 
+week serves as an occasion to celebrate the growing bonds of friendship 
+between India and the United States.
+  India is a key partner for the United States and Asia. Both our 
+economic and strategic posture in the region are strengthened by 
+investing in the bilateral relationship between the world's two largest 
+democracies.
+  India and the United States have pledged to collaborate on energy 
+security, combating climate change, and growing the green economy--
+opportunities that will create jobs in both countries.
+  This visit is an opportunity to celebrate the work our countries have 
+accomplished and all that we can do together in the future. I am happy 
+that we are continuing to build on this nearly 70-year-old partnership 
+and are laying the groundwork for an even stronger relationship in the 
+decades to come.
+
+                          ____________________
+```

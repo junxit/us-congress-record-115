@@ -1,0 +1,43 @@
+---
+granule: CREC-2017-06-26-pt1-PgH5142-6
+date: 2017-06-26
+edition: CREC
+section: HOUSE
+page: H5142
+citation: 163 Cong. Rec. H5142
+---
+
+# CELEBRATING NATIONAL HOMEOWNERSHIP MONTH
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                CELEBRATING NATIONAL HOMEOWNERSHIP MONTH
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, June is National 
+Homeownership Month, and it is a time when we celebrate and recognize 
+the many benefits of owning a home.
+  For generations of Americans, owning a home has been an essential 
+element in achieving the American Dream. But since the Great Recession, 
+we have seen homeownership rates drop to historic lows.
+  Young families often find themselves unable to save for a downpayment 
+or to gain access to adequate credit. This is especially true for those 
+in rural areas.
+  The United States Department of Agriculture places emphasis on 
+helping rural Americans buy homes. USDA provides mortgage loan 
+guarantees through partnerships with private sector lenders to help 
+low- to moderate-income rural home buyers.
+  In 2016 alone, USDA worked with nearly 1,500 lenders to help 116,000 
+rural individuals and families buy homes. USDA has helped more than 4.1 
+million rural residents buy a home since the National Housing Act was 
+passed 68 years ago.
+  Mr. Speaker, the benefits of homeownership have widespread benefits. 
+Homeownership fortifies communities, creates jobs, and strengthens the 
+local businesses that support our towns.
+  Thank you to USDA for your commitment to providing affordable housing 
+for rural Americans. Happy National Homeownership Month.
+
+                          ____________________
+```

@@ -1,0 +1,33 @@
+---
+granule: CREC-2017-06-26-pt1-PgH5169-2
+date: 2017-06-26
+edition: CREC
+section: HOUSE
+page: H5169
+citation: 163 Cong. Rec. H5169
+---
+
+# WELCOMING PRESIDENT MOON JAE-IN TO AMERICA
+
+**Speaking:** Coffman, Mike (C001077) [R-CO]
+
+```
+               WELCOMING PRESIDENT MOON JAE-IN TO AMERICA
+
+  (Mr. COFFMAN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. COFFMAN. Mr. Speaker, I rise today in welcoming President Moon 
+Jae-in of the Republic of Korea to the United States of America.
+  Next week will mark his first official visit to Washington, D.C., 
+since he assumed the Presidency of his country. This represents a 
+continuation of the friendship between our two nations.
+  This October will mark the 64th anniversary of the mutual defense 
+treaty between our two countries. This landmark legislation continues 
+to be a vital component to peace and security in the Asia-Pacific 
+region.
+  Once again, I look forward to welcoming President Moon Jae-in to the 
+United States, and I look forward to continuing our partnership with 
+the Republic of Korea.
+
+                          ____________________
+```
