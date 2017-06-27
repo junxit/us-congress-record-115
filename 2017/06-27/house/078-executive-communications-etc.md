@@ -1,0 +1,34 @@
+---
+granule: CREC-2017-06-27-pt1-PgH5230-4
+date: 2017-06-27
+edition: CREC
+section: HOUSE
+page: H5230
+citation: 163 Cong. Rec. H5230
+---
+
+# EXECUTIVE COMMUNICATIONS, ETC.
+
+```
+                     EXECUTIVE COMMUNICATIONS, ETC.
+
+   Under clause 2 of rule XIV, executive communications were taken from 
+the Speaker's table and referred as follows:
+
+       1803. A letter from the Acting Under Secretary, 
+     Acquisition, Technology, and Logistics, Department of 
+     Defense, transmitting the Department's Selected Acquisition 
+     Reports for the Chemical Demilitarization-Assembled Chemical 
+     Weapons Alternatives and Ballistic Missile Defense System 
+     programs, pursuant to 10 U.S.C. 2432(b)(1); Public Law 97-
+     252, Sec. 1107(a)(1); (96 Stat. 740); to the Committee on 
+     Armed Services.
+       1804. A letter from the Acting Assistant Secretary for 
+     Legislative Affairs, Department of Defense, transmitting an 
+     additional legislative proposal for the proposed legislation 
+     titled the ``National Defense Authorization Act for Fiscal 
+     Year 2018''; jointly to the Committees on Armed Services, 
+     Natural Resources, and the Judiciary.
+
+                          ____________________
+```

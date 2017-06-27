@@ -1,0 +1,35 @@
+---
+granule: CREC-2017-06-27-pt1-PgH5190
+date: 2017-06-27
+edition: CREC
+section: HOUSE
+page: H5190
+citation: 163 Cong. Rec. H5190
+---
+
+# HONORING JAMES WILDERMUTH
+
+**Speaking:** Walorski, Jackie (W000813) [R-IN]
+
+```
+                       HONORING JAMES WILDERMUTH
+
+  (Mrs. WALORSKI asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Mrs. WALORSKI. Mr. Speaker, I rise today to honor Indiana's Rural 
+Teacher of the Year, James Wildermuth of North Miami Community Schools.
+  Mr. Wildermuth is well deserving of this high honor awarded by the 
+Indiana Small and Rural Schools Association. He is truly an exceptional 
+Hoosier educator who has had a profound impact on student achievement 
+and who exemplifies leadership in a way that should inspire all of us.
+  In addition to his 17 years as a teacher, Mr. Wildermuth also serves 
+as a district adviser for the local Future Farmers of America program.
+  I am grateful that North Miami's students have Mr. Wildermuth as a 
+role model and a mentor, always keeping them not only engaged in the 
+lesson at hand but focused on using these lessons to succeed in life.
+  Mr. Speaker, on behalf of Second District Hoosiers, I want to thank 
+Mr. Wildermuth for all he does to educate, support, and guide his 
+students on the path to achievement and to make our community stronger.
+
+                          ____________________
+```
