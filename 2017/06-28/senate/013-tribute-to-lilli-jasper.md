@@ -1,0 +1,26 @@
+---
+granule: CRECB-2017-pt7-Pg10020-4
+date: 2017-06-28
+edition: CRECB
+section: SENATE
+page: 10020
+---
+
+# TRIBUTE TO LILLI JASPER
+
+```
+                        TRIBUTE TO LILLI JASPER
+
+● Mr. THUNE. Mr. President, today I recognize the hard work of 
+my Commerce, Science, and Transportation Committee intern Lilli Jasper. 
+Lilli hails from Sioux Falls, SD, and is a rising junior at South 
+Dakota State University.
+  While interning on the Commerce Committee, Lilli assisted the 
+Communication, Technology, Innovation, and the Internet Subcommittee. 
+She is a dedicated worker who was committed to getting the most out of 
+her internship. I extend my sincere thanks and appreciation to Lilli 
+for all of the fine work she did for the committee and wish her 
+continued success in the years to come.●
+
+                          ____________________
+```

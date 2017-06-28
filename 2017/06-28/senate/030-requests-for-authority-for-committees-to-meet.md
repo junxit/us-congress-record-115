@@ -1,0 +1,53 @@
+---
+granule: CRECB-2017-pt7-Pg10027
+date: 2017-06-28
+edition: CRECB
+section: SENATE
+page: 10027
+---
+
+# REQUESTS FOR AUTHORITY FOR COMMITTEES TO MEET
+
+```
+             REQUESTS FOR AUTHORITY FOR COMMITTEES TO MEET
+
+  Mr. McCONNELL. Mr. President, I have nine requests for committees to 
+meet during today's session of the Senate. They do not have the 
+approval of the Democratic leader for the seventh consecutive 
+legislative day, therefore, they will not be permitted to meet after 2 
+p.m. I ask unanimous consent that the list of committees requesting 
+authority to meet be printed in the Record for today's session and the 
+previous 2 days.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+       Monday, June 26, 2017.
+       Five requests for committees to meet for the following 
+     committees:
+       Subcommittee on Airland
+       Subcommittee on Cybersecurity
+       Subcommittee on Readiness and Management Support
+       Subcommittee on Seapower
+       Subcommittee on Strategic Forces
+       Tuesday, June 27, 2017.
+       Five requests for committees to meet for the following 
+     committees:
+       Committee on Armed Services
+       Committee on the Judiciary
+       Subcommittee on Emerging Treats and Capabilities
+       Subcommittee on Personnel
+       Subcommittee on Oceans, Atmosphere, Fisheries, and Coast 
+     Guard
+       Wednesday, June 28, 2017.
+       Nine requests for committees to meet for the following 
+     committees:
+       Committee on Armed Services
+       Committee on Commerce, Science, and Transportation
+       Committee on Foreign Relations
+       Committee on Homeland Security and Governmental Affairs
+       Committee on the Judiciary
+       Committee on Veterans' Affairs
+       Committee on Intelligence
+
+                          ____________________
+```
