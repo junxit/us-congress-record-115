@@ -1,0 +1,37 @@
+---
+granule: CRECB-2017-pt7-Pg10191-7
+date: 2017-06-29
+edition: CRECB
+section: HOUSE
+page: 10191
+---
+
+# CONGRATULATIONS CASSY LESTER AND ALL ART COMPETITION WINNERS
+
+```
+      CONGRATULATIONS CASSY LESTER AND ALL ART COMPETITION WINNERS
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, today this House welcomes 
+the winners of the Congressional Art Competition to the Nation's 
+Capital. Students from all over the country have traveled to Washington 
+to proudly display their works of art in the tunnel to the Capitol for 
+the next year.
+  The Congressional Institute hosts the nationwide competition each 
+year to showcase and inspire the artistic talent of high school 
+students from each congressional district. I am proud of the 37 
+students from my district who submitted entries.
+  I am thrilled to welcome our first-place winner, Cassy Lester of 
+Reynoldsville, for her acrylic painting titled ``Chocolate Lab.'' Cassy 
+attends Jeff Tech, and it is an honor to recognize a career and 
+technical education student as our winner this year.
+  She was honored with her fellow winners from the States across the 
+Nation at this afternoon's luncheon, and earlier today, I was able to 
+give Cassy and her family a tour of the Capitol.
+  Congratulations to Cassy and all of this year's winners. We are 
+grateful to have your art brighten the walls of the tunnel of this 
+Capitol for the year ahead.
+
+                          ____________________
+```
