@@ -1,0 +1,45 @@
+---
+granule: CREC-2017-06-29-pt1-PgH5306
+date: 2017-06-29
+edition: CREC
+section: HOUSE
+page: H5306
+citation: 163 Cong. Rec. H5306
+---
+
+# COMMUNITY-BASED POLICING EFFORTS VITAL TO PUBLIC SAFETY
+
+**Speaking:** Brown, Anthony G. (B001304) [D-MD]
+
+**Measures:** H.R. 3003
+
+```
+        COMMUNITY-BASED POLICING EFFORTS VITAL TO PUBLIC SAFETY
+
+  (Mr. BROWN of Maryland asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. BROWN of Maryland. Mr. Speaker, H.R. 3003, a partisan bill that 
+seeks to punish so-called sanctuary cities, strikes at the heart of 
+community-based policing efforts vital to public safety.
+  Under this bill, States and counties where local police focus on 
+community priorities rather than immigration enforcement would be 
+punished, losing millions of dollars that could be used to build up 
+communities, improve our Nation's infrastructure, and strengthen local 
+government.
+  Moreover, this bill would jeopardize public safety by discouraging 
+people from trusting law enforcement, sharing information, or reporting 
+crime.
+  Across the country, most police chiefs have expressed serious 
+concerns about policies that may lead to racial profiling or requiring 
+their officers to break up families.
+  They have said that immigration enforcement should remain a Federal 
+responsibility. Instead of forcing local police to act as immigration 
+officers, we should work on passing comprehensive immigration reform 
+that includes a pathway to citizenship for aspiring Americans.
+  And if we truly want to makes the streets of America safer, Congress 
+should act to strengthen bonds between community and police, invest in 
+mental health and substance abuse services, reduce gun violence, and 
+reform the criminal justice system.
+
+                          ____________________
+```

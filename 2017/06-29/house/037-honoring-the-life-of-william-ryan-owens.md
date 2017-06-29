@@ -1,0 +1,43 @@
+---
+granule: CREC-2017-06-29-pt1-PgH5307-5
+date: 2017-06-29
+edition: CREC
+section: HOUSE
+page: H5307
+citation: 163 Cong. Rec. H5307
+---
+
+# HONORING THE LIFE OF WILLIAM "RYAN" OWENS
+
+**Speaking:** LaHood, Darin (L000585) [R-IL]
+
+```
+              HONORING THE LIFE OF WILLIAM ``RYAN'' OWENS
+
+  (Mr. LaHOOD asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. LaHOOD. Mr. Speaker, on January 29, 2017, U.S. Navy Chief Special 
+Warfare Operator William ``Ryan'' Owens was killed during a raid in 
+Yemen. At the age of 36, he gave the ultimate sacrifice in order to 
+protect our great Nation. He is survived by his wife and three young 
+children.
+  This week I introduced a bill which would rename the Chillicothe, 
+Illinois, post office in honor of Ryan's life and service as a Navy 
+SEAL. My office and I worked closely with the U.S. Postal Service, the 
+U.S. Navy Congressional Liaison Office, Central Illinois Gold Star 
+Families, and, most importantly, Ryan's family. All of us were 
+determined to make sure we got this right. His wife ultimately made the 
+decision to name the post office after Ryan in Chillicothe, a town in 
+my district, where Ryan graduated high school.
+  This effort has the backing and bipartisan support of the entire 
+Illinois delegation, and it is our hope that the post office will 
+forever remind the community of their hometown hero and his commitment 
+to serving our country.
+  While we can never fully repay Chief Owens and his family for the 
+sacrifices he made, renaming the post office in his honor is a small 
+effort to thank him for his service and his dedication to protecting 
+America.
+  He and his family are forever in our hearts and prayers.
+
+                          ____________________
+```
