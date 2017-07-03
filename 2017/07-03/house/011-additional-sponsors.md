@@ -1,0 +1,49 @@
+---
+granule: CREC-2017-07-03-pt1-PgH5382
+date: 2017-07-03
+edition: CREC
+section: HOUSE
+page: H5382
+citation: 163 Cong. Rec. H5382
+---
+
+# ADDITIONAL SPONSORS
+
+**Measures:** H.J.Res. 31, H.R. 52, H.Con.Res. 63, H.R. 93, H.R. 95, H.Res. 218, H.R. 257, H.R. 435, H.R. 525, H.R. 772, H.R. 918, H.R. 986, H.R. 1144, H.R. 1377, H.R. 1444, H.R. 1690, H.R. 1784, H.R. 1861, H.R. 1889, H.R. 1896, H.R. 1897, H.R. 2130, H.R. 2434, H.R. 2465
+
+```
+                          ADDITIONAL SPONSORS
+
+  Under clause 7 of rule XII, sponsors were added to public bills and 
+resolutions, as follows:
+
+       H.R. 52: Mr. Rush and Mr. Evans.
+       H.R. 93; Mr. Himes.
+       H.R. 95; Mr. DeFazio.
+       H.R. 257: Mr. Brooks of Alabama.
+       H.R. 435: Mr. Barr.
+       H.R. 525: Mr. Massie.
+       H.R. 772: Mr. Messer.
+       H.R. 918: Mr. Soto.
+       H.R. 986: Mr. Mooney of West Virginia and Mr. Correa.
+       H.R. 1144: Mr. Garamendi.
+       H.R. 1377: Mr. Young of Iowa.
+       H.R. 1444: Ms. Jayapal.
+       H.R. 1690: Ms. Stefanik.
+       H.R. 1784: Ms. Blunt Rochester.
+       H.R. 1861: Mr. Buck, Mr. Shimkus, Mr. Reichert, Mr. 
+     Palazzo, Mr. Smucker, Mr. Lucas, Mr. Coffman, Mr. Arrington, 
+     Mr. Rokita, Mr. McHenry, and Mr. Reed.
+       H.R. 1889: Ms. Wasserman Schultz, Mr. Kennedy, and Ms. 
+     Kuster of New Hampshire.
+       H.R. 1896: Mr. Renacci and Mrs. Beatty.
+       H.R. 1897: Mr. Renacci and Mrs. Beatty.
+       H.R. 2130: Mr. Mullin, Mr. Olson, and Mr. Carter of 
+     Georgia.
+       H.R. 2434: Mr. Smucker.
+       H.R. 2465: Mr. Faso, Mr. Renacci, Mr. Mitchell, Ms. 
+     Lofgren, and Ms. Esty of Connecticut.
+       H.J. Res. 31: Mr. Sherman.
+       H. Con. Res. 63: Ms. Brownley of California.
+       H. Res. 218: Mr. Renacci.
+```
