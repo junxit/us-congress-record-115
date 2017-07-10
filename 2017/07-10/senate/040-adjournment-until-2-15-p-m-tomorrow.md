@@ -1,0 +1,21 @@
+---
+granule: CREC-2017-07-10-pt1-PgS3888-2
+date: 2017-07-10
+edition: CREC
+section: SENATE
+page: S3888
+citation: 163 Cong. Rec. S3888
+---
+
+# ADJOURNMENT UNTIL 2:15 P.M. TOMORROW
+
+```
+                  ADJOURNMENT UNTIL 2:15 P.M. TOMORROW
+
+  The PRESIDING OFFICER. Under the previous order, the Senate stands 
+adjourned until 2:15 p.m. tomorrow.
+  Thereupon, the Senate, at 6:39 p.m., adjourned until Tuesday, July 
+11, 2017, at 2:15 p.m.
+
+                          ____________________
+```
