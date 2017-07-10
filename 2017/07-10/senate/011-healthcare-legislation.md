@@ -1,0 +1,61 @@
+---
+granule: CRECB-2017-pt7-Pg10257-3
+date: 2017-07-10
+edition: CRECB
+section: SENATE
+page: 10257
+---
+
+# HEALTHCARE LEGISLATION
+
+```
+                         HEALTHCARE LEGISLATION
+
+  Mr. NELSON. Mr. President, before the Senator, our leader, yields the 
+floor, will he yield for a quick question?
+  Mr. SCHUMER. I would be happy to yield to my friend from Florida.
+  Mr. NELSON. The Senator told about the comments that have been made 
+during the July 4th recess--comments about the healthcare bill--to 
+various Senators.
+  Would the Senator believe that this Senator had innumerable people 
+come up to him all over Florida, whatever venue that I was in--and I 
+was in public venues quite a bit--and say: Please
+
+[[Page 10258]]
+
+don't let them take away my healthcare.
+  Would the Senator further believe that, in visiting the State of an 
+unnamed Republican Senator where that Senator and I ended up in an 
+airport together in that Senator's State, lo and behold, this Senator 
+observed innumerable constituents of that Republican Senator in the 
+airport coming up and saying: Please don't take my healthcare away. 
+Would the Senator believe that?
+  Mr. SCHUMER. In answer to my friend, I absolutely would because I 
+have experienced the same thing. I was in my State in many areas that 
+are Republican, many areas that Donald Trump carried. The same thing 
+happened. I have not previously seen this depth of concern from people 
+of all different backgrounds, all different economic levels, all 
+different races, religions, creeds, colors saying the exact same thing. 
+People are so afraid of this TrumpCare bill that they are begging us, 
+almost, to please stop it. In answer to the Senator's question: No, I 
+am not surprised because I have experienced the same thing in some of 
+the most conservative, rural, Republican parts of my State during this 
+break.
+  Mr. NELSON. I would say just quickly, and further, that this Senator 
+gathered up a group of constituents who had written to our office. In 
+this particular case it was the Tampa office, and three of them have 
+been helped enormously by being on the Federal exchange, since the 
+State of Florida has not adopted an exchange. One person who is on 
+Medicaid said that they would not be alive had they not had the 
+sanctity and the integrity of the existing Medicaid system, which 
+covers some 70 million people in the country.
+  Would the Senator tell me, is it accurate that the Senate Republican 
+bill would eviscerate Medicaid by taking some $800 million out of 
+Medicaid over a decade?
+  Mr. SCHUMER. The Senator is exactly correct. It affects people across 
+the board, including these fine people whom I met at the Utica 
+Boilermaker 15K race.
+  I thank my colleague for his, as always, astute questions.
+
+                          ____________________
+```
