@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt7-Pg10349-2
+date: 2017-07-11
+edition: CRECB
+section: HOUSE
+page: 10349
+---
+
+# RECOGNIZING PENN STATE UNIVERSITY CRITICAL LANGUAGE SCHOLARS
+
+```
+      RECOGNIZING PENN STATE UNIVERSITY CRITICAL LANGUAGE SCHOLARS
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to recognize 
+two Penn State University students who received critical language 
+scholarships following their completion of the U.S. Department of 
+State's Critical Language Scholarship Program in the summer of 2016.
+  The following students were two of the 564 total selected 
+participants. A total of 5,700 students applied.
+  Janet Purdy, of State College, reached an intermediate level of 
+Swahili while studying in Tanzania; and Erika Pugh, of Boalsburg, 
+achieved an advanced level of Arabic while studying in Russia.
+  The Critical Language Scholarship Program is a crucial component of 
+our Federal Government's goal to encourage Americans to master 
+languages that are essential to our national security and economic 
+prosperity. These students study abroad in rigorous summer institutes, 
+learning these critical foreign languages, while engaging with citizens 
+of the host countries to further their cultural educations.
+  We are proud of these two outstanding students from the Pennsylvania 
+State University for their achievements. Congratulations, Janet and 
+Erika.
+
+                          ____________________
+```

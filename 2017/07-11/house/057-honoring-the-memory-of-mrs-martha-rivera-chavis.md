@@ -1,0 +1,39 @@
+---
+granule: CRECB-2017-pt7-Pg10349-5
+date: 2017-07-11
+edition: CRECB
+section: HOUSE
+page: 10349
+---
+
+# HONORING THE MEMORY OF MRS. MARTHA RIVERA CHAVIS
+
+```
+            HONORING THE MEMORY OF MRS. MARTHA RIVERA CHAVIS
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, I rise today in honor of Mrs. Martha Rivera 
+Chavis, who passed away on July 6, 2017, at her home in Montclair, New 
+Jersey.
+  After receiving her degree in French civilization at the Sorbonne 
+University in Paris, France, Mrs. Rivera Chavis served as the French-
+to-Portuguese
+
+[[Page 10350]]
+
+translator for Angola's Ambassador to the United Nations. It was there 
+she met Reverend Dr. Benjamin F. Chavis, Jr., a civil rights leader and 
+president of the National Newspaper Publishers Association.
+  After marrying in 1988, Mrs. Rivera Chavis and her husband cared for 
+nine Angolans, including six children with missing limbs, at their home 
+in Montclair. Mrs. Rivera Chavis carried that empathy and compassion 
+with her throughout life, including during her tenure as the head of 
+the Women in NAACP committee, where she fought for justice, equality, 
+and freedom for minority communities.
+  Mr. Speaker, Mrs. Rivera Chavis will be greatly missed by all who 
+knew her. I send my thoughts and prayers to her husband, Benjamin, and 
+her children and loved ones.
+
+                          ____________________
+```

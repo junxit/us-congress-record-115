@@ -1,0 +1,41 @@
+---
+granule: CRECB-2017-pt7-Pg10364
+date: 2017-07-11
+edition: CRECB
+section: HOUSE
+page: 10364
+---
+
+# CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, OR LIMITED TARIFF BENEFITS
+
+```
+    CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, OR LIMITED TARIFF 
+                                BENEFITS
+
+  Under clause 9 of rule XXI, lists or statements on congressional 
+earmarks, limited tax benefits, or limited tariff benefits were 
+submitted as follows:
+
+                         Offered By Mr. Bishop
+
+       The provisions in H.R. 23 that warranted a referral to the 
+     Committee on Natural Resources do not contain any 
+     congressional earmarks, limited tax benefits, or limited 
+     tariff benefits as defined in clause 9 of rule XXI of the 
+     Rules of the House of Representatives.
+
+                         Offered By Mr. Conaway
+
+       The provisions that warranted a referral to the Committee 
+     on Agriculture in H.R. 23 do not contain any congressional 
+     earmarks, limited tax benefits, or limited tariff benefits as 
+     defined in clause 9 of rule XXI of the Rules of the House of 
+     Representatives.
+       Amendment No. 1 to be offered by Representative Mac 
+     Thornberry to H.R. 2810, the National Defense Authorization 
+     Act for Fiscal Year 2018, does not contain any congressional 
+     earmarks, limited tax benefits, or limited tariff benefits as 
+     defined in clause 9 of rule XXI.
+
+                          ____________________
+```

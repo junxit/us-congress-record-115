@@ -1,0 +1,60 @@
+---
+granule: CRECB-2017-pt7-Pg10346
+date: 2017-07-11
+edition: CRECB
+section: HOUSE
+page: 10346
+---
+
+# COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+```
+               COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+  The SPEAKER laid before the House the following communication from 
+the Clerk of the House of Representatives:
+
+                                              Office of the Clerk,
+
+
+                                     House of Representatives,
+
+                                    Washington, DC, June 20, 2017.
+     Hon. Paul D. Ryan,
+     The Speaker, House of Representatives,
+     Washington, DC.
+       Dear Mr. Speaker: I have the honor to transmit herewith a 
+     copy of the Certificate of Election received from the 
+     Honorable Alex Padilla, California Secretary of State, 
+     indicating that, at the Special Election held on June 6, 
+     2017, the Honorable Jimmy Gomez was duly elected 
+     Representative in Congress for the 34th Congressional 
+     District, State of California.
+       With best wishes, I am,
+           Sincerely,
+                                                    Karen L. Haas,
+                                                            Clerk.
+       Enclosure.
+                                  ____
+
+
+                          State of California
+
+
+                        certificate of election
+
+       I, Alex Padilla, Secretary of State of the State of 
+     California, hereby certify that according to information 
+     concerning the statement of the results of the Special 
+     General Election held on the 6th day of June, 2017, on file 
+     in my office, Jimmy Gomez was elected to the office of United 
+     States Representative District 34.
+       In witness whereof, I hereunto set my hand and affix the 
+     Great Seal of the State of California, at Sacramento, this 
+     19th day of June, 2017.
+                                                     Alex Padilla,
+                                               Secretary of State.
+     [State Seal Affixed]
+
+                          ____________________
+```
