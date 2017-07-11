@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-07-11-pt1-PgH5419-3
+date: 2017-07-11
+edition: CREC
+section: HOUSE
+page: H5419
+citation: 163 Cong. Rec. H5419
+---
+
+# VENEZUELA
+
+**Speaking:** Ros-Lehtinen, Ileana (R000435) [R-FL]
+
+```
+                               VENEZUELA
+
+  (Ms. ROS-LEHTINEN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. ROS-LEHTINEN. Mr. Speaker, for more than 100 days, the Venezuelan 
+people have been courageously protesting peacefully on the streets 
+against the abusive regime of Nicolas Maduro.
+  Since June, more than 1,400 people have been injured, over 3,600 have 
+been detained, and over 100 people have been killed by Maduro's thugs.
+  Just days ago, Maduro moved opposition leader Leopoldo Lopez to house 
+arrest after more than 3 unjust years in prison. But this diversion 
+tactic is not enough. All political prisoners must be released.
+  Maduro's fraudulent constituent assembly must be stopped. And more 
+names must be added to the sanctions list, especially those human 
+rights abusers who are responsible for the violent actions against 
+innocent civilians.
+  This will send a strong message that the United States stands with 
+the people in their struggle for democracy and for justice for all 
+Venezuelans.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-07-11-pt1-PgH5421-2
+date: 2017-07-11
+edition: CREC
+section: HOUSE
+page: H5421
+citation: 163 Cong. Rec. H5421
+---
+
+# PEOPLE ARE WORRIED ABOUT HEALTHCARE
+
+**Speaking:** Schneider, Bradley Scott (S001190) [D-IL]
+
+```
+                  PEOPLE ARE WORRIED ABOUT HEALTHCARE
+
+  (Mr. SCHNEIDER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SCHNEIDER. Mr. Speaker, last week, as I traveled throughout my 
+district, I heard time and time and time again from people worried 
+about one issue: healthcare. I heard stories like Diane's in Mundelein, 
+who was able to get affordable coverage through ACA after losing her 
+job of 30 years to outsourcing, and Claire's, from Vernon Hills, who 
+was diagnosed with neurofibromatosis just a month before her 26th 
+birthday. Yet, because of ACA, she has insurance today, despite her 
+preexisting condition.
+  I was thrilled to learn that Claire recently got married, and is 
+looking forward to pursuing her dreams: raising a family and living a 
+long and productive life.
+  Mr. Speaker, across the country, there are millions of stories just 
+like these. The ACA is far from perfect and it needs work. I heard that 
+from my constituents as well.
+  I urge my colleagues here in Congress to listen to the people who 
+share their stories with me and others and end this ill-considered 
+repeal effort. Instead, let's get to work together to deliver quality, 
+affordable healthcare for all Americans.
+
+                          ____________________
+```
