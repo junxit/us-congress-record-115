@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-07-12-pt1-PgH5443
+date: 2017-07-12
+edition: CREC
+section: HOUSE
+page: H5443
+citation: 163 Cong. Rec. H5443
+---
+
+# PROTECT NET NEUTRALITY
+
+**Speaking:** Gabbard, Tulsi (G000571) [D-HI]
+
+```
+                              {time}  1215
+                         PROTECT NET NEUTRALITY
+
+  (Ms. GABBARD asked and was given permission to address the House for 
+1 minute.)
+  Ms. GABBARD. Mr. Speaker, net neutrality is something that is 
+fundamental to our country. It is rooted in our First Amendment rights. 
+It allows for an open marketplace, exchange of ideas, center for 
+innovation, hub for communication, and so much more.
+  In today's digital age, especially, ensuring an open, free, and equal 
+internet for all--not just for those who can afford to pay to play--is 
+crucial to level the playing field for everyone.
+  The FCC's current proposal rolls back these freedoms for the benefit 
+and profit of big internet service providers on the backs of students, 
+entrepreneurs and innovators, small businesses, and all of us. Millions 
+across the country have already sent in comments to the FCC expressing 
+their strong opposition.
+  On today's net neutrality day of action, I encourage everyone to make 
+their voices heard. In just 5 days, the FCC public comment period 
+closes. Now is the time for us to raise our voices to protect net 
+neutrality, fairness, and equality for all.
+
+                          ____________________
+```

@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-07-12-pt1-PgH5444
+date: 2017-07-12
+edition: CREC
+section: HOUSE
+page: H5444
+citation: 163 Cong. Rec. H5444
+---
+
+# NAS REPORT ON THE VALUE OF SBE SCIENCES
+
+**Speaking:** Lipinski, Daniel (L000563) [D-IL]
+
+```
+                NAS REPORT ON THE VALUE OF SBE SCIENCES
+
+  (Mr. LIPINSKI asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LIPINSKI. Mr. Speaker, I rise today to highlight the findings of 
+a recent report by the National Academies of Sciences, Engineering, and 
+Medicine entitled: ``The Value of Social, Behavioral, and Economic 
+Sciences to National Priorities.'' This report was requested by the 
+National Science Foundation to examine whether the Federal Government 
+should continue funding research in these disciplines. The resounding 
+answer is: yes.
+  The report found that SBE funding furthers the mission of NSF and 
+helps other agencies achieve their missions, and this funding provides 
+tools and methods that have helped business and industry grow the U.S. 
+economy and create jobs.
+  The report also highlights that virtually every major challenge the 
+country faces today requires understanding the causes and consequences 
+of people's behavior. The way we do this is by funding research in the 
+social, behavioral, and economic sciences.
+  Mr. Speaker, investments in SBE are critical for our Nation's future, 
+and we must continue this robust investment.
+
+                          ____________________
+```

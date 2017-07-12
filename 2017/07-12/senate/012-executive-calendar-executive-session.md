@@ -1,0 +1,146 @@
+---
+granule: CREC-2017-07-12-pt1-PgS3935-3
+date: 2017-07-12
+edition: CREC
+section: SENATE
+page: S3935
+citation: 163 Cong. Rec. S3935
+---
+
+# EXECUTIVE CALENDAR (Executive Session)
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY], Enzi, Michael B. (E000285) [R-WY]
+
+```
+                           EXECUTIVE CALENDAR
+
+  The PRESIDING OFFICER. Under the previous order, the Senate will 
+proceed to executive session to resume consideration of the Nye 
+nomination, which the clerk will report.
+  The senior assistant legislative clerk read the nomination of David 
+C. Nye, of Idaho, to be United States District Judge for the District 
+of Idaho.
+  The PRESIDING OFFICER. All postcloture time is expired.
+  The question is, Will the Senate advise and consent to the Nye 
+nomination?
+  Mr. SCHUMER. Madam President, I ask for the yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There appears to be a sufficient second.
+  The clerk will call the roll.
+  The senior assistant legislative clerk called the roll.
+  The result was announced--yeas 100, nays 0, as follows:
+
+                      [Rollcall Vote No. 158 Ex.]
+
+                               YEAS--100
+
+     Alexander
+     Baldwin
+     Barrasso
+     Bennet
+     Blumenthal
+     Blunt
+     Booker
+     Boozman
+     Brown
+     Burr
+     Cantwell
+     Capito
+     Cardin
+     Carper
+     Casey
+     Cassidy
+     Cochran
+     Collins
+     Coons
+     Corker
+     Cornyn
+     Cortez Masto
+     Cotton
+     Crapo
+     Cruz
+     Daines
+     Donnelly
+     Duckworth
+     Durbin
+     Enzi
+     Ernst
+     Feinstein
+     Fischer
+     Flake
+     Franken
+     Gardner
+     Gillibrand
+     Graham
+     Grassley
+     Harris
+     Hassan
+     Hatch
+     Heinrich
+     Heitkamp
+     Heller
+     Hirono
+     Hoeven
+     Inhofe
+     Isakson
+     Johnson
+     Kaine
+     Kennedy
+     King
+     Klobuchar
+     Lankford
+     Leahy
+     Lee
+     Manchin
+     Markey
+     McCain
+     McCaskill
+     McConnell
+     Menendez
+     Merkley
+     Moran
+     Murkowski
+     Murphy
+     Murray
+     Nelson
+     Paul
+     Perdue
+     Peters
+     Portman
+     Reed
+     Risch
+     Roberts
+     Rounds
+     Rubio
+     Sanders
+     Sasse
+     Schatz
+     Schumer
+     Scott
+     Shaheen
+     Shelby
+     Stabenow
+     Strange
+     Sullivan
+     Tester
+     Thune
+     Tillis
+     Toomey
+     Udall
+     Van Hollen
+     Warner
+     Warren
+     Whitehouse
+     Wicker
+     Wyden
+     Young
+  The nomination was confirmed.
+  The PRESIDING OFFICER. The Senator from Wyoming.
+  Mr. ENZI. Madam President, I ask unanimous consent that with respect 
+to the Nye nomination, the motion to reconsider be considered made and 
+laid upon the table and the President be immediately notified of the 
+Senate's action.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
