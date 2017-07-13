@@ -1,0 +1,37 @@
+---
+granule: CRECB-2017-pt8-Pg10818
+date: 2017-07-13
+edition: CRECB
+section: HOUSE
+page: 10818
+---
+
+# MILITARY HUNGER PREVENTION ACT
+
+```
+                     MILITARY HUNGER PREVENTION ACT
+
+  (Mr. McGOVERN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McGOVERN. Mr. Speaker, as the House considers the fiscal year 
+2018 National Defense Authorization Act this week, I would like to draw 
+attention to one provision that was left out of the bill: the Military 
+Hunger Prevention Act.
+  It is shameful that military families like lower ranking enlisted 
+servicemembers with larger households are among the 42 million 
+Americans suffering from food insecurity.
+  While up to 22,000 military households rely on SNAP, many military 
+families are unable to receive modest benefits due to an unintended 
+provision that counts certain housing allowances as income when 
+determining eligibility for SNAP.
+  To address this issue, I have joined with my friend, Representative 
+Susan Davis, on the bipartisan Military Hunger Prevention Act. I am 
+disappointed that this commonsense technical fix was left out of this 
+year's NDAA, and I plan to continue working with my colleagues and our 
+advocacy partners like MAZON: A Jewish Response to Hunger to move this 
+legislation forward.
+  We owe it to the families who have sacrificed so much for our country 
+to do all that we can to end hunger now.
+
+                          ____________________
+```

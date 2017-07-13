@@ -1,0 +1,33 @@
+---
+granule: CRECB-2017-pt8-Pg10815
+date: 2017-07-13
+edition: CRECB
+section: HOUSE
+page: 10815
+---
+
+# SAVE AMERICAN JOBS
+
+```
+                           SAVE AMERICAN JOBS
+
+  (Mr. McNERNEY asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McNERNEY. Mr. Speaker, I rise today regarding an issue that 
+Congress often decries but neglects: too many Americans are out of work 
+because companies ship their jobs overseas without a thought for the 
+workers and communities they leave behind. According to the group 
+Public Citizen, the offshoring of American jobs has contributed to the 
+loss of 4.5 million U.S. manufacturing jobs.
+  But we have an opportunity to change that. I am proud to introduce 
+the Stop Outsourcing and Create American Jobs Act and the Outsourcing 
+Accountability Act. These two bills are designed to save American jobs 
+by curbing outsourcing. By cracking down on tax loopholes that give 
+corporations a break on the backs of American taxpayers, we can grow 
+our economy and increase economic opportunities for the middle class.
+  I hope my colleagues will join me in a serious discussion about how 
+we can help our economy grow and help American workers. I welcome their 
+support for these bills.
+
+                          ____________________
+```
