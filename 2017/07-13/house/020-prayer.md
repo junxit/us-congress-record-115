@@ -1,0 +1,34 @@
+---
+granule: CREC-2017-07-13-pt1-PgH5770-2
+date: 2017-07-13
+edition: CREC
+section: HOUSE
+page: H5770
+citation: 163 Cong. Rec. H5770
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  Bishop Joshua K. Lynn, Mastin Lake Church of God of Prophecy, 
+Huntsville, Alabama, offered the following prayer:
+  Holy Father, You are the almighty, all-knowing creator. We submit to 
+Your infinite wisdom.
+  On behalf of our Nation and these leaders, we seek Your forgiveness 
+for placing other ways higher than Yours. Grant us Your amazing grace 
+from our sin as we turn to You. Open the ears of this body, this 
+Nation's leaders, and all who call this great land home to hear Your 
+voice. Tenderize the soil of our hearts so we may receive Your 
+guidance.
+  Heal our land of bitterness, hate, and evil against You and one 
+another. Grant our Nation a spiritual renewal and awakening.
+  Give this Nation and its leaders wisdom today and the days that 
+follow. As we follow You, let Your favor be with us.
+  Let Your name ring higher than any other name. For it is in Your 
+holy, loving, merciful, and gracious name we pray.
+  In Jesus' name, amen.
+
+                          ____________________
+```
