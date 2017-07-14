@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-07-14-pt1-PgH5871
+date: 2017-07-14
+edition: CREC
+section: HOUSE
+page: H5871
+citation: 163 Cong. Rec. H5871
+---
+
+# FIRST, DO NO HARM
+
+**Speaking:** Maloney, Carolyn B. (M000087) [D-NY]
+
+```
+                           FIRST, DO NO HARM
+
+  (Mrs. CAROLYN B. MALONEY of New York asked and was given permission 
+to address the House for 1 minute.)
+  Mrs. CAROLYN B. MALONEY of New York. Mr. Speaker, those who support 
+the GOP medical bill have forgotten one of the main and first 
+principles of medical care: Do no harm.
+  They said repeatedly that they would protect preexisting conditions. 
+They said that they would protect accessible and affordable healthcare 
+and premiums. But they must have been crossing their fingers when they 
+said it because nothing is further from the truth.
+  Under their latest bill, premiums will soar, particularly for the 
+elderly. Women would have to, once again, worry about preexisting 
+conditions, such as pregnancy.
+  The defunding of Planned Parenthood would hurt many women, 
+particularly low-income women.
+  And the cuts to Medicare in the bill would be devastating to millions 
+of women, seniors, children, and the disabled.
+  In addition, the diminished subsidies could mean that more people 
+than the 22 million in the last bill who were removed from healthcare 
+under the bill will lose their healthcare.
+  Vote ``no'' on this disastrous bill.
+
+                          ____________________
+```
