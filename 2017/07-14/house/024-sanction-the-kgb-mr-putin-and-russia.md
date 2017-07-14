@@ -1,0 +1,40 @@
+---
+granule: CRECB-2017-pt8-Pg10926-5
+date: 2017-07-14
+edition: CRECB
+section: HOUSE
+page: 10926
+---
+
+# SANCTION THE KGB, MR. PUTIN, AND RUSSIA
+
+```
+                SANCTION THE KGB, MR. PUTIN, AND RUSSIA
+
+  (Ms. JACKSON LEE asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. JACKSON LEE. Mr. Speaker, we are not Republicans and we are not 
+Democrats. We are Americans, and we draw together around the protecting 
+of America's security.
+  With that in mind, you can imagine my shock as a member of the 
+Judiciary Committee to find out that a KGB agent was in a meeting with 
+Jared Kushner, who now has a security clearance, and Donald Trump, Jr., 
+among others.
+  I was shocked to find out that the lawyer who was present in that 
+meeting had a $200 million lawsuit to stop being sued on the money 
+laundering, and that that lawsuit was settled by the Trump Justice 
+Department for $6 million--$200 million down to $6 million. To the 
+American people, that means that the $200 million that was owed to this 
+government turned out to be $6 million.
+  That is why I will have a resolution to ask the President to step 
+down. And, as well, to introduce a resolution--a constitutional 
+resolution--to begin a constitutional investigation into whether or not 
+we are protected here in this Nation.
+  Our security is our greatest priority.
+  I would also suggest that the sanctions bill that was voted on in the 
+Senate must be voted on in the House now. We cannot still continue to 
+hide the ball. Sanction the KGB, sanction Mr. Putin, sanction Russia. 
+They are, in fact, here to demolish the democracy of this Nation.
+
+                          ____________________
+```
