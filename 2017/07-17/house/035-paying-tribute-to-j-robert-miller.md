@@ -1,0 +1,32 @@
+---
+granule: CRECB-2017-pt8-Pg10989-2
+date: 2017-07-17
+edition: CRECB
+section: HOUSE
+page: 10989
+---
+
+# PAYING TRIBUTE TO J. ROBERT MILLER
+
+```
+                   PAYING TRIBUTE TO J. ROBERT MILLER
+
+  (Mr. COMER asked and was given permission to address the House for 1 
+minute.)
+  Mr. COMER. I rise today to pay tribute to my friend, neighbor, 
+mentor, and former Kentucky Commissioner of Agriculture, J. Robert 
+Miller. Robert passed away last night at the age of 97.
+  J. Robert Miller was a legend in agriculture, agriculture education, 
+and Kentucky politics. He served as Kentucky's Commissioner of 
+Agriculture from 1957 to 1971 during the Louie Nunn administration. 
+Before that, J. Robert was an agriculture teacher at Tompkinsville High 
+School and always an active, lifelong farmer.
+  Growing up in 4-H and FFA, my earliest memories include Robert 
+Miller. He was a mainstay at Monroe County area livestock shows and FFA 
+banquets, always helping out and offering advice to present and future 
+farmers.
+  J. Robert Miller was a great man who had a positive influence on 
+countless Kentuckians.
+
+                          ____________________
+```

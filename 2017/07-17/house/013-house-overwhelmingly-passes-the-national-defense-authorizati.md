@@ -1,0 +1,39 @@
+---
+granule: CRECB-2017-pt8-Pg10974-7
+date: 2017-07-17
+edition: CRECB
+section: HOUSE
+page: 10974
+---
+
+# HOUSE OVERWHELMINGLY PASSES THE NATIONAL DEFENSE AUTHORIZATION ACT
+
+```
+   HOUSE OVERWHELMINGLY PASSES THE NATIONAL DEFENSE AUTHORIZATION ACT
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, last week the House of 
+Representatives overwhelmingly passed the National Defense 
+Authorization Act with a bipartisan vote of 344-81. This bill 
+represents a strong commitment to enacting accounting reforms and 
+rebuilding our military.
+  As chairman of the House Armed Services Subcommittee on Readiness, I 
+am grateful that this bill modernizes our forces and begins to close 
+the readiness gap facing our servicemembers, fulfilling President 
+Donald Trump's pledge to rebuild the American military.
+  This legislation also supports military families by providing the 
+largest pay raise in 8 years and by giving military families greater 
+flexibility when relocating during the school year.
+  The primary function of the national government is to provide for our 
+national defense, to ensure that our servicemembers have the training, 
+equipment, and resources they need to achieve the goal as established 
+by Senator Barry Goldwater, ``Why Not Victory.''
+  I appreciate the determined leadership of Chairman Mac Thornberry, 
+and I look forward to continuing to work with him to advance the 
+legislation through the conference process.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism.
+
+                          ____________________
+```
