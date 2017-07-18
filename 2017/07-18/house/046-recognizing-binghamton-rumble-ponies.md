@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-07-18-pt1-PgH5968-5
+date: 2017-07-18
+edition: CREC
+section: HOUSE
+page: H5968
+citation: 163 Cong. Rec. H5968
+---
+
+# RECOGNIZING BINGHAMTON RUMBLE PONIES
+
+**Speaking:** Tenney, Claudia (T000478) [R-NY]
+
+```
+                  RECOGNIZING BINGHAMTON RUMBLE PONIES
+
+  (Ms. TENNEY asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TENNEY. Mr. Speaker, I rise today to recognize the Binghamton 
+Rumble Ponies, the Double-A affiliate of the New York Mets, who 
+recently invited me to throw out the first pitch at their Fourth of 
+July celebration.
+  Previously known as the Binghamton Mets, this is the first season 
+that the Rumble Ponies have galloped onto the field at NYSEG Stadium 
+with their new name.
+  Binghamton, New York, has the unique distinction of being the 
+carousel capital of the world. While there are fewer than 170 antique 
+carousels in the United States and Canada, 6 of them are in Binghamton 
+and the surrounding region. It is this proud local distinction to which 
+the Rumble Ponies owe their name.
+  I also had the pleasure of watching the game with Jeff Wilpon, the 
+owner of the New York Mets. I know I speak for everyone in the Southern 
+Tier when I say that it is time to ``Saddle up for Funn.''
+
+[[Page H5969]]
+
+  
+
+                          ____________________
+```

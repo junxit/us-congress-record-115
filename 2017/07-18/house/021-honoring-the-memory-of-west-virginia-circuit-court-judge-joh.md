@@ -1,0 +1,45 @@
+---
+granule: CREC-2017-07-18-pt1-PgH5925-6
+date: 2017-07-18
+edition: CREC
+section: HOUSE
+page: H5925
+citation: 163 Cong. Rec. H5925
+---
+
+# HONORING THE MEMORY OF WEST VIRGINIA CIRCUIT COURT JUDGE JOHN YODER
+
+**Speaking:** Mooney, Alexander X. (M001195) [R-WV]
+
+```
+                              {time}  1215
+  HONORING THE MEMORY OF WEST VIRGINIA CIRCUIT COURT JUDGE JOHN YODER
+
+  (Mr. MOONEY of West Virginia asked and was given permission to 
+address the House for 1 minute.)
+  Mr. MOONEY of West Virginia. Mr. Speaker, I rise today to honor the 
+life and memory of West Virginia's Circuit Court Judge John Yoder, who 
+passed away on June 7, 2017.
+  Judge Yoder served on the 23rd Judicial Circuit, which included 
+Berkeley, Jefferson, and Morgan Counties in the eastern panhandle of 
+the Second Congressional District, which I represent. He practiced law 
+in Harpers Ferry, West Virginia, for 23 years.
+  Judge Yoder earned a bachelor of arts degree at Chapman University, 
+and then studied law at the University of Kansas. He also obtained an 
+MBA at the University of Chicago.
+  John Yoder was appointed by President Ronald Reagan in 1983 to serve 
+as the director of the asset forfeiture office for the U.S. Department 
+of Justice. He continued his distinguished career as a public servant, 
+including two stints as a West Virginia State senator before being 
+elected as circuit court judge.
+  Judge Yoder is one of the early pioneers of State drug courts and was 
+well known for his big heart and compassion. I join all West Virginians 
+in keeping Judge Yoder's family and friends in our prayers. He will 
+truly be missed.
+
+[[Page H5926]]
+
+  
+
+                          ____________________
+```
