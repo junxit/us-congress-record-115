@@ -1,0 +1,153 @@
+---
+granule: CRECB-2017-pt8-Pg11137
+date: 2017-07-19
+edition: CRECB
+section: SENATE
+page: 11137
+---
+
+# SENATE RESOLUTION 224--RECOGNIZING THE 5TH ANNIVERSARY OF THE DEATH OF OSWALDO PAYA SARDINAS, AND COMMEMORATING HIS LEGACY AND COMMITMENT TO DEMOCRATIC VALUES AND PRINCIPLES
+
+```
+SENATE RESOLUTION 224--RECOGNIZING THE 5TH ANNIVERSARY OF THE DEATH OF 
+ OSWALDO PAYA SARDINAS, AND COMMEMORATING HIS LEGACY AND COMMITMENT TO 
+                    DEMOCRATIC VALUES AND PRINCIPLES
+
+  Mr. DURBIN (for himself, Mr. Nelson, Mr. Rubio, Mr. Menendez, Mr. 
+Cruz, and Mr. Merkley) submitted the following resolution; which was 
+referred to the Committee on Foreign Relations:
+
+                              S. Res. 224
+
+       Whereas Oswaldo Paya Sardinas was born in Havana, Cuba, in 
+     1952 and became a nonviolent critic of the communist 
+     government as a teenager, resulting in 3 years of 
+     imprisonment in 1969 at a work camp in Cuba, formerly known 
+     as ``Isla de Pinos'';
+       Whereas, in 1987, Oswaldo Paya Sardinas founded the 
+     Christian Liberation Movement that called for peaceful civil 
+     disobedience against the rule of the Communist Party of Cuba 
+     and advocated for civil liberties;
+       Whereas, in 1992 and 1997, attempts by Oswaldo Paya 
+     Sardinas to run as a candidate for the National Assembly of 
+     People's Power were rejected by Cuban authorities;
+       Whereas, in 1998, Oswaldo Paya Sardinas and other leaders 
+     of the Christian Liberation Movement established the Varela 
+     Project in order to circulate a legal proposal to advocate 
+     for democratic political reforms within Cuba, including the 
+     establishment of freedom of association, freedom of speech, 
+     freedom of the press, free elections, freedom to start 
+     private businesses, and amnesty for political prisoners;
+       Whereas, in 2002, the Varela Project delivered a petition 
+     to the National Assembly of People's Power with 11,020 
+     signatures from Cuban citizens calling for a referendum on 
+     safeguarding basic freedoms, an end to one-party rule, and 
+     citing Article 88 of the Constitution of Cuba that allows 
+     Cuban citizens to propose laws if the proposal is made by at 
+     least 10,000 Cuban citizens who are eligible to vote;
+       Whereas, in 2003, Oswaldo Paya Sardinas redelivered the 
+     petition to the National Assembly of People's Power with an 
+     additional 14,384 signatures, establishing the biggest 
+     nonviolent campaign to oppose the Communist Party of Cuba;
+       Whereas, in March 2003, the crackdown on Cuban dissidents 
+     by the Government of Cuba, referred to as the ``Black 
+     Spring'', led to the imprisonment of 75 individuals, 
+     including 25 members of the Varela Project and 40 members of 
+     the Christian Liberation Movement, and the formation of the 
+     Ladies in White movement by the wives of the imprisoned 
+     activists;
+       Whereas, in 2007, Oswaldo Paya Sardinas called on the 
+     National Assembly of People's Power to grant amnesty to 
+     nonviolent political prisoners and to allow Cubans to travel 
+     freely without a government permit;
+       Whereas, in 2009, Oswaldo Paya Sardinas developed a Call 
+     for the National Dialogue;
+       Whereas petitions and calls by Oswaldo Paya Sardinas to the 
+     National Assembly of People's Power were repeatedly dismissed 
+     and disparaged by the Government of Cuba;
+       Whereas Oswaldo Paya Sardinas, his family, and friends 
+     endured years of harassment and intimidation for the peaceful 
+     political activism of Oswaldo Paya Sardinas;
+       Whereas Oswaldo Paya Sardinas has been formally recognized 
+     in the past for his dedication to the promotion of human 
+     rights and democracy, including by receiving the Homo Homini 
+     Award in 1999, the Sakharov Prize for Freedom of Thought in 
+     2002, the W. Averell Harriman Democracy Award from the United 
+     States National Democratic Institute for International 
+     Affairs in 2003, and being nominated for the Nobel Peace 
+     Prize by Vaclav Havel, the former president of the Czech 
+     Republic, in 2005;
+       Whereas, on July 22, 2012, Oswaldo Paya Sardinas and Harold 
+     Cepero, a fellow pro-democracy activist, died in a troubling 
+     car crash in Granma Province, Cuba after being followed by 
+     government agents;
+       Whereas the Government of Cuba has failed to conduct a 
+     credible investigation into the car crash that led to the 
+     death of Oswaldo Paya Sardinas;
+       Whereas the trial and conviction of Angel Carromero, a 
+     youth leader of the People's Party who was visiting Cuba and 
+     driving the car at the time of the crash, did not include 
+     testimony from key witnesses, and did not resolve questions 
+     about whether another car was involved or whether Mr. 
+     Carromero was coerced by the Government of Cuba into signing 
+     a false statement of guilt;
+       Whereas, in 2012, the United States Senate unanimously 
+     passed Senate Resolution 525, 112th Congress, agreed to July 
+     24, 2012, honoring the life and legacy of Oswaldo Paya 
+     Sardinas;
+       Whereas, in 2013, a number of United States Senators and 
+     the United States Department of State called for an 
+     impartial, third-party investigation by the Inter-American 
+     Commission on Human Rights of the Organization of American 
+     States into the circumstances surrounding the death of 
+     Oswaldo Paya Sardinas;
+       Whereas, in 2013, Angel Carromero spoke in detail during an 
+     interview with The Washington Post about being hit by another 
+     car during the crash, being mistreated and coerced by Cuban 
+     authorities following the crash, and being made the 
+     ``scapegoat'' by the Government of Cuba for the death of 
+     Oswaldo Paya Sardinas;
+       Whereas the dissidents of the ``Black Spring'' have been 
+     released from prison, but many political prisoners remain 
+     imprisoned in Cuba despite trails that failed to meet 
+     international due process standards; and
+       Whereas the 2016 Human Rights Report on Cuba by the United 
+     States Department of State cited ongoing human rights abuses 
+     by the Government of Cuba, namely ``the abridgement of the 
+     ability of citizens to choose their government; the use of 
+     government threats, physical assault, intimidation, and 
+     violent government-organized counter protests against 
+     peaceful dissent; and harassment and detentions to prevent 
+     free expression and peaceful assembly.'': Now, therefore, be 
+     it
+       Resolved, That the Senate--
+       (1) recognizes and commemorates the legacy of Oswaldo Paya 
+     Sardinas on the 5th anniversary of his death on July 22, 
+     2017;
+       (2) honors the commitment of Oswaldo Paya Sardinas to 
+     democratic values and principles;
+       (3) calls on the Government of Cuba to allow an impartial, 
+     third-party investigation into the circumstances surrounding 
+     the death of Oswaldo Paya Sardinas;
+       (4) urges the United States to continue to support policies 
+     and programs that promote respect for human rights and 
+     democratic principles in Cuba in a manner that is consistent 
+     with the aspirations of the Cuban people;
+       (5) urges the Inter-American Commission on Human Rights of 
+     the Organization of
+
+[[Page 11138]]
+
+     American States to continue reporting on human rights issues 
+     in Cuba, and to request a visit to Cuba in order to 
+     investigate the circumstances surrounding the death of 
+     Oswaldo Paya Sardinas; and
+       (6) calls on the Government of Cuba to cease violating 
+     human rights and to begin providing democratic political 
+     freedoms to Cuban citizens, including freedom of association, 
+     freedom of speech, freedom of the press, free elections, 
+     freedom to start private businesses, and amnesty for 
+     political prisoners.
+
+                          ____________________
+```

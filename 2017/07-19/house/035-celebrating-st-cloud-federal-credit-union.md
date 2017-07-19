@@ -1,0 +1,39 @@
+---
+granule: CRECB-2017-pt8-Pg11148-6
+date: 2017-07-19
+edition: CRECB
+section: HOUSE
+page: 11148
+---
+
+# CELEBRATING ST. CLOUD FEDERAL CREDIT UNION
+
+```
+               CELEBRATING ST. CLOUD FEDERAL CREDIT UNION
+
+  (Mr. EMMER asked and was given permission to address the House for 1 
+minute.)
+  Mr. EMMER. Mr. Speaker, I rise today to celebrate the St. Cloud 
+Federal Credit Union for being named one of the top 150 workplaces in 
+Minnesota by the Minneapolis Star Tribune.
+  The companies selected were based off of a survey done by Workplace 
+Dynamics, which measured the employees' opinions on engagement, 
+organizational health, and overall satisfaction at their company. This 
+is a wonderful achievement for the St. Cloud Federal Credit Union as 
+Workplace Dynamics surveyed nearly 70,000 employees
+
+[[Page 11149]]
+
+throughout Minnesota to come up with these results.
+  For every company, no matter how big or small, the employees are the 
+key to securing success. The hard work they put in every day is 
+critical, so it is imperative that management ensures they feel both 
+valued and respected.
+  I want to congratulate everyone at the St. Cloud Federal Credit Union 
+on their incredible teamwork, and I especially want to congratulate 
+management for creating a great workplace for their employees. Your 
+company and employees will continue to thrive due to your leadership. 
+Keep up the good work.
+
+                          ____________________
+```

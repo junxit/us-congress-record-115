@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt8-Pg11133
+date: 2017-07-19
+edition: CRECB
+section: SENATE
+page: 11133
+---
+
+# TRIBUTE TO LIEUTENANT ZACHARY HODGES
+
+```
+                  TRIBUTE TO LIEUTENANT ZACHARY HODGES
+
+● Mr. RUBIO. Mr. President, I would like to highlight the 
+outstanding accomplishments of Lt. Zachary Hodges of Gainesville, FL. 
+Four years ago, I nominated this impressive young man to attend the 
+U.S. Air Force Academy.
+  I recently received a letter from Zachary letting me know that he has 
+graduated from the U.S. Air Force Academy--a major milestone that his 
+family and friends should be very proud of.
+  Zachary also said he plans to attend medical school at the University 
+of Florida and looks forward to serving our Nation as an Air Force 
+physician.
+  I am very proud to have nominated Zachary, who has already 
+accomplished so much at the age of 22. His enduring commitment to his 
+studies and his country is a testament to his will to succeed and 
+serve. I have no doubt he will inspire others around him to do the 
+same.
+  I wish Zachary the best of luck and look forward to hearing of his 
+continued success; I am sure he has a very bright future ahead. May God 
+bless him and all of the men and women who serve our Nation in the 
+Armed Forces.●
+
+                          ____________________
+```

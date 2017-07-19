@@ -1,0 +1,39 @@
+---
+granule: CRECB-2017-pt8-Pg11149-3
+date: 2017-07-19
+edition: CRECB
+section: HOUSE
+page: 11149
+---
+
+# APPRENTICESHIP GRANTS BUDGET CUT
+
+```
+                    APPRENTICESHIP GRANTS BUDGET CUT
+
+  (Mr. COURTNEY asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. COURTNEY. Mr. Speaker, last February, President Trump had CEOs 
+from America's largest manufacturers to come and talk about progrowth 
+tax policies. Instead of talking about taxes, what they really talked 
+about is the real need out there, which is to close the skills gap in 
+this country and get the job training out there so that people can get 
+hired.
+  USA Today reported the next day with the headline: ``U.S. factory 
+CEOs to Trump: Jobs exist; skills don't.'' In the 2017 budget, the 
+bipartisan budget, Congress listened, and we appropriated robust 
+funding for apprenticeship programs, for youth job training programs, 
+and for adult, older incumbent job training programs.
+  Incredibly, a few minutes ago, the partisan Republican budget cut 
+apprenticeship grants to zero, from 95 million from last year to zero. 
+Mr. Speaker, better skills means better wages and better jobs. We 
+should be investing strongly in job training programs so that people 
+will have a future for themselves and their families.
+  We should listen to the job creators in this country. We should 
+listen to the people back home, and we should reject this Republican 
+budget which incredibly turns the clock back so that we can fill the 
+job openings that the Labor Department says now total almost 6 million 
+jobs in this country. Close the skills gaps. Invest in job training.
+
+                          ____________________
+```

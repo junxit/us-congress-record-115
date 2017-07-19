@@ -1,0 +1,26 @@
+---
+granule: CRECB-2017-pt8-Pg11133-2
+date: 2017-07-19
+edition: CRECB
+section: SENATE
+page: 11133
+---
+
+# TRIBUTE TO MACI BURKE
+
+```
+                         TRIBUTE TO MACI BURKE
+
+● Mr. THUNE. Mr. President, today I recognize the hard work of 
+my Commerce, Science, and Transportation Committee intern Maci Burke. 
+Maci hails from Chamberlain, SD, and is a rising sophomore at the 
+University of Nebraska-Lincoln.
+  While interning on the Commerce Committee, Maci assisted the Surface 
+Transportation Subcommittee. She is a dedicated worker who was 
+committed to getting the most out of her internship. I extend my 
+sincere thanks and appreciation to Maci for all of the fine work she 
+did for the committee and wish her continued success in the years to 
+come.●
+
+                          ____________________
+```
