@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-07-19-pt1-PgH5990-3
+date: 2017-07-19
+edition: CREC
+section: HOUSE
+page: H5990
+citation: 163 Cong. Rec. H5990
+---
+
+# HONORING C.J. AND DAVE DUNKLEE
+
+**Speaking:** Hartzler, Vicky (H001053) [R-MO]
+
+```
+                     HONORING C.J. AND DAVE DUNKLEE
+
+  (Mrs. HARTZLER asked and was given permission to address the House 
+for 1 minute.)
+  Mrs. HARTZLER. Mr. Speaker, I rise today to recognize C.J. and Dave 
+Dunklee, founders of The Healing Box Project. Mr. and Mrs. Dunklee are 
+serving our Nation's veterans through providing guitar lessons at the 
+Truman VA Hospital in Columbia, Missouri.
+  The Healing Box Project came to life at the Truman VA Hospital a 
+couple of years ago. C.J. and Dave provide guitars, picks, and lessons 
+to disabled veterans in order to help them ease the wounds that so many 
+of them are facing.
+  These weekly lessons provide an outlet for veterans to use the joy of 
+music to heal their souls. Weekly, they provide these lessons for up to 
+50 veterans. C.J. and Dave provide the fundraising through their 
+501(c)(3) nonprofit to pay for the supplies and lessons needed to help 
+this project succeed.
+  I am thankful for their efforts to provide services to our Nation's 
+heroes who have so graciously given service to our great country.
+  Mr. Speaker, it is an honor to take this opportunity to recognize 
+C.J. and Dave for their efforts on behalf of our Nation's veterans. I 
+am blessed to represent them in Congress and wish them continued 
+success with this very special project.
+
+                          ____________________
+```

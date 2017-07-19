@@ -1,0 +1,44 @@
+---
+granule: CREC-2017-07-19-pt1-PgH6029
+date: 2017-07-19
+edition: CREC
+section: HOUSE
+page: H6029
+citation: 163 Cong. Rec. H6029
+---
+
+# PRESIDENT DONALD TRUMP'S ACHIEVEMENTS
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                 PRESIDENT DONALD TRUMP'S ACHIEVEMENTS
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, tomorrow marks President 
+Donald Trump's first 6 months in office, and I appreciate his many 
+successes for the American people.
+  His leadership for jobs has inspired record highs today for the Dow, 
+S&P 500, and NASDAQ. President Trump has advanced a decisive foreign 
+policy positively addressing the Muslim world, upholding the United 
+States commitment to NATO, and working with our allies for peace 
+through strength. Additionally, the President has taken firm action 
+against rogue regimes.
+  In Syria, President Trump was clear that America will not tolerate 
+chemical weapons attacks by the Assad regime against his citizens. In 
+North Korea, the President has made clear that he will challenge the 
+continued provocation by the communist, totalitarian regime; and that 
+the U.S. will expose Iran for their ballistic missile testing and human 
+rights abuses.
+  As of June 30, the House has passed 269 bills, the most of the last 
+five administrations, with 37 laws signed to date, the most of the last 
+five administrations.
+  I look forward to continuing to work with President Donald Trump and 
+Vice President Mike Pence for positive achievements to promote American 
+families.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism.
+
+                          ____________________
+```
