@@ -1,0 +1,37 @@
+---
+granule: CRECB-2017-pt8-Pg11346-2
+date: 2017-07-20
+edition: CRECB
+section: HOUSE
+page: 11346
+---
+
+# RECOGNIZING GABRIELLA BOFFELLI
+
+```
+                              {time}  1230
+                     RECOGNIZING GABRIELLA BOFFELLI
+
+  (Ms. ROS-LEHTINEN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. ROS-LEHTINEN. Madam Speaker, last night I was proud to present my 
+legislative director, Gabriella Boffelli, with the Vermillion Award of 
+the Congressional Hispanic Leadership Institute, CHLI, named after the 
+late Steve Vermillion, the former chief of staff to Congressman Lincoln 
+Diaz-Balart.
+  This award is presented each year to two staffers who exemplify 
+Steve's huge heart and dedication to freedom. None are more deserving 
+than Gaby, and her fellow honoree, Angela Ramirez.
+  Since starting as an intern in my Miami office 6 years ago, Gaby has 
+risen through the ranks, year after year, serving our south Florida 
+community with wisdom, grace, and integrity. Now completing a master's 
+degree at Johns Hopkins University, Gaby is the consummate public 
+servant, selflessly working on behalf of our constituents, while 
+constantly fighting for democracy and human rights in places like 
+Nicaragua.
+  It has been an honor to have Gaby Boffelli on my team, and I know 
+this is just the beginning of an extraordinary career.
+  Congratulations, my friend. Felicidades, mi amiga.
+
+                          ____________________
+```

@@ -1,0 +1,43 @@
+---
+granule: CRECB-2017-pt8-Pg11349-3
+date: 2017-07-20
+edition: CRECB
+section: HOUSE
+page: 11349
+---
+
+# REMEMBERING AND HONORING CONGRESSMAN MARK TAKAI
+
+```
+            REMEMBERING AND HONORING CONGRESSMAN MARK TAKAI
+
+  (Ms. GABBARD asked and was given permission to address the House for 
+1 minute.)
+  Ms. GABBARD. Mr. Speaker, 1 year ago today, we lost a brother, a 
+friend, and a colleague, someone who made a great impact on my home 
+State of Hawaii and this country.
+  My friend, Congressman Mark Takai, was someone who lived his entire 
+life with a full heart committed to serving the people of Hawaii and 
+his country. Always ready with a helping hand with creative new ideas 
+and a hearty laugh, Mark was someone who was always on the move.
+  I had the honor of serving with Mark all the way back in the Hawaii 
+State Legislature, through our time serving together in the Hawaii Army 
+National Guard and then, again, here in Congress where we both served 
+on the Armed Services Committee.
+  Mark, time and time again, made his decisions based on how best he 
+could serve the people of Hawaii, and he took a lot of pictures along 
+the way. Mark led by example with respect and with aloha understanding 
+and passion building partnerships focused on seeing how he could get 
+the job done.
+  So on this day commemorating Mark, my heart is with his family: his 
+wife, Sami; his kids, Matthew and Kaila; his parents, Naomi and Erik; 
+our entire National Guard ``family,'' ``ohana,'' and the people of 
+Hawaii as we remember Mark and honor his entire life and legacy of 
+service.
+
+[[Page 11350]]
+
+
+
+                          ____________________
+```

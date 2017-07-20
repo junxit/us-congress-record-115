@@ -1,0 +1,37 @@
+---
+granule: CRECB-2017-pt8-Pg11254-9
+date: 2017-07-20
+edition: CRECB
+section: HOUSE
+page: 11254
+---
+
+# CONGRESSIONAL PAYER STATE CAUCUS
+
+```
+                    CONGRESSIONAL PAYER STATE CAUCUS
+
+  (Mr. LANCE asked and was given permission to address the House for 1 
+minute.)
+  Mr. LANCE. Mr. Speaker, I rise today to announce the formation of the 
+Congressional Payer State Caucus.
+  I join my colleague, Congressman Bill Foster from Illinois, in 
+leading this bipartisan caucus that will examine the disparity States 
+like New Jersey and Illinois experience by paying more in Federal taxes 
+than we receive in Federal spending. In fact, New Jersey is dead last, 
+with a rate of return of just 77 cents for every Federal tax dollar 
+sent to Washington.
+  The caucus seeks to recommend legislation to ensure that donor States 
+keep more of their hard-earned funds. For example, working to maintain 
+the State and local tax deduction when this body considers an overhaul 
+of our Nation's Tax Code. Eliminating that deduction would further 
+increase the disparity that already exists.
+  Alexander Hamilton wrote in the Federalist Papers about his fear that 
+the Federal Government might monopolize taxation to the ``entire 
+exclusion and destruction of State governments.''
+  The caucus will work to address this problem and for a greater return 
+on the tremendous Federal revenue stream from economic activity and 
+innovation in New Jersey and other States.
+
+                          ____________________
+```
