@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-07-24-pt1-PgH6202
+date: 2017-07-24
+edition: CREC
+section: HOUSE
+page: H6202
+citation: 163 Cong. Rec. H6202
+---
+
+# SUPPORTING CARE CORPS
+
+**Speaking:** Lujan Grisham, Michelle (L000580) [D-NM]
+
+```
+                         SUPPORTING CARE CORPS
+
+  (Ms. MICHELLE LUJAN GRISHAM of New Mexico asked and was given 
+permission to address the House for 1 minute and to revise and extend 
+her remarks.)
+  Ms. MICHELLE LUJAN GRISHAM of New Mexico. Mr. Speaker, I rise today 
+to encourage my colleagues to support the Care Corps Demonstration Act. 
+As a caregiver myself, I know how tough a job it is and how critical it 
+is that we support family caregivers and the paid direct care 
+workforce.
+  But as our population continues to age, our country faces a critical 
+shortage of caregivers. In 2010, there were seven potential caregivers 
+for every person over the age of 80; by 2030, that ratio is projected 
+to drop by almost half, to about 4 to 1. At the same time, our economy 
+continues to feel the effect of the Great Recession, and many young 
+people are unemployed or underemployed.
+  That is why I am introducing this bipartisan bill which creates a 
+grant program that would place Care Corps volunteers in communities 
+across the country to provide services that help seniors and 
+individuals with disabilities remain independent. The program would 
+help meet the need for more caregivers and provide opportunity in a 
+growing career field by offering benefits and educational assistance to 
+the volunteers.
+  Mr. Speaker, I urge my colleagues to quickly pass this important 
+bill.
+
+                          ____________________
+```

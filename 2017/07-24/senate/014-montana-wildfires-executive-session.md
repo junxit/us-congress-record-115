@@ -1,0 +1,28 @@
+---
+granule: CREC-2017-07-24-pt1-PgS4127
+date: 2017-07-24
+edition: CREC
+section: SENATE
+page: S4127
+citation: 163 Cong. Rec. S4127
+---
+
+# Montana Wildfires (Executive Session)
+
+**Speaking:** Tester, Jon (T000464) [D-MT], Cardin, Benjamin L. (C000141) [D-MD]
+
+```
+                           Montana Wildfires
+
+  Mr. TESTER. Madam President, it has been a long, hot, dry summer in 
+Montana. That is why I rise today to honor the brave men and women in 
+Montana who are fighting wildfires throughout our great State, the 
+families who are facing devastating losses due to drought and fire, and 
+to call on Congress to do their job and help these folks.
+  Due to the drought and high temperatures, Montana has turned into a 
+tinderbox. Unfortunately, fires have sparked all across our State, some 
+24 of them--which changes by the hour, I might add. Across Montana, 
+over one-quarter million acres have already burned, and many of these 
+fires continue to rage. Montana is burning, and our heroic firefighters 
+are protecting lives, our lands, our homes, our way of life.
+```
