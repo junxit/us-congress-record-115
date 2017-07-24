@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt8-Pg11464
+date: 2017-07-24
+edition: CRECB
+section: HOUSE
+page: 11464
+---
+
+# SUPPORTING THE FULBRIGHT PROGRAM
+
+```
+                    SUPPORTING THE FULBRIGHT PROGRAM
+
+  (Mr. RASKIN asked and was given permission to address the House for 1 
+minute.)
+  Mr. RASKIN. Mr. Speaker, I rise today in strong support of the 
+Fulbright Program, which more than 370,000 people from the United 
+States and over 180 countries have participated in since its founding 
+in 1946.
+  For 70 years, the Fulbright Program has promoted strong relationships 
+between Americans and other people and stimulated international 
+education and progress. Some 57 Fulbright Fellows have received Nobel 
+Prizes; 82 have received the Pulitzer Prize; 33 have gone on to serve 
+as head of state; and 10 have been elected to the U.S. Congress.
+  All over the world, more than 370,000 Fulbright alumni are making 
+waves in science, medicine, public service, art, business, 
+philanthropy, and education.
+  Mr. Speaker, President Trump now proposes a staggering 55 percent cut 
+to the Fulbright Scholar Program. This would devastate a successful and 
+flourishing project.
+  Our country benefits enormously from Fulbright Fellows past, present, 
+and future, and I urge all of my colleagues to continue supporting this 
+excellent program on a full basis.
+
+                          ____________________
+```

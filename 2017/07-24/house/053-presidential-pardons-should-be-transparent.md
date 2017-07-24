@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt8-Pg11462-4
+date: 2017-07-24
+edition: CRECB
+section: HOUSE
+page: 11462
+---
+
+# PRESIDENTIAL PARDONS SHOULD BE TRANSPARENT
+
+```
+               PRESIDENTIAL PARDONS SHOULD BE TRANSPARENT
+
+  (Mr. KRISHNAMOORTHI asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. KRISHNAMOORTHI. Mr. Speaker, last week, The Washington Post 
+reported that President Trump was considering pardoning his aides, his 
+relatives, and even himself. Any of these actions would disrupt the 
+investigation of Special Counsel Mueller.
+  Beyond simply pardoning those convicted of crimes, the President has 
+the power to grant a pardon before charges are even brought, as 
+President Ford's pardon of President Nixon demonstrated.
+  There is no requirement that Presidential pardons be publicly 
+announced, meaning that President Trump could grant pardons in secret 
+to prevent his associates from cooperating with the special counsel. 
+That is why I am introducing the ``Presidential Pardon Transparency 
+Act.'' The President may have the power to pardon, but the American 
+people have a right to know how and when he does it.
+  This bill requires the White House to publicly disclose every pardon 
+the President grants. Our Founders established the Presidential power 
+to pardon to protect the American people from their government, not for 
+the President to protect himself. This bill upholds that principle.
+
+                          ____________________
+```
