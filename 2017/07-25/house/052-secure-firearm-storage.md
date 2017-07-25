@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt8-Pg11557-4
+date: 2017-07-25
+edition: CRECB
+section: HOUSE
+page: 11557
+---
+
+# SECURE FIREARM STORAGE
+
+```
+                         SECURE FIREARM STORAGE
+
+  (Mr. SCHNEIDER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SCHNEIDER. Mr. Speaker, communities throughout our country are 
+suffering from an epidemic of gun violence.
+  In far too many cases, stolen guns represent a growing source of the 
+weapons used in these crimes. According to the Bureau of Alcohol, 
+Tobacco, Firearms and Explosives, last year alone, nearly 18,000 
+firearms were reported stolen or lost just from Federal firearm 
+licensees, or FFLs. That is Federally licensed dealers, manufacturers, 
+and importers.
+  Today I introduced the SECURE Firearms Storage Act to help address 
+the stolen-gun problem by requiring all FFLs to securely store their 
+inventory when not open for business.
+  Additionally, this bill would require the Attorney General to review 
+and put forth further commonsense security measures to reduce the risk 
+of theft, and require new applicants to detail their security plans 
+before a new license is issued.
+  There are simply too many innocent lives being destroyed by these 
+stolen guns. I invite my colleagues to join me on this bill to make 
+commonsense improvements for gun safety.
+
+                          ____________________
+```

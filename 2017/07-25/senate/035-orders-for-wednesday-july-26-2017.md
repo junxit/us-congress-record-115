@@ -1,0 +1,29 @@
+---
+granule: CRECB-2017-pt8-Pg11640-3
+date: 2017-07-25
+edition: CRECB
+section: SENATE
+page: 11640
+---
+
+# ORDERS FOR WEDNESDAY, JULY 26, 2017
+
+```
+                  ORDERS FOR WEDNESDAY, JULY 26, 2017
+
+  Mr. ENZI. Mr. President, I ask unanimous consent that when the Senate 
+completes its business today, it adjourn until 9:30 a.m., Wednesday, 
+July 26; that following the prayer and pledge, the morning hour be 
+deemed expired, the Journal of proceedings be approved to date, the 
+time for the two leaders be reserved for their use later in the day, 
+and morning business be closed; further, that following leader remarks, 
+the Senate resume consideration of H.R. 1628, with the time until 11:30 
+a.m. equally divided between the two leaders or their designees; 
+finally, that the previous order with respect to the vote time in 
+relation to amendment No. 271 be modified to occur at 11:30 a.m. 
+tomorrow, and the vote on the pending motion to commit occur at 3:30 
+p.m. tomorrow, with all other provisions remaining in effect.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

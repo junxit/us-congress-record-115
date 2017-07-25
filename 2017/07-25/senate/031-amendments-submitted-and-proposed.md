@@ -1,0 +1,99 @@
+---
+granule: CRECB-2017-pt8-Pg11610-2
+date: 2017-07-25
+edition: CRECB
+section: SENATE
+page: 11610
+---
+
+# AMENDMENTS SUBMITTED AND PROPOSED
+
+```
+                    AMENDMENTS SUBMITTED AND PROPOSED
+
+       SA 262. Mrs. SHAHEEN (for herself and Mr. Sasse) submitted 
+     an amendment intended to be proposed by her to the bill S. 
+     1519, to authorize appropriations for fiscal year 2018 for 
+     military activities of the Department of Defense, for 
+     military construction, and for defense activities of the 
+     Department of Energy, to prescribe military personnel 
+     strengths for such fiscal year, and for other purposes; which 
+     was ordered to lie on the table.
+       SA 263. Mrs. SHAHEEN submitted an amendment intended to be 
+     proposed by her to the bill S. 1519, supra; which was ordered 
+     to lie on the table.
+       SA 264. Mr. McCAIN submitted an amendment intended to be 
+     proposed by him to the bill H.R. 1628, to provide for 
+     reconciliation pursuant to title II of the concurrent 
+     resolution on the budget for fiscal year 2017; which was 
+     ordered to lie on the table.
+       SA 265. Mr. McCAIN submitted an amendment intended to be 
+     proposed by him to the bill H.R. 1628, supra; which was 
+     ordered to lie on the table.
+       SA 266. Mr. McCAIN submitted an amendment intended to be 
+     proposed by him to the bill H.R. 1628, supra; which was 
+     ordered to lie on the table.
+       SA 267. Mr. McCONNELL proposed an amendment to the bill 
+     H.R. 1628, supra.
+       SA 268. Mr. WHITEHOUSE submitted an amendment intended to 
+     be proposed by him to the bill H.R. 1628, supra; which was 
+     ordered to lie on the table.
+       SA 269. Mr. REED (for himself, Mr. Rounds, Mr. Brown, Ms. 
+     Collins, Mr. Carper, Mr. Coons, Mr. Whitehouse, Mrs. Shaheen, 
+     Ms. Cortez Masto, and Ms. Hirono) submitted an amendment 
+     intended to be proposed by him to the bill H.R. 2810, to 
+     authorize appropriations for fiscal year 2018 for
+
+[[Page 11611]]
+
+     military activities of the Department of Defense, for 
+     military construction, and for defense activities of the 
+     Department of Energy, to prescribe military personnel 
+     strengths for such fiscal year, and for other purposes; which 
+     was ordered to lie on the table.
+       SA 270. Mr. McCONNELL proposed an amendment to amendment SA 
+     267 proposed by Mr. McConnell to the bill H.R. 1628, to 
+     provide for reconciliation pursuant to title II of the 
+     concurrent resolution on the budget for fiscal year 2017.
+       SA 271. Mr. ENZI (for Mr. Paul) proposed an amendment to be 
+     proposed to amendment SA 267 proposed by Mr. McConnell to the 
+     bill H.R. 1628, supra.
+       SA 272. Mr. JOHNSON submitted an amendment intended to be 
+     proposed to amendment SA 267 proposed by Mr. McConnell to the 
+     bill H.R. 1628, supra; which was ordered to lie on the table.
+       SA 273. Mr. JOHNSON submitted an amendment intended to be 
+     proposed to amendment SA 267 proposed by Mr. McConnell to the 
+     bill H.R. 1628, supra; which was ordered to lie on the table.
+       SA 274. Mr. BARRASSO submitted an amendment intended to be 
+     proposed to amendment SA 267 proposed by Mr. McConnell to the 
+     bill H.R. 1628, supra; which was ordered to lie on the table.
+       SA 275. Mr. BARRASSO submitted an amendment intended to be 
+     proposed to amendment SA 267 proposed by Mr. McConnell to the 
+     bill H.R. 1628, supra; which was ordered to lie on the table.
+       SA 276. Mr. KAINE (for himself, Mr. Carper, Mr. Coons, Mrs. 
+     Shaheen, Mr. Cardin, Ms. Hassan, Ms . Klobuchar, Ms. 
+     Stabenow, Mr. Warner, Ms. Heitkamp, and Mr. Nelson) submitted 
+     an amendment intended to be proposed by him to the bill H.R. 
+     1628, supra; which was ordered to lie on the table.
+       SA 277. Mr. KAINE submitted an amendment intended to be 
+     proposed by him to the bill H.R. 2810, to authorize 
+     appropriations for fiscal year 2018 for military activities 
+     of the Department of Defense, for military construction, and 
+     for defense activities of the Department of Energy, to 
+     prescribe military personnel strengths for such fiscal year, 
+     and for other purposes; which was ordered to lie on the 
+     table.
+       SA 278. Ms. DUCKWORTH submitted an amendment intended to be 
+     proposed by her to the bill H.R. 2810, supra; which was 
+     ordered to lie on the table.
+       SA 279. Mr. PAUL submitted an amendment intended to be 
+     proposed by him to the bill H.R. 1628, to provide for 
+     reconciliation pursuant to title II of the concurrent 
+     resolution on the budget for fiscal year 2017; which was 
+     ordered to lie on the table.
+       SA 280. Mr. PAUL submitted an amendment intended to be 
+     proposed by him to the bill H.R. 1628, supra; which was 
+     ordered to lie on the table.
+
+                          ____________________
+```

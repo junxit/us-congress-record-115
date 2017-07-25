@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt8-Pg11495-2
+date: 2017-07-25
+edition: CRECB
+section: HOUSE
+page: 11495
+---
+
+# CONGRATULATING CAPTAIN PHILLIP DAWSON III ON HIS RETIREMENT
+
+```
+      CONGRATULATING CAPTAIN PHILLIP DAWSON III ON HIS RETIREMENT
+
+  (Mr. DUNN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. DUNN. Madam Speaker, I rise today to congratulate Captain Phillip 
+Dawson on his retirement from the United States Navy. On Friday, 
+Captain Dawson will complete a nearly 4-year tour as the commanding 
+officer of the Naval Surface Warfare Center, Panama City, Florida.
+  A 1988 graduate of the United States Naval Academy, Captain Dawson 
+first served on the USS Tattnall as the antisubmarine warfare officer 
+and, later, on the USS Harry E. Yarnell as the fire control officer.
+  Captain Dawson assumed command of the Naval Surface Warfare Center in 
+2013, where he led the center in a wide array of missions, including 
+littoral warfare, coastal defense, and special missions. This base is 
+also home to the U.S. Navy Dive School, where all of the divers from 
+all of our services are trained.
+  Captain Dawson's selfless sacrifice to this country and dedication to 
+our Navy is truly inspiring. Madam Speaker, please join me in thanking 
+Captain Dawson, his wife, Belinda, and their three children for their 
+years of service and sacrifice, and wish them luck as they enjoy a new 
+chapter in life.
+
+                          ____________________
+```
