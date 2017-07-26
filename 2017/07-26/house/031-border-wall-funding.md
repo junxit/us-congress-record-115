@@ -1,0 +1,37 @@
+---
+granule: CRECB-2017-pt8-Pg11662-2
+date: 2017-07-26
+edition: CRECB
+section: HOUSE
+page: 11662
+---
+
+# BORDER WALL FUNDING
+
+```
+                          BORDER WALL FUNDING
+
+  (Ms. JUDY CHU of California asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Ms. JUDY CHU of California. Mr. Speaker, the inclusion of $1.6 
+billion to fund an ineffective divisive border wall is a direct attack 
+on immigrant communities across our Nation. Funding this immoral wall 
+does nothing to help our country. It only helps to promote President 
+Trump's campaign of fear.
+  The wall itself mirrors President Trump's approach to policy: 
+divisive, ineffective, and motivated by hate.
+  This is exemplified by the Trump administration's reckless disregard 
+of the humanitarian cost of building a border wall, which will force 
+immigrants and asylum seekers to take greater risks and more dangerous 
+routes that will likely result in more deaths. Furthermore, this wall 
+will literally divide immigrant households and tear families apart.
+  Instead of funding ineffective efforts to protect our homeland from 
+dangerous threats, this administration would rather fulfill a campaign 
+promise that does the exact opposite. It makes us less safe by 
+targeting immigrant communities and closing off America from our 
+neighbors.
+  American taxpayers should not be forced to foot the bill for 
+President Trump's xenophobic anti-immigrant agenda.
+
+                          ____________________
+```
