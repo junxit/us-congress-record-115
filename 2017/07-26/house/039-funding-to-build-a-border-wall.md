@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-07-26-pt1-PgH6312
+date: 2017-07-26
+edition: CREC
+section: HOUSE
+page: H6312
+citation: 163 Cong. Rec. H6312
+---
+
+# FUNDING TO BUILD A BORDER WALL
+
+**Speaking:** Lawrence, Brenda L. (L000581) [D-MI]
+
+```
+                     FUNDING TO BUILD A BORDER WALL
+
+  (Mrs. LAWRENCE asked and was given permission to address the House 
+for 1 minute.)
+  Mrs. LAWRENCE. Mr. Speaker, I rise today in strong opposition to the 
+proposed border wall funding.
+  Instead of wasting $1.6 billion in taxpayers' dollars on an 
+unnecessary border wall, the DHS should focus its limited resources on 
+more important border security priorities.
+  This includes upgrading and hiring more personnel for ports of entry, 
+the main path for illegal drugs. This could include better and more 
+technology so that border security agents will have a better idea what 
+is happening along the borders.
+  The border wall will be dangerous. Violence, poverty, and family ties 
+ensure that migrants will continue attempting the risky journey through 
+the border region's hostile zones.
+  The border wall will be divisive. We need to do our job, Mr. Speaker, 
+and come together as a Congress for a comprehensive immigration plan; 
+at the least, reform of our immigration policies. Building a wall sends 
+a toxic message to one of our closest neighbors, a country on which we, 
+the United States, depend on.
+
+                          ____________________
+```
