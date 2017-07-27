@@ -1,0 +1,55 @@
+---
+granule: CREC-2017-07-27-pt1-PgS4420-5
+date: 2017-07-27
+edition: CREC
+section: SENATE
+page: S4420
+citation: 163 Cong. Rec. S4420
+---
+
+# MESSAGES FROM THE HOUSE
+
+**Measures:** H.R. 1927, H.R. 2370, H.R. 3210, H.R. 3298
+
+```
+                         MESSAGES FROM THE HOUSE
+
+  At 10:10 a.m., a message from the House of Representatives, delivered 
+by Mrs. Cole, one of its reading clerks, announced that the House has 
+passed the following bills, in which it requests the concurrence of the 
+Senate:
+
+       H.R. 1927. An act to amend title 54, United States Code, to 
+     establish within the National Park Service the African 
+     American Civil Rights Network, and for other purposes.
+       H.R. 2370. An act to authorize Escambia County, Florida, to 
+     convey certain property that was formerly part of Santa Rosa 
+     Island National Monument and that was conveyed to Escambia 
+     County subject to restrictions on use and reconveyance.
+       H.R. 3210. An act to require the Director of the National 
+     Background Investigations Bureau to submit a report on the 
+     backlog of personnel security clearance investigations, and 
+     or other purposes.
+                                  ____
+
+  At 5:54 p.m., a message from the House of Representatives, delivered 
+by Mr. Novotny, one of its reading clerks, announced that the House 
+agrees to the amendment of the Senate to the bill (H.R. 3298) to 
+authorize the Capitol Police Board to make payments from the United 
+States Capitol Police Memorial Fund to employees of the United States 
+Capitol Police who have sustained serious line-of-duty injuries, and 
+for other purposes.
+
+
+                          enrolled bill signed
+
+  At 6:27 p.m., a message from the House of Representatives, delivered 
+by Mrs. Cole, one of its reading clerks, announced that the Speaker has 
+signed the following enrolled bill:
+  H.R. 3298. An act to authorize the Capitol Police Board to make 
+payments from the United States Capitol Police Memorial Fund to 
+employees of the United States Capitol Police who have sustained 
+serious line-of-duty injuries, and for other purposes.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-07-27-pt1-PgH6480
+date: 2017-07-27
+edition: CREC
+section: HOUSE
+page: H6480
+citation: 163 Cong. Rec. H6480
+---
+
+# DEMOCRACY IS IN JEOPARDY
+
+**Speaking:** Cohen, Steve (C001068) [D-TN]
+
+```
+                        DEMOCRACY IS IN JEOPARDY
+
+  (Mr. COHEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. COHEN. Mr. Speaker, yesterday, the Judiciary Committee brought 
+before the House a motion of inquiry that was introduced to seek 
+answers to some of the issues concerning the firing of James Comey and 
+Attorney General Jeff Sessions' role therein.
+  Instead of passing that and dealing with issues that are fundamental 
+to democracy and the respect our citizens may or may not have for its 
+government, the Republicans put a substitute amendment in, raising all 
+kinds of questions about Hillary Clinton.
+  They did everything but yell: ``Lock her up.''
+  It was a disgusting display of the majority taking advantage of the 
+minority, squelching our voice, and taking the subject away from what 
+is a serious issue concerning obstruction of justice and the potential 
+obstruction of justice that could come about if there is an attempt to 
+fire Mr. Mueller.
+  Instead, they concentrated on old harangues about Hillary Clinton. It 
+was not a good day for democracy.
+  We need to be aware of the fact that our democracy is in jeopardy, 
+and we need to be alert at every moment and try to find every answer.
+
+                          ____________________
+```

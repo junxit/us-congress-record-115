@@ -1,0 +1,44 @@
+---
+granule: CREC-2017-07-27-pt1-PgH6478
+date: 2017-07-27
+edition: CREC
+section: HOUSE
+page: H6478
+citation: 163 Cong. Rec. H6478
+---
+
+# PROTECTING DACA
+
+**Speaking:** Costa, Jim (C001059) [D-CA]
+
+```
+                            PROTECTING DACA
+
+  (Mr. COSTA asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. COSTA. Mr. Speaker, I rise to speak about the American Dream and 
+those who need protection who are striving to fulfill it. These are 
+individuals who have come to this country as children, as infants, 
+through no fault of their own, and America is the only country they 
+have ever known. In essence, they are Americans.
+  Recognizing these realities, the Deferred Action for Childhood 
+Arrivals program was created in 2012, otherwise known as DACA.
+  Since that time, DACA has granted hundreds of thousands of young 
+immigrants the stability and the protection needed to pursue a college 
+degree and seek employment, to be a part of America's future.
+  If we eliminate DACA, these students could see their pursuit of the 
+American Dream swept away beneath them. In California's San Joaquin 
+Valley, this could happen to over 500 students at the University of 
+California, Merced, who I represent, as well as over 1,000 students at 
+Fresno State University.
+  Some here in Washington plan on trying to eliminate DACA in coming 
+months, and I stand here to say we cannot let that happen.
+
+  I urge the administration and those to stand with those of us who 
+want to protect the Deferred Action for Childhood Arrivals program and 
+allow these folks to pursue the same American Dream that our parents, 
+grandparents, and previous generations were able to do. Let's keep 
+DACA.
+
+                          ____________________
+```
