@@ -1,0 +1,37 @@
+---
+granule: CRECB-2017-pt9-Pg12299-9
+date: 2017-07-28
+edition: CRECB
+section: HOUSE
+page: 12299
+---
+
+# 200TH ANNIVERSARY OF COLONEL SYLVANUS THAYER
+
+```
+              200TH ANNIVERSARY OF COLONEL SYLVANUS THAYER
+
+  (Mr. SHIMKUS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. SHIMKUS. Mr. Speaker, I rise today to recognize the 200th 
+anniversary of Colonel Sylvanus Thayer entering West Point as the fifth 
+superintendent of the United States Military Academy.
+  Colonel Thayer served 16 years as superintendent and is remembered as 
+the ``Father of the Military Academy.'' He is responsible for 
+innovations that evolved the Academy into the world's premier leader 
+development institution. His character-based leadership education 
+system set new standards that are still expected of all cadets today.
+  The current superintendent is General Bob Caslen, who carries on 
+Colonel Thayer's traditions and instills the ideals of duty, honor, and 
+country in our future leaders.
+  To that end, the West Point Class of 2017 just graduated, and I 
+congratulate the 936 commissioned 2nd lieutenants of the United States 
+Army as they take their place in the long gray line. The class of 2017 
+has just begun with 1,230 members beginning their West Point 
+experience.
+  I thank Colonel Thayer and those who follow him for exhibiting 
+courage and developing leaders of character in the defense of our 
+country. With that, I say: Beat Navy.
+
+                          ____________________
+```
