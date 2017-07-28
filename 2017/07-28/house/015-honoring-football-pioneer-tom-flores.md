@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-07-28-pt1-PgH6525-2
+date: 2017-07-28
+edition: CREC
+section: HOUSE
+page: H6525
+citation: 163 Cong. Rec. H6525
+---
+
+# HONORING FOOTBALL PIONEER TOM FLORES
+
+**Speaking:** Soto, Darren (S001200) [D-FL]
+
+```
+                              {time}  0915
+                  HONORING FOOTBALL PIONEER TOM FLORES
+
+  (Mr. SOTO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. SOTO. Mr. Speaker, I am pleased to introduce a resolution for Tom 
+Flores urging he be inducted into the Pro Football Hall of Fame.
+  Tom Flores had an outstanding and successful career, both as a 
+quarterback and as a head coach. This resolution pays tribute to his 
+inspiring athletic talents.
+  Flores became the first Hispanic starting quarterback in professional 
+football history and played on two Super Bowl-winning teams. Also, he 
+was the first Hispanic head coach to win two Super Bowls, a feat he 
+accomplished on two separate teams, and he became the first Hispanic 
+manager in the National Football League. He left with an impressive 
+lifetime record and an 8-3 playoff record.
+  Tom has been a trailblazer for Hispanics in the NFL and has motivated 
+a generation of new players by showing they can compete and win. Let's 
+enter this trailblazer into the Hall of Fame.
+
+                          ____________________
+```
