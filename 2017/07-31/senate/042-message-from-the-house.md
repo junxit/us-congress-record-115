@@ -1,0 +1,66 @@
+---
+granule: CREC-2017-07-31-pt1-PgS4616-5
+date: 2017-07-31
+edition: CREC
+section: SENATE
+page: S4616
+citation: 163 Cong. Rec. S4616
+---
+
+# MESSAGE FROM THE HOUSE
+
+**Measures:** H.R. 95, S. 114, S. 371, H.R. 873, H.R. 2772, H.R. 3180, H.R. 3219, H.R. 3262
+
+```
+                         MESSAGE FROM THE HOUSE
+
+  At 4:03 p.m., a message from the House of Representatives, delivered 
+by Mr. Novotny, one of its reading clerks, announced that the House has 
+passed the following bills, in which it requests the concurrence of the 
+Senate:
+
+       H.R. 95. An act to amend title 38, United States Code, to 
+     direct the Secretary of Veterans Affairs to provide child 
+     care assistance to veterans receiving certain medical 
+     services provided by the Department of Veterans Affairs.
+       H.R. 873. An act to authorize the Global War on Terror 
+     Memorial Foundation to establish the National Global War on 
+     Terrorism Memorial as a commemorative work in the District of 
+     Columbia, and for other purposes.
+       H.R. 2772. An act to amend title 38, United States Code, to 
+     provide for requirements relating to the reassignment of 
+     Department of Veterans Affairs senior executive employees.
+       H.R. 3180. An act to authorize appropriations for fiscal 
+     year 2018 for intelligence and intelligence-related 
+     activities of the United States Government, the Community 
+     Management Account, and the Central Intelligence Agency 
+     Retirement and Disability System, and for other purposes.
+       H.R. 3219. An act making appropriations for the Department 
+     of Defense for the fiscal year ending September 30, 2018, and 
+     for other purposes.
+       H.R. 3262. An act to require the Secretary of Veterans 
+     Affairs to carry out a pilot program to provide educational 
+     assistance to certain former members of the Armed Forces for 
+     education and training as physician assistants of the 
+     Department of Veterans Affairs, and for other purposes.
+
+  The message also announced that the House has passed the following 
+bill with an amendment, in which it requests the concurrence of the 
+Senate:
+
+       S. 371. An act to make technical changes and other 
+     improvements to the Department of State Authorities Act, 
+     Fiscal Year 2017.
+
+  The message further announced that the House has passed the following 
+bill with amendments, in which it requests the concurrence of the 
+Senate:
+
+       S. 114. An act to amend title 38, United States Code, to 
+     require the Secretary of Veterans Affairs to submit an annual 
+     report regarding performance awards and bonuses awarded to 
+     certain high-level employees of the Department of Veterans 
+     Affairs.
+
+                          ____________________
+```
