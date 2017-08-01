@@ -1,0 +1,54 @@
+---
+granule: CRECB-2017-pt9-Pg12446
+date: 2017-08-01
+edition: CRECB
+section: SENATE
+page: 12446
+---
+
+# FDA REAUTHORIZATION ACT OF 2017--MOTION TO PROCEED
+
+```
+           FDA REAUTHORIZATION ACT OF 2017--MOTION TO PROCEED
+
+  Mr. McCONNELL. Mr. President, I move to proceed to Calendar No. 174, 
+H.R. 2430.
+  The PRESIDING OFFICER. The clerk will report the motion.
+  The legislative clerk read as follows:
+
+       Motion to proceed to Calendar No. 174, H.R. 2430, a bill to 
+     amend the Federal Food, Drug, and Cosmetic Act to revise and 
+     extend the user-fee programs for prescription drugs, medical 
+     devices, generic drugs, and biosimilar biological products, 
+     and for other purposes.
+
+
+                             Cloture Motion
+
+  Mr. McCONNELL. Mr. President, I send a cloture motion to the desk.
+  The PRESIDING OFFICER. The cloture motion having been presented under 
+rule XXII, the Chair directs the clerk to read the motion.
+  The legislative clerk read as follows:
+
+                             Cloture Motion
+
+       We, the undersigned Senators, in accordance with the 
+     provisions of rule XXII of the Standing Rules of the Senate, 
+     do hereby move to bring to a close debate on the motion to 
+     proceed to calendar No. 174, H.R. 2430, an act to amend the 
+     Federal Food, Drug, and Cosmetic Act to revise and extend the 
+     user-fee programs for prescription drugs, medical devices, 
+     generic drugs, and biosimilar biological products, and for 
+     other purposes.
+         Mitch McConnell, Steve Daines, Mike Crapo, James M. 
+           Inhofe, Lamar Alexander, Pat Roberts, Thom Tillis, 
+           Orrin G. Hatch, John Cornyn, Cory Gardner, Roy Blunt, 
+           James E. Risch, Roger F. Wicker, Tim Scott, John Thune, 
+           Mike Rounds, John Hoeven.
+
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the 
+mandatory quorum call be waived with respect to the cloture motion.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
