@@ -1,0 +1,152 @@
+---
+granule: CREC-2017-08-01-pt1-PgS4649
+date: 2017-08-01
+edition: CREC
+section: SENATE
+page: S4649
+citation: 163 Cong. Rec. S4649
+---
+
+# EXECUTIVE CALENDAR--Continued
+
+**Speaking:** Wicker, Roger F. (W000437) [R-MS], Cornyn, John (C001056) [R-TX], Durbin, Richard J. (D000563) [D-IL]
+
+```
+                     EXECUTIVE CALENDAR--Continued
+
+  The PRESIDING OFFICER. The question is, Will the Senate advise and 
+consent to the Newsom nomination?
+  Mr. WICKER. Mr. President, I ask for the yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There appears to be a sufficient second.
+  The clerk will call the roll.
+  The assistant bill clerk called the roll.
+  Mr. CORNYN. The following Senators are necessarily absent: the 
+Senator from North Carolina (Mr. Burr) and the Senator from Arizona 
+(Mr. McCain).
+  Mr. DURBIN. I announce that the Senator from Minnesota (Mr. Franken) 
+is necessarily absent.
+  The PRESIDING OFFICER (Mr. Rubio). Are there any other Senators in 
+the Chamber desiring to vote?
+  The result was announced--yeas 66, nays 31, as follows:
+
+                      [Rollcall Vote No. 182 Ex.]
+
+                                YEAS--66
+
+     Alexander
+     Barrasso
+     Blumenthal
+     Blunt
+     Boozman
+     Capito
+     Casey
+     Cassidy
+     Cochran
+     Collins
+     Corker
+     Cornyn
+     Cotton
+     Crapo
+     Cruz
+     Daines
+     Donnelly
+     Enzi
+     Ernst
+     Feinstein
+     Fischer
+     Flake
+     Gardner
+     Graham
+     Grassley
+     Hassan
+     Hatch
+     Heitkamp
+     Heller
+     Hoeven
+     Inhofe
+     Isakson
+     Johnson
+     Kennedy
+     Klobuchar
+     Lankford
+     Leahy
+     Lee
+     McCaskill
+     McConnell
+     Moran
+     Murkowski
+     Murphy
+     Nelson
+     Paul
+     Perdue
+     Peters
+     Portman
+     Risch
+     Roberts
+     Rounds
+     Rubio
+     Sasse
+     Scott
+     Shaheen
+     Shelby
+     Stabenow
+     Strange
+     Sullivan
+     Tester
+     Thune
+     Tillis
+     Toomey
+     Warner
+     Wicker
+     Young
+
+                                NAYS--31
+
+     Baldwin
+     Bennet
+     Booker
+     Brown
+     Cantwell
+     Cardin
+     Carper
+     Coons
+     Cortez Masto
+     Duckworth
+     Durbin
+     Gillibrand
+     Harris
+     Heinrich
+     Hirono
+     Kaine
+     King
+     Manchin
+     Markey
+     Menendez
+     Merkley
+     Murray
+     Reed
+     Sanders
+     Schatz
+     Schumer
+     Udall
+     Van Hollen
+     Warren
+     Whitehouse
+     Wyden
+
+                             NOT VOTING--3
+
+     Burr
+     Franken
+     McCain
+  The nomination was confirmed.
+  The PRESIDING OFFICER. The majority whip.
+  Mr. CORNYN. Mr. President, I ask unanimous consent that with respect 
+to the Wray and Newsom nominations, the motions to reconsider be 
+considered made and laid upon the table en bloc and the President be 
+immediately notified of the Senate's action.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

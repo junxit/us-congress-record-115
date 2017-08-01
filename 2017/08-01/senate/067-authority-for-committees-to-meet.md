@@ -1,0 +1,68 @@
+---
+granule: CREC-2017-08-01-pt1-PgS4681
+date: 2017-08-01
+edition: CREC
+section: SENATE
+page: S4681
+citation: 163 Cong. Rec. S4681
+---
+
+# AUTHORITY FOR COMMITTEES TO MEET
+
+**Speaking:** Barrasso, John (B001261) [R-WY]
+
+```
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+  Mr. BARRASSO. Mr. President, I have 5 requests for committees to meet 
+during today's session of the Senate. They have the approval of the 
+Majority and Minority leaders.
+  Pursuant to Rule XXVI, paragraph 5(a), of the Standing Rules of the 
+Senate, the following committees are authorized to meet during today's 
+session of the Senate.
+
+
+          Committee on Health, Education, Labor, and Pensions
+
+  The Committee on Health, Education, Labor, and Pensions is authorized 
+to meet, during the session of the Senate, in order to conduct a 
+hearing entitled ``Nomination Hearing'' on Tuesday, August 1, 2017, at 
+2:30 p.m., in room 430 of the Dirksen Senate Office Building.
+
+
+                          Committee on Finance
+
+  The Committee on Finance is authorized to meet during the session of 
+the Senate on Tuesday, August 1, 2017, at 10 a.m., in 215 Dirksen 
+Senate Office Building, to conduct a hearing entitled ``America's 
+Affordable Housing Crisis: Challenges and Solutions.''
+
+
+                     Committee on Foreign Relations
+
+  The Committee on Foreign Relations is authorized to meet during the 
+session of the Senate on Tuesday, August 1, 2017 at 11 a.m., to hold a 
+hearing entitled ``Nominations.''
+
+
+     Subcommittee on Oceans, Atmosphere, Fisheries, and Coast Guard
+
+  The Committee on Commerce, Science, and Transportation is authorized 
+to hold a meeting during the session of the Senate on Tuesday, August 
+1, 2017, at 10 a.m. in room 253 of the Russell Senate Office Building. 
+The Committee will hold Subcommittee Hearing on ``Reauthorization of 
+the Magnuson-Stevens Fishery Conservation and Management Act: NOAA and 
+Council Perspectives.''
+
+
+ Subcommittee on Superfund, Waste Management, and Regulatory Oversight
+
+  The Subcommittee on Superfund, Waste Management, and Regulatory 
+Oversight of the Committee on Environment and Public Works is 
+authorized to meet during the session of the Senate on August 1, 2017, 
+at 10 a.m. in room 406 of the Dirksen Senate office building, to 
+conduct a hearing entitled, ``Oversight of the U.S. Environmental 
+Protection Agency's Superfund Program.''
+
+                          ____________________
+```
