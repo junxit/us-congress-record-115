@@ -1,0 +1,65 @@
+---
+granule: CRECB-2017-pt9-Pg12545
+date: 2017-08-02
+edition: CRECB
+section: SENATE
+page: 12545
+---
+
+# THE GREAT AMERICAN ECLIPSE
+
+```
+                       THE GREAT AMERICAN ECLIPSE
+
+  Mr. WYDEN. Mr. President, today I wish to recognize the historic 
+event of the Great American Eclipse that will cross the continental 
+United States on August 21. That morning, the eclipse will first pass 
+over my home State of Oregon, then sweep across the U.S., ending in 
+South Carolina. Millions of people across Oregon and the country are 
+planning on watching those few moments when the moon will cover the sun 
+and everything will go dark.
+  It has been 99 years since a total solar eclipse has occurred across 
+the entire country, and whether someone is 5 or 95, this may be the 
+only time they will ever see a total eclipse. It is truly a once-in-a-
+lifetime event.
+  This solar eclipse is a rare occurrence where the wonders of science 
+will come right to the front doors of millions of people. That fact 
+hasn't been lost on schools and science organizations throughout 
+Oregon. Educators from the coastal areas of the State to the mountains 
+of eastern Oregon have been working hard to use this eclipse as an 
+opportunity to engage students in the areas of science, technology, 
+engineering, and mathematics, commonly called STEM.
+  One of the best science museums in the country, the Oregon Museum of 
+Science and Industry, OMSI, has planned an amazing viewing party, with 
+the hope of engaging folks of all ages in the science behind the 
+eclipse. Oregon native Don Pettit, who is a NASA astronaut, will even 
+be there to share his experience of viewing eclipses from the 
+International Space Station. Over the years, OMSI has been a leader in 
+getting students excited about STEM fields. I am so glad the museum is 
+using this eclipse as yet another opportunity to get communities 
+involved in science.
+
+[[Page 12546]]
+
+  Universities throughout the State are also doing their part to ensure 
+students and community members get the most out of the event. In 
+Corvallis, Oregon State University is hosting a 3-day eclipse event, 
+with astronomy exhibits and a series of science lectures. I also 
+understand that Portland State University, with the help of NASA, will 
+launch video cameras attached to high-altitude balloons, giving anyone 
+the ability to tune in and watch a live stream of the eclipse. Programs 
+like these are so important because they make scientific events more 
+accessible to the younger generations.
+  I also want to take a few moments today to recognize the local 
+leaders, first responders, and the National Guard who are working 
+tirelessly to ensure that communities throughout the State enjoy the 
+eclipse festivities safely. These public servants have been a shining 
+light in making sure Oregonians and visitors alike have the best 
+experience while viewing the solar eclipse.
+  As the eclipse arcs across the country and folks from the West Coast 
+to the East Coast don their eclipse glasses to look up at the darkened 
+sun, it is my sincere hope that it ignites a ray of passion in students 
+throughout the country to explore STEM fields more deeply.
+
+                          ____________________
+```
