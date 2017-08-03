@@ -1,0 +1,80 @@
+---
+granule: CREC-2017-08-03-pt1-PgS4787-2
+date: 2017-08-03
+edition: CREC
+section: SENATE
+page: S4787
+citation: 163 Cong. Rec. S4787
+---
+
+# BETTER EMPOWERMENT NOW TO ENHANCE FRAMEWORK AND IMPROVE TREATMENTS ACT OF 2017
+
+**Speaking:** Alexander, Lamar (A000360) [R-TN]
+
+**Measures:** S. 1052
+
+```
+BETTER EMPOWERMENT NOW TO ENHANCE FRAMEWORK AND IMPROVE TREATMENTS ACT 
+                                OF 2017
+
+  Mr. ALEXANDER. Mr. President, I ask unanimous consent that the 
+Committee on Health, Education, Labor, and Pensions be discharged from 
+further consideration of S. 1052 and the Senate proceed to its 
+immediate consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the bill by title.
+  The legislative clerk read as follows:
+
+       A bill (S. 1052) to strengthen the use of patient-
+     experience data within the benefit-risk framework for 
+     approval of new drugs.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. ALEXANDER. Mr. President, I ask unanimous consent that the bill 
+be considered read a third time and passed and the motion to reconsider 
+be considered made and laid upon the table.
+
+[[Page S4788]]
+
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill (S. 1052) was ordered to be engrossed for a third reading, 
+was read the third time, and passed, as follows:
+
+                                S. 1052
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Better Empowerment Now to 
+     Enhance Framework and Improve Treatments Act of 2017'' or the 
+     ``BENEFIT Act of 2017''.
+
+     SEC. 2. STRENGTHENING THE USE PATIENT-EXPERIENCE DATA WITHIN 
+                   BENEFIT-RISK FRAMEWORK.
+
+       Section 569C of the Federal Food, Drug, and Cosmetic Act 
+     (21 U.S.C. 360bbb-8c) is amended--
+       (1) in subsection (a)(1)--
+       (A) in subparagraph (A), by striking ``; and'' and 
+     inserting a semicolon;
+       (B) in subparagraph (B), by striking the period and 
+     inserting ``; and''; and
+       (C) by adding at the end the following:
+       ``(C) as part of the risk-benefit assessment framework in 
+     the new drug approval process described in section 505(d), 
+     considering relevant patient-focused drug development data, 
+     such as data from patient preference studies (benefit-risk), 
+     patient reported outcome data, or patient experience data, 
+     developed by the sponsor of an application or another 
+     party.''; and
+       (2) in subsection (b)(1). by inserting ``, including a 
+     description of how such data and information were considered 
+     in the risk benefit assessment described in section 505(d)'' 
+     before the period.
+
+  The PRESIDING OFFICER. The Senator from Wisconsin.
+
+                          ____________________
+```
