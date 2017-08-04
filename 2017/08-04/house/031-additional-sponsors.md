@@ -1,0 +1,143 @@
+---
+granule: CREC-2017-08-04-pt1-PgH6589-15
+date: 2017-08-04
+edition: CREC
+section: HOUSE
+page: H6589
+citation: 163 Cong. Rec. H6589
+---
+
+# ADDITIONAL SPONSORS
+
+**Measures:** H.Res. 31, H.J.Res. 51, H.Con.Res. 72, H.Con.Res. 73, H.J.Res. 88, H.R. 113, H.R. 122, H.Res. 128, H.Res. 129, H.R. 154, H.R. 252, H.Res. 257, H.R. 299, H.Res. 401, H.Res. 458, H.Res. 466, H.Res. 488, H.Res. 495, H.R. 525, H.R. 535, H.R. 576, H.R. 613, H.R. 619, H.R. 721, H.R. 828, H.R. 830, H.R. 846, H.R. 916, H.R. 930, H.R. 1149, H.R. 1155, H.R. 1164, H.R. 1247, H.R. 1406, H.R. 1429, H.R. 1439, H.R. 1606, H.R. 1622, H.R. 1656, H.R. 1660, H.R. 1661, H.R. 1676, H.R. 1683, H.R. 1731, H.R. 1748, H.R. 1820, H.R. 1865, H.R. 1880, H.R. 1938, H.R. 2198, H.R. 2236, H.R. 2267, H.R. 2391, H.R. 2393, H.R. 2408, H.R. 2418, H.R. 2422, H.R. 2584, H.R. 2690, H.R. 2713, H.R. 2723, H.R. 2790, H.R. 2801, H.R. 2840, H.R. 2855, H.R. 2901, H.R. 2925, H.R. 2942, H.R. 2989, H.R. 2996, H.R. 3031, H.R. 3060, H.R. 3071, H.R. 3186, H.R. 3222, H.R. 3227, H.R. 3236, H.R. 3238, H.R. 3258, H.R. 3304, H.R. 3316, H.R. 3324, H.R. 3332, H.R. 3380, H.R. 3397, H.R. 3441, H.R. 3473, H.R. 3495, H.R. 3525, H.R. 3556, H.R. 3582, H.R. 3588, H.R. 3591, H.R. 3617
+
+```
+                          ADDITIONAL SPONSORS
+
+  Under clause 7 of rule XII, sponsors were added to public bills and 
+resolutions, as follows:
+
+       H.R. 113: Ms. Kelly of Illinois.
+       H.R. 122: Mr. Cohen.
+
+[[Page H6590]]
+
+  
+
+       H.R. 154: Mr. Carson of Indiana.
+       H.R. 252: Mr. Rush.
+       H.R. 299: Mr. Amash.
+       H.R. 525: Mr. Bergman.
+       H.R. 535: Mr. Knight and Ms. Wasserman Schultz.
+       H.R. 576: Mr. Reed.
+       H.R. 613: Mr. Tipton.
+       H.R. 619: Mr. Richmond.
+       H.R. 721: Mr. Faso and Mr. Budd.
+       H.R. 828: Mr. Reed.
+       H.R. 830: Mr. Gottheimer.
+       H.R. 846: Mr. McCarthy.
+       H.R. 916: Mr. Coffman.
+       H.R. 930: Mr. Crowley.
+       H.R. 1149: Mr. Brooks of Alabama.
+       H.R. 1155: Ms. Tsongas.
+       H.R. 1164: Mrs. McMorris Rodgers and Mr. Faso.
+       H.R. 1247: Mrs. Comstock.
+       H.R. 1406: Ms. Michelle Lujan Grisham of New Mexico, Mr. 
+     Himes, Mrs. Davis of California, and Mr. Frelinghuysen.
+       H.R. 1429: Mr. Fitzpatrick.
+       H.R. 1439: Ms. Meng.
+       H.R. 1606: Mr. Williams.
+       H.R. 1622: Ms. Brownley of California.
+       H.R. 1656: Mr. Fitzpatrick.
+       H.R. 1660: Mr. Costello of Pennsylvania.
+       H.R. 1661: Mr. Shimkus and Mr. LaMalfa.
+       H.R. 1676: Mr. McGovern, Ms. Herrera Beutler, and Ms. 
+     Wilson of Florida.
+       H.R. 1683: Mrs. Comstock.
+       H.R. 1731: Mr. Ryan of Ohio and Mr. Johnson of Ohio.
+       H.R. 1748: Ms. Michelle Lujan Grisham of New Mexico.
+       H.R. 1820: Mr. Thompson of California.
+       H.R. 1865: Mr. McCaul, Mr. Fitzpatrick, Mrs. Walorski, Mr. 
+     Reed, Mr. Joyce of Ohio, Mr. Brady of Pennsylvania, Mr. 
+     Stewart, Mr. Franks of Arizona, Ms. Sinema, Mr. Rush, Mr. 
+     Meeks, and Mr. O'Halleran.
+       H.R. 1880: Mr. Pallone and Mr. Gallego.
+       H.R. 1938: Mr. Newhouse.
+       H.R. 2198: Mr. Jones.
+       H.R. 2236: Mr. Evans and Ms. Michelle Lujan Grisham of New 
+     Mexico.
+       H.R. 2267: Mr. Pocan, Mr. Kihuen, and Mr. Peters.
+       H.R. 2391: Mr. Biggs.
+       H.R. 2393: Mr. Evans and Ms. Clarke of New York.
+       H.R. 2408: Ms. Frankel of Florida, Mr. David Scott of 
+     Georgia, Mr. DeSaulnier, Ms. Eshoo, and Ms. Lofgren.
+       H.R. 2418: Mr. McNerney.
+       H.R. 2422: Mr. Young of Alaska and Mr. Cummings.
+       H.R. 2584: Mr. Turner, Mr. Sessions, Mr. Cuellar, and Mr. 
+     Perlmutter.
+       H.R. 2690: Ms. Bonamici.
+       H.R. 2713: Ms. Kaptur.
+       H.R. 2723: Mr. Coffman.
+       H.R. 2790: Mr. Delaney and Mr. Smith of New Jersey.
+       H.R. 2801: Mr. Ross and Mr. Crist.
+       H.R. 2840: Ms. Gabbard.
+       H.R. 2855: Mr. Gene Green of Texas.
+       H.R. 2901: Ms. Jenkins of Kansas, Mr. Costello of 
+     Pennsylvania, and Mr. Donovan.
+       H.R. 2925: Ms. Kuster of New Hampshire.
+       H.R. 2942: Mrs. Beatty.
+       H.R. 2989: Mr. Mooney of West Virginia.
+       H.R. 2996: Mr. Graves of Georgia and Mr. Rouzer.
+       H.R. 3031: Mrs. Beatty.
+       H.R. 3060: Ms. Clarke of New York.
+       H.R. 3071: Mr. Hudson and Mr. Culberson.
+       H.R. 3186: Mr. Smith of Washington.
+       H.R. 3222: Ms. DelBene and Mr. Rush.
+       H.R. 3227: Mr. Pallone.
+       H.R. 3236: Mr. Nolan.
+       H.R. 3238: Mr. Curbelo of Florida.
+       H.R. 3258: Mr. Nadler, Mr. Panetta, Mr. Carson of Indiana, 
+     Mr. Khanna, Mr. Gomez, Mr. Pascrell, and Mr. Larsen of 
+     Washington.
+       H.R. 3304: Mr. Evans and Mr. Hastings.
+       H.R. 3316: Ms. Jackson Lee, Mr. Larsen of Washington, Mr. 
+     Cicilline, and Mr. Pallone.
+       H.R. 3324: Mr. Cartwright.
+       H.R. 3332: Mr. Deutch and Mr. Young of Alaska.
+       H.R. 3380: Mr. McNerney, Mr. Grijalva, and Ms. Slaughter.
+       H.R. 3397: Mr. Ryan of Ohio.
+       H.R. 3441: Mr. Dent, Mr. Carter of Georgia, Mr. Rogers of 
+     Alabama, Mrs. Wagner, Mr. Moolenaar, and Mrs. Walorski.
+       H.R. 3473: Ms. Slaughter.
+       H.R. 3495: Mr. Smith of Washington, Ms. Wasserman Schultz, 
+     and Mr. Michael F. Doyle of Pennsylvania.
+       H.R. 3525: Ms. Schakowsky.
+       H.R. 3556: Mr. Stivers.
+       H.R. 3582: Ms. Slaughter.
+       H.R. 3588: Mr. Brooks of Alabama and Mr. Babin.
+       H.R. 3591: Mr. Cleaver, Mr. Huffman, Mrs. Carolyn B. 
+     Maloney of New York, Mr. Panetta, Ms. Maxine Waters of 
+     California, Mr. Larsen of Washington, Mrs. Lowey, and Mr. 
+     Engel.
+       H.R. 3617: Mr. Ellison and Mr. Meeks.
+       H.J. Res. 51: Mr. Courtney.
+       H.J. Res. 88: Ms. Tsongas.
+       H. Con. Res. 72: Mr. McNerney and Mr. Knight.
+       H. Con. Res. 73: Mr. Palazzo and Mr. Gosar.
+       H. Res. 31: Mr. Meeks.
+       H. Res. 128: Mr. Royce of California and Ms. Clark of 
+     Massachusetts.
+       H. Res. 129: Ms. Kaptur and Mr. Bishop of Georgia.
+       H. Res. 257: Ms. Judy Chu of California and Ms. Jayapal.
+       H. Res. 401: Mr. Brady of Pennsylvania, Mr. Fitzpatrick, 
+     Ms. Michelle Lujan Grisham of New Mexico, Mr. Stivers, Mr. 
+     Himes, Mrs. Davis of California, Mr. Larson of Connecticut, 
+     Mrs. Dingell, and Mr. Crist.
+       H. Res. 458: Mr. Babin.
+       H. Res. 466: Mr. Thompson of California, Mr. Ross, Mr. 
+     Donovan, and Mr. Heck.
+       H. Res. 488: Mr. Cohen, Mr. Evans, Mr. McEachin, Ms. Lee, 
+     Mr. Welch, Mr. Schneider, Mr. Krishnamoorthi, Mrs. Lowey, Mr. 
+     Blumenauer, Ms. Lofgren, and Mr. Sherman.
+       H. Res. 495: Mrs. Comstock.
+```
