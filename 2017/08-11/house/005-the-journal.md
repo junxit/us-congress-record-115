@@ -1,0 +1,21 @@
+---
+granule: CREC-2017-08-11-pt1-PgH6595-4
+date: 2017-08-11
+edition: CREC
+section: HOUSE
+page: H6595
+citation: 163 Cong. Rec. H6595
+---
+
+# THE JOURNAL
+
+**Measures:** H.Res. 481
+
+```
+                              THE JOURNAL
+
+  The SPEAKER pro tempore. Pursuant to section 3(a) of House Resolution 
+481, the Journal of the last day's proceedings is approved.
+
+                          ____________________
+```
