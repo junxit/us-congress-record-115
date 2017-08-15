@@ -1,0 +1,69 @@
+---
+granule: CREC-2017-08-15-pt1-PgH6607-3
+date: 2017-08-15
+edition: CREC
+section: HOUSE
+page: H6607
+citation: 163 Cong. Rec. H6607
+---
+
+# ADDITIONAL SPONSORS
+
+**Measures:** H.Con.Res. 63, H.R. 113, H.Res. 129, H.R. 187, H.Res. 257, H.R. 529, H.R. 564, H.R. 669, H.R. 1057, H.R. 1090, H.R. 1098, H.R. 1155, H.R. 1178, H.R. 1179, H.R. 1298, H.R. 1314, H.R. 1315, H.R. 1322, H.R. 1406, H.R. 1437, H.R. 1661, H.R. 1828, H.R. 1880, H.R. 2396, H.R. 2482, H.R. 2505, H.R. 2589, H.R. 2821, H.R. 2840, H.R. 3046, H.R. 3107, H.R. 3174, H.R. 3197, H.R. 3222, H.R. 3332, H.R. 3333, H.R. 3393, H.R. 3402, H.R. 3513, H.R. 3529, H.R. 3545, H.R. 3650
+
+```
+                          ADDITIONAL SPONSORS
+
+  Under clause 7 of rule XII, sponsors were added to public bills and 
+resolutions, as follows:
+
+       H.R. 113: Mr. Lynch, Ms. Jackson Lee, Ms. Pingree, Mr. 
+     Yoder, Mr. Conyers, and Ms. Roybal-Allard.
+       H.R. 187: Ms. Wilson of Florida.
+       H.R. 529: Mr. Fitzpatrick.
+       H.R. 564: Mr. Brady of Pennsylvania.
+       H.R. 669: Mr. Gutierrez, Ms. Bonamici, and Mr. Huffman.
+       H.R. 1057: Mr. David Scott of Georgia, Mr. Frelinghuysen, 
+     Mr. Perry, and Mr. Jody B. Hice of Georgia.
+       H.R. 1090: Mrs. Beatty, Mrs. Comstock, and Mr. Cummings.
+       H.R. 1098: Ms. Shea-Porter.
+       H.R. 1155: Mrs. Walorski.
+       H.R. 1178: Mr. Brooks of Alabama.
+       H.R. 1179: Mr. Gianforte.
+       H.R. 1298: Mr. Emmer, Mr. Flores, and Ms. Herrera Beutler.
+       H.R. 1314: Ms. Herrera Beutler.
+       H.R. 1315: Mr. Diaz-Balart.
+       H.R. 1322: Mr. Sarbanes.
+       H.R. 1406: Mr. Loebsack.
+       H.R. 1437: Ms. Meng.
+       H.R. 1661: Mr. Engel, Mr. Young of Iowa, Ms. Clarke of New 
+     York, and Ms. Hanabusa.
+       H.R. 1828: Mrs. Walorski.
+       H.R. 1880: Ms. Moore.
+       H.R. 2396: Mr. Rothfus and Mr. Gonzalez of Texas.
+       H.R. 2482: Mr. Higgins of New York.
+       H.R. 2505: Mr. Cicilline.
+       H.R. 2589: Mr. Babin.
+       H.R. 2821: Mr. Sessions.
+       H.R. 2840: Mr. Lawson of Florida.
+       H.R. 3046: Mr. Fitzpatrick.
+       H.R. 3107: Mr. McNerney.
+       H.R. 3174: Mr. Swalwell of California.
+       H.R. 3197: Mr. Cicilline, Mr. Blumenauer, Mr. Gaetz, Mr. 
+     Curbelo of Florida, Mrs. Davis of California, Ms. Jackson 
+     Lee, and Mr. Cardenas.
+       H.R. 3222: Mrs. Beatty and Ms. Rosen.
+       H.R. 3332: Mr. Chabot.
+       H.R. 3333: Mr. Jody B. Hice of Georgia.
+       H.R. 3393: Mrs. Torres, Ms. Shea-Porter, Ms. Slaughter, and 
+     Ms. Rosen.
+       H.R. 3402: Ms. Kuster of New Hampshire.
+       H.R. 3513: Mr. Carter of Georgia.
+       H.R. 3529: Mr. Grothman.
+       H.R. 3545: Mr. Sessions and Mr. LaHood.
+       H.R. 3650: Ms. Jackson Lee, Mr. Walker, and Mr. Young of 
+     Alaska.
+       H. Con. Res. 63: Mr. Tonko.
+       H. Res. 129: Mr. Brady of Texas.
+       H. Res. 257: Mrs. Lawrence.
+```
