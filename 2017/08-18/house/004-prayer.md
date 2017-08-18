@@ -1,0 +1,33 @@
+---
+granule: CREC-2017-08-18-pt1-PgH6609-3
+date: 2017-08-18
+edition: CREC
+section: HOUSE
+page: H6609
+citation: 163 Cong. Rec. H6609
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  Rabbi Arnold E. Resnicoff, Retired Chaplain, United States Navy, 
+Washington, D.C., offered the following prayer:
+  Almighty God, we pray, reflect, or meditate in different ways but 
+together ask Your blessing for this country that we love. We are far 
+from perfect, but we have a perfect dream: liberty, justice--equality--
+for all.
+  On this date, August 18, we made progress in the past. We ratified 
+the 19th Amendment, tearing down the wall that blocked a woman's right 
+to vote; did what we do best when we are at our best; made a moral 
+right a legal right, enshrining liberty in law.
+  This week we mourn the pain and death of neighbors--the clashes in 
+the street, the shouted words of hate--attacks against the very dreams 
+that remind us who and what we yearn to be.
+  And so we pray with words of song: America, America, God mend thine 
+every flaw, confirm thy soul in self-control, thy liberty in law.
+  And let us say, Amen.
+
+                          ____________________
+```
