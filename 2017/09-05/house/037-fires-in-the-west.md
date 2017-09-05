@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-09-05-pt1-PgH6647-2
+date: 2017-09-05
+edition: CREC
+section: HOUSE
+page: H6647
+citation: 163 Cong. Rec. H6647
+---
+
+# FIRES IN THE WEST
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                           FIRES IN THE WEST
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, appropriately and necessarily, we will be 
+addressing the issue of Hurricane Harvey and its devastating effects on 
+Texas, Louisiana, and our American colleagues down there. But also we 
+have a crisis going on in the West. Tens of thousands of acres of our 
+forests are going up in smoke this year just like every year. The 
+inability of the Forest Service to act due to lawsuits and lack of will 
+is inexcusable.
+  Our people are suffering in the West as well: Montana, tens of 
+thousands of acres; northern California and many other areas. It ruins 
+the habitat, it ruins the air quality, it ruins the water quality, and 
+it ruins the people's assets of what they own in their Federal land and 
+the Forest Service.
+  It eliminates jobs. It is harmful to our part of the country. We need 
+to do something about this crisis that happens every year and is 
+happening right now to the people of the West, to the habitat of the 
+West, and to our natural lands.
+  Mr. Speaker, we must take action very soon on this and not continue 
+to ignore it. It is hardly even in the news of what a devastating 
+effect this is of wildfire every year in our forests in our Western 
+States.
+
+                          ____________________
+```
