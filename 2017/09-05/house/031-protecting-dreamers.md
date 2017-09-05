@@ -1,0 +1,33 @@
+---
+granule: CRECB-2017-pt9-Pg12852-4
+date: 2017-09-05
+edition: CRECB
+section: HOUSE
+page: 12852
+---
+
+# PROTECTING DREAMERS
+
+```
+                          PROTECTING DREAMERS
+
+  (Mr. KRISHNAMOORTHI asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. KRISHNAMOORTHI. Mr. Speaker, today the President made clear that 
+he refuses to protect DREAMers. It is now imperative that Congress acts 
+to protect DREAMers before DACA ends.
+  This issue is personal for me because I, too, was brought to our 
+country by my parents as a child. The hope for a better life which 
+carried my parents here from oceans away was no different from that of 
+the parents of DREAMers and generations of immigrants before.
+  DREAMers play a vital role in our economy, and ending DACA would cost 
+our country nearly half a trillion dollars over 10 years. But the 
+contributions of DREAMers go beyond any single statistic: DREAMers have 
+built their lives here, started families here, built businesses here, 
+and bled in uniform for the only home they have ever known.
+  I urge Speaker Ryan and my colleagues from both parties to come 
+together to defend DREAMers and to develop a comprehensive approach to 
+immigration built on American values.
+
+                          ____________________
+```
