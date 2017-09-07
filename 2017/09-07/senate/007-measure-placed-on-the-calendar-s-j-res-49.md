@@ -1,0 +1,45 @@
+---
+granule: CREC-2017-09-07-pt1-PgS5023-6
+date: 2017-09-07
+edition: CREC
+section: SENATE
+page: S5023
+citation: 163 Cong. Rec. S5023
+---
+
+# MEASURE PLACED ON THE CALENDAR--S.J. RES. 49
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+**Measures:** S.J.Res. 49
+
+```
+              MEASURE PLACED ON THE CALENDAR--S.J. RES. 49
+
+  Mr. McCONNELL. Mr. President, I understand there is a joint 
+resolution at the desk that is due a second reading.
+  The PRESIDING OFFICER. The clerk will read the joint resolution by 
+title for the second time.
+  The senior assistant legislative clerk read as follows:
+
+       A joint resolution (S.J. Res. 49) condemning the violence 
+     and domestic terrorist attack that took place during events 
+     between August 11 and August 12, 2017, in Charlottesville, 
+     Virginia, recognizing the first responders who lost their 
+     lives while monitoring the events, offering deepest 
+     condolences to the families and friends of those individuals 
+     who were killed and deepest sympathies and support to those 
+     individuals who were injured by the violence, expressing 
+     support for the Charlottesville community, rejecting White 
+     nationalists, White supremacists, the Ku Klux Klan, neo-
+     Nazis, and other hate groups, and urging the President and 
+     the President's Cabinet to use all available resources to 
+     address the threats posed by those groups.
+
+  Mr. McCONNELL. In order to place the joint resolution on the calendar 
+under the provisions of rule XIV, I object to further proceedings.
+  The PRESIDING OFFICER. Objection having been heard, the joint 
+resolution will be placed on the calendar.
+
+                          ____________________
+```

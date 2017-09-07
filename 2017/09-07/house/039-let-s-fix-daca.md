@@ -1,0 +1,44 @@
+---
+granule: CREC-2017-09-07-pt1-PgH7102-6
+date: 2017-09-07
+edition: CREC
+section: HOUSE
+page: H7102
+citation: 163 Cong. Rec. H7102
+---
+
+# LET'S FIX DACA
+
+**Speaking:** Connolly, Gerald E. (C001078) [D-VA]
+
+```
+                             LET'S FIX DACA
+
+  (Mr. CONNOLLY asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. CONNOLLY. Mr. Speaker, President Trump shielded Sheriff Joe 
+Arpaio from a prison sentence for criminal contempt, despite Sheriff 
+Arpaio's record of illegal racial profiling and abuse directed at 
+immigrant communities.
+  The President's latest salvo in his war on immigrants is his tragic 
+decision to end the DACA program, which has given nearly 800,000 
+innocent DREAMers, who want to be Americans, the opportunity to work 
+and attend school.
+  In my native State of Virginia, we have more than 12,000 DREAMers, 
+who contribute more than $711 million to our GDP every year--that is 
+contribute.
+  These young, hardworking DREAMers, who see themselves as Americans, 
+as do I, are contributing to our communities, creating jobs, serving in 
+our military, teaching our children, and caring for our family members. 
+President Trump would learn that if he ever sat down with them, as I 
+have, and so many of my colleagues have, and broken bread with them, 
+and listened to their fascinating, challenging, wonderful stories.
+  Ending DACA is self-defeating, hurts the American economy, and 
+neglects all that makes America unique. Let's fix this.
+
+[[Page H7103]]
+
+  
+
+                          ____________________
+```

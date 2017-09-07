@@ -1,0 +1,58 @@
+---
+granule: CREC-2017-09-07-pt1-PgS5078
+date: 2017-09-07
+edition: CREC
+section: SENATE
+page: S5078
+citation: 163 Cong. Rec. S5078
+---
+
+# HERSHEL "WOODY" WILLIAMS VA MEDICAL CENTER
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+**Measures:** S. 1165
+
+```
+              HERSHEL ``WOODY'' WILLIAMS VA MEDICAL CENTER
+
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the 
+Committee on Veterans' Affairs be discharged from further consideration 
+of S. 1165 and the Senate proceed to its immediate consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the bill by title.
+  The senior assistant legislative clerk read as follows:
+
+       A bill (S. 1165) to designate the medical center of the 
+     Department of Veterans Affairs in Huntington, West Virginia, 
+     as the Hershel ``Woody'' Williams VA Medical Center.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. McCONNELL. Mr. President, I further ask unanimous consent that 
+the bill be considered read a third time and passed and the motion to 
+reconsider be considered made and laid upon the table with no 
+intervening action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill (S. 1165) was ordered to be engrossed for a third reading, 
+was read the third time, and passed, as follows:
+
+                                S. 1165
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. DESIGNATION OF HERSHEL ``WOODY'' WILLIAMS VA 
+                   MEDICAL CENTER IN HUNTINGTON, WEST VIRGINIA.
+
+       (a) Designation.--The medical center of the Department of 
+     Veterans Affairs in Huntington, West Virginia, shall after 
+     the date of the enactment of this Act be known and designated 
+     as the ``Hershel `Woody' Williams VA Medical Center''.
+       (b) Reference.--Any reference in any law, regulation, map, 
+     document, paper, or other record of the United States to the 
+     medical center referred to in subsection (a) shall be 
+     considered to be a reference to the Hershel ``Woody'' 
+     Williams VA Medical Center.
+
+                          ____________________
+```

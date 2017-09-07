@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-09-07-pt1-PgH7101-6
+date: 2017-09-07
+edition: CREC
+section: HOUSE
+page: H7101
+citation: 163 Cong. Rec. H7101
+---
+
+# WELCOMING REVEREND LOUIS M. MURPHY, SR.
+
+**Speaking:** Crist, Charlie (C001111) [D-FL]
+
+```
+                WELCOMING REVEREND LOUIS M. MURPHY, SR.
+
+  The SPEAKER. Without objection, the gentleman from Florida (Mr. 
+Crist) is recognized for 1 minute.
+  There was no objection.
+  Mr. CRIST. Mr. Speaker, I rise today to honor our guest chaplain, 
+Reverend Louis M. Murphy, Sr., of my hometown of St. Petersburg, 
+Florida.
+  Reverend Murphy truly embodies what it means to love your neighbor as 
+yourself. In his 18 years as senior pastor at the Mt. Zion Progressive 
+Missionary Baptist Church, he has been a dedicated disciple of Christ, 
+giving his time, energy, and compassion to lifting up his congregation 
+and the larger St. Petersburg community.
+  In addition to his duties as pastor of one of the largest churches in 
+Pinellas County, Reverend Murphy has been a leader in economic 
+revitalization efforts in south St. Petersburg, and in supporting job 
+training and outreach programs for at-risk youth.
+  A native of Florida, truly a man of God, and a man of the people. I 
+personally thank Reverend Murphy for coming to the people's House and 
+providing such a moving, thoughtful invocation. God bless you.
+
+                          ____________________
+```

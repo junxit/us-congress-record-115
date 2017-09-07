@@ -1,0 +1,43 @@
+---
+granule: CREC-2017-09-07-pt1-PgH7103-2
+date: 2017-09-07
+edition: CREC
+section: HOUSE
+page: H7103
+citation: 163 Cong. Rec. H7103
+---
+
+# CONGRESS MUST PASS LEGISLATION TO PROTECT DREAMERS
+
+**Speaking:** Tonko, Paul (T000469) [D-NY]
+
+```
+           CONGRESS MUST PASS LEGISLATION TO PROTECT DREAMERS
+
+  (Mr. TONKO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. TONKO. Mr. Speaker, ending the Deferred Action for Childhood 
+Arrivals program is inhumane and unAmerican. Whatever your politics on 
+immigration, America's DREAMers did not choose their birthplace or 
+their path early in life. They are innocents, and they have grown up as 
+Americans. They have attended school here alongside our own children. 
+They share our values and our principles. They believe in the American 
+Dream.
+  Yes, deporting them hurts our economy, and yes, it damages our 
+standing as a leading nation, but at its heart, this is a matter of 
+conscience.
+  What kind of justice will we give to kids brought here when they were 
+6 years old, who grew up as Americans and who have no home beyond our 
+shores?
+  To make them the targets of deportation is a violation of our 
+national conscience.
+  Congress must act now to pass legislation to protect these DREAMers. 
+A just nation must not take lightly the judgment of the innocent. Let 
+us not discard our friends and our neighbors for the sake of political 
+theater, not when we can instead draw strength of heart and mind and 
+treasure from their experience, their differences, and the many values 
+we share in common.
+  E pluribus unum. Out of many, we are indeed one.
+
+                          ____________________
+```
