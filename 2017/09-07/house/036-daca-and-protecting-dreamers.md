@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt9-Pg13448-5
+date: 2017-09-07
+edition: CRECB
+section: HOUSE
+page: 13448
+---
+
+# DACA AND PROTECTING DREAMERS
+
+```
+                      DACA AND PROTECTING DREAMERS
+
+  (Mrs. CAROLYN B. MALONEY of New York asked and was given permission 
+to address the House for 1 minute.)
+  Mrs. CAROLYN B. MALONEY of New York. Mr. Speaker, when DACA was 
+launched in 2012, it allowed nearly 800,000 young people to come out of 
+the shadows and live without the constant fear of being deported. Some 
+came here as infants in their parents' arms. Some know no other 
+language but English, and they know no other country but America. And 
+all of them simply seek a better future.
+  DACA helped breathe life into their American Dream. DREAMers are our 
+neighbors, our friends, and our colleagues. They grew up here. They 
+have done absolutely nothing wrong. They are in school, they are 
+working, and they are contributing to the American economy.
+  And now, they must fear deportation once again. That is not the 
+American Dream; that is not who we are.
+  I hope that all of my colleagues will take that to heart so that we 
+can finally pass the Dream Act and keep these Americans out of the 
+shadows, contributing to our economy, growing their lives, and helping 
+live and be the American Dream.
+
+                          ____________________
+```

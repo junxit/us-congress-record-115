@@ -1,0 +1,39 @@
+---
+granule: CRECB-2017-pt9-Pg13448-6
+date: 2017-09-07
+edition: CRECB
+section: HOUSE
+page: 13448
+---
+
+# RECOGNIZING PASTOR FRANK HAMPTON, JR.
+
+```
+                 RECOGNIZING PASTOR FRANK HAMPTON, JR.
+
+  (Mr. WALBERG asked and was given permission to address the House for 
+1 minute.)
+  Mr. WALBERG. Mr. Speaker, I rise today to recognize Pastor Frank 
+Hampton, Jr., as he celebrates 50 years of ministry at the Church of 
+God in Jackson, Michigan.
+  Over the years, Pastor Hampton has been a steady example of what it 
+means to be a father, a pastor, a mentor, and a community servant.
+  In addition to faithfully shepherding his congregation, Pastor 
+Hampton has served as a volunteer chaplain for Allegiance Health, 
+counseled disadvantaged youth, and helped build strong leaders in the 
+community.
+  He has worked in conjunction with Jackson's judicial system, Jackson 
+Public Schools, Jackson County Jail, and the Interfaith Shelter.
+  The longevity of his service to his congregation and to the community 
+is a reflection of his mission to make a profound difference in the 
+lives of everyone he meets.
+  Pastor Hampton is a remarkable man of integrity, perseverance, and 
+servant leadership. His 50 years of ministry
+
+[[Page 13449]]
+
+have set the standard for our community. I congratulate him on his 
+milestone and pray for God's many blessings in the years ahead.
+
+                          ____________________
+```

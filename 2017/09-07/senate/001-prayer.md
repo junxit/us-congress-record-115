@@ -1,0 +1,28 @@
+---
+granule: CRECB-2017-pt9-Pg13373-3
+date: 2017-09-07
+edition: CRECB
+section: SENATE
+page: 13373
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, Dr. Barry C. Black, offered the following prayer:
+  Let us pray.
+  Eternal God, the Lord of the Harvest, we acknowledge that only by 
+Your might can we live productive lives.
+  Inspire our lawmakers in their daily work to labor for Your glory. 
+Give them the desire to please You even with their motives so that 
+their thoughts, words, and deeds will honor You. Keep them from 
+avoiding irksome and unpleasant issues, as they arrange their 
+priorities to accomplish Your purposes.
+  Lord, guide them in the paths of justice and cooperation as 
+understanding and forbearance prevail among them.
+  We pray in Your great Name. Amen.
+
+                          ____________________
+```
