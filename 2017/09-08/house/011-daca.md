@@ -1,0 +1,46 @@
+---
+granule: CREC-2017-09-08-pt1-PgH7186-4
+date: 2017-09-08
+edition: CREC
+section: HOUSE
+page: H7186
+citation: 163 Cong. Rec. H7186
+---
+
+# DACA
+
+**Speaking:** Maloney, Sean Patrick (M001185) [D-NY]
+
+```
+                                  DACA
+
+  (Mr. SEAN PATRICK MALONEY of New York asked and was given permission 
+to address the House for 1 minute and to revise and extend his 
+remarks.)
+  Mr. SEAN PATRICK MALONEY of New York. Mr. Speaker, I rise today in 
+support of thousands of DREAMers across the country.
+  This week, as you know, President Trump threatened to kick these 
+children out of the only country they have ever known.
+  In New York, we have over 40,000 DACA kids who work hard and 
+contribute to our communities. And if the President or anyone thinks 
+these DREAMers are somehow a threat to our country, well, I would like 
+you to meet Laura Garcia.
+  Laura is a neighbor of mine who lives in Orange County, New York. She 
+was brought here from Mexico at 8 years old. She has lived here for 
+nearly her entire life and done everything the right way, right here in 
+the United States.
+  Laura was elected vice president of her high school. She works three 
+jobs to pay her way through Dutchess Community College. In the few 
+spare moments she has, she volunteers to help others.
+  Laura has DACA status, which means she is registered with the 
+program. She paid a fee, she passed a criminal background check, and 
+she has stayed out of trouble. She has done everything we have asked 
+her to do, and she has done it the right way.
+  All of us would be proud to have a daughter like Laura. America has 
+hundreds of thousands of sons and daughters just like Laura. These are 
+our children.
+  So for those who say that DREAMers like Laura should go home, I say 
+they can't go home because they are home. This is their home.
+
+                          ____________________
+```
