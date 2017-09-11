@@ -1,0 +1,44 @@
+---
+granule: CREC-2017-09-11-pt1-PgS5165-3
+date: 2017-09-11
+edition: CREC
+section: SENATE
+page: S5165
+citation: 163 Cong. Rec. S5165
+---
+
+# AMENDING SECTION 1113 OF THE SOCIAL SECURITY ACT
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+**Measures:** H.R. 3732
+
+```
+            AMENDING SECTION 1113 OF THE SOCIAL SECURITY ACT
+
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of H.R. 3732.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The senior assistant legislative clerk read as follows:
+
+       A bill (H.R. 3732) to amend section 1113 of the Social 
+     Security Act to provide authority for increased fiscal year 
+     2017 and 2018 payments for temporary assistance to United 
+     States citizens returned from foreign countries.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the bill 
+be considered read a third time.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill was ordered to a third reading and was read the third time.
+  Mr. McCONNELL. I know of no further debate on the bill.
+  The PRESIDING OFFICER. Is there further debate?
+  Hearing none, the bill having been read the third time, the question 
+is, Shall the bill pass?
+  The bill (H.R. 3732) was passed.
+  Mr. McCONNELL. I ask unanimous consent that the motion to reconsider 
+be considered made and laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
