@@ -1,0 +1,45 @@
+---
+granule: CRECB-2017-pt10-Pg13594-7
+date: 2017-09-11
+edition: CRECB
+section: SENATE
+page: 13594
+---
+
+# REMEMBERING SEPTEMBER 11 AND HURRICANE IRMA DISASTER RELIEF
+
+```
+      REMEMBERING SEPTEMBER 11 AND HURRICANE IRMA DISASTER RELIEF
+
+  Mr. McCONNELL. Mr. President, today we opened the Senate with a 
+moment of silence. We remember all those lost 16 years ago on September 
+11, 2001, the day that changed our Nation in profound ways.
+  It wrenched our hearts with grief. It opened our eyes to cruel 
+threats from afar. But it could neither extinguish the basic decency 
+that unites us as a people nor the common humanity that defines us as a 
+nation.
+  It could not stop first responders from rushing toward danger to save 
+others. It could not stop Americans from donating to strangers in need 
+or volunteering their time to help. It could not stop the people of our 
+country from being who they are: kind, caring, compassionate.
+  It is the same spirit we see again in response to Hurricane Harvey. 
+It is the same spirit that is giving hope to those in the path of 
+Hurricane Irma. Although the full extent of Irma's impact will not be 
+known for some time, it is clear that this intense storm is causing 
+widespread damage, and it is clear that the recovery will require a 
+massive undertaking. Our thoughts are with those in the areas affected 
+by Irma.
+  We are again prepared to play our role in the recovery. Congress 
+passed a critical downpayment on disaster relief last week. If more 
+assistance is required due to Irma, we are ready to do what is needed.
+  What is most important, I think, is the knowledge that the American 
+people and our first responders will again be there to reach out to do 
+whatever is needed to help. That is especially true on a day like 
+today.
+  We will never forget the thousands of innocent lives taken from us 16 
+years ago. We will never forget the heroism of our first responders and 
+the compassion of our neighbors, nor will we forget the thousands of 
+men and women who have stood guard to protect us every day since.
+
+                          ____________________
+```

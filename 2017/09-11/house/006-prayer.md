@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt10-Pg13588-8
+date: 2017-09-11
+edition: CRECB
+section: HOUSE
+page: 13588
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Patrick J. Conroy, offered the following 
+prayer:
+  Dear Lord, we give You thanks for giving us another day.
+  On this anniversary of the 9/11 tragedy, we ask Your blessing of 
+peace upon our Nation and the world. May Your healing presence continue 
+to imbue the lives of those who were personally assaulted on that 
+momentous day, and ease the mourning of those who lost their loved 
+ones.
+  We ask Your continued blessing on those whose lives have been 
+disrupted by so many natural disasters: hurricanes, ongoing fires, and 
+their aftermaths. May the efforts of so many to help them recover and 
+establish themselves be a hopeful beginning of many months of work and 
+rebuilding thanks to the efforts of so many Americans and good 
+neighbors.
+  Through all this, bless the Members of this people's House with the 
+wisdom and perseverance they need to attend the pressing needs of the 
+Nation.
+  May all that is done this day be for Your greater honor and glory.
+  Amen.
+
+                          ____________________
+```

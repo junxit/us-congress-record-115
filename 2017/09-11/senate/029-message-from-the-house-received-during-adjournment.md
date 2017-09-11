@@ -1,0 +1,56 @@
+---
+granule: CRECB-2017-pt10-Pg13611-6
+date: 2017-09-11
+edition: CRECB
+section: SENATE
+page: 13611
+---
+
+# MESSAGE FROM THE HOUSE RECEIVED DURING ADJOURNMENT
+
+```
+           MESSAGE FROM THE HOUSE RECEIVED DURING ADJOURNMENT
+
+  Under the authority of the order of the Senate of January 3, 2017, 
+the Secretary of the Senate, on September 8, 2017, during the 
+adjournment of the Senate, received a message from the House of 
+Representatives announcing that the House has agreed to the following 
+concurrent resolution, without amendment:
+
+       S. Con. Res. 24. Concurrent resolution providing for a 
+     correction in the enrollment of H.R. 601.
+
+  The message also announced that the House has agreed to the amendment 
+of the Senate to the amendment of the House to the amendment of the 
+Senate to the bill (H.R. 601) to enhance the transparency and 
+accelerate the impact of assistance provided under the Foreign 
+Assistance Act of 1961 to promote quality basic education in developing 
+countries, to better enable such countries to achieve universal access 
+to quality basic education and improved learning outcomes, to eliminate 
+duplication and waste, and for other purposes.
+
+
+                         Enrolled Bills Signed
+
+  Under the authority of the order of the Senate of January 3, 2017, 
+the Secretary of the Senate, on September 8, 2017, during the 
+adjournment of the Senate, received a message from the House of 
+Representatives announcing that the Speaker had signed the following 
+enrolled bills:
+
+       S. 1616. An act to award the Congressional Gold Medal to 
+     Bob Dole, in recognition for his service to the nation as a 
+     soldier, legislator, and statesman.
+       H.R. 601. An act making continuing appropriations for the 
+     fiscal year ending September 30, 2018, and for other 
+     purposes.
+       H.R. 624. An act to restrict the inclusion of social 
+     security account numbers on Federal documents sent by mail, 
+     and for other purposes.
+
+  Under the authority of the order of the Senate of January 3, 2017, 
+the enrolled bills were signed on September 8, 2017, during the 
+adjournment of the Senate, by the Vice President.
+
+                          ____________________
+```
