@@ -1,0 +1,28 @@
+---
+granule: CREC-2017-09-12-pt1-PgH7291
+date: 2017-09-12
+edition: CREC
+section: HOUSE
+page: H7291
+citation: 163 Cong. Rec. H7291
+---
+
+# REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 3697, CRIMINAL ALIEN GANG MEMBER REMOVAL ACT, AND PROVIDING FOR PROCEEDINGS DURING THE PERIOD FROM SEPTEMBER 15, 2017, THROUGH SEPTEMBER 22...
+
+**Measures:** H.Res. 513, H.R. 3697
+
+```
+REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 3697, CRIMINAL 
+ALIEN GANG MEMBER REMOVAL ACT, AND PROVIDING FOR PROCEEDINGS DURING THE 
+       PERIOD FROM SEPTEMBER 15, 2017, THROUGH SEPTEMBER 22, 2017
+
+  Mr. COLLINS of Georgia, from the Committee on Rules, submitted a 
+privileged report (Rept. No. 115-307) on the resolution (H. Res. 513) 
+providing for consideration of the bill (H.R. 3697) to amend the 
+Immigration and Nationality Act with respect to aliens associated with 
+criminal gangs, and for other purposes, and providing for proceedings 
+during the period from September 15, 2017, through September 22, 2017, 
+which was referred to the House Calendar and ordered to be printed.
+
+                          ____________________
+```
