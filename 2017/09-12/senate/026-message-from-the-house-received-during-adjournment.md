@@ -1,0 +1,33 @@
+---
+granule: CRECB-2017-pt10-Pg13733-2
+date: 2017-09-12
+edition: CRECB
+section: SENATE
+page: 13733
+---
+
+# MESSAGE FROM THE HOUSE RECEIVED DURING ADJOURNMENT
+
+```
+           MESSAGE FROM THE HOUSE RECEIVED DURING ADJOURNMENT
+
+
+                          Enrolled Bill Signed
+
+  Under the order of the Senate of January 3, 2017, the Secretary of 
+the Senate, on September 11, 2017, during the adjournment of the 
+Senate, received a message from the House of Representatives announcing 
+that the Speaker had signed the following enrolled bill:
+
+       H.R. 3732. An act to amend section 1113 of the Social 
+     Security Act to provide authority for increased fiscal year 
+     2017 and 2018 payments for temporary assistance to United 
+     States citizens returned from foreign countries.
+
+  Under the authority of the order of the Senate of January 3, 2017, 
+the enrolled bill was signed on September 11, 2017, during the 
+adjournment of the Senate, by the Acting President pro tempore (Mr. 
+Daines).
+
+                          ____________________
+```
