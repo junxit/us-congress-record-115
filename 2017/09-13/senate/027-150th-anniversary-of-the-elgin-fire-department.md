@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-09-13-pt1-PgS5477-4
+date: 2017-09-13
+edition: CREC
+section: SENATE
+page: S5477
+citation: 163 Cong. Rec. S5477
+---
+
+# 150TH ANNIVERSARY OF THE ELGIN FIRE DEPARTMENT
+
+**Speaking:** Duckworth, Tammy (D000622) [D-IL]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+             150TH ANNIVERSARY OF THE ELGIN FIRE DEPARTMENT
+
+● Ms. DUCKWORTH. Mr President, today I wish to recognize the 
+Elgin Fire Department's 150th anniversary and congratulate the brave 
+men and women who protect the 100,000 residents living in Elgin, IL.
+  For more than 100 years, the Elgin Fire Department has worked to 
+preserve the safety and well-being of Illinoisans. Firefighters are the 
+first responders who often put themselves in danger to rescue citizens 
+from emergency situations involving extensive smoke and fire. The 
+medical treatment responders save numerous lives, which may have been 
+lost without prehospital care.
+  The Elgin Fire Department continues to serve its community by 
+providing fire safety education, fire inspection, and domestic 
+preparedness planning, among other community outreach efforts, to 
+increase community readiness. The department's stellar service ensures 
+that the families and friends of Elgin are prepared for any emergency.
+  I extend my best wishes for a remarkable and memorable anniversary. 
+Thank you for your selfless work to Elgin, IL.●
+
+                          ____________________
+```

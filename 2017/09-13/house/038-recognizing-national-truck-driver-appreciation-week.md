@@ -1,0 +1,43 @@
+---
+granule: CREC-2017-09-13-pt1-PgH7378
+date: 2017-09-13
+edition: CREC
+section: HOUSE
+page: H7378
+citation: 163 Cong. Rec. H7378
+---
+
+# RECOGNIZING NATIONAL TRUCK DRIVER APPRECIATION WEEK
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+          RECOGNIZING NATIONAL TRUCK DRIVER APPRECIATION WEEK
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to recognize 
+a great career and technical education or skills-based education 
+profession because I rise today during National Truck Driver 
+Appreciation Week to celebrate America's 3.5 million professional truck 
+drivers.
+  Trucking is the lifeblood of the American economy. More than 80 
+percent of the U.S. communities rely exclusively on truck drivers to 
+deliver their goods and commodities, including the most remote towns 
+and territories that aren't reachable by other modes of transportation.
+  One out of every 16 people working in the United States is a 
+professional truck driver. The impact the trucking industry has on our 
+economy is clear. Trucking brings roughly $726 billion in revenue to 
+the Nation.
+  Truck drivers are hardworking men and women who deliver critical 
+goods like medicine, foods, building supplies, clothing, and more. 
+These professionals safely move our economy each day. They deliver our 
+goods safely, securely, and on time. They keep our highways safe.
+  Mr. Speaker, I celebrate the men and women who deliver America's 
+goods and honor all professional truck drivers for their hard work and 
+commitment in tackling one of our economy's most demanding and 
+important jobs.
+  Trucking moves America forward.
+
+                          ____________________
+```

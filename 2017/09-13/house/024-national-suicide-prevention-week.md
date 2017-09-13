@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-09-13-pt1-PgH7323-6
+date: 2017-09-13
+edition: CREC
+section: HOUSE
+page: H7323
+citation: 163 Cong. Rec. H7323
+---
+
+# NATIONAL SUICIDE PREVENTION WEEK
+
+**Speaking:** Stewart, Chris (S001192) [R-UT]
+
+```
+                    NATIONAL SUICIDE PREVENTION WEEK
+
+  (Mr. STEWART asked and was given permission to address the House for 
+1 minute.)
+  Mr. STEWART. Mr. Speaker, today I want to address a topic of grave 
+and tragic importance. Every 12 minutes in the United States we 
+experience a suicide-related death; and, shockingly, for every suicide 
+death, there are 25 attempts.
+  These are heartbreaking statistics and, sadly, they hit very close to 
+home. In Utah, for example, we have the fifth highest rate of suicide 
+deaths in the country. These are our neighbors, our coworkers, and, in 
+some cases, our family and our friends.
+  I think that most of us, if not all of us, have been touched by some 
+of these tragic stories, and I believe that we have a responsibility to 
+do everything we can to help those in need. That is why I introduced 
+the National Suicide Improvement Act earlier this year. This bill hopes 
+to streamline and provide easy access to potentially lifesaving 
+resources by designing a new, national three-digit dialing number 
+similar to 911 for a national suicide prevention and mental health 
+crisis hotline.
+  I believe this legislation has the ability to save lives and to 
+benefit our loved ones who struggle with mental illness or suicidal 
+thoughts. Let us do everything we can to help our fellow citizens who 
+are in need, and that is what this legislation will do.
+
+                          ____________________
+```

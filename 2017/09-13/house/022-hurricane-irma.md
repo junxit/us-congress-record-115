@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-09-13-pt1-PgH7323-4
+date: 2017-09-13
+edition: CREC
+section: HOUSE
+page: H7323
+citation: 163 Cong. Rec. H7323
+---
+
+# HURRICANE IRMA
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                             HURRICANE IRMA
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, I was grateful this 
+weekend to visit and thank volunteers at local shelters in the Midlands 
+of South Carolina for helping families displaced from their homes due 
+to Hurricane Irma.
+  At the South Carolina Emergency Preparedness Center in Pine Ridge, 
+Governor Henry McMaster ably received updates to make thoughtful 
+decisions to protect citizens. Emergency Management Division Director 
+Kim Stenson professionally hosted over a dozen State agencies with FEMA 
+Coordinator Willie Nunn. Adjutant General Robert Livingston and the 
+Army National Guard were vital in preparation efforts.
+  While visiting the Dent Middle School Red Cross shelter, we were 
+welcomed by Principal Tamala Murrill Ashford, Red Cross Executive 
+Director Rebecca Jordan, Beth Shwedo, and volunteers dedicated to 
+service.
+  State officials and the South Carolina Army National Guard have been 
+successful leaders for preparation. Attorney General Alan Wilson led 
+efforts to reduce price gouging. I appreciate everyone for ensuring 
+that citizens had the resources for safety.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism. Our prayers for all 
+those affected by Hurricanes Harvey and Irma.
+
+                          ____________________
+```
