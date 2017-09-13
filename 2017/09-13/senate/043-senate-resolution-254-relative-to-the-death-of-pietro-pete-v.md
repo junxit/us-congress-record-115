@@ -1,0 +1,76 @@
+---
+granule: CRECB-2017-pt10-Pg14184-4
+date: 2017-09-13
+edition: CRECB
+section: SENATE
+page: 14184
+---
+
+# SENATE RESOLUTION 254--RELATIVE TO THE DEATH OF PIETRO "PETE" VICHI DOMENICI, FORMER UNITED STATES SENATOR FOR THE STATE OF NEW MEXICO
+
+```
+ SENATE RESOLUTION 254--RELATIVE TO THE DEATH OF PIETRO ``PETE'' VICHI 
+   DOMENICI, FORMER UNITED STATES SENATOR FOR THE STATE OF NEW MEXICO
+
+  Mr. McCONNELL (for himself, Mr. Schumer, Mr. Udall, Mr. Heinrich, Mr. 
+Alexander, Ms. Baldwin, Mr. Barrasso, Mr. Bennet, Mr. Blumenthal, Mr. 
+Blunt, Mr. Booker, Mr. Boozman, Mr. Brown, Mr. Burr, Ms. Cantwell, Mrs. 
+Capito, Mr. Cardin, Mr. Carper, Mr. Casey, Mr. Cassidy, Mr. Cochran, 
+Ms. Collins, Mr. Coons, Mr. Corker, Mr. Cornyn, Ms. Cortez Masto, Mr. 
+Cotton, Mr. Crapo, Mr. Cruz, Mr. Daines, Mr. Donnelly, Ms. Duckworth, 
+Mr. Durbin, Mr. Enzi, Mrs. Ernst, Mrs. Feinstein, Mrs. Fischer, Mr. 
+Flake, Mr. Franken, Mr. Gardner, Mrs. Gillibrand, Mr. Graham, Mr. 
+Grassley, Ms. Harris, Ms. Hassan, Mr. Hatch, Ms. Heitkamp, Mr. Heller, 
+Ms. Hirono, Mr. Hoeven, Mr. Inhofe, Mr. Isakson, Mr. Johnson, Mr. 
+Kaine, Mr. Kennedy, Mr. King, Ms. Klobuchar, Mr. Lankford, Mr. Leahy, 
+Mr. Lee, Mr. Manchin, Mr. Markey, Mr. McCain, Mrs. McCaskill, Mr. 
+Menendez, Mr. Merkley, Mr. Moran, Ms. Murkowski, Mr. Murphy, Mrs. 
+Murray, Mr. Nelson, Mr. Paul, Mr. Perdue, Mr. Peters, Mr. Portman, Mr. 
+Reed, Mr. Risch, Mr. Roberts, Mr. Rounds, Mr. Rubio, Mr. Sanders, Mr. 
+Sasse, Mr. Schatz, Mr. Scott, Mrs. Shaheen, Mr. Shelby, Ms. Stabenow, 
+Mr. Strange, Mr. Sullivan, Mr. Tester, Mr. Thune, Mr. Tillis, Mr. 
+Toomey, Mr. Van Hollen, Mr. Warner, Ms. Warren, Mr. Whitehouse, Mr. 
+Wicker, Mr. Wyden, and Mr. Young)
+
+[[Page 14185]]
+
+submitted the following resolution; which was considered and agreed to:
+
+                              S. Res. 254
+
+       Whereas Pete V. Domenici was born in Albuquerque, New 
+     Mexico in 1932; graduated from the University of New Mexico 
+     and Denver University Law School; and practiced law in 
+     Albuquerque;
+       Whereas Pete V. Domenici was elected to the Albuquerque 
+     City Commission in 1966, and as Chairman in 1967;
+       Whereas Pete V. Domenici was first elected to the United 
+     States Senate in 1972 and served six terms as a Senator from 
+     the State of New Mexico with honor and distinction, making 
+     him the longest serving Senator in New Mexico history;
+       Whereas Pete V. Domenici served the Senate as Chairman of 
+     the Committee on the Budget for the One Hundred Fourth 
+     through One Hundred Sixth Congresses, and during the One 
+     Hundred Seventh Congress;
+       Whereas Pete V. Domenici served the Senate as Chairman of 
+     the Committee on Energy and Natural Resources for the One 
+     Hundred Eighth and One Hundred Ninth Congresses;
+       Whereas Pete V. Domenici fought tirelessly to balance the 
+     federal budget and was a strong advocate of nuclear energy;
+       Whereas Pete V. Domenici played an essential role in 
+     pursuing mental health parity in health insurance coverage, 
+     working across the aisle to pass such legislation in 2007: 
+     Now, therefore, be it
+       Resolved, That the Senate has heard with profound sorrow 
+     and deep regret the announcement of the death of Pete V. 
+     Domenici, former member of the United States Senate.
+       Resolved, That the Secretary of the Senate communicate 
+     these resolutions to the House of Representatives and 
+     transmit an enrolled copy thereof to the family of the 
+     deceased.
+       Resolved, That when the Senate adjourns today, it stand 
+     adjourned as a further mark of respect to the memory of the 
+     late Pete V. Domenici.
+
+                          ____________________
+```

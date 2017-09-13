@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt10-Pg13932-2
+date: 2017-09-13
+edition: CRECB
+section: HOUSE
+page: 13932
+---
+
+# FREEZING OUT DRIVE-BY LAWSUITS
+
+```
+                     FREEZING OUT DRIVE-BY LAWSUITS
+
+  (Mr. POE of Texas asked and was given permission to address the House 
+for 1 minute.)
+  Mr. POE of Texas. Mr. Speaker, Arctic Circle in Eureka, California, 
+used to be a place where you could get a great burger and a cold 
+milkshake. But not anymore thanks to a lawsuit. A serial plaintiff 
+alleged that their counters were too high and their doors were not 
+quite wide enough. So without a chance to fix the alleged infractions, 
+the drive-by lawsuit shuttered the doors of Arctic Circle.
+  The Americans with Disabilities Act has made tremendous progress in 
+increasing accessibility. But small businesses across America are being 
+targeted by serial plaintiffs who troll for minor, correctable ADA 
+infractions. If the business had notice, they could cure the problem 
+rather than pay the shakedown by the lawyers.
+  My bill, the ADA Reform Act, requires businesses to be notified of an 
+alleged violation and be given time to fix the issue before a lawsuit 
+can commence. If businesses fail to correct the infractions, the 
+plaintiff can and should sue.
+  It is time to stop attorneys from lining their pocketbooks off the 
+backs of disabled Americans and small businesses in our country.
+  And that is just the way it is.
+
+                          ____________________
+```
