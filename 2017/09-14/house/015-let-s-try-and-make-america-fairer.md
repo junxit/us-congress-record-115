@@ -1,0 +1,49 @@
+---
+granule: CRECB-2017-pt10-Pg14487-6
+date: 2017-09-14
+edition: CRECB
+section: HOUSE
+page: 14487
+---
+
+# LET'S TRY AND MAKE AMERICA FAIRER
+
+```
+                   LET'S TRY AND MAKE AMERICA FAIRER
+
+  (Mr. SUOZZI asked and was given permission to address the House for 1 
+minute.)
+  Mr. SUOZZI. Mr. Speaker, I rise today in support of the passage of 
+the Dream Act, and I request my Democratic and Republican colleagues to 
+stand together to try and address this very important issue in our 
+country.
+  The issue of undocumented immigrants has been plaguing this country 
+for almost 30 years now, going back to the 1980s, when people flowed 
+over in the thousands from El Salvador during the death squads and the 
+civil wars during that time.
+  As the mayor of the city of Glen Cove back in the 1990s, we dealt 
+with this issue in my city, on one side people saying, ``Get those 
+people out of here,'' on the other side people saying, ``They are just 
+trying to live the American Dream like your father did.'' My father
+
+[[Page 14488]]
+
+emigrated from Italy. I am a first-generation American. ``They are just 
+trying to live the American Dream like your family did, trying to work 
+hard and live a better life here in this country.''
+  When dealing with these difficult questions, we have to rely on the 
+fundamental principles of this country, namely, that all men and women 
+are created equal--not all men and women with a green card or all men 
+and women with a passport, but all men and women are created equal and 
+are entitled to be treated with human respect and dignity.
+  When looking at the DREAMers, we are talking about people who came to 
+this country under 17 years of age, who have lived a productive life, 
+who have either graduated from high school or received a GED and have 
+now either gone to college or are serving in the military or have been 
+working for the past 3 years and have no criminal background.
+  Let's try and make this country fairer. Let's try and make ourselves 
+the model for the rest of the world to follow and lift up these people 
+who are productive members of our community.
+
+                          ____________________
+```

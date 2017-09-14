@@ -1,0 +1,33 @@
+---
+granule: CRECB-2017-pt10-Pg14516-4
+date: 2017-09-14
+edition: CRECB
+section: HOUSE
+page: 14516
+---
+
+# CONGRATULATING JOHNSON CITY ON ITS 125TH ANNIVERSARY
+
+```
+          CONGRATULATING JOHNSON CITY ON ITS 125TH ANNIVERSARY
+
+  (Ms. TENNEY asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TENNEY. Mr. Speaker, I rise today to recognize the 125th 
+anniversary of the village of Johnson City in Broome County. Founded in 
+1892, Johnson City was first named Lestershire. The village was later 
+renamed Johnson City in honor of George F. Johnson, a factory worker 
+who rose through the ranks at the Endicott-Johnson Shoe Company, a 
+local manufacturing firm started in Binghamton in 1854.
+  Under Johnson's leadership, Endicott-Johnson evolved into an economic 
+hub in the region. Through the square deal and his generosity to both 
+the community and his employees, George Johnson played a pivotal role 
+in shaping Johnson City into the village we know today.
+  Part of the Tri-Cities, Johnson City is now home to over 15,000 
+people and will soon be home to Binghamton University's School of 
+Pharmacy.
+  On behalf of the entire 22nd District, I extend my sincerest 
+congratulations to Johnson City on this landmark anniversary.
+
+                          ____________________
+```

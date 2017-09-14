@@ -1,0 +1,50 @@
+---
+granule: CRECB-2017-pt10-Pg14454
+date: 2017-09-14
+edition: CRECB
+section: SENATE
+page: 14454
+---
+
+# SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+```
+            SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+  The following concurrent resolutions and Senate resolutions were 
+read, and referred (or acted upon), as indicated:
+
+           By Ms. HEITKAMP:
+       S. Res. 255. A resolution congratulating the National 
+     Federation of Federal Employees on the celebration of the 
+     100th anniversary of its founding and recognizing the vital 
+     contributions of its members to the United States; to the 
+     Committee on Homeland Security and Governmental Affairs.
+           By Mr. SCHUMER (for Mr. Menendez (for himself, Mr. 
+             Cornyn, Mr. Blumenthal, Ms. Cortez Masto, Mr. Durbin, 
+             Mr. Franken, Mr. Reed, Mr. Kaine, Mr. Bennet, Mrs. 
+             Feinstein, Mr. Heller, Mr. Nelson, Mrs. Shaheen, Mr. 
+             Heinrich, Mr. Warner, Mr. Udall, and Mr. Rubio)):
+       S. Res. 256. A resolution recognizing Hispanic Heritage 
+     Month and celebrating the heritage and culture of Latinos in 
+     the United States and the immense contributions of Latinos to 
+     the United States; considered and agreed to.
+           By Mr. BROWN (for himself and Mr. Portman):
+       S. Res. 257. A resolution designating September 16, 2017, 
+     as ``Isaac M. Wise Temple Day''; considered and agreed to.
+           By Mr. CARDIN (for himself, Ms. Collins, Mr. Brown, Mr. 
+             Blumenthal, Mr. Markey, Mr. Portman, Mr. King, Ms. 
+             Warren, Mr. Menendez, and Ms. Klobuchar):
+       S. Res. 258. A resolution designating the week beginning 
+     September 10, 2017, as ``National Direct Support 
+     Professionals Recognition Week''; considered and agreed to.
+           By Mr. CORNYN (for himself, Mr. Booker, Mr. Brown, Mr. 
+             Paul, Mr. Portman, Mr. Reed, Ms. Stabenow, Mr. 
+             Whitehouse, Mr. Wicker, and Mr. Peters):
+       S. Res. 259. A resolution expressing support for the 
+     designation of the week of September 11 through September 15, 
+     2017, as ``National Family Service Learning Week''; 
+     considered and agreed to.
+
+                          ____________________
+```
