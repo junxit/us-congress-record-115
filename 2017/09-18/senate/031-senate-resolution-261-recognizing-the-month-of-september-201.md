@@ -1,0 +1,58 @@
+---
+granule: CREC-2017-09-18-pt1-PgS5804-3
+date: 2017-09-18
+edition: CREC
+section: SENATE
+page: S5804
+citation: 163 Cong. Rec. S5804
+---
+
+# SENATE RESOLUTION 261--RECOGNIZING THE MONTH OF SEPTEMBER 2017 AS "ALASKA WILD SALMON MONTH"
+
+**Measures:** S.Res. 261
+
+```
+   SENATE RESOLUTION 261--RECOGNIZING THE MONTH OF SEPTEMBER 2017 AS 
+                      ``ALASKA WILD SALMON MONTH''
+
+  Ms. MURKOWSKI submitted the following resolution; which was 
+considered and agreed to:
+
+                              S. Res. 261
+
+       Whereas the sustainable Alaska wild salmon commercial 
+     fishery contributes over 38,000 jobs and nearly 
+     $2,000,000,000 in annual labor income to the United States 
+     economy;
+       Whereas the commercial Alaska wild salmon harvest comprises 
+     approximately 50 percent of the wild salmon caught worldwide;
+       Whereas the sport fishing industry of the State of Alaska 
+     generates $500,000,000 in economic output and creates 4,500 
+     jobs annually;
+       Whereas wild salmon returning to Alaskan streams and 
+     rearing young in Alaskan water are the basis for one of the 
+     most valuable and important industries of the State of 
+     Alaska;
+       Whereas commercial and sport salmon fishing and processing 
+     provides the greatest number of private-sector employment 
+     opportunities in the State of Alaska;
+       Whereas many Alaskans depend heavily on subsistence-caught 
+     wild salmon for food and cultural purposes;
+       Whereas Alaska Natives have relied on Alaska wild salmon 
+     for thousands of years, and Alaska wild salmon continues to 
+     comprise up to 70 percent of the subsistence harvest of many 
+     Alaska Native communities; and
+       Whereas, in September 2017, Alaska Wild Salmon Month 
+     celebrates and raises awareness nationwide regarding the 
+     contributions of Alaska wild salmon to the health and economy 
+     of the United States: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes September 2017 as ``Alaska Wild Salmon 
+     Month''; and
+       (2) encourages individuals, corporations, and other 
+     relevant organizations to celebrate the sustainable Alaska 
+     wild salmon industry and the health and social benefits 
+     Alaska wild salmon provide to the United States.
+
+                          ____________________
+```

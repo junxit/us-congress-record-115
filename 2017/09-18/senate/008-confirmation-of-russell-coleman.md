@@ -1,0 +1,54 @@
+---
+granule: CREC-2017-09-18-pt1-PgS5775-7
+date: 2017-09-18
+edition: CREC
+section: SENATE
+page: S5775
+citation: 163 Cong. Rec. S5775
+---
+
+# CONFIRMATION OF RUSSELL COLEMAN
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+```
+                    CONFIRMATION OF RUSSELL COLEMAN
+
+  Mr. McCONNELL. Mr. President, on an entirely different matter, last 
+week, the Senate confirmed a talented and experienced nominee with an 
+impressive career in law enforcement to be the U.S. attorney for the 
+Western District of Kentucky. Russell Coleman is the right person for 
+the job.
+  After graduating from my alma mater, the University of Kentucky 
+College of Law, Russell entered public service. His wide-ranging 
+experiences at the Department of Justice, the Federal Bureau of 
+Investigation, the Senate, and in private practice make him 
+particularly qualified for this new role.
+
+[[Page S5776]]
+
+  As the chief Federal law enforcement officer for the Western District 
+of Kentucky, Russell will use his skills to serve the people of 
+Kentucky and the United States very well. Having served as a special 
+agent with the FBI, Russell understands the particular challenges 
+facing law enforcement. In that role, he regularly collaborated with 
+Federal, State, and local law enforcement officials on a vast array of 
+issues, and he is well respected in the law enforcement community.
+  For instance, Kentucky continues to struggle with the opioid 
+addiction epidemic that is tearing families and communities apart. 
+Russell stands ready to collaborate with stakeholders and community 
+leaders to combat it. He has earned the support of the Kentucky 
+Narcotics Officers' Association, which looks forward to his leadership 
+on drug enforcement issues.
+  Russell also worked in my office as legal counsel, helping me serve 
+the people of Kentucky. With good humor and an unmatched determination, 
+he advocated for the issues that were important to my constituents.
+  The president of the Kentucky Fraternal Order of Police wrote to me 
+in support of Russell's nomination: ``Russell was forever thoughtful, 
+courteous, and a true friend to our membership.''
+  Now Russell has the opportunity to serve once again.
+  I congratulate him and look forward to his service to the 
+Commonwealth and to the country.
+
+                          ____________________
+```
