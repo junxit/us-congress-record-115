@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-09-19-pt1-PgS5853-3
+date: 2017-09-19
+edition: CREC
+section: SENATE
+page: S5853
+citation: 163 Cong. Rec. S5853
+---
+
+# REMEMBERING FRAN JARRELL
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+```
+                        REMEMBERING FRAN JARRELL
+
+  Mr. McCONNELL. Mr. President, today I wish to remember the life of 
+Fran Jarrell, of Paintsville, KY, who passed away on August 27, 2017, 
+at the age of 72.
+  For many years, Fran was a driving force in her community. She served 
+on numerous public committees and boards, supporting the efforts of 
+organizations from the mentoring committee for Community of Hope to the 
+Paintsville Garden Club. She also was a member of the Paintsville City 
+Council for many years, dedicating herself to making the community a 
+better place to live and work. Most recently, Fran was the executive 
+director of the Paintsville/Johnson County Chamber of Commerce, where 
+she was committed to bringing economic development and opportunity to 
+the area. In her numerous roles, Fran worked to bring out the beauty 
+and possibilities of her city.
+  The Paintsville community mourned Fran's passing. Flowers decorated 
+the entire downtown area as a tribute to her life, her passion, and her 
+dedication to others. Elaine and I send our condolences to Fran's 
+children, sisters, grandchildren, and great-grandchildren.
+
+                          ____________________
+```
