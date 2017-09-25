@@ -1,0 +1,31 @@
+---
+granule: CRECB-2017-pt10-Pg14721-3
+date: 2017-09-25
+edition: CRECB
+section: SENATE
+page: 14721
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, Dr. Barry C. Black, offered the following prayer:
+  Let us pray.
+  Eternal Lord God, in these dangerous, divisive, and challenging 
+times, You continue to be our refuge and strength. Deliver our 
+lawmakers from fear, doubt, weariness, and impatience as they learn to 
+trust the unfolding of Your powerful providence. Lord, eliminate from 
+their lives the forces that would destroy their peace of mind. Give 
+them Your mercy that will make them more forgiving, Your strength that 
+will make them more resolute to do Your will, and Your grace that will 
+empower them to experience the ultimate triumph of Your purposes.
+  Lord, remind our national and world leaders that words matter and 
+that the power of life and death is in the tongue. Provide us all with 
+the patience to continue to plant and water the seeds of justice and 
+truth.
+  We pray in Your merciful Name. Amen.
+
+                          ____________________
+```

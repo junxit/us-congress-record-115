@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt10-Pg14706-4
+date: 2017-09-25
+edition: CRECB
+section: HOUSE
+page: 14706
+---
+
+# SENATE MUST REJECT THE GRAHAM-CASSIDY BILL
+
+```
+               SENATE MUST REJECT THE GRAHAM-CASSIDY BILL
+
+  (Mr. KRISHNAMOORTHI asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. KRISHNAMOORTHI. Madam Speaker, once again, Senate Republicans are 
+trying to pass a healthcare bill without serious hearings or a proper 
+CBO score. But the process is not the only issue with this proposed 
+legislation.
+  The Graham-Cassidy bill would allow States to end critical consumer 
+protections established in law by the Affordable Care Act. These 
+protections ensure that patients with preexisting conditions can access 
+affordable coverage and won't face lifetime caps that force families to 
+choose between lifesaving care and bankruptcy.
+  Regardless of whether you receive insurance through your employer or 
+the individual market, this bill, the Graham-Cassidy bill, endangers 
+access to quality, affordable health coverage for every American.
+  Senators have proposed changes to this bill, but they cannot change 
+the underlying fact that it would be unconscionable to rip healthcare 
+away from more than 32 million Americans. I implore the Senate to 
+reject this legislation, and I urge my colleagues to work in a 
+bipartisan manner to reduce costs and expand coverage.
+
+                          ____________________
+```

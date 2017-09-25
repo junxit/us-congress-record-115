@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt10-Pg14707-5
+date: 2017-09-25
+edition: CRECB
+section: HOUSE
+page: 14707
+---
+
+# PAYING TRIBUTE TO CORPORAL DANIEL FRANCIS KELLY
+
+```
+            PAYING TRIBUTE TO CORPORAL DANIEL FRANCIS KELLY
+
+  (Mr. ROTHFUS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. ROTHFUS. Madam Speaker, I rise today to pay tribute to Corporal 
+Daniel Francis Kelly, who, after being listed as missing in action in 
+Korea for 67 years, is finally home.
+  Danny was the youngest of nine boys of Irene and John Kelly from 
+Pittsburgh's north side. Seven of his eight brothers served in World 
+War II, one of whom was Medal of Honor recipient Chuck ``Commando'' 
+Kelly. Danny idolized Chuck and wanted to be a war hero just like him.
+  With Chuck's help, Danny enlisted in the Army in 1950, at the age of 
+17. By November of that year, as part of the 9th Infantry Regiment, 2nd 
+Infantry Division, he found himself at the Battle of Ch'ongch'on River, 
+where he was captured on November 26. It is believed he died at the POW 
+camp known as ``Death Valley'' in March 1951.
+  Corporal Kelly, this week, your country gives you the funeral with 
+military honors you have long deserved. Like your brother Chuck, you 
+are a hero. A grateful nation says ``thank you.''
+  Eternal rest grant unto him, O Lord, and let perpetual light shine 
+upon him.
+
+                          ____________________
+```
