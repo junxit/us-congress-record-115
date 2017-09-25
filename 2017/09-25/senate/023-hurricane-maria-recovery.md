@@ -1,0 +1,30 @@
+---
+granule: CREC-2017-09-25-pt1-PgS5882
+date: 2017-09-25
+edition: CREC
+section: SENATE
+page: S5882
+citation: 163 Cong. Rec. S5882
+---
+
+# HURRICANE MARIA RECOVERY
+
+**Speaking:** Rubio, Marco (R000595) [R-FL]
+
+```
+                        HURRICANE MARIA RECOVERY
+
+● Mr. RUBIO. Mr. President, Hurricane Maria devastated Puerto 
+Rico, and I am on the island today with FEMA Administrator Brock Long, 
+Governor Ricardo Rossello, Resident Commissioner Jenniffer Gonzalez, 
+and other officials to assess the damage and assistance that is needed 
+to help residents and make the island whole. It is our responsibility 
+to do everything we can to ensure our government responds to this 
+hurricane the same as it would anywhere else in the country. We must 
+stand with our brothers and sisters, and give Puerto Rico the resources 
+it needs to rebuild and become stronger than ever before.●
+  (At the request of Mr. Schumer, the following statement was ordered 
+to be printed in the Record.)
+
+                          ____________________
+```
