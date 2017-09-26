@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-09-26-pt1-PgH7498-3
+date: 2017-09-26
+edition: CREC
+section: HOUSE
+page: H7498
+citation: 163 Cong. Rec. H7498
+---
+
+# OPPOSE GRAHAM-CASSIDY
+
+**Speaking:** Green, Gene (G000410) [D-TX]
+
+```
+                         OPPOSE GRAHAM-CASSIDY
+
+  (Mr. GENE GREEN of Texas asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. GENE GREEN of Texas. Mr. Speaker, I rise in support of the 
+millions of Americans whose health coverage is once again being 
+threatened by efforts to repeal the Affordable Care Act.
+  The American people have spoken. They do not want repeal. They 
+certainly do not want the ACA replaced by Graham-Cassidy, the latest, 
+cruelest version of TrumpCare.
+  Nearly every health organization in America, from the insurance 
+providers to doctors, to hospitals, to patient advocacy groups, oppose 
+Graham-Cassidy because it will result in skyrocketing premiums and 
+copays and loss of coverage for millions of Americans, particularly 
+older Americans who need the care most.
+  It is time to abandon the rhetoric of repeal and replace and to work 
+together to stabilize our healthcare markets. Senators Murray and 
+Alexander were working together on a bipartisan bill to fix the ACA 
+before the Republican majority abandoned their efforts for Graham-
+Cassidy.
+  Mr. Speaker, I hope we return to bipartisan efforts as soon as 
+possible to stabilize markets and improve access to healthcare for all 
+Americans.
+
+                          ____________________
+```

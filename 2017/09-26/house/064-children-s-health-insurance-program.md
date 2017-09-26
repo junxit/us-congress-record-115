@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-09-26-pt1-PgH7521-2
+date: 2017-09-26
+edition: CREC
+section: HOUSE
+page: H7521
+citation: 163 Cong. Rec. H7521
+---
+
+# CHILDREN'S HEALTH INSURANCE PROGRAM
+
+**Speaking:** Deutch, Theodore E. (D000610) [D-FL]
+
+```
+                  CHILDREN'S HEALTH INSURANCE PROGRAM
+
+  (Mr. DEUTCH asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. DEUTCH. Mr. Speaker, across the Capitol, Republican Senators 
+finally decided to cancel the vote on a disastrous health bill that 
+could have upended insurance markets and caused 3.2 million Floridians 
+to lose coverage, increased premiums in my State by an average of 
+$4,000, and destroyed over 180,000 Florida jobs.
+  Now, not only did this process threaten the health and financial 
+security of tens of millions of Americans, it also delayed 
+reauthorization of the Children's Health Insurance Program.
+  CHIP expires at the end of this week, but renewing it has taken a 
+backseat to a cruel health bill motivated by a political vendetta and 
+the hope of unlocking billions from campaign megadonors.
+  It is time for Congress to get back to work on CHIP, a program that 
+ensures nearly 9 million kids get access to care--375,000 of them in 
+Florida. It has only become stronger since the passage of the 
+Affordable Care Act.
+  I hope my colleagues in the majority will waste no time in joining me 
+in supporting this vital program. Let's help our children, let's 
+reauthorize CHIP, and let's do it this week.
+
+                          ____________________
+```

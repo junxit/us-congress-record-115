@@ -1,0 +1,35 @@
+---
+granule: CREC-2017-09-26-pt1-PgH7499-3
+date: 2017-09-26
+edition: CREC
+section: HOUSE
+page: H7499
+citation: 163 Cong. Rec. H7499
+---
+
+# CENTRAL ARKANSAS VETERANS HEALTHCARE SYSTEM HELPS HOUSTON
+
+**Speaking:** Hill, J. French (H001072) [R-AR]
+
+```
+       CENTRAL ARKANSAS VETERANS HEALTHCARE SYSTEM HELPS HOUSTON
+
+  (Mr. HILL asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. HILL. Mr. Speaker, over the past few weeks we have seen the 
+unity, courage, and kindness the American people offered to those 
+affected by the destruction caused by Hurricanes Harvey, Irma, and now 
+Maria.
+  Today I would like to take a minute and acknowledge the Central 
+Arkansas Veterans Healthcare System in Little Rock, where employees 
+extended help to assist with incoming calls from the VA in Houston, 
+Texas. All calls were forwarded to Arkansas during the relief efforts.
+  While the Little Rock VA usually takes in 200 to 300 calls a day, in 
+the days following the aftermath of Hurricane Harvey, our VA team in 
+Little Rock averaged 2,900 calls a day from those seeking refuge and 
+help. Employees worked 8-hour shifts to provide 24/7 service.
+  I thank these Arkansans in the Central Arkansas VA for helping our 
+neighbors in Texas in their time of need.
+
+                          ____________________
+```

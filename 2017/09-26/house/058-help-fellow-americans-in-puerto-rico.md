@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-09-26-pt1-PgH7518-3
+date: 2017-09-26
+edition: CREC
+section: HOUSE
+page: H7518
+citation: 163 Cong. Rec. H7518
+---
+
+# HELP FELLOW AMERICANS IN PUERTO RICO
+
+**Speaking:** Boyle, Brendan F. (B001296) [D-PA]
+
+```
+                  HELP FELLOW AMERICANS IN PUERTO RICO
+
+  (Mr. BRENDAN F. BOYLE of Pennsylvania asked and was given permission 
+to address the House for 1 minute and to revise and extend his 
+remarks.)
+  Mr. BRENDAN F. BOYLE of Pennsylvania. Mr. Speaker, we are right now 
+witnessing a humanitarian crisis--not in some far-flung corner of the 
+world, but right here at home. Mr. Speaker, 3\1/2\ million of our 
+fellow Americans in Puerto Rico, fellow U.S. citizens, are without 
+water and without electricity, cut off from the rest of the world. 
+These are our fellow Americans.
+  Puerto Ricans are just as American as we are. They have fought in 
+every single one of our American wars. They need our help now. This is 
+what we do best as Americans.
+  When there is a crisis, we come together and help our fellow 
+Americans. We must act now. This should be the number one priority of 
+Congress and the White House this week, and we should not leave here 
+until we have let the millions of people in Puerto Rico know that we 
+will be there for them.
+
+                          ____________________
+```

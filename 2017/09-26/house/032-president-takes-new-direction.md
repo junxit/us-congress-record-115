@@ -1,0 +1,34 @@
+---
+granule: CREC-2017-09-26-pt1-PgH7498-2
+date: 2017-09-26
+edition: CREC
+section: HOUSE
+page: H7498
+citation: 163 Cong. Rec. H7498
+---
+
+# PRESIDENT TAKES NEW DIRECTION
+
+**Speaking:** Smith, Lamar (S000583) [R-TX]
+
+```
+                     PRESIDENT TAKES NEW DIRECTION
+
+  (Mr. SMITH of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. SMITH of Texas. Mr. Speaker, the President is doing what he was 
+elected to do--call it shaking up the system, putting the brakes on the 
+bureaucracy, or creative deconstruction.
+  Our country simply cannot continue on the same course: where the 
+government increases the debt by hundreds of billions of dollars every 
+year; where hundreds of thousands of illegal immigrants cross our 
+border annually, insulting those who play by the rules and wait their 
+turn in line; where political correctness limits freedom of speech, 
+especially for conservatives.
+  The liberal media is trying to shut down this Presidency because they 
+oppose everything President Trump is trying to do. Mr. Speaker, in this 
+great conflict, the American people and our democracy could be the 
+casualties.
+
+                          ____________________
+```

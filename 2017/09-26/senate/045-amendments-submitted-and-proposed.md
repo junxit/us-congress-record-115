@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-09-26-pt1-PgS6139
+date: 2017-09-26
+edition: CREC
+section: SENATE
+page: S6139
+citation: 163 Cong. Rec. S6139
+---
+
+# AMENDMENTS SUBMITTED AND PROPOSED
+
+**Measures:** S.Res. 114, S. 504, S. 1028, S. 1057
+
+```
+                   AMENDMENTS SUBMITTED AND PROPOSED
+
+       SA 1101. Mr. CORNYN (for Ms. Collins) proposed an amendment 
+     to the bill S. 1028, to provide for the establishment and 
+     maintenance of a Family Caregiving Strategy, and for other 
+     purposes.
+       SA 1102. Mr. CORNYN (for Ms. Collins) proposed an amendment 
+     to the bill S. 1028, supra.
+       SA 1103. Mr. CORNYN (for Mr. Lee) proposed an amendment to 
+     the resolution S. Res. 114, expressing the sense of the 
+     Senate on humanitarian crises in Nigeria, Somalia, South 
+     Sudan, and Yemen.
+       SA 1104. Mr. CORNYN (for Ms. Hirono) proposed an amendment 
+     to the bill S. 504, to permanently authorize the Asia-Pacific 
+     Economic Cooperation Business Travel Card Program.
+       SA 1105. Mr. CORNYN (for Mr. Lee) proposed an amendment to 
+     the bill S. 1057, to amend the Harmful Algal Bloom and 
+     Hypoxia Research and Control Act of 1998 to address harmful 
+     algal blooms, and for other purposes.
+
+                          ____________________
+```
