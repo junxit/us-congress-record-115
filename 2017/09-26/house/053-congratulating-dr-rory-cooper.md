@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt10-Pg14991-3
+date: 2017-09-26
+edition: CRECB
+section: HOUSE
+page: 14991
+---
+
+# CONGRATULATING DR. RORY COOPER
+
+```
+                     CONGRATULATING DR. RORY COOPER
+
+  (Mr. ROTHFUS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. ROTHFUS. Mr. Speaker, I rise today to recognize an Army veteran 
+and University of Pittsburgh engineer, Dr. Rory Cooper, for his 
+achievements and impact on society.
+  While serving as a soldier, Rory was injured in an accident that left 
+him paralyzed from the waist down. Despite the challenges presented by 
+his disability, Dr. Cooper earned his Ph.D. in electrical and computer 
+science from the University of California, Santa Barbara. His education 
+and passion for helping others with disabilities led him to found the 
+Human Engineering Research Laboratories at the University of 
+Pittsburgh.
+  Along with his team of researchers, Dr. Cooper is credited with 25 
+patents that have significantly advanced wheelchair technology and 
+benefited tens of thousands of veterans.
+  Mr. Speaker, this week, Dr. Cooper will be presented with the Samuel 
+J. Heyman Service to America Medal. I thank Dr. Cooper for his work and 
+congratulate him on this achievement.
+
+                          ____________________
+```

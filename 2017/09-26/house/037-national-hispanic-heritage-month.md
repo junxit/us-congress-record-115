@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt10-Pg14971-3
+date: 2017-09-26
+edition: CRECB
+section: HOUSE
+page: 14971
+---
+
+# NATIONAL HISPANIC HERITAGE MONTH
+
+```
+                    NATIONAL HISPANIC HERITAGE MONTH
+
+  (Mr. NEWHOUSE asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. NEWHOUSE. Mr. Speaker, I rise today to recognize National 
+Hispanic Heritage Month. Each year, Americans observe National Hispanic 
+Heritage Month from September 15 to October 15 to celebrate the 
+contributions of Americans of Hispanic descent to our Nation's diverse 
+history and culture.
+  Our central Washington communities are blessed to include a growing 
+number of Hispanic Americans, and I have witnessed firsthand the many 
+ways Hispanic Americans strengthen our communities and our way of life. 
+Hispanic Americans have greatly contributed to our country's history. 
+These Americans have enhanced our economy through entrepreneurship, and 
+many have served our Nation honorably in the U.S. Armed Forces.
+  America is truly the world's melting pot where people of diverse 
+backgrounds and cultures come together as one people united by shared 
+values. We cherish our unity and diversity. In the upcoming month, we 
+will celebrate Hispanic Americans' patriotism and the traditions they 
+add to American culture.
+  Mr. Speaker, please join me in honoring National Hispanic Heritage 
+Month.
+
+                          ____________________
+```
