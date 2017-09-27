@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-09-27-pt1-PgH7537-5
+date: 2017-09-27
+edition: CREC
+section: HOUSE
+page: H7537
+citation: 163 Cong. Rec. H7537
+---
+
+# WELCOMING PASTOR DENNIS JOKELA
+
+**Speaking:** Upton, Fred (U000031) [R-MI]
+
+```
+                     WELCOMING PASTOR DENNIS JOKELA
+
+  The SPEAKER. Without objection, the gentleman from Michigan (Mr. 
+Upton) is recognized for 1 minute.
+  There was no objection.
+  Mr. UPTON. Mr. Speaker, I rise today to recognize a proud son of 
+Portage, Michigan, Pastor Dennis Jokela of the Kalamazoo County 
+Sheriff's Department.
+  He has been a pillar of our community through his work as a small-
+business owner, a judge for the Michigan Vocational Education Society, 
+and as a corporal and chaplain at the Kalamazoo County Sheriff's 
+Department as well.
+  I know I speak for many as we thank, in particular, our first 
+responders all across the country, sheriffs, and police officers, and 
+pray to keep them and their families safe.
+  Pastor Jokela's dedication to public service runs deep as a seven-
+time decorated veteran of Vietnam and Cambodia--overdue medals my team 
+was able to help him obtain--a pastor with the Michigan Boot Camp for 
+Troubled Teens at Fort Custer, and his work with the homeless. His 
+commitment to community and country are unquestionable.
+  Mr. Speaker, I thank Pastor Jokela for his service here and at home. 
+We are all so honored to be with him today. I thank him for his kind 
+words.
+
+                          ____________________
+```
