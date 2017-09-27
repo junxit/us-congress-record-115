@@ -1,0 +1,42 @@
+---
+granule: CRECB-2017-pt11-Pg15116-10
+date: 2017-09-27
+edition: CRECB
+section: HOUSE
+page: 15116
+---
+
+# THE 911 DISPATCHERS OF HARVEY
+
+```
+                     THE 911 DISPATCHERS OF HARVEY
+
+  (Mr. POE of Texas asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. POE of Texas. Mr. Speaker, in the inky darkness of night, during 
+the hammering rain of Harvey, reservoirs released even more water with 
+little
+
+[[Page 15117]]
+
+notice to people downstream. Meanwhile, hundreds of first responders 
+battled the incessant rain, rising floodwaters, and raging currents to 
+rescue people from homes.
+  Inside the dimly lit call center, 911 dispatchers answered call after 
+call after call, racing to keep up as tense thousands dialed in. 
+Dispatchers like 26-year-old Erika Wells worked 20-hour stretches, then 
+trying to grab a nap or two.
+  With phones constantly ringing, the dispatchers sent rescue teams to 
+homes packed with people in need of escape, a woman in labor, and 
+families trapped on their roofs. As the 50-inch rain kept pounding and 
+floodwaters rose, the dispatchers answered, calmed, and helped those in 
+need.
+  As the morning Sun finally broke through the Texas sky, the 
+dispatchers emerged from their stations and finally checked on their 
+own families, many of whom had their own homes flooded. These 
+dispatchers are some of the Texas Proud that helped save others in the 
+floods of summer.
+  And that is just the way it is.
+
+                          ____________________
+```

@@ -1,0 +1,33 @@
+---
+granule: CRECB-2017-pt11-Pg15117
+date: 2017-09-27
+edition: CRECB
+section: HOUSE
+page: 15117
+---
+
+# RECOGNIZING NESTOR GARCIA
+
+```
+                       RECOGNIZING NESTOR GARCIA
+
+  (Ms. JACKSON LEE asked and was given permission to address the House 
+for 1 minute.)
+  Ms. JACKSON LEE. Mr. Speaker, at about 2 a.m. this morning, our HPD, 
+Houston Police Department, faced a tragic incident of one of our 
+officers who was participating in a stop along with other officers on 
+I-59 South. Unfortunately, a driver who paid no attention to the 
+flashing lights and the work of these officers sped through and hit 
+Nestor Garcia.
+  My last word was that he was in surgery, with his family, and that 
+all of those who could be there--the chief and the mayor--were at the 
+hospital with him.
+  So I simply stand to ask for prayers for Nestor Garcia and his family 
+and indicate that we are well aware of the work of the outstanding 
+police and fire departments during Hurricane Harvey and all of the 
+time. I wish him the best and strongest recovery as a young man who 
+just entered the police department and just graduated. I know that our 
+prayers will help him and his family.
+
+                          ____________________
+```

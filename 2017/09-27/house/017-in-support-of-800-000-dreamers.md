@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt11-Pg15118-4
+date: 2017-09-27
+edition: CRECB
+section: HOUSE
+page: 15118
+---
+
+# IN SUPPORT OF 800,000 DREAMERS
+
+```
+                     IN SUPPORT OF 800,000 DREAMERS
+
+  (Mr. GOMEZ asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. GOMEZ. Mr. Speaker, I rise in support of 800,000 DREAMers 
+abandoned by this administration. Any doubt about the administration's 
+senseless cruelty was put to rest on September 5, when they chose to 
+end DACA.
+  Immigrant youth and their families fuel our economy and help create a 
+more dynamic society.
+  Terminating DACA is a heartless and vile act that will upend lives, 
+ruin families, and disrupt local economies.
+  DREAMers are the embodiment of America's promise, the idea that no 
+matter where you are from, the color of your skin, or the God you 
+worship, if you come here, believe in our values, work hard, and 
+contribute to our country, then you deserve a place here in the United 
+States of America. That is what we are fighting for: to keep the 
+promise of this great country.
+  To my Republican colleagues: you can't profess to support the 
+DREAMers yet fail to support the Dream Act. It is time to put up or 
+shut up. I call on my colleagues to sign the discharge petition and 
+support a clean Dream Act.
+
+                          ____________________
+```

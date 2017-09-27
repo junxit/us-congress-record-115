@@ -1,0 +1,31 @@
+---
+granule: CRECB-2017-pt11-Pg15156
+date: 2017-09-27
+edition: CRECB
+section: HOUSE
+page: 15156
+---
+
+# SENATE BILLS REFERRED
+
+```
+                         SENATE BILLS REFERRED
+
+  Bills of the Senate of the following titles were taken from the 
+Speaker's table and, under the rule, referred as follows:
+
+       S. 870. An act to amend title XVIII of the Social Security 
+     Act to implement Medicare payment policies designed to 
+     improve management of chronic disease, streamline care 
+     coordination, and improve quality outcomes without adding to 
+     the deficit; to the Committee on Ways and Means; in addition, 
+     to the Committee on Energy and Commerce for a period to be 
+     subsequently determined by the Speaker, in each case for 
+     consideration of such provisions as fall within the 
+     jurisdiction of the committee concerned.
+       S. 1028. An act to provide for the establishment and 
+     maintenance of a Family Caregiving Strategy, and for other 
+     purposes; to the Committee on Education and the Workforce.
+
+                          ____________________
+```
