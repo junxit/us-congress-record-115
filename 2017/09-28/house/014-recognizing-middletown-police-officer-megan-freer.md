@@ -1,0 +1,43 @@
+---
+granule: CREC-2017-09-28-pt1-PgH7592-6
+date: 2017-09-28
+edition: CREC
+section: HOUSE
+page: H7592
+citation: 163 Cong. Rec. H7592
+---
+
+# RECOGNIZING MIDDLETOWN POLICE OFFICER MEGAN FREER
+
+**Speaking:** Fitzpatrick, Brian K. (F000466) [R-PA]
+
+```
+           RECOGNIZING MIDDLETOWN POLICE OFFICER MEGAN FREER
+
+  (Mr. FITZPATRICK asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. FITZPATRICK. Mr. Speaker, over the course of several weeks this 
+summer, our Nation focused on my district as the tragic news of missing 
+teenagers led the news.
+  My heart goes out to the families of those boys and our entire 
+community touched by this tragedy. In that darkness, we saw the best of 
+our community shine through: neighbors in prayer; local businesses 
+engaged in investigation efforts; and through it all, the commitment 
+and the dedication of our local law enforcement officers.
+  One such officer, Middletown Township Police Officer Megan Freer, was 
+recently recognized at the National Liberty Museum in Philadelphia for
+
+[[Page H7593]]
+
+her investigatory work. Middletown Police Chief Joe Bartorilla noted 
+well: Megan exemplifies our law enforcement who are committed to doing 
+the very best job they can, day in and day out to protect and safeguard 
+our citizens.
+  Mr. Speaker, I am proud of Officer Freer and the entire law 
+enforcement community in Bucks County, to include District Attorney 
+Matt Weintraub, who committed to this investigation. Through their 
+efforts, our community can begin to heal from this terrible tragedy 
+that we suffered.
+
+                          ____________________
+```

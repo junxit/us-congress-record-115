@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-09-28-pt1-PgH7634
+date: 2017-09-28
+edition: CREC
+section: HOUSE
+page: H7634
+citation: 163 Cong. Rec. H7634
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.Res. 488, H.R. 1107
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. GOODLATTE: Committee on the Judiciary. House Resolution 
+     488. Resolution of inquiry requesting the President and 
+     directing the Attorney General to transmit, respectively, 
+     certain documents to the House of Representatives relating to 
+     the removal of former Federal Bureau of Investigation 
+     Director James Comey; with an amendment (Rept. 115-335); 
+     adversely. Referred to the House Calendar.
+       Mr. BISHOP of Utah: Committee on Natural Resources. H.R. 
+     1107. A bill to promote conservation, improve public land 
+     management, and provide for sensible development in Pershing 
+     County, Nevada, and for other purposes (Rept. 115-336). 
+     Referred to the Committee of the Whole House on the state of 
+     the Union.
+
+                          ____________________
+```

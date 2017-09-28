@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-09-28-pt1-PgS6221
+date: 2017-09-28
+edition: CREC
+section: SENATE
+page: S6221
+citation: 163 Cong. Rec. S6221
+---
+
+# TRIBUTE TO BOB MILLS
+
+**Speaking:** Portman, Rob (P000449) [R-OH]
+
+```
+                          TRIBUTE TO BOB MILLS
+
+  Mr. PORTMAN. Mr. President, today I wish to recognize Bob Mills as 
+the 67th recipient of the Dayton Region's 2017 Citizen Legion of Honor 
+Award from the President's Club. As founder of Synergy Building Systems 
+and Mills Development, Bob Mills' leadership and vision for quality 
+development in and around the I-75 and I-675 corridors has made a 
+tremendous impact on the economic vitality of the region.
+  More than a dozen corporate and not-for-profit boards have benefited 
+from Bob Mills' leadership over the years, including Greene Memorial 
+Hospital, the Air Force Museum, Wright State University Foundation, and 
+the Dayton Development Coalition. He has been recognized for his 
+generosity by the Dayton Regional STEM School, Beavercreek Chamber of 
+Commerce, the American Cancer Society, the Leukemia Lymphoma Society, 
+and as the recipient of the Mathile Community Award.
+  Maybe most impressive, Bob Mills and his family created the Gala of 
+Hope Foundation and have raised more than $6 million to fight cancer 
+and improve cancer care in the Dayton region by providing grants and 
+funding for patient care, families, caregivers, and research.
+  Additionally, he and his family have worked tirelessly to support 
+Dayton Children's new patient tower which supports local children's 
+needs for important healthcare services.
+  I would like to honor and congratulate Bob Mills for his many 
+contributions to his community and our State.
+
+                          ____________________
+```

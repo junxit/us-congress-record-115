@@ -1,0 +1,51 @@
+---
+granule: CREC-2017-09-28-pt1-PgS6221-4
+date: 2017-09-28
+edition: CREC
+section: SENATE
+page: S6221
+citation: 163 Cong. Rec. S6221
+---
+
+# RECOGNIZING BAKER FURNITURE
+
+**Speaking:** Daines, Steve (D000618) [R-MT]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                      RECOGNIZING BAKER FURNITURE
+
+● Mr. DAINES. Mr. President, this week, I have the distinct 
+honor of recognizing a multigeneration cornerstone of the community in 
+Fallon County. Baker Furniture has served the people of eastern Montana 
+for over eight decades. Through the years, the team at Baker Furniture 
+has skillfully navigated changes in consumer tastes and a shifting 
+business climate in order to provide quality furniture and appliances 
+for the folks in Baker.
+  Baker Furniture initially began operations on Main Street in 1936, by 
+the original proprietor, Leif Holmlund. Leif's understudy in the 
+furniture industry, Army veteran Orville Stevens, would eventually take 
+the reins of the enterprise in the 1960s. Under Orville's guidance, the 
+business flourished. Orville's sons, Tom and Dave, also pitched in to 
+help make the business a success.
+  Tom and Dave went on to assume the primary duties for the business in 
+the late 1990s. After a life that included service to his Nation, 
+raising a family, and operating a successful business, Orville passed 
+away in 2009. Since his passing, the business that Orville developed 
+has continued to thrive and meet the needs of the community.
+
+[[Page S6222]]
+
+  Small businesses, operated by hardworking family members, are an 
+engine of commerce for many rural communities across Montana. Baker 
+Furniture is a shining example of this business model, and many 
+shoppers in Baker and the surrounding area are grateful. Thank you to 
+the team at Baker Furniture for the many years of excellent service to 
+your neighbors, and I wish you continued success in the future.●
+
+                          ____________________
+```
