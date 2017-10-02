@@ -1,0 +1,30 @@
+---
+granule: CREC-2017-10-02-pt1-PgS6237-10
+date: 2017-10-02
+edition: CREC
+section: SENATE
+page: S6237
+citation: 163 Cong. Rec. S6237
+---
+
+# Las Vegas Mass Shooting (Executive Session)
+
+**Speaking:** Hatch, Orrin G. (H000338) [R-UT]
+
+```
+                        Las Vegas Mass Shooting
+
+  Mr. HATCH. Mr. President, there are a number of issues I wish to 
+speak on today, but first I wish to extend my most sincere condolences 
+to the victims of violence in Las Vegas.
+  What we witnessed last night was a tragedy without precedent. Today, 
+our thoughts are with all those folks who have lost--the families, 
+loved ones, and
+
+[[Page S6238]]
+
+friends whose lives will never be the same as a result of this 
+shooting.
+  Our hearts are with all of you, and so are our prayers. We love you. 
+We stand by you today. We ask that God will stand by you always.
+```

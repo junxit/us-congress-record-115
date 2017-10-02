@@ -1,0 +1,34 @@
+---
+granule: CREC-2017-10-02-pt1-PgH7639-7
+date: 2017-10-02
+edition: CREC
+section: HOUSE
+page: H7639
+citation: 163 Cong. Rec. H7639
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Patrick J. Conroy, offered the following 
+prayer:
+  Almighty God, we give You thanks for giving us another day.
+  We pray for the gift of wisdom to all with great responsibility in 
+this people's House for the leadership of our Nation.
+  Lord, once again, our Nation reels in grief and horror after yet 
+another mass shooting on our soil. We ask Your blessing upon us all, 
+but most especially on those who mourn the loss of their loved ones. 
+Have mercy on all Your children who died.
+  The debates will, once again, ensue. Speed us to the day when the 
+wisdom of Solomon might inspire our congressional Members beyond the 
+limitations of sound bites and platitudes before more and more American 
+citizens are deprived of their lives.
+  Lord, the suffering of our world is all around us. Stimulate our 
+hearts and minds so that everything we may do this day would be for 
+Your greater honor and glory.
+  Amen.
+
+                          ____________________
+```
