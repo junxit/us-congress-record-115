@@ -1,0 +1,42 @@
+---
+granule: CRECB-2017-pt11-Pg15335-4
+date: 2017-10-02
+edition: CRECB
+section: HOUSE
+page: 15335
+---
+
+# GIVE BLOOD TO HONOR THOSE AFFECTED IN LAS VEGAS
+
+```
+            GIVE BLOOD TO HONOR THOSE AFFECTED IN LAS VEGAS
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, I don't need to add any more adjectives or 
+an official statement about what happened in Las Vegas last night. It 
+has been said: horrific.
+  What I would like to add is that we see examples of people pulling 
+together to help each other that isn't reported very much. In this 
+horrific thing, giving thanks to the SWAT team who was able to put down 
+that shooter without making it even worse, the emergency personnel, 
+people helping each other get out of the way, hop over a fence, 
+whatever it took, and the people who are so highly impacted in the 
+hospitals around Las Vegas right now making heroic efforts, trying to 
+keep up with the flow there, these are things we should dwell on.
+  Pray for those who are gone, who are injured, who are on life support 
+right now. Console those who are around them. And an action item we can 
+all do wherever you are: give blood. I do, six-gallon club--not to 
+brag, but it is important.
+  I ask all of you, if you have never thought of it before, because 
+only a couple percent of Americans do, think about it now, and go do 
+it. It doesn't hurt: just a little pinprick here to test your blood, 
+and just a little needle right here to take that all-important pint.
+  Just the other day, our friend Steve Scalise, it is a miracle he was 
+here on this floor. It was a miracle he got off that ballfield, because 
+he had 18 pints, units of blood waiting for him there, a miracle he was 
+able to even walk out of that emergency room.
+  Give blood. It makes a big difference.
+
+                          ____________________
+```

@@ -1,0 +1,35 @@
+---
+granule: CRECB-2017-pt11-Pg15333-5
+date: 2017-10-02
+edition: CRECB
+section: HOUSE
+page: 15333
+---
+
+# RECOGNIZING THE LIFE OF SHAW CARTER
+
+```
+                  RECOGNIZING THE LIFE OF SHAW CARTER
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to recognize the 
+life of Mr. Shaw Carter, who passed away on August 9, 2017, at the age 
+of 24.
+  Shaw was a rare individual who touched the hearts of many people in 
+his life. He was a recent graduate of Young Harris College in north 
+Georgia, and was a graduate assistant at the University of Georgia, 
+where he was working on his master's degree in public administration.
+  Born with a heart defect, he underwent three open heart surgeries 
+before his third birthday and had a heart transplant before his 21st 
+birthday.
+  Through the obstacles with his illnesses, he preserved and selflessly 
+volunteered his time to uplift other kids who had other severe medical 
+issues. For example, he volunteered over 200 hours for Mended Hearts at 
+Northeast Georgia Medical Center.
+  When he was awarded the Young Harris Spirit Award, he was described 
+as the ``indefatigable Shaw Carter.'' There is no better way to 
+describe him. He will truly be missed.
+
+                          ____________________
+```
