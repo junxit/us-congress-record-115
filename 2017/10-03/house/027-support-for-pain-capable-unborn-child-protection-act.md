@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-10-03-pt1-PgH7683-5
+date: 2017-10-03
+edition: CREC
+section: HOUSE
+page: H7683
+citation: 163 Cong. Rec. H7683
+---
+
+# SUPPORT FOR PAIN-CAPABLE UNBORN CHILD PROTECTION ACT
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+          SUPPORT FOR PAIN-CAPABLE UNBORN CHILD PROTECTION ACT
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, our prayers go to all 
+victims of the Las Vegas massacre.
+  Mr. Speaker, I am grateful that I have been an advocate for pro-life 
+values and protecting the rights of unborn babies. Today, the House 
+will vote on the Pain-Capable Unborn Child Protection Act. This will 
+save the lives of babies who are too young to speak for themselves but 
+who are old enough to feel physical pain.
+  I appreciate the success of South Carolina Citizens for Life, who 
+work to give a voice to those who do not have one. With the great 
+leadership of Executive Director Holly Gatling of the Midlands, Leon 
+Wizorek of Barnwell, and Sally Zaleski of Orangeburg, this organization 
+has been working to save lives.
+  As a cosponsor of the legislation with colleagues Trent Franks, Vicky 
+Hartzler, Mia Love, and Karen Handel, I am grateful to stand for life, 
+upholding the conservative values and protecting the lives of our 
+unborn babies. Every life is precious and has great value.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism.
+  Thank you, Dr. Tom Price and Betty Price, for your successful service 
+to American families.
+
+                          ____________________
+```

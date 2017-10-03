@@ -1,0 +1,55 @@
+---
+granule: CREC-2017-10-03-pt1-PgS6286-5
+date: 2017-10-03
+edition: CREC
+section: SENATE
+page: S6286
+citation: 163 Cong. Rec. S6286
+---
+
+# MEASURES REFERRED
+
+**Measures:** H.R. 289, H.R. 965, H.R. 1547, H.R. 2316, H.R. 2582, H.R. 2937
+
+```
+                           MEASURES REFERRED
+
+  The following bills were read the first and the second times by 
+unanimous consent, and referred as indicated:
+
+       H.R. 289. An act to authorize the Secretary of the Interior 
+     and the Secretary of Agriculture to issue permits for 
+     recreation services on lands managed by Federal agencies, and 
+     for other purposes; to the Committee on Energy and Natural 
+     Resources.
+       H.R. 965. An act to redesignate the Saint-Gaudens National 
+     Historic Site as the ``Saint-Gaudens National Historical 
+     Park'', and for other purposes; to the Committee on Energy 
+     and Natural Resources.
+       H.R. 1547. An act to provide for the unencumbering of title 
+     to non-Federal land owned by the city of Tucson, Arizona, for 
+     purposes of economic development by conveyance of the Federal 
+     reversionary interest to the City; to the Committee on Energy 
+     and Natural Resources.
+       H.R. 2316. An act to amend the Mineral Leasing Act and the 
+     Energy Policy Act of 1992 to repeal provisions relating only 
+     to the Allegheny National Forest; to the Committee on Energy 
+     and Natural Resources.
+       H.R. 2582. An act to authorize the State of Utah to select 
+     certain lands that are available for disposal under the Pony 
+     Express Resource Management Plan to be used for the support 
+     and benefit of State institutions, and for other purposes; to 
+     the Committee on Energy and Natural Resources.
+       H.R. 2937. An act to amend the Surface Mining Control and 
+     Reclamation Act of 1977
+
+[[Page S6287]]
+
+     to authorize partnerships between States and nongovernmental 
+     entities for the purpose of reclaiming and restoring land and 
+     water resources adversely affected by coal mining activities 
+     before August 3, 1977, and for other purposes; to the 
+     Committee on Energy and Natural Resources.
+
+                          ____________________
+```

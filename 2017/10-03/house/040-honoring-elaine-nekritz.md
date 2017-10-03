@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-10-03-pt1-PgH7685-3
+date: 2017-10-03
+edition: CREC
+section: HOUSE
+page: H7685
+citation: 163 Cong. Rec. H7685
+---
+
+# HONORING ELAINE NEKRITZ
+
+**Speaking:** Schneider, Bradley Scott (S001190) [D-IL]
+
+```
+                        HONORING ELAINE NEKRITZ
+
+  (Mr. SCHNEIDER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SCHNEIDER. Mr. Speaker, I rise today to honor a dedicated public 
+servant, terrific mentor, and good friend, Elaine Nekritz, who retired 
+this week as State representative for Illinois' 57th District.
+  For more than 14 years, Elaine has ably represented the communities 
+of Buffalo Grove, Arlington Heights, Northbrook, Wheeling, Palatine, 
+Mount Prospect, and Prospect Heights in the Illinois House of 
+Representatives.
+  During this time, she has been an outspoken advocate for her 
+constituents, a passionate defender of the environment, and a champion 
+for women's rights.
+  Future generations in Illinois will benefit from Elaine's work to 
+invest in infrastructure, including a high-speed rail link between 
+Chicago and St. Louis.
+  Her smart backing of criminal justice reform ensures more young 
+offenders have an opportunity to reform their lives through juvenile 
+court.
+  The residents of the 57th District will miss her energy, dedication, 
+and tireless communication with her constituents.
+  I am personally grateful for Elaine's service and wish her the best 
+and her husband, Barry, the very best in whatever comes next.
+
+                          ____________________
+```
