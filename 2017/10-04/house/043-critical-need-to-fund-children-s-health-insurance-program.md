@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt11-Pg15530-3
+date: 2017-10-04
+edition: CRECB
+section: HOUSE
+page: 15530
+---
+
+# CRITICAL NEED TO FUND CHILDREN'S HEALTH INSURANCE PROGRAM
+
+```
+       CRITICAL NEED TO FUND CHILDREN'S HEALTH INSURANCE PROGRAM
+
+  (Mr. CARBAJAL asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. CARBAJAL. Mr. Speaker, today I rise in disbelief that this 
+Congress has shamefully allowed the Children's Health Insurance 
+Program, CHIP, to expire earlier this week. CHIP provides healthcare to 
+8.9 million low-income children in our country and to over 2 million 
+children in my home State of California.
+  My Republican colleagues have spent all their time and energy this 
+year fighting to repeal healthcare for millions of Americans covered by 
+the Affordable Care Act, and now they have failed to protect healthcare 
+for our country's children.
+  If we do not act quickly, it could soon lead to States not enrolling 
+children and potentially even denying them coverage altogether due to 
+the lack of funding.
+  It is critical that we fund the CHIP program without delay and 
+provide certainty to these families that they will not lose their 
+health coverage because of this irresponsible and derelict 
+congressional inaction.
+
+                          ____________________
+```
