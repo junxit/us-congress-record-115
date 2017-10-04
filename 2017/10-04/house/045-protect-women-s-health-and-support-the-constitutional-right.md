@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-10-04-pt1-PgH7764-2
+date: 2017-10-04
+edition: CREC
+section: HOUSE
+page: H7764
+citation: 163 Cong. Rec. H7764
+---
+
+# PROTECT WOMEN'S HEALTH AND SUPPORT THE CONSTITUTIONAL RIGHT TO CHOOSE
+
+**Speaking:** Brown, Anthony G. (B001304) [D-MD]
+
+```
+                              {time}  1230
+ PROTECT WOMEN'S HEALTH AND SUPPORT THE CONSTITUTIONAL RIGHT TO CHOOSE
+
+  (Mr. BROWN of Maryland asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. BROWN of Maryland. Mr. Speaker, 3 days after Congress allowed the 
+Children's Health Insurance Program to expire, this House once again 
+passed a bill that restricts women's health and reproductive rights.
+  This should not be the time to prioritize politics. Women should be 
+able to make their own choices about their bodies and their healthcare.
+  Over the past 40 years, the Supreme Court has affirmed a woman's 
+constitutional right to privacy, including the right to choose.
+  Not only is the 20-week ban imposed by this Congress not based on 
+accepted science, but this ban disregards the role doctors play in 
+making health decisions.
+  In States that have already passed this ban, young people, women of 
+color, low-income women, and immigrant women are the ones who are most 
+impacted by the ban.
+  If we care about women's health, we should work to reduce unintended 
+pregnancies, expand access to contraception, and support maternal and 
+children's health. Instead, the majority is slashing Medicaid, 
+attacking Planned Parenthood, and passing bans.
+  Not me. I will remain committed to protecting women's health and 
+supporting the constitutional right to choose.
+
+                          ____________________
+```

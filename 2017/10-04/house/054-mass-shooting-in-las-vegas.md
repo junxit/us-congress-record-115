@@ -1,0 +1,43 @@
+---
+granule: CREC-2017-10-04-pt1-PgH7835-2
+date: 2017-10-04
+edition: CREC
+section: HOUSE
+page: H7835
+citation: 163 Cong. Rec. H7835
+---
+
+# MASS SHOOTING IN LAS VEGAS
+
+**Speaking:** Swalwell, Eric (S001193) [D-CA]
+
+```
+                       MASS SHOOTING IN LAS VEGAS
+
+  (Mr. SWALWELL of California asked and was given permission to address
+
+[[Page H7836]]
+
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. SWALWELL of California. Mr. Speaker, America has again been 
+rocked by a mass shooting, and our hearts ache and our hands pray for 
+the victims and those who are recovering. You can't help but watch the 
+countless scores of video accounts and not feel an urge to act.
+  My constituents ask: Are we helpless to stop the next mass shooting?
+  We are only helpless once the trigger is squeezed and you are in the 
+pathway of a bullet, but we are not helpless in this House. In fact, if 
+we come together, we are more powerful than any weapon.
+  Aren't the dead owed a dialogue, a conversation about whether we 
+should have background checks, a talk about whether people who have 
+weapons of war should only be warriors, and what about talking about 
+restrictions on ammunition purchases?
+  I refuse to accept the tradeoff that we must allow and accept that a 
+mass shooting is going to happen in this country for an unfettered 
+access to firearms.
+  If the police officers who went into that building so blindly and 
+were so brave could do that and show that courage, we can come into 
+this building and have the courage to have a dialogue for those 
+victims.
+
+                          ____________________
+```
