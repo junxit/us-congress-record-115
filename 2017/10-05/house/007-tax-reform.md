@@ -1,0 +1,37 @@
+---
+granule: CRECB-2017-pt11-Pg15679-8
+date: 2017-10-05
+edition: CRECB
+section: HOUSE
+page: 15679
+---
+
+# TAX REFORM
+
+```
+                               TAX REFORM
+
+  (Mr. PETERS asked and was given permission to address the House for 1 
+minute.)
+  Mr. PETERS. Mr. Speaker, our tax system is broken and in desperate 
+need of reform. We need a simpler Tax Code that is fiscally 
+responsible, makes American businesses more competitive, and allows 
+working families to prosper in a 21st century economy.
+  But the Ryan-McConnell tax proposal would do the opposite and fails 
+on the promises made by President Trump to boost the middle class. 
+Middle class families would see an average tax increase of $1,290 per 
+year. That is a 380 percent increase for an average family of four.
+  A new analysis from the nonpartisan Tax Policy Center said that the 
+Ryan-McConnell proposal would add $5.6 trillion to the national debt, a 
+27 percent increase from the current debt which is already too high.
+  Under this proposal, the increased deficits will far outweigh the 
+benefits of reductions, and economic growth and hardworking Americans 
+will both suffer.
+  Instead, we need forward-looking policies that are fiscally 
+responsible and create opportunities for families and businesses in 
+today's economy. That will only come from bipartisan negotiations where 
+we can work together to create the best possible tax conditions for 
+Americans.
+
+                          ____________________
+```

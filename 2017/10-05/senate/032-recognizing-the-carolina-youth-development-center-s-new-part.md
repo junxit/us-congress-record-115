@@ -1,0 +1,31 @@
+---
+granule: CRECB-2017-pt11-Pg15659
+date: 2017-10-05
+edition: CRECB
+section: SENATE
+page: 15659
+---
+
+# RECOGNIZING THE CAROLINA YOUTH DEVELOPMENT CENTER'S NEW PARTNERSHIP
+
+```
+  RECOGNIZING THE CAROLINA YOUTH DEVELOPMENT CENTER'S NEW PARTNERSHIP
+
+● Mr. SCOTT. Mr. President, I would like to recognize and 
+congratulate the Carolina Youth Development Center, Cummins, Inc., and 
+the Hootie and the Blowfish Foundation on its new partnership to 
+provide youth aging out of foster care an independent living 
+transitional house. The Carolina Youth Development Center has been a 
+blessing to our State for over 200 years with their bold mission. They 
+work tirelessly to empower and equip South Carolina's most vulnerable 
+children by providing a safe environment, educational support, and 
+career readiness.
+  Carolina Youth Development Center has an impressive 227-year history 
+of serving the community's most vulnerable children and families, 
+dating back to its founding as the Charleston Orphan House in 1790. The 
+agency remains steadfast in its commitment to youth in foster care and 
+continues to lead the way, changing lives and transforming 
+communities.●
+
+                          ____________________
+```

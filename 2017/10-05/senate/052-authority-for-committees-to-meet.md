@@ -1,0 +1,84 @@
+---
+granule: CRECB-2017-pt11-Pg15675
+date: 2017-10-05
+edition: CRECB
+section: SENATE
+page: 15675
+---
+
+# AUTHORITY FOR COMMITTEES TO MEET
+
+```
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+  Mr. CORNYN. Mr. President, I have 8 requests for committees to meet 
+during today's session of the Senate. They have the approval of the 
+Majority and Minority leaders.
+  Pursuant to rule XXVI, paragraph 5(a), of the Standing Rules of the 
+Senate, the following committees are authorized to meet during today's 
+session of the Senate:
+
+
+           COMMITTEE ON AGRICULTURE, NUTRITION, AND FORESTRY
+
+  The Committee on Agriculture, Nutrition, and Forestry is authorized 
+to meet during the session of the Senate on Thursday, October 5, 2017, 
+at 9:30 a.m., in room SR-328A to hold a hearing on the following 
+nominations: Gregory Ibach, to be Under Secretary of Agriculture for 
+Marketing and Regulator Programs; William Northey, to be Under 
+Secretary of Agriculture for Farm and Foreign Agriculture Services.
+
+
+               COMMITTEE ON ENVIRONMENT AND PUBLIC WORKS
+
+  The Committee on Environment and Public Works is authorized to meet 
+during the session of the Senate on Thursday, October 5, 2017, at 9:30 
+a.m., in room SD-406 to hold a hearing on the nomination of Paul 
+Trombino III, to be Administrator of the Federal Highway 
+Administration.
+
+
+                          COMMITTEE ON FINANCE
+
+  The Committee on Finance is authorized to meet during the session of 
+the Senate on Thursday, October 5, 2017, at 10 a.m., in room SD-215 to 
+hold a hearing on nominations.
+
+
+                     COMMITTEE ON FOREIGN RELATIONS
+
+  The Committee on Foreign Relations is authorized to meet during the 
+session of the Senate on Thursday, October 5, 2017, at 9:30 a.m., to 
+hold a business meeting.
+
+
+                     COMMITTEE ON FOREIGN RELATIONS
+
+  The Committee on Foreign Relations is authorized to meet during the 
+session of the Senate on Thursday, October 5, 2017, at 2:30 p.m., to 
+hold a hearing on nominations.
+
+
+          COMMITTEE ON HEALTH, EDUCATION, LABOR, AND PENSIONS
+
+  The Committee on Health, Education, Labor, and Pensions is authorized 
+to meet during the session of the Senate on Thursday, October 5, 2017, 
+at 10 a.m., in room SD-430 to hold a hearing entitled ``The Federal 
+Response to the Opioid Crisis.''
+
+
+                       COMMITTEE ON THE JUDICIARY
+
+  The Committee on the Judiciary is authorized to meet during the 
+session of the Senate on Thursday, October 5, 2017, at 10 a.m., in room 
+SD-226 to hold an executive business meeting.
+
+
+                    SELECT COMMITTEE ON INTELLIGENCE
+
+  The Select Committee on Intelligence is authorized to meet during the 
+session of the Senate on Thursday, October 5, 2017, at 2 p.m., in room 
+SH-219 to hold a closed hearing.
+
+                          ____________________
+```
