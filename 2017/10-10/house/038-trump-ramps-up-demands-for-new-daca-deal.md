@@ -1,0 +1,40 @@
+---
+granule: CRECB-2017-pt11-Pg15749-4
+date: 2017-10-10
+edition: CRECB
+section: HOUSE
+page: 15749
+---
+
+# TRUMP RAMPS UP DEMANDS FOR NEW DACA DEAL
+
+```
+                TRUMP RAMPS UP DEMANDS FOR NEW DACA DEAL
+
+  (Ms. JACKSON LEE asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. JACKSON LEE. Mr. Speaker, I join with my colleague from Illinois 
+and demand that the Children's Health Insurance Program that will help 
+millions of children have healthcare be reauthorized now, and certainly 
+it should be done before we leave for the work recess.
+  I also want to hold up the headline of the Houston Chronicle that 
+says: ``Trump Ramps Up Demands for New DACA Deal.''
+  Sometimes we think that these are just statements that don't impact 
+people's lives. The name of the young lady on this front page is Karen, 
+who watches her parents work 17 hours a day, trying to ensure that the 
+children who came here through no fault of their own can be 
+contributing Americans.
+  We stood together yesterday with 122,000 in the State of Texas. We 
+thought we had a reasonable deal to be able to work together to help 
+these young people. But with the ridiculous demands that have been made 
+by this administration--$15 billion border wall, cutting legal 
+immigration, sending out the door unaccompanied children--it is 
+absolutely ludicrous.
+  Does anyone care about human life.
+  Then we stood together with the chief of police, the sheriff, the 
+constables, and Moms Demand Action and fought against ridiculous 
+nonregulation of guns that can kill people, military guns. We need gun 
+safety legislation, and we need to do it now.
+
+                          ____________________
+```
