@@ -1,0 +1,60 @@
+---
+granule: CREC-2017-10-10-pt1-PgH7917
+date: 2017-10-10
+edition: CREC
+section: HOUSE
+page: H7917
+citation: 163 Cong. Rec. H7917
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 378, H.Res. 562, S. 585, H.R. 2196, H.R. 3031, H.R. 3243
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. GOWDY: Committee on Oversight and Government Reform. 
+     H.R. 378. A bill to amend title 5, United States Code, to 
+     enhance the authority under which Federal agencies may pay 
+     cash awards to employees for making cost saving disclosures, 
+     and for other purposes; with an amendment (Rept. 115-341). 
+     Referred to the Committee of the Whole House on the state of 
+     the Union.
+       Mr. GOWDY: Committee on Oversight and Government Reform. 
+     H.R. 2196. A bill to amend title 5, United States Code, to 
+     allow whistleblowers to disclose information to certain 
+     recipients (Rept. 115-342). Referred to the Committee of the 
+     Whole House on the state of the Union.
+       Mr. GOWDY: Committee on Oversight and Government Reform. 
+     H.R. 3031. A bill to amend title 5, United States Code, to 
+     provide for flexibility in making withdrawals from a Thrift 
+     Savings Plan account, and for other purposes (Rept. 115-343). 
+     Referred to the Committee of the Whole House on the state of 
+     the Union.
+       Mr. GOWDY: Committee on Oversight and Government Reform. 
+     H.R. 3243. A bill to amend title 40, United States Code, to 
+     eliminate the sunset of certain provisions relating to 
+     information technology, to amend the National Defense 
+     Authorization Act for Fiscal Year 2015 to extend the sunset 
+     relating to the Federal Data Center Consolidation Initiative, 
+     and for other purposes (Rept. 115-344). Referred to the 
+     Committee of the Whole House on the state of the Union.
+       Mr. COLLINS of Georgia: Committee on Rules. House 
+     Resolution 562. Resolution providing for consideration of the 
+     bill (S. 585) to provide greater whistleblower protections 
+     for Federal employees, increased awareness of Federal 
+     whistleblower protections, and increased accountability and 
+     required discipline for Federal supervisors who retaliate 
+     against whistleblowers, and for other purposes; providing for 
+     proceedings during the period from October 16, 2017, through 
+     October 20, 2017; and providing for consideration of motions 
+     to suspend the rules (Rept. 115-345). Referred to the House 
+     Calendar.
+
+                          ____________________
+```
