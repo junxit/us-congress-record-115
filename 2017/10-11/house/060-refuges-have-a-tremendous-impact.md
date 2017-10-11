@@ -1,0 +1,39 @@
+---
+granule: CRECB-2017-pt11-Pg15814-5
+date: 2017-10-11
+edition: CRECB
+section: HOUSE
+page: 15814
+---
+
+# REFUGES HAVE A TREMENDOUS IMPACT
+
+```
+                    REFUGES HAVE A TREMENDOUS IMPACT
+
+  (Mr. JEFFRIES asked and was given permission to address the House for 
+1 minute.)
+  Mr. JEFFRIES. Mr. Speaker, each year, millions of Americans visit 
+wildlife refuges throughout the country. They generate over $2 billion 
+in economic activity and create 35,000 jobs. This wouldn't be possible 
+without help from dedicated and hardworking volunteers.
+  That is why we have introduced H.R. 3979, bipartisan legislation that 
+reauthorizes the National Wildlife Refuge System Volunteer, Community 
+Partnership, and Education Program. This program ensures public access 
+to refuges for exploring, hunting, fishing, and studying wildlife.
+  Refuges have a tremendous impact, even in Brooklyn, where Fish and 
+Wildlife Service staff and volunteers work with local public schools to 
+cultivate the next generation of conservationists and wildlife 
+enthusiasts through hands-on learning.
+  Carmen Wheeler, a second grade student in Brooklyn, recently wrote to 
+me and said: ``I think we should keep the wildlife refugees safe, even 
+if they are far away, because they will always keep our world 
+healthier.''
+  We are with you, Carmen.
+
+[[Page 15815]]
+
+
+
+                          ____________________
+```

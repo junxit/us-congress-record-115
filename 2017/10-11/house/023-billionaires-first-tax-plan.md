@@ -1,0 +1,40 @@
+---
+granule: CRECB-2017-pt11-Pg15780-8
+date: 2017-10-11
+edition: CRECB
+section: HOUSE
+page: 15780
+---
+
+# BILLIONAIRES FIRST TAX PLAN
+
+```
+                      BILLIONAIRES FIRST TAX PLAN
+
+  (Mr. KILDEE asked and was given permission to address the House for 1 
+minute.)
+  Mr. KILDEE. Mr. Speaker, last week, Republicans brought their extreme 
+budget to the floor, a budget that forces the middle class to pay more 
+in taxes just to give the wealthiest Americans a massive tax break.
+  This budget slashes investments in our future, such as rebuilding 
+roads
+
+[[Page 15781]]
+
+and bridges and education, just so it can provide huge tax breaks to 
+the absolute wealthiest Americans. Billionaires would receive a massive 
+tax cut under this plan.
+  Under this ``billionaires first'' tax plan, according to the 
+nonprofit, nonpartisan Tax Policy Center, middle class families would 
+pay an average of $1,290 a year more in taxes, while 80 percent of the 
+benefits would go to the wealthiest 1 percent of Americans: the 
+superwealthy. By repealing the estate tax, 5,400 families would receive 
+a $270 billion tax break.
+  Who pays for this? The middle class.
+  How? By passing the costs on to them and increasing our deficit at 
+the same time. Trillions of dollars would be added to our deficit.
+  Giving billionaires a massive tax break is fiscally irresponsible and 
+morally wrong. We ought to reject it.
+
+                          ____________________
+```
