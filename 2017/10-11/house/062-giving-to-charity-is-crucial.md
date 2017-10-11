@@ -1,0 +1,43 @@
+---
+granule: CREC-2017-10-11-pt1-PgH7959-6
+date: 2017-10-11
+edition: CREC
+section: HOUSE
+page: H7959
+citation: 163 Cong. Rec. H7959
+---
+
+# GIVING TO CHARITY IS CRUCIAL
+
+**Speaking:** Walker, Mark (W000819) [R-NC]
+
+```
+                      GIVING TO CHARITY IS CRUCIAL
+
+  (Mr. WALKER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. WALKER. Mr. Speaker, today I rise to announce the introduction of 
+the Universal Charitable Giving Act. Many Americans believe that 
+people, not the government, offer the best solutions to solve the 
+ailments that face our society. Strong families, strong churches, and 
+strong communities are the foundations of our Nation. By supporting 
+charities, we can make our communities and our country a better place 
+for Americans from all walks of life.
+  Giving to charity is crucial for economic prosperity, happiness, and 
+the success of our people, but for too long only the most wealthy have 
+been incentivized to give to the causes they believe in.
+  The Universal Charitable Giving Act incentivizes charitable giving 
+for low- and middle-income taxpayers. It would allow everyone to deduct 
+charitable giving, regardless of itemizing status.
+  With tax reform, our aim is to increase take-home pay for middle 
+America. With my bill, our goal is to increase support for all 
+charities.
+  Mr. Speaker, I urge my colleagues to support the great work of our 
+faith-based and charitable organizations by supporting this bill.
+
+[[Page H7960]]
+
+  
+
+                          ____________________
+```

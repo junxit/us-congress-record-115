@@ -1,0 +1,44 @@
+---
+granule: CREC-2017-10-11-pt1-PgH7960
+date: 2017-10-11
+edition: CREC
+section: HOUSE
+page: H7960
+citation: 163 Cong. Rec. H7960
+---
+
+# NAFTA RENEGOTIATIONS BEGIN
+
+**Speaking:** Cicilline, David N. (C001084) [D-RI]
+
+```
+                       NAFTA RENEGOTIATIONS BEGIN
+
+  (Mr. CICILLINE asked and was given permission to address the House 
+for 1 minute.)
+  Mr. CICILLINE. Mr. Speaker, this week, the fourth round of NAFTA 
+renegotiations will begin. President Trump will have an opportunity to 
+deliver on his promise last year to get a better deal for American 
+workers. I hope he does.
+  Our current trade deals are rigged in favor of the largest 
+corporations in this country and against working people. In my home 
+State of Rhode Island, we have lost 41,000 manufacturing jobs since 
+NAFTA and the WTO took effect. That is more than half of the 
+manufacturing jobs in my State. The folks who kept their jobs have seen 
+their paychecks get smaller.
+  Rhode Islanders know, most importantly, that we need a trade deal 
+that is fair; but they know that trade deals that we have now help 
+powerful corporations, but they are killing American jobs, helping 
+corporations outsource jobs at the expense of working people.
+  This week I am asking President Trump to demand a new NAFTA agreement 
+that has strong labor and environmental protections, that end foreign 
+tribunals that allow corporations to sue the U.S. Government and force 
+taxpayers to pay the bill, that has better Buy American requirements, 
+that has strict protections against currency manipulation, that has 
+strong rules of origin on manufactured goods, and that has provisions 
+that bring down the cost of prescription drugs.
+  These are commonsense provisions that will empower American working 
+families, and they should be included in any new trade agreement.
+
+                          ____________________
+```
