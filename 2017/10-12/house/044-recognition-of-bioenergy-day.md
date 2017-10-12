@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-10-12-pt1-PgH7989-2
+date: 2017-10-12
+edition: CREC
+section: HOUSE
+page: H7989
+citation: 163 Cong. Rec. H7989
+---
+
+# RECOGNITION OF BIOENERGY DAY
+
+**Speaking:** Westerman, Bruce (W000821) [R-AR]
+
+```
+                      RECOGNITION OF BIOENERGY DAY
+
+  (Mr. WESTERMAN asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. WESTERMAN. Mr. Speaker, I rise today in recognition of Bioenergy 
+Day, a day we celebrate natural renewable energy in America. On October 
+18, organizations across America will mark this special day by opening 
+their doors to the public and highlighting how bioenergy is fueling 
+America.
+  Forest by-products are a primary source of bioenergy, making my home 
+State of Arkansas a leading producer in this field.
+  Across the country, bioenergy keeps the lights on and so much more. 
+Bioenergy produces just under 6 percent of the Nation's total energy 
+supply and provides full-time jobs for tens of thousands of Americans, 
+with more plants coming online in the near future.
+  We need to do more research to find economical ways to harness 
+renewable energy in our abundant biomass that we all too often continue 
+to see going up in flames and wildfires. As we approach October 18, I 
+encourage all Americans to learn more about bioenergy, forest by-
+products, and the environmental benefits derived from our natural 
+resources.
+
+                          ____________________
+```

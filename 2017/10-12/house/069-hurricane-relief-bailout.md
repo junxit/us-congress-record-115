@@ -1,0 +1,44 @@
+---
+granule: CREC-2017-10-12-pt1-PgH8015
+date: 2017-10-12
+edition: CREC
+section: HOUSE
+page: H8015
+citation: 163 Cong. Rec. H8015
+---
+
+# HURRICANE RELIEF BAILOUT
+
+**Speaking:** Rothfus, Keith J. (R000598) [R-PA]
+
+```
+                              {time}  1600
+                        HURRICANE RELIEF BAILOUT
+
+  (Mr. ROTHFUS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. ROTHFUS. Madam Speaker, buried in today's disaster supplemental 
+spending bill is a $16 billion taxpayer bailout of the National Flood 
+Insurance Program. That is nearly half the cost of this bill. This 
+bailout does not come with a single reform that would put the program 
+on the path to sustainability.
+  This taxpayer bailout maintains a program that has resulted in 
+taxpayer-subsidized development and reconstruction of homes that 
+repeatedly flood.
+  Madam Speaker, why are we not reforming this program that puts 
+residents and first responders in harm's way? How much more debt are we 
+willing to let this program pile onto the next generation?
+  Americans in Texas, Florida, Puerto Rico, and the Virgin Islands need 
+help, and I would have liked to vote for the relief portion of today's 
+legislation, but the multibillion-dollar taxpayer bailout of an 
+unreformed program made the bill unacceptable.
+  I urge my colleagues to reconsider the path we are on. We could have 
+had a bill that not only provided relief to hurricane victims, but 
+would have provided relief for taxpayers and the next generation as 
+well, but we did not.
+  We will get another chance for fiscal sanity in December, when we 
+reconsider the additional disaster funding and funding for the rest of 
+2018. Let's hope we make better progress at that time.
+
+                          ____________________
+```
