@@ -1,0 +1,28 @@
+---
+granule: CRECB-2017-pt11-Pg15969
+date: 2017-10-16
+edition: CRECB
+section: SENATE
+page: 15969
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate October 16, 2017:
+
+
+                       OFFICE OF SPECIAL COUNSEL
+
+       HENRY KERNER, OF CALIFORNIA, TO BE SPECIAL COUNSEL, OFFICE 
+     OF SPECIAL COUNSEL, FOR THE TERM OF FIVE YEARS.
+
+
+                          DEPARTMENT OF STATE
+
+       CALLISTA L. GINGRICH, OF VIRGINIA, TO BE AMBASSADOR 
+     EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED STATES OF 
+     AMERICA TO THE HOLY SEE.
+```
