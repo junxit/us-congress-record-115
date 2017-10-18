@@ -1,0 +1,79 @@
+---
+granule: CREC-2017-10-18-pt1-PgS6590-2
+date: 2017-10-18
+edition: CREC
+section: SENATE
+page: S6590
+citation: 163 Cong. Rec. S6590
+---
+
+# AUTHORITY FOR COMMITTEES TO MEET
+
+**Speaking:** Rubio, Marco (R000595) [R-FL]
+
+```
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+  Mr. RUBIO. Mr. President, I have 5 requests for committees to meet 
+during today's session of the Senate. They have the approval of the 
+Majority and Minority leaders.
+  Pursuant to rule XXVI, paragraph 5(a), of the Standing Rules of the 
+Senate, the following committees are authorized to meet during today's 
+session of the Senate:
+
+
+                     Committee on Foreign Relations
+
+  The Committee on Foreign Relations is authorized to meet during the 
+session of the Senate on Wednesday, October 18, 2017, at 2:30 p.m.. to 
+conduct a hearing on nominations.
+
+
+          Committee on Health, Education, Labor, and Pensions
+
+  The Committee on Health, Education, Labor, and Pensions is authorized 
+to meet during the session of the Senate on Wednesday, October 18, 
+2017, at 9:30 a.m., in room SD-430 to conduct a hearing on the 
+following nominations: Patrick Pizzella, of Virginia, to be Deputy 
+Secretary, Cheryl Marie Stanton, of South Carolina, to be Administrator 
+of the Wage and Hour Division, and David G. Zatezalo, of West Virginia, 
+to be Assistant Secretary for Mine Safety and Health, all of the 
+Department of Labor, Janet Dhillon, of Pennsylvania, and Daniel M. 
+Gade, of North Dakota, both to be a Member of the Equal Employment 
+Opportunity Commission, Carlos G. Muniz, of Florida, to be General 
+Counsel, Department of Education, Peter B. Robb, of Vermont, to be 
+General Counsel of the National Labor Relations Board, and Gerald W. 
+Fauth, of Virginia, Kyle Fortson, of the District of Columbia, and 
+Linda A. Puchala, of Maryland, each to be a Member of the National 
+Mediation Board.
+
+
+        Committee on Homeland Security and Governmental Affairs
+
+  The Committee on Homeland Security and Governmental Affairs is 
+authorized to meet during the session of the Senate on Wednesday, 
+October 18, 2017, at 10 a.m. to conduct a hearing on the following 
+nominations: Jeff Tien Han Pon, of Virginia, to be Director, and 
+Michael Rigas, of Massachusetts, to be Deputy Director, both of the 
+Office of Personnel Management, and Emily Webster Murphy, of Missouri, 
+to be Administrator of General Services.
+
+
+                       Committee on the Judiciary
+
+  The Committee on the Judiciary is authorized to meet during the 
+session of the Senate on Wednesday, October 18, 2017, at 10 a.m., in 
+room SH-216 to conduct a hearing entitled ``Oversight of the U.S. 
+Department of Justice.''
+
+
+  Subcommittee on Federal Spending Oversight and Emergency Management
+
+  The Subcommittee on Federal Oversight and Emergency Management of the 
+Committee on Homeland Security and Governmental Affairs is authorized 
+to meet during the session of the Senate on Wednesday, October 18, 
+2017, at 2:30 p.m. to hold a hearing entitled ``Broken Beakers: Federal 
+Support for Research.''
+
+                          ____________________
+```
