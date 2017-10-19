@@ -1,0 +1,48 @@
+---
+granule: CRECB-2017-pt11-Pg16211-2
+date: 2017-10-19
+edition: CRECB
+section: SENATE
+page: 16211
+---
+
+# SENATE RESOLUTION 295--DESIGNATING OCTOBER 2017 AS "NATIONAL EMPLOYEE OWNERSHIP MONTH"
+
+```
+SENATE RESOLUTION 295--DESIGNATING OCTOBER 2017 AS ``NATIONAL EMPLOYEE 
+                           OWNERSHIP MONTH''
+
+  Ms. BALDWIN (for herself, Mr. Roberts, Mr. Brown, Ms. Hassan, Mr. 
+Franken, Mr. Moran, Mrs. Murray, Mr. Sanders, Mrs. Shaheen, Mr. Young, 
+and Mr. King) submitted the following resolution; which was referred to 
+the Committee on the Judiciary:
+
+                              S. Res. 295
+
+       Whereas employee-owned companies give workers a voice in 
+     corporate governance, and that voice helps the long-term 
+     well-being of the company;
+       Whereas employee-owned companies often outperform non-
+     employee-owned companies and show greater resiliency during 
+     challenging economic conditions;
+       Whereas employee-owned companies face lower staff turnover, 
+     and workers experience greater job security at those 
+     companies;
+       Whereas employee-owners feel better prepared to cover the 
+     expenses of life and retire with a greater sense of financial 
+     security; and
+       Whereas employee-owned companies have a rich history in 
+     communities across the United States: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates October 2017 as ``National Employee 
+     Ownership Month'';
+       (2) supports employee-owned businesses; and
+       (3) acknowledges that employee-owned companies have a 
+     positive impact on workers, businesses, and communities.
+
+[[Page 16212]]
+
+
+
+                          ____________________
+```
