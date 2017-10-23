@@ -1,0 +1,32 @@
+---
+granule: CREC-2017-10-23-pt1-PgH8064-3
+date: 2017-10-23
+edition: CREC
+section: HOUSE
+page: H8064
+citation: 163 Cong. Rec. H8064
+---
+
+# MOMENT OF SILENCE HONORING FORMER CONGRESSMAN JERRY KLECZKA
+
+**Speaking:** Moore, Gwen (M001160) [D-WI]
+
+```
+      MOMENT OF SILENCE HONORING FORMER CONGRESSMAN JERRY KLECZKA
+
+  (Ms. MOORE asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. MOORE. Mr. Speaker, I rise, along with the Wisconsin delegation, 
+to honor the former Congressman, Jerry Kleczka, my predecessor, who 
+passed away on October 8, 2017, at the age of 73.
+  He was a very serious, hardworking legislator who served on the Ways 
+and Means Committee. He had a strong work ethic. He was a particularly 
+fantastic steward of our seniors, and he was proud to serve the people 
+of Wisconsin's Fourth Congressional District.
+  I am pleased to stand here with my colleagues from the Wisconsin 
+delegation to honor his service to our Nation, to the State of 
+Wisconsin, and to the Fourth Congressional District, and I ask our 
+colleagues to join us in a moment of silence.
+
+                          ____________________
+```

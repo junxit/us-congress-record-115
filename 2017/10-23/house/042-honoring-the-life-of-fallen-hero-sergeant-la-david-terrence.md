@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-10-23-pt1-PgH8064-4
+date: 2017-10-23
+edition: CREC
+section: HOUSE
+page: H8064
+citation: 163 Cong. Rec. H8064
+---
+
+# HONORING THE LIFE OF FALLEN HERO, SERGEANT LA DAVID TERRENCE JOHNSON
+
+**Speaking:** Ros-Lehtinen, Ileana (R000435) [R-FL]
+
+```
+  HONORING THE LIFE OF FALLEN HERO, SERGEANT LA DAVID TERRENCE JOHNSON
+
+  (Ms. ROS-LEHTINEN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. ROS-LEHTINEN. Mr. Speaker, it is with my deepest sympathy that I 
+rise today to recognize the tragic loss of Sergeant La David Terrence 
+Johnson, one of four brave U.S. Special Forces soldiers--and you see 
+them here listed--killed during an ambush in Niger on October 4 as a 
+result of enemy fire.
+  Sergeant Johnson was a proud south Floridian, a decorated soldier, 
+having been awarded several honors, and well-loved throughout our 
+community.
+  Sergeant Johnson was a loving husband to his wife, Myeshia, and a 
+devoted father to their wonderful children, Ah'Leeysa Jones and La 
+David Johnson, Jr. He leaves behind a baby girl due in January.
+  Sergeant Johnson will always be remembered as a loyal family man, a 
+dedicated soldier who made the ultimate sacrifice for our country.
+  I offer my deepest sympathy to Sergeant Johnson's mourning family, 
+friends, and loved ones.
+  Godspeed to Sergeant La David Terrence Johnson.
+
+                          ____________________
+```
