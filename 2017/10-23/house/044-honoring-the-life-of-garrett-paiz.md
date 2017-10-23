@@ -1,0 +1,39 @@
+---
+granule: CRECB-2017-pt11-Pg16308-2
+date: 2017-10-23
+edition: CRECB
+section: HOUSE
+page: 16308
+---
+
+# HONORING THE LIFE OF GARRETT PAIZ
+
+```
+                         HONORING THE LIFE OF 
+                              GARRETT PAIZ
+
+  (Mr. RUIZ asked and was given permission to address the House for 1 
+minute.)
+  Mr. RUIZ. Mr. Speaker, I rise to honor the life of a local hero, 
+Garrett Paiz, a Mecca native and firefighter, killed in the line of 
+duty while fighting fires in northern California on October 16 at the 
+age of 38.
+  I grew up with Garrett's family. Garrett embodied the best values of 
+service and sacrifice. He put others above self, willing to rush toward 
+danger when others ran from it. He traveled to northern California with 
+firefighters from around the country to battle the deadly fires 
+threatening so many homes and families. Being a firefighter was his 
+lifelong dream.
+  He was humble, hardworking, and devoted to his family, and he was 
+always smiling and laughing. Garrett had an adventurous nature and kind 
+heart. He was always willing to do whatever was needed to take care of 
+others.
+  I join my wife, Monica, and the entire 36th Congressional District to 
+mourn this heartbreaking loss and honor Garrett's legacy.
+  To his wife, Bobbie; daughter, Terri Ann; parents, Judi and Armando; 
+brother, Carlos; and sister, Cinthia; and the rest of the extended Paiz 
+family, we support you, and we honor Garrett's dedication to selfless 
+service. His life and sacrifice will never be forgotten.
+
+                          ____________________
+```
