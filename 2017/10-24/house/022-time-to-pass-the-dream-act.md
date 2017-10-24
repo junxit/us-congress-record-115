@@ -1,0 +1,41 @@
+---
+granule: CRECB-2017-pt11-Pg16338-6
+date: 2017-10-24
+edition: CRECB
+section: HOUSE
+page: 16338
+---
+
+# TIME TO PASS THE DREAM ACT
+
+```
+                       TIME TO PASS THE DREAM ACT
+
+  (Mr. AGUILAR asked and was given permission to address the House for 
+1 minute.)
+  Mr. AGUILAR. Mr. Speaker, we live in the land of opportunity where, 
+if you are willing to set goals, work hard, and give back to your 
+community, anything can be done.
+  This idea is the grandest of American traditions and is sewn into the 
+fabric of everything that we do, yet we are failing to live up to our 
+ideals.
+  A few weeks ago I met a college student in my district named Beatriz. 
+Beatriz moved to the United States with her family when she was 3 years 
+old. And while she wasn't born here, she told me: ``Today, I couldn't 
+even tell you what my homeland looks like, Congressman.''
+  A good student, Beatriz earned good grades to get into college, but 
+would not be able to afford it, except that she received financial aid 
+from the State because she is ineligible from the Federal Government.
+  But her life was changed when she applied for DACA in high school. 
+Beatriz was able to attend Cal State
+
+[[Page 16339]]
+
+San Bernardino with the help of financial aid and is now on her way to 
+becoming the first in her family to earn a college degree.
+  She said it is the most exciting experience to make progress and 
+contribute to the economy. This is her home, Mr. Speaker. It is time 
+that we pass the Dream Act.
+
+                          ____________________
+```

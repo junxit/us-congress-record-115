@@ -1,0 +1,67 @@
+---
+granule: CRECB-2017-pt11-Pg16455-2
+date: 2017-10-24
+edition: CRECB
+section: SENATE
+page: 16455
+---
+
+# SENATE RESOLUTION 302--AUTHORIZING LIMITED STILL PHOTOGRAPHY OF THE SENATE WING OF THE UNITED STATES CAPITOL AND AUTHORIZING THE RELEASE OF PREEXISTING PHOTOGRAPHS OF THE SENATE CHAMBER AND SENATE WING OF THE UNITED STATES CAPITOL FOR A BOOK ON THE HISTORY OF THE SENATE
+
+```
+  SENATE RESOLUTION 302--AUTHORIZING LIMITED STILL PHOTOGRAPHY OF THE 
+SENATE WING OF THE UNITED STATES CAPITOL AND AUTHORIZING THE RELEASE OF 
+ PREEXISTING PHOTOGRAPHS OF THE SENATE CHAMBER AND SENATE WING OF THE 
+     UNITED STATES CAPITOL FOR A BOOK ON THE HISTORY OF THE SENATE
+
+  Mr. McCONNELL (for himself, Mr. Schumer, Mr. Shelby, and Ms. 
+Klobuchar) submitted the following resolution; which was considered and 
+agreed to:
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the text 
+of the resolution be printed in the Record.
+  There being no objection, the text of the resolution was ordered to 
+be printed in the Record, as follows:
+
+                              S. Res. 302
+
+     SECTION 1. AUTHORIZATION OF TAKING OF STILL PHOTOGRAPHY OF 
+                   THE SENATE WING AND AUTHORIZING THE RELEASE OF 
+                   PREEXISTING PHOTOGRAPHS.
+
+       (a) Authorization.--During the period beginning on the date 
+     of adoption of this resolution and ending on January 31, 
+     2018, with respect to an individual or entity entering into a 
+     memorandum of understanding described in subsection (d), and 
+     subject to such memorandum--
+       (1) paragraph 1 of rule IV of the Rules for the Regulation 
+     of the Senate Wing of the United States Capitol and Senate 
+     Office Buildings (prohibiting the taking of pictures in the 
+     Senate Chamber) is temporarily suspended for the release of a 
+     limited number of preexisting photographs of the Senate 
+     Chamber; and
+       (2) taking a limited number of pictures shall be permitted 
+     in the Senate Wing of the United States Capitol and in Senate 
+     Office Buildings.
+       (b) Limitation on Use of Images.--The pictures taken under 
+     subsection (a) may only be used for production of a book on 
+     the history of the Senate.
+       (c) Arrangements.--The Sergeant at Arms and Doorkeeper of 
+     the Senate, the Secretary of the Senate, and the Architect of 
+     the Capitol shall, as appropriate, make the necessary 
+     arrangements to carry out this resolution, including such 
+     arrangements as are necessary to ensure that the taking of 
+     pictures under this resolution does not disrupt any 
+     proceeding of the Senate.
+       (d) Production Agreement.--The Majority Leader of the 
+     Senate, the Minority Leader of the Senate, and the Chairman 
+     and Ranking Member of the Committee on Rules and 
+     Administration of the Senate may jointly enter into a 
+     memorandum of understanding with an individual or entity 
+     seeking to take photographs and make use of preexisting 
+     photographs for a book on the history of the Senate to 
+     formalize an agreement on conditions, locations, and times 
+     for taking such photographs and the use of the photographs 
+     taken under this resolution.
+
+                          ____________________
+```
