@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-10-24-pt1-PgH8086-5
+date: 2017-10-24
+edition: CREC
+section: HOUSE
+page: H8086
+citation: 163 Cong. Rec. H8086
+---
+
+# ELECTING MEMBER TO A CERTAIN STANDING COMMITTEE OF THE HOUSE OF REPRESENTATIVES
+
+**Speaking:** Collins, Doug (C001093) [R-GA]
+
+**Measures:** H.Res. 579
+
+```
+    ELECTING MEMBER TO A CERTAIN STANDING COMMITTEE OF THE HOUSE OF 
+                            REPRESENTATIVES
+
+  Mr. COLLINS of Georgia. Mr. Speaker, by direction of the Republican 
+Conference, I offer a privileged resolution and ask for its immediate 
+consideration.
+  The Clerk read the resolution, as follows:
+
+                              H. Res. 579
+
+       Resolved, That the following named Member be, and is 
+     hereby, elected to the following standing committee of the 
+     House of Representatives:
+       Committee on Energy and Commerce: Mr. Duncan of South 
+     Carolina.
+
+  The resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

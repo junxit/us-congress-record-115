@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-10-24-pt1-PgH8132-2
+date: 2017-10-24
+edition: CREC
+section: HOUSE
+page: H8132
+citation: 163 Cong. Rec. H8132
+---
+
+# PLANS TO PREVENT FLOODING IN THE FUTURE
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+                PLANS TO PREVENT FLOODING IN THE FUTURE
+
+  (Mr. POE of Texas asked and was given permission to address the House 
+for 1 minute.)
+  Mr. POE of Texas. Mr. Speaker, Hurricane Harvey ravaged the coast of 
+Texas, hammering it with 50 inches of rain, massive flooding, and 
+massive damage.
+  After the rain stopped, the decision to release water from Addicks 
+and Barker Reservoirs and Lake Conroe have left many questions in the 
+Houston area. The release of this water caused even more flooding 
+downstream.
+  Why did the Corps of Engineers open Barker and Addicks Reservoirs for 
+15 days? Why weren't the communities of Humble and Kingwood given 
+proper notice of the historic release of floodwater from Lake Conroe by 
+the San Jacinto River Authority? And there are more questions.
+  I have introduced the Texas Flood Accountability Act. This 
+legislation requires the Army Corps of Engineers to evaluate the cause 
+of the floods and what can be done for long-term plans to prevent 
+flooding in the future. They must produce this plan within 90 days 
+after enactment.
+  We must move from paying for disasters to preventing them. We need a 
+plan, Mr. Speaker.
+  And that is just the way it is.
+
+                          ____________________
+```

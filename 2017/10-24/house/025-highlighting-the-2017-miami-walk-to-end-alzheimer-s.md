@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-10-24-pt1-PgH8086
+date: 2017-10-24
+edition: CREC
+section: HOUSE
+page: H8086
+citation: 163 Cong. Rec. H8086
+---
+
+# HIGHLIGHTING THE 2017 MIAMI WALK TO END ALZHEIMER'S
+
+**Speaking:** Ros-Lehtinen, Ileana (R000435) [R-FL]
+
+```
+          HIGHLIGHTING THE 2017 MIAMI WALK TO END ALZHEIMER'S
+
+  (Ms. ROS-LEHTINEN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. ROS-LEHTINEN. Mr. Speaker, I would like to highlight the 2017 
+Miami Walk to End Alzheimer's that will take place at Museum Park in 
+downtown Miami on Saturday, November 4.
+  Alzheimer's is a devastating disease that impacts over 54,000 seniors 
+in my county of Miami Dade and more than 500,000 individuals across the 
+Sunshine State. It is not just the patients who suffer. Family members 
+and caregivers also bear the brunt of this tragic and emotionally 
+draining disease.
+  I know this personally, having lost my mother due to complications 
+from Alzheimer's 6 years ago. The Miami Walk to End Alzheimer's plays 
+an essential role in helping advance Alzheimer's care and research in 
+our community and across our Nation.
+  This wonderful event is also important to patients, families, and 
+caregivers as a reminder that they have the full support of our 
+community as they battle this terrible disease.
+  I encourage everyone in our south Florida community to come out on 
+November 4 and support and raise awareness for Alzheimer's.
+
+                          ____________________
+```

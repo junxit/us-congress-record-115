@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-10-24-pt1-PgH8132-4
+date: 2017-10-24
+edition: CREC
+section: HOUSE
+page: H8132
+citation: 163 Cong. Rec. H8132
+---
+
+# BRIDES MARCH FOR DOMESTIC VIOLENCE
+
+**Speaking:** Espaillat, Adriano (E000297) [D-NY]
+
+```
+                   BRIDES MARCH FOR DOMESTIC VIOLENCE
+
+  (Mr. ESPAILLAT asked and was given permission to address the House 
+for 1 minute.)
+  Mr. ESPAILLAT. Mr. Speaker, earlier today, close to 100 women in 
+wedding gowns from all over our country came to Washington, D.C. They 
+came here to give a face and a voice to victims of domestic violence.
+  I was also floored by the courage of my colleagues, other Members of 
+Congress, whose loved ones had been victims and had even been killed 
+because of domestic violence. Domestic violence is something that can 
+impact anybody on any day, even on your wedding day.
+  The Brides March honors the memory and tragedy of Gladys Ricart, who, 
+on September 26, 1999, lost her life on her wedding day at the hands of 
+her abusive ex-boyfriend.
+  This march has now spread beyond New York, to Massachusetts, 
+Wisconsin, Florida, Washington, D.C., and even other countries like the 
+Dominican Republic, Mexico, Brazil, and Spain.
+  That is why, Mr. Speaker, today I am Gladys Ricart. We are all Gladys 
+Ricart. The Brides March and the advocacy of New York Latinas Against 
+Domestic Violence is a thundering statement against domestic violence 
+and a reminder that domestic violence remains a pressing issue in our 
+communities and sometimes in our families.
+  Mr. Speaker, domestic violence and violence against women is 
+unacceptable.
+
+                          ____________________
+```

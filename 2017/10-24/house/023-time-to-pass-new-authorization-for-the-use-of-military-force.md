@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-10-24-pt1-PgH8085-5
+date: 2017-10-24
+edition: CREC
+section: HOUSE
+page: H8085
+citation: 163 Cong. Rec. H8085
+---
+
+# TIME TO PASS NEW AUTHORIZATION FOR THE USE OF MILITARY FORCE
+
+**Speaking:** Banks, Jim (B001299) [R-IN]
+
+```
+      TIME TO PASS NEW AUTHORIZATION FOR THE USE OF MILITARY FORCE
+
+  (Mr. BANKS of Indiana asked and was given permission to address the 
+House for 1 minute.)
+  Mr. BANKS of Indiana. Mr. Speaker, earlier this month, four U.S. 
+servicemembers were killed in Niger by Islamic militants. We thank 
+these American heroes who paid the ultimate price for our country. 
+Their service will never be forgotten.
+  As we learn more about this situation, many of my constituents have 
+asked why American personnel are in Niger to begin with.
+  Today, we have U.S. servicemembers around the globe fighting or 
+advising operations against ISIS, al-Qaida, and other terrorist groups 
+on several continents. However, they are doing so under war 
+authorization that Congress passed in 2001 and 2002, in the wake of the 
+September 11 attacks.
+  Rather than continuing to fight ISIS under an authorization passed by 
+Congress 16 years ago, it is time to pass a new authorization for the 
+use of military force that is focused on present-day and future 
+threats.
+  The authorizations passed by Congress in 2001 and 2002 are out of 
+date. I have introduced new AUMF legislation that addresses the modern 
+threats we face.
+  The Constitution grants Congress the power of declaring war, and we 
+need to take that obligation seriously and debate these important 
+issues. My bill is a good starting point.
+
+                          ____________________
+```

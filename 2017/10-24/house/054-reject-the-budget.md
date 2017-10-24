@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-10-24-pt1-PgH8132-5
+date: 2017-10-24
+edition: CREC
+section: HOUSE
+page: H8132
+citation: 163 Cong. Rec. H8132
+---
+
+# REJECT THE BUDGET
+
+**Speaking:** Schrader, Kurt (S001180) [D-OR]
+
+```
+                              {time}  1815
+                           REJECT THE BUDGET
+
+  (Mr. SCHRADER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. SCHRADER. Mr. Speaker, it has been 8 years. For 8 years, from the 
+day Barack Obama was sworn in until the day he left office, I heard my 
+Republican colleagues telling me that we weren't paying enough 
+attention to the national debt, that we were mortgaging our children's 
+future, and that we needed to do more to get our debt and deficit under 
+control. Heck, to be honest with you, I agreed with what they were 
+saying.
+  But now that they are in power--control the Presidency and both 
+Chambers--what are they doing?
+  Totally ignoring the debt deficit is what they are doing.
+  Worst yet, actually, the budget of theirs that has just come out adds 
+$1.5 trillion to the deficit over the next 10 years. This is their 
+stated strategy in the budget. This is $1.5 trillion our children and 
+grandchildren need to pay back. I just can't believe it. The hypocrisy 
+is beyond belief.
+  Apparently, my Republican colleagues are only fiscally conservative 
+when the Democrats are in control.
+  Let's reject this unconscionable budget and work across the aisle for 
+tax reform that actually improves our children's future.
+
+                          ____________________
+```

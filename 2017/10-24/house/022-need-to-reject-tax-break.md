@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-10-24-pt1-PgH8085-4
+date: 2017-10-24
+edition: CREC
+section: HOUSE
+page: H8085
+citation: 163 Cong. Rec. H8085
+---
+
+# NEED TO REJECT TAX BREAK
+
+**Speaking:** Kildee, Daniel T. (K000380) [D-MI]
+
+```
+                        NEED TO REJECT TAX BREAK
+
+  (Mr. KILDEE asked and was given permission to address the House for 1 
+minute.)
+  Mr. KILDEE. Mr. Speaker, I think all Americans and certainly Members 
+of Congress agree that we need to simplify our Tax Code, make it easier 
+for middle class families to get ahead and to stay ahead. 
+Unfortunately, what we know about the Republican tax plan, as the 
+details begin to leak out, go in a different direction.
+  This is a tax break, a big tax cut for billionaires at the expense of 
+working families. According to the nonpartisan Tax Policy Center, a 
+family making $50,000 could see their tax bill increase by as much as 
+380 percent--less money to set aside for retirement, less money to set 
+aside for a child's education, less money to pay the bills that 
+families who struggle work hard every month to pay, in order to fund a 
+tax break for the wealthiest Americans.
+  5,400 families would get a $270 billion tax cut funded by increased 
+taxes on people who work hard every day just to make ends meet. Just 
+saying that this is tax relief for all Americans over and over again 
+does not make it true. The details actually matter.
+  This is a big tax break for the wealthiest Americans. People like the 
+Trumps and the DeVoses don't need more relief. We need to reject it.
+
+                          ____________________
+```
