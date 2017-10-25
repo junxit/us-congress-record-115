@@ -1,0 +1,29 @@
+---
+granule: CREC-2017-10-25-pt1-PgH8204
+date: 2017-10-25
+edition: CREC
+section: HOUSE
+page: H8204
+citation: 163 Cong. Rec. H8204
+---
+
+# ENROLLED BILL SIGNED
+
+**Measures:** H.R. 2266
+
+```
+                          ENROLLED BILL SIGNED
+
+  Karen L. Haas, Clerk of the House, reported and found truly an 
+enrolled bill of the House of the following title, which was thereupon 
+signed by the Speaker:
+
+       H.R. 2266. An act making additional supplemental 
+     appropriations for disaster relief requirements for the 
+     fiscal year ending September 30, 2018, and for other 
+     purposes.
+
+  The SPEAKER pro tempore. The Committee will resume its sitting.
+
+                          ____________________
+```

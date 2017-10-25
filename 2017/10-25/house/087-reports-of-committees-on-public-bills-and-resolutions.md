@@ -1,0 +1,55 @@
+---
+granule: CREC-2017-10-25-pt1-PgH8224
+date: 2017-10-25
+edition: CREC
+section: HOUSE
+page: H8224
+citation: 163 Cong. Rec. H8224
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 2823, H.R. 2936
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. CONAWAY: Committee on Agriculture. H.R. 2936. A bill to 
+     expedite under the National Environmental Policy Act of 1969 
+     and improve forest management activities on National Forest 
+     System lands, on public lands under the jurisdiction of the 
+     Bureau of Land Management, and on Tribal lands to return 
+     resilience to overgrown, fire-prone forested lands, and for 
+     other purposes; with an amendment (Rept. 115-370, Pt. 1). 
+     Referred to the Committee of the Whole House on the state of 
+     the Union.
+       Mr. BISHOP of Utah: Committee on Natural Resources. H.R. 
+     2936. A bill to expedite under the National Environmental 
+     Policy Act of 1969 and improve forest management activities 
+     on National Forest System lands, on public lands under the 
+     jurisdiction of the Bureau of Land Management, and on Tribal 
+     lands to return resilience to overgrown, fire-prone forested 
+     lands, and for other purposes; with an amendment (Rept. 115-
+     370, Pt. 2). Referred to the Committee of the Whole House on 
+     the state of the Union.
+       Ms. FOXX: Committee on Education and the Workforce. H.R. 
+     2823. A bill to amend the Employee Retirement Income Security 
+     Act of 1974 and the Internal Revenue Code of 1986 to ensure 
+     that retirement investors receive advice in their best 
+     interests, and for other purposes; with an amendment (Rept. 
+     115-371, Pt. 1). Ordered to be printed.
+
+
+                         Discharge of Committee
+
+  Pursuant to clause 2 of rule XIII the Committees on Education and the 
+Workforce and Transportation and Infrastructure discharged from further 
+consideration. H.R. 2936 referred to the Committee of the Whole House 
+on the state of the Union.
+
+                          ____________________
+```

@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-10-25-pt1-PgH8153
+date: 2017-10-25
+edition: CREC
+section: HOUSE
+page: H8153
+citation: 163 Cong. Rec. H8153
+---
+
+# AMRO FABRICATING CELEBRATES 40 YEARS
+
+**Speaking:** Takano, Mark (T000472) [D-CA]
+
+```
+                  AMRO FABRICATING CELEBRATES 40 YEARS
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+California (Mr. Takano) for 5 minutes.
+  Mr. TAKANO. Mr. Speaker, I rise today to honor the 40th anniversary 
+of AMRO Fabricating Corporation, whose Riverside manufacturing facility 
+is adjacent to the March Air Reserve Base in my district.
+  AMRO is a small business manufacturer that plays an important role in 
+supporting NASA, the Department of Defense, and our community.
+  Under the guidance of CEO Michael E. Riley, the grandson of founders 
+Michael K. and Thora A. Riley, this family company is helping to 
+develop a strong and skilled workforce in southern California.
+  AMRO is partnering with the State and Federal Government on projects 
+that place high school and college students in internships and 
+apprenticeships, which prepare them for a successful future and support 
+our local economy.
+  Mr. Speaker, I want to congratulate the AMRO team on this milestone, 
+and I am proud to represent this terrific small business that is doing 
+such great work for our community and for our Nation.
+
+                          ____________________
+```

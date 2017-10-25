@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-10-25-pt1-PgH8210-6
+date: 2017-10-25
+edition: CREC
+section: HOUSE
+page: H8210
+citation: 163 Cong. Rec. H8210
+---
+
+# CELEBRATING THE 50TH ANNIVERSARY OF THE MALCOM RANDALL VA MEDICAL CENTER
+
+**Speaking:** Yoho, Ted S. (Y000065) [R-FL]
+
+```
+   CELEBRATING THE 50TH ANNIVERSARY OF THE MALCOM RANDALL VA MEDICAL 
+                                 CENTER
+
+  (Mr. YOHO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. YOHO. Mr. Speaker, I rise to celebrate the 50th anniversary of 
+the Malcom Randall VA Medical Center in Gainesville, Florida.
+  Named after its first director, who ran the hospital for 30 years, 
+the Malcom Randall VA Center first opened its doors to our Nation's 
+veterans on October 22, 1967. Since then, it has grown from its 
+original staff of 500 to be the centerpiece of our Nation's largest 
+veterans health delivery system.
+  Today, the Malcom Randall VA Center serves over 140,000 veterans a 
+year, consists of 14 hospitals and clinics, and acts as a teaching 
+hospital in conjunction with the University of Florida medical school 
+and other affiliates.
+  The services Malcom Randall VA provides to our veterans cannot be 
+overstated, and I am proud to know that this institution is in my 
+hometown.
+  Once again, congratulations to them for reaching this milestone.
+
+                          ____________________
+```
