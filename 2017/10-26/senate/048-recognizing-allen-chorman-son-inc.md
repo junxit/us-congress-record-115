@@ -1,0 +1,52 @@
+---
+granule: CREC-2017-10-26-pt1-PgS6846
+date: 2017-10-26
+edition: CREC
+section: SENATE
+page: S6846
+citation: 163 Cong. Rec. S6846
+---
+
+# RECOGNIZING ALLEN CHORMAN & SON, INC.
+
+**Speaking:** Coons, Christopher A. (C001088) [D-DE]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                 RECOGNIZING ALLEN CHORMAN & SON, INC.
+
+● Mr. COONS. Madam President, it is with great pleasure that I 
+rise, along with Senator Tom Carper of Delaware and Representative Lisa 
+Blunt Rochester of Delaware, to recognize Allen Chorman & Son, Inc., a 
+longstanding Delaware business that has provided exemplary service to 
+the State and its surrounding areas for 30 years.
+  Since 1987, Allen Chorman & Son, Inc., has played a vital role in the 
+success of one of Delaware's key economic resources: farming. With the 
+largest aerial spraying business in the State, Allen Chorman & Son, 
+Inc., has assisted farmers in increasing crop efficiency via pesticide 
+spraying and fertilizer spraying--sometimes in instances when ground 
+conditions are not conducive to tractor services. Allen Chorman & Son, 
+Inc., also provides critical mosquito spraying for both rural and urban 
+areas. We are honored to extend our sincere thanks for their commitment 
+and unyielding efforts to support one of our Nation's most valuable 
+industries: agriculture.
+  In addition to aiding farmers within Delaware and the surrounding 
+areas with critical crop services, Allen Chorman & Son, Inc., has 
+assisted in environmental preservation efforts, monitoring artificial 
+reefs off of the Delaware and Maryland coasts, as well as spraying 
+invasive plants that, if uncontrolled, can choke area wetlands. We are 
+truly honored to extend our appreciation for everything the business 
+has accomplished.
+  We wholeheartedly congratulate the many staff members past and 
+present of Allen Chorman & Son, Inc., on 30 years of service to the 
+State of Delaware and surrounding areas. Your quality of service and 
+continued care for our farms and environment set an exemplary standard 
+of service for many others to follow. We wish you continued growth and 
+success.●
+
+                          ____________________
+```
