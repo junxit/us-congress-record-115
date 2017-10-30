@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-10-30-pt1-PgS6871-2
+date: 2017-10-30
+edition: CREC
+section: SENATE
+page: S6871
+citation: 163 Cong. Rec. S6871
+---
+
+# NOMINATION OF RANDY REEVES
+
+**Speaking:** Cochran, Thad (C000567) [R-MS]
+
+```
+                       NOMINATION OF RANDY REEVES
+
+  Mr. COCHRAN. Mr. President, I am pleased to support the nomination of 
+Randy Reeves of Mississippi to serve as Under Secretary for Memorial 
+Affairs at the U.S. Department of Veterans Affairs.
+  Mr. Reeves, a retired, U.S. Navy commander, has distinguished himself 
+in Mississippi and around the Nation through his nearly 30-year 
+military career and steadfast dedication to veterans. Randy, a 
+decorated combat veteran, led the Mississippi Veterans Affairs Board 
+for the past 8 years. He recently served as president of the National 
+Association of State Directors of Veterans Affairs and as a member of 
+the Department of Veterans Affairs Rural Health Advisory Committee.
+  Veterans' cemeteries are hallowed ground on which grateful Americans 
+can honor those who have served our Nation in uniform. As Under 
+Secretary for Memorial Affairs, Randy will lead the National Cemetery 
+Administration, a role for which he is well prepared. Randy 
+successfully coordinated design, funding, and construction of 
+Mississippi's two State veterans cemeteries.
+
+[[Page S6872]]
+
+  I am confident that he will serve the Department of Veterans Affairs 
+with distinction. It is with pride and pleasure that I am able to 
+recommend to the Senate the nomination of Randy Reeves.
+
+                          ____________________
+```
