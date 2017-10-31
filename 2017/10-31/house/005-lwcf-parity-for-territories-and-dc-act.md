@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-10-31-pt1-PgH8277-4
+date: 2017-10-31
+edition: CREC
+section: HOUSE
+page: H8277
+citation: 163 Cong. Rec. H8277
+---
+
+# LWCF PARITY FOR TERRITORIES AND DC ACT
+
+**Speaking:** Bordallo, Madeleine Z. (B001245) [D-GU]
+
+```
+                 LWCF PARITY FOR TERRITORIES AND DC ACT
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Guam (Ms. Bordallo) for 5 minutes.
+  Ms. BORDALLO. Mr. Speaker, I am indeed proud to introduce the LWCF 
+Parity for Territories and D.C. Act, with the support of all six 
+Members of the House representing our U.S. territories and the District 
+of Columbia as original cosponsors.
+  Mr. Speaker, this bipartisan bill gives parity to Guam, the other 
+territories, and D.C. in annual funding from the Federal Land and Water 
+Conservation Fund.
+  Current law requires the territories and D.C. to split six ways a 
+single State's annual LWCF allocation. This bill fixes this disparity 
+by providing a full, State-equivalent share of Land and Water 
+Conservation Fund funding for each territory and D.C. every year.
+  This additional funding is needed to improve our public parks, our 
+outdoor sports fields, and our community open spaces on Guam and the 
+other territories, especially as Puerto Rico and the U.S. Virgin 
+Islands rebuild from recent hurricanes.
+  So, Mr. Speaker, I encourage our colleagues to cosponsor this 
+bipartisan legislation and support the LWCF parity for the territories 
+and the District of Columbia.
+
+                          ____________________
+```
