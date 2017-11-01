@@ -1,0 +1,31 @@
+---
+granule: CREC-2017-11-01-pt1-PgS6967-3
+date: 2017-11-01
+edition: CREC
+section: SENATE
+page: S6967
+citation: 163 Cong. Rec. S6967
+---
+
+# 40TH ANNIVERSARY OF AMRO FABRICATING CORPORATION
+
+**Speaking:** Feinstein, Dianne (F000062) [D-CA]
+
+```
+            40TH ANNIVERSARY OF AMRO FABRICATING CORPORATION
+
+● Mrs. FEINSTEIN. Mr. President, today I would like to recognize 
+AMRO Fabricating Corporation for 40 years of business in our State. 
+AMRO, a small family-owned business based in El Monte and Riverside, 
+CA, employs more than 250 people. The company has made important 
+contributions to NASA rocket programs, including building the large 
+aluminum panels for the space launch system rocket and the Orion crew 
+capsule. AMRO has used State and Federal grants to train high school 
+and college students on how to develop critical job skills, such as 
+aerospace welding and engineering, preparing them for good-paying jobs 
+in the future. Founded in 1977, AMRO marks its 40th anniversary this 
+year. I extend my warmest congratulations to AMRO for achieving this 
+milestone.●
+
+                          ____________________
+```
