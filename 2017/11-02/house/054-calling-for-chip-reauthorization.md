@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-11-02-pt1-PgH8423-5
+date: 2017-11-02
+edition: CREC
+section: HOUSE
+page: H8423
+citation: 163 Cong. Rec. H8423
+---
+
+# CALLING FOR CHIP REAUTHORIZATION
+
+**Speaking:** McEachin, A. Donald (M001200) [D-VA]
+
+```
+                    CALLING FOR CHIP REAUTHORIZATION
+
+  (Mr. McEACHIN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McEACHIN. Mr. Speaker, today I rise to speak on the importance of 
+reauthorizing the Children's Health Insurance Program, commonly 
+referred to as CHIP.
+  In my home State of Virginia, there are 66,000 children and 1,100 
+pregnant women who rely on CHIP. Almost 6,000 of those children and 
+pregnant women live in my district. They need a clean reauthorization 
+of CHIP. Instead, this week, we are expected to vote on a bill that 
+will put my constituents at risk.
+  As reported from committee, this new version of CHIP, the so-called 
+HEALTHY KIDS Act, is loaded with poison pills that would undermine the 
+Affordable Care Act, Medicare, and Medicaid. According to the 
+Georgetown University Center for Children and Families, CHIP with 
+Medicaid boosted the rate of children's health coverage to more than 95 
+percent.
+  Mr. Speaker, why tamper with such success? I urge my colleagues on 
+the other side of the aisle to bring a bill to the floor that 
+reauthorizes CHIP and supports our constituents.
+
+                          ____________________
+```

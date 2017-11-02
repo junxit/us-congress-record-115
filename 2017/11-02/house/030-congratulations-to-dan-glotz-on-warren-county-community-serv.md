@@ -1,0 +1,44 @@
+---
+granule: CREC-2017-11-02-pt1-PgH8394-6
+date: 2017-11-02
+edition: CREC
+section: HOUSE
+page: H8394
+citation: 163 Cong. Rec. H8394
+---
+
+# CONGRATULATIONS TO DAN GLOTZ ON WARREN COUNTY COMMUNITY SERVICE
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+    CONGRATULATIONS TO DAN GLOTZ ON WARREN COUNTY COMMUNITY SERVICE
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to 
+congratulate Dan Glotz on receiving the 2017 Warren County Chamber of 
+Business and Industry's Community Service Award.
+  The chamber presents the award annually to an individual who has made 
+significant contributions to the community.
+
+[[Page H8395]]
+
+  Dan was raised in Warren County and graduated from Warren Area High 
+School, and he currently serves as the Warren County planning director.
+  He has given his time to numerous community organizations, including 
+the Boy Scouts of America, where he has served in many roles over the 
+years, including Scoutmaster and council commissioner.
+  Dan is an excellent role model and mentor for scores of young Scouts, 
+and he is involved in many more organizations.
+  He is a founding partner of Walkable Warren, which is a local 
+initiative to promote healthy lifestyles for people of all ages through 
+established walking and bicycling trails.
+  Dan is also the games competition coordinator for the Warren County 
+Special Olympics, as well as a cantor at St. Joseph Catholic Church.
+  These are just some of Dan's community activities.
+  Mr. Speaker, I congratulate Dan and I thank him for his outstanding 
+service to Warren County.
+
+                          ____________________
+```

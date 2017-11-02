@@ -1,0 +1,33 @@
+---
+granule: CREC-2017-11-02-pt1-PgH8422-3
+date: 2017-11-02
+edition: CREC
+section: HOUSE
+page: H8422
+citation: 163 Cong. Rec. H8422
+---
+
+# REPUBLICAN TAX PLAN
+
+**Speaking:** Frankel, Lois (F000462) [D-FL]
+
+```
+                          REPUBLICAN TAX PLAN
+
+  (Ms. FRANKEL of Florida asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. FRANKEL of Florida. Mr. Speaker, I stand against Republican 
+efforts to give massive tax cuts to the wealthiest citizens and big 
+corporations while robbing the pockets of middle class families and 
+ransacking Medicare and Medicaid.
+  My constituents are worried. Just ask Marion, who uses Medicare to 
+buy her costly diabetes drugs, or Sherry, whose husband has Alzheimer's 
+and lives in a nursing home paid for by Medicaid.
+  Americans want a better deal, one that invests in infrastructure, 
+education, and innovative research and lowers the costs of things like 
+child care and prescription drugs.
+  We want better jobs, better pay, and a better future, not more 
+giveaways to hedge funds and conglomerates.
+
+                          ____________________
+```
