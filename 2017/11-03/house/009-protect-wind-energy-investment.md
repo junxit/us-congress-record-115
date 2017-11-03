@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-11-03-pt1-PgH8448-2
+date: 2017-11-03
+edition: CREC
+section: HOUSE
+page: H8448
+citation: 163 Cong. Rec. H8448
+---
+
+# PROTECT WIND ENERGY INVESTMENT
+
+**Speaking:** Blumenauer, Earl (B000574) [D-OR]
+
+```
+                     PROTECT WIND ENERGY INVESTMENT
+
+  (Mr. BLUMENAUER asked and was given permission to address the House 
+for 1 minute.)
+  Mr. BLUMENAUER. Mr. Speaker, as time goes on, people are going to 
+have a chance to look at the details of the Republican tax plan. It is 
+clear that the benefits are concentrated to those who need help the 
+least, ignoring those who need help the most, and producing an 
+unaffordable deficit in the future.
+  But one of the most disturbing elements of this is that the 
+Republican plan would gut the agreement that we negotiated in good 
+faith with the wind energy industry to be able to wean them off tax 
+subsidies. It was phased down in exchange for that certainty. The 
+industry has up to $50 billion that is at risk by having the Federal 
+Government pull the rug out from underneath them.
+  We were well on the path towards sustainability with a clean American 
+bill--low carbon energy. It puts at risk 50,000 jobs as a result of the 
+reversal in course, and it raises questions for American business 
+whether or not they can trust the American Congress to keep a deal.
+  This is an element that must be changed. We must respect the 
+agreement that we made and protect the massive investment in 
+manufacturing and employment.
+
+                          ____________________
+```
