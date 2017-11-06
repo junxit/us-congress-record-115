@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-11-06-pt1-PgH8500-9
+date: 2017-11-06
+edition: CREC
+section: HOUSE
+page: H8500
+citation: 163 Cong. Rec. H8500
+---
+
+# RECOGNIZING DEANE BOZEMAN SCHOOL FOR ACADEMIC EXCELLENCE
+
+**Speaking:** Dunn, Neal P. (D000628) [R-FL]
+
+```
+        RECOGNIZING DEANE BOZEMAN SCHOOL FOR ACADEMIC EXCELLENCE
+
+  (Mr. DUNN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. DUNN. Mr. Speaker, I rise to recognize Deane Bozeman School, a 
+title I school, located in Bay County, Florida. Deane Bozeman School 
+prides itself on developing boys and girls of character and as well-
+educated American citizens. The school's administration, faculty, 
+staff, and parents join in investing and educating over 1,300 students, 
+prekindergarten through 12th grade. The result is that Deane Bozeman 
+School continues a tradition of academic excellence.
+  This year, Deane Bozeman School reaches yet another milestone in 
+excellence by adding a fully chartered Army Junior ROTC program to its 
+curriculum. As cadets, the ROTC program will develop middle and high 
+school students into leaders whose characters are based on the 
+fundamental values of loyalty, duty, respect, selfless service, 
+integrity, and personal courage.
+  Under the leadership of Chief Warrant Officer Retired Jeff Adkins, 
+these students will certainly thrive.
+
+[[Page H8501]]
+
+  Mr. Speaker, please join me in congratulating Deane Bozeman School 
+for taking such a bold step and enriching the lives of the students in 
+this inaugural year of its Army ROTC program.
+
+                          ____________________
+```
