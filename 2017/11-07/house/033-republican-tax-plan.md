@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-11-07-pt1-PgH8534
+date: 2017-11-07
+edition: CREC
+section: HOUSE
+page: H8534
+citation: 163 Cong. Rec. H8534
+---
+
+# REPUBLICAN TAX PLAN
+
+**Speaking:** Cardenas, Tony (C001097) [D-CA]
+
+```
+                          REPUBLICAN TAX PLAN
+
+  (Mr. CARDENAS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. CARDENAS. Mr. Speaker, I have grave concerns with the so-called 
+tax plan Republicans are peddling. It should be called the Republican 
+tax scam. Working Americans are being sold a bill of goods. Let me be 
+crystal clear: this plan will not cut taxes for working middle class 
+families. This is a tax cut for Wall Street and a tax hike for Main 
+Street. And what does your family get? More cuts to children's 
+education, deep cuts to your healthcare, and deep cuts to lifesaving 
+emergency services.
+  Over 50 million taxpaying households will pay more taxes every April 
+15, due to this tax scam. Let me repeat that another way. This tax scam 
+gets rid of credits and deductions for the middle class and keeps 
+loopholes for corporations to ship your jobs overseas.
+  Mr. Speaker, I am completely opposed to this tax scam that cuts taxes 
+for big corporations, and it forces big cuts to Medicare, education, 
+and Social Security. This tax scam is wrong.
+
+                          ____________________
+```

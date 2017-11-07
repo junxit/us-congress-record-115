@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-11-07-pt1-PgH8583-2
+date: 2017-11-07
+edition: CREC
+section: HOUSE
+page: H8583
+citation: 163 Cong. Rec. H8583
+---
+
+# WE NEED TO PASS A CLEAN DREAM ACT NOW
+
+**Speaking:** Schrader, Kurt (S001180) [D-OR]
+
+```
+                              {time}  1845
+                 WE NEED TO PASS A CLEAN DREAM ACT NOW
+
+  (Mr. SCHRADER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. SCHRADER. Mr. Speaker, I rise today to share the story of Marco, 
+a DREAMer in Portland, Oregon, and to continue to urge Speaker Ryan to 
+put forth a clean Dream Act bill.
+  In 1995, Marco was brought to the United States when he was only 3 
+years old. As a teenager with dreams of going to college, Marco 
+realized he didn't qualify for financial aid because of his immigration 
+status, but he did not allow this to deter him. Instead, Marco worked 
+hard in various minimum wage jobs, allowing him the ability to attend 
+college part-time.
+  In 2012, after applying for DACA, Marco was granted a work permit, 
+making it possible for him to earn a job with a law firm in Portland, 
+where he worked his way up from the mailroom to be a legal assistant. 
+His salary from the law firm enabled him to enroll in more classes and 
+finally complete his bachelor's degree in accounting.
+  Marco now works as an accountant for an Oregon nonprofit that helps 
+benefit youth.
+  This President claims to want only the best. I have news for him: we 
+already have the best and brightest, and it is time we stopped treating 
+them like second class citizens.
+  Mr. Speaker, we need to pass a clean Dream Act bill.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-11-07-pt1-PgH8583-5
+date: 2017-11-07
+edition: CREC
+section: HOUSE
+page: H8583
+citation: 163 Cong. Rec. H8583
+---
+
+# WE NEED FAIR AND STRONG HURRICANE RELIEF PACKAGES
+
+**Speaking:** Moore, Gwen (M001160) [D-WI]
+
+```
+           WE NEED FAIR AND STRONG HURRICANE RELIEF PACKAGES
+
+  (Ms. MOORE asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. MOORE. Mr. Speaker, I rise to highlight the continuing urgency of 
+providing relief and recovery aid for Puerto Rico and the Virgin 
+Islands, which were devastated by Hurricanes Irma and Maria. While U.S. 
+efforts have ramped up after a failed initial response, we can and must 
+do more.
+  In Puerto Rico, some 70 shelters remain open, access to safe drinking 
+water is a problem, and there are dozens of waterborne disease deaths. 
+Nearly a third of hospitals are still running off generators, bridges 
+remain destroyed, and many roads remain impassable. Nearly 60 percent 
+of the island is without power.
+  The news is not better for the Virgin Islands, where many still lack 
+access to cell service, power, and clean water. Officials estimate $5.5 
+billion is needed for the most essential needs there.
+  Mr. Speaker, there are less than 20 legislative days left on the 
+House calendar. How can we be prioritizing tax cuts for the wealthy? 
+Let's put together fair and strong hurricane relief packages for 
+communities ravaged by these hurricanes, including those in Puerto Rico 
+and the Virgin Islands.
+
+                          ____________________
+```

@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-11-07-pt1-PgH8583-4
+date: 2017-11-07
+edition: CREC
+section: HOUSE
+page: H8583
+citation: 163 Cong. Rec. H8583
+---
+
+# VETERANS DAY
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                              VETERANS DAY
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute.)
+  Ms. KAPTUR. Mr. Speaker, I rise in honor of Veterans Day, which we 
+will observe this Saturday, November 11.
+  Each Veterans Day, we celebrate America's veterans for their 
+unwavering patriotism and willingness to serve and sacrifice above 
+self. How noble for liberty's cause, yet too many veterans, upon their 
+return from service, endure long wait-times at VA health facilities.
+  That is why I have developed a bill that would reduce the VA 
+physician shortage, which is estimated to be about 5,000.
+  Our VET MD Act would address this by allowing pre-med students to 
+participate in organized clinical observations at VA medical centers. 
+Future physicians will have exposure to the VA healthcare system, and 
+the VA will create potential medical professionals.
+  This is just one solution Congress should implement to address the VA 
+physician shortage. It will help lead to decreased wait-times, better 
+care, and healthier outcomes.
+  Our veterans dedicated their lives for our country. We owe these 
+honorable men and women better basic healthcare.
+  Mr. Speaker, on this Veterans Day, I urge my colleagues to please 
+join me. Let us affirm a commitment to action for the men and women who 
+have defended our liberty and have lived the words duty, honor, and 
+country.
+
+                          ____________________
+```
