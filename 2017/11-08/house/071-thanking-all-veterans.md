@@ -1,0 +1,33 @@
+---
+granule: CREC-2017-11-08-pt1-PgH8646-3
+date: 2017-11-08
+edition: CREC
+section: HOUSE
+page: H8646
+citation: 163 Cong. Rec. H8646
+---
+
+# THANKING ALL VETERANS
+
+**Speaking:** Correa, J. Luis (C001110) [D-CA]
+
+```
+                         THANKING ALL VETERANS
+
+  (Mr. CORREA asked and was given permission to address the House for 1 
+minute.)
+  Mr. CORREA. Mr. Speaker, all gave some, and some made the ultimate 
+sacrifice. This Saturday is Veterans Day, a day we pause to honor the 
+brave men and women from our communities who have served our country. 
+Veterans represent the best in America. Veterans embody loyalty and 
+honor by always putting their fellow soldiers and country before 
+themselves.
+  Veterans prove this determination in getting the mission done. This 
+country has made a promise to every person who puts on that uniform. 
+You stand for us, and we will stand for you. Their mission was 
+protecting us. Our mission in Congress is to protect them.
+  To all of our vets, thank you for your service. Thank you for serving 
+our country.
+
+                          ____________________
+```

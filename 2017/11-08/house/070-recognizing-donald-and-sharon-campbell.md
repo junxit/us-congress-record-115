@@ -1,0 +1,35 @@
+---
+granule: CREC-2017-11-08-pt1-PgH8646-2
+date: 2017-11-08
+edition: CREC
+section: HOUSE
+page: H8646
+citation: 163 Cong. Rec. H8646
+---
+
+# RECOGNIZING DONALD AND SHARON CAMPBELL
+
+**Speaking:** Faso, John J. (F000464) [R-NY]
+
+```
+                 RECOGNIZING DONALD AND SHARON CAMPBELL
+
+  (Mr. FASO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. FASO. Mr. Speaker, today I rise to thank Donald and Sharon 
+Campbell, who have actively volunteered for more than a dozen years at 
+the Valatie Ecumenical Food Pantry, a ministry of the Ichabod Crane 
+Clergy Association in Columbia County.
+  With Don serving as chairman from 2006 to 2017, the leadership of 
+these two honorable individuals has enabled the food pantry to serve 
+hundreds of families in northern Columbia County. Utilizing grants, 
+community donations, local farms and markets, the Campbells have truly 
+supported their less-fortunate neighbors, enabling those folks to 
+better support their families and loved ones.
+  Don and Sharon's efforts extend beyond the food pantry, aiding many 
+other charitable pursuits in our community. We thank them as well as 
+the volunteers of the Valatie Ecumenical Food Pantry for their gracious 
+service to our Columbia County community.
+
+                          ____________________
+```

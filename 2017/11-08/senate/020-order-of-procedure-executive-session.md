@@ -1,0 +1,102 @@
+---
+granule: CREC-2017-11-08-pt1-PgS7079-2
+date: 2017-11-08
+edition: CREC
+section: SENATE
+page: S7079
+citation: 163 Cong. Rec. S7079
+---
+
+# Order of Procedure (Executive Session)
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY], Hirono, Mazie K. (H001042) [D-HI]
+
+```
+                           Order of Procedure
+
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that 
+notwithstanding rule XXII, at 3:45 p.m. today there be 30 minutes of 
+postcloture time remaining on the Robb nomination, equally divided 
+between the leaders or their designees; that following the use or 
+yielding back of that time, the Senate vote on the confirmation of the 
+Robb nomination; and that if confirmed, the motion to reconsider be 
+considered made and laid upon the table and the President be 
+immediately notified of the Senate's action; finally, that there be 2 
+minutes of debate equally divided prior to the cloture vote on the 
+Wehrum nomination.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+  The PRESIDING OFFICER. The Senator from Hawaii.
+  Ms. HIRONO. Mr. President, Donald Trump has consistently made 
+promises to the American people that he refuses to keep. He says one 
+thing and does the exact opposite. His empty promises have already hurt 
+millions of people across the country, from our seniors who depend on 
+Medicare and Medicaid, to the LGBTQ community he promised to protect 
+and Dreamers living in fear of deportation.
+  Now, with the nomination of Peter Robb to serve as the General 
+Counsel at the National Labor Relations Board, or NLRB, Donald Trump 
+has broken yet another promise--this time, to fight for and protect 
+American workers. As an independent agency, the NLRB has an important 
+mission to enforce our Nation's labor laws, protect American workers, 
+and safeguard their right to organize collectively.
+  The NLRB's mission is not to ignore our Nation's labor laws, to go 
+after American workers, or to weaken their right to organize. Yet Peter 
+Robb's career has been dedicated to doing all the things that NLRB is 
+not about.
+  Joining the anti-union, anti-worker forces, President Trump has 
+consistently nominated people to the NLRB who are best positioned to 
+destroy and undermine the core functions of the agency itself. Earlier 
+this year, President Trump forced through two management-side lawyers 
+to create an anti-worker majority on the NLRB.
+  Today the Senate is debating the nomination of someone who has spent 
+his entire legal career fighting to screw over the very workers the 
+NLRB is supposed to protect. If confirmed as General Counsel, Mr. Robb 
+will be responsible for supervising nearly 1,500 agents investigating 
+and prosecuting unfair labor practice cases and overseeing elections 
+where workers decide whether or not to unionize. This is a position
+
+[[Page S7080]]
+
+of great consequence for millions of workers across our country, and 
+they deserve someone much better than Peter Robb.
+  Mr. Robb has spent his career defending management and employers from 
+workers fighting to form a union, unionized workers on strike, and 
+workers who brought forward discrimination and disability claims. You 
+don't have to take my word for it. Mr. Robb's biography on his own law 
+firm's website tells the story clearly:
+
+       [His] extensive experience includes advising on mergers/
+     acquisitions, plant closings, labor contract negotiations 
+     (both large and small), managing lockouts and strikes, 
+     securing labor injunctions, discrimination issues and 
+     disability claims.
+       His litigation includes defending employers from unfair 
+     labor practice charges, age and sex discrimination charges, 
+     class action age claims, and wage/hour claims as well as 
+     bringing suits against labor organizations. With such vast 
+     experience and a no-nonsense approach, Peter's clients look 
+     to him for sharp advice, rigorous representation and powerful 
+     litigation.
+
+  That is a description on his own law firm's website.
+  Mr. Robb cut his teeth busting unions and retaliating against workers 
+as lead counsel at the NLRB in the early 1980s when President Reagan 
+decertified the air traffic controllers union, fired 11,000 air traffic 
+controllers, and barred them from Federal service. More recently, he 
+represented Dominion Energy's successful attempt to defeat a union 
+organizing campaign at a power station in Connecticut.
+  Management and corporations have a right to hire lawyers like Mr. 
+Robb who will vigorously represent their interests, but Mr. Robb is 
+certainly not the right person to lead an agency whose mission is to 
+protect workers' rights, not to go after those rights tooth and nail. 
+Mr. Robb's record clearly demonstrates that he will side with powerful 
+corporations and special interests over workers who lack the resources 
+to defend themselves.
+  Unions built the middle class in Hawaii and across our country. 
+Instead of confirming another management protector at the NLRB, we 
+should be working together to protect workers and make it fairer for 
+them to form and to join a union, which is their right.
+  I urge my colleagues to join me in opposing this nominee.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Washington.
+```

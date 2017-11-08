@@ -1,0 +1,45 @@
+---
+granule: CREC-2017-11-08-pt1-PgH8608
+date: 2017-11-08
+edition: CREC
+section: HOUSE
+page: H8608
+citation: 163 Cong. Rec. H8608
+---
+
+# GOP TAX PLAN KILLS HOUSING AND INFRASTRUCTURE INVESTMENT
+
+**Speaking:** Price, David E. (P000523) [D-NC]
+
+```
+        GOP TAX PLAN KILLS HOUSING AND INFRASTRUCTURE INVESTMENT
+
+  (Mr. PRICE of North Carolina asked and was given permission to 
+address the House for 1 minute.)
+  Mr. PRICE of North Carolina. Mr. Speaker, it is increasingly obvious 
+what a sham of a tax plan the Republicans have proposed, slashing taxes 
+on the superrich and large corporations at the expense of the middle 
+class.
+  What is less well known, and what the Republicans don't want to talk 
+about, is their proposal to repeal tax-exempt private activity bonds 
+and, therefore, to kill the same public-private partnerships that they 
+profess to support.
+  States, local governments, and private partners around the country 
+use private activity bonds to finance a wide array of infrastructure 
+projects, like highways, airports, hospitals, water treatment 
+facilities, and affordable housing.
+  In North Carolina, for example, private activity bonds financed and 
+upgraded the terminal at Raleigh-Durham International Airport and are 
+being used by our State housing agency to attract investors for new 
+multifamily housing developments worth more than $700 million.
+  If Republicans get their way, these projects would die on the vine, 
+and more than 6,200 units of affordable housing would simply disappear.
+  How does that help working families realize the American Dream?
+  At a time when funding for housing and infrastructure is continually 
+squeezed, the last thing we should do is push through a plan that would 
+hamstring our State and local governments and destroy our ability to 
+leverage private investment.
+  Mr. Speaker, I urge my colleagues to oppose the Republican tax plan.
+
+                          ____________________
+```

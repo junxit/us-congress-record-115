@@ -1,0 +1,45 @@
+---
+granule: CREC-2017-11-08-pt1-PgH8645
+date: 2017-11-08
+edition: CREC
+section: HOUSE
+page: H8645
+citation: 163 Cong. Rec. H8645
+---
+
+# TAX REFORM AND CUTS TO THE WORK OPPORTUNITY TAX CREDIT
+
+**Speaking:** McEachin, A. Donald (M001200) [D-VA]
+
+**Measures:** H.R. 1
+
+```
+         TAX REFORM AND CUTS TO THE WORK OPPORTUNITY TAX CREDIT
+
+  (Mr. McEACHIN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McEACHIN. Mr. Speaker, today, I rise against H.R. 1, the so-
+called Tax Cuts and Jobs Act, and its effects on our veterans.
+  H.R. 1 would cut the successful work opportunity tax credit, a 
+Federal credit available for employers to incentivize them to hire 
+veterans.
+  In 2016, there were 453,000 veterans that were unemployed 
+nationwide--16,000, alone, in Virginia.
+  Mr. Speaker, today, on their behalf, I call on my Republican 
+colleagues to find solutions that do not sacrifice those who have 
+sacrificed enough.
+  House Republicans have suggested that the work opportunity tax 
+credit, at a cost of $1 billion, is simply too expensive to keep in 
+place. However, I cannot help but wonder why the same is not said about 
+repealing the estate tax, a $269 billion tax cut for the wealthy.
+  My Democratic colleagues and I are taking a different approach by 
+founding the Reinvesting in Our Returning Heroes Task Force. Instead of 
+hurting, we are helping veteran businessowners and veterans who need 
+jobs.
+  Mr. Speaker, my father is buried in Arlington. He was a Korean war 
+veteran. He said that the American GI only asked of his country what he 
+was prepared to give, and that is his best.
+  Mr. Speaker, this tax cut is not our best.
+
+                          ____________________
+```
