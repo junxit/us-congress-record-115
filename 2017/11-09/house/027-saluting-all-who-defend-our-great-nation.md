@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-11-09-pt1-PgH8683-4
+date: 2017-11-09
+edition: CREC
+section: HOUSE
+page: H8683
+citation: 163 Cong. Rec. H8683
+---
+
+# SALUTING ALL WHO DEFEND OUR GREAT NATION
+
+**Speaking:** Fitzpatrick, Brian K. (F000466) [R-PA]
+
+```
+                SALUTING ALL WHO DEFEND OUR GREAT NATION
+
+  (Mr. FITZPATRICK asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. FITZPATRICK. Mr. Speaker, on Veterans Day, we salute all those 
+who have defended our great Nation and served in uniform. We say a 
+profound thank you for so bravely offering yourself and your services 
+for the betterment of our Nation.
+  Whether part of the Army, Navy, Air Force, Marines, or Coast Guard, 
+you have served and sacrificed greatly to secure the freedom we enjoy 
+here at home. Your commitment to duty and to serve a cause bigger than 
+yourself commands our respect. You continue the greatest traditions of 
+responsible citizens in this Republic, and you are a role model for 
+younger generations of Americans.
+  To the families who have sacrificed alongside our veterans, we say 
+thank you. You provide the love and care necessary for our servicewomen 
+and -men to continue their honorable work.
+  I am honored to serve the veterans in my hometown community, in Bucks 
+and Montgomery Counties, and across the Nation. Our gratitude is 
+enduring, our support for you steadfast. We have your back.
+
+                          ____________________
+```
