@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-11-14-pt1-PgH9239-2
+date: 2017-11-14
+edition: CREC
+section: HOUSE
+page: H9239
+citation: 163 Cong. Rec. H9239
+---
+
+# SELL A TAX REFORM DREAM TO AMERICANS
+
+**Speaking:** Watson Coleman, Bonnie (W000822) [D-NJ]
+
+```
+                              {time}  1715
+                  SELL A TAX REFORM DREAM TO AMERICANS
+
+  (Mrs. WATSON COLEMAN asked and was given permission to address the 
+House for 1 minute.)
+  Mrs. WATSON COLEMAN. Mr. Speaker, each day the President and 
+congressional Republicans are trying to sell the American people a 
+dream that will not become a reality.
+  In addition to running up the deficit, lining the pockets of the very 
+wealthy, and eliminating critical deductions that New Jerseyans rely 
+on, this tax scheme dismantles the ladder of opportunity that allows 
+Americans to grow and thrive.
+  Eliminating the medical expense deduction will devastate households 
+nationwide struggling to recover from high healthcare costs. Removing 
+the student loan interest deduction will cost recent college graduates 
+hundreds of dollars a year, significant to young Americans trying to 
+get on their feet.
+  Our tax system works best when it is fair, responsible, and 
+supportive of the true drivers of our economy: families, workers, and 
+small businesses.
+  I refuse to let congressional Republicans try to sell America a dream 
+that never will be reality, and definitely not on the backs of the most 
+vulnerable.
+
+                          ____________________
+```

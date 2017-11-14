@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-11-14-pt1-PgH9189-3
+date: 2017-11-14
+edition: CREC
+section: HOUSE
+page: H9189
+citation: 163 Cong. Rec. H9189
+---
+
+# TAX CUTS HAVE NEVER PAID FOR THEMSELVES
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+                TAX CUTS HAVE NEVER PAID FOR THEMSELVES
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Mr. Speaker, the White House Council of 
+Economic Advisers issued a report recently asserting that, by cutting 
+the corporate rate from 35 to 20 percent, every American household will 
+see their income increase by $4,000 to $9,000 next year and those years 
+after.
+  The U.S. Treasury Secretary also said that these tax cuts would pay 
+for themselves and produce $2 trillion in growth over the next decade. 
+In fact, Mr. Speaker, tax cuts have never paid for themselves--not once 
+or ever--in human history.
+  The White House has a problem in that nobody believes them, not the 
+Congressional Budget Office, not the Tax Policy Center, not the 
+University of Pennsylvania Wharton Business School, and not even 
+Goldman Sachs, from which both the Treasury Secretary and the National 
+Economic Adviser came to the White House.
+  In fact, each of these nonpartisan institutions that studies and 
+reports on tax and economic policy have stated explicitly that these 
+corporate tax cuts will have near zero impact on future economic growth 
+and add at least $1.5 trillion in new deficit over the next decade.
+  Once again, Mr. Speaker, this is fraud being perpetrated against 
+middle America.
+
+                          ____________________
+```

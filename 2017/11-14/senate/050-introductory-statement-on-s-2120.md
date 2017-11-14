@@ -1,0 +1,93 @@
+---
+granule: CREC-2017-11-14-pt1-PgS7215-2
+date: 2017-11-14
+edition: CREC
+section: SENATE
+page: S7215
+citation: 163 Cong. Rec. S7215
+---
+
+# Introductory Statement on S. 2120
+
+**Speaking:** Shaheen, Jeanne (S001181) [D-NH], Collins, Susan M. (C001035) [R-ME]
+
+**Measures:** S. 2120
+
+```
+      By Mrs. SHAHEEN (for herself, Ms. Collins, Mr. Isakson, and Mr. 
+        Menendez):
+  S. 2120. A bill to prevent international violence against women, and 
+for other purposes; to the Committee on Foreign Relations.
+  Ms. COLLINS. Mr. President, today, I join my colleagues, Senators 
+Shaheen, Isakson, and Menendez, in introducing the International 
+Violence Against Women Act of 2017. This legislation makes ending 
+violence against women and girls a top diplomatic priority. It 
+permanently authorizes the State Department's Office of Global Women's 
+Issues and the position of the Ambassador-at-Large for Global Women's 
+Issues. It requires the Administration to develop and implement an 
+annual strategy to prevent and respond to violence against women and 
+girls for each of the five years after the date of enactment. This bill 
+would ensure that efforts begun under President George W. Bush and 
+President Obama to combat gender-based violence continue in future 
+Administrations.
+  Mr. President, we have witnessed great strides in women's equality in 
+our own Country, and in much of the world, over the past century. 
+Across vast swathes of the globe, however, violence against women and 
+forced marriage remain everyday problems. One out of every three women 
+worldwide will be physically, sexually, or otherwise abused during her 
+lifetime, with rates reaching 70 percent in some countries. This type 
+of violence ranges from domestic violence, rape, and acid burnings to 
+dowry deaths and so-called ``honor killings.'' Violence against women 
+and girls is a human rights violation, a public health epidemic, and a 
+barrier to solving global challenges such as extreme poverty, HIV/AIDS, 
+and conflict. Such violence is often exacerbated in humanitarian 
+emergencies and conflict settings.
+  In Iraq and Syria, girls and women have been abducted from their 
+homes and villages, sold into sexual slavery, and forced into marriages 
+with fighters of the Islamic State of Iraq and the Levant. In Burma, 
+rape is used as a weapon against the women and girls of the Rohingya 
+ethnic group. In Nigeria, girls as young as 11-years-old are offered a 
+horrendous choice by Boko Haram: carry out suicide bomb attacks against 
+Nigerian villages or live in forced marriages and sexual slavery.
+  This systemic targeting of women is not confined to conflict zones. 
+In India, the United Nations special rapporteur on violence against 
+women said that they experience such crimes ``from womb to tomb.'' 
+Compounding this tragedy, local police often decline to investigate or 
+seek justice. In Afghanistan, women and girls are concerned that as 
+Western forces draw down and attention shifts away from their country, 
+the fragile gains that have been made there could be lost.
+  The International Violence Against Women Act--IVAWA--ensures that the 
+U.S. will continue to take a leadership role in combatting these 
+problems. It establishes that it is the policy of the United States to 
+take action to prevent and respond to violence against women and girls 
+around the globe and to systematically integrate and coordinate efforts 
+to address gender-based violence into U.S. foreign policy and foreign 
+assistance programs.
+  Specifically, IVAWA will foster efforts in four areas. First, it will 
+increase legal and judicial protections by establishing and supporting 
+laws and legal structures that prevent and appropriately respond to all 
+forms of violence against women and girls, including ``honor killings'' 
+and forced marriage. Emphasis will be placed on promoting political, 
+legal, and institutional reforms that recognize violence against women 
+and girls as a crime and train police and the judiciary to hold 
+violators accountable and to respond to the needs of victims. Second, 
+IVAWA will increase efforts to build health sector capacity, 
+integrating programs to address violence against women and girls into 
+existing health programs focused on child survival, women's health, and 
+HIV/AIDS prevention. Third, IVAWA will focus on preventing violence by 
+changing community norms and attitudes about the acceptability of 
+violence against women and girls. And fourth, IVAWA will focus on 
+reducing women and girls' vulnerability to violence by improving their 
+economic status and educational opportunities. Efforts will include 
+ensuring that women have access to job training and employment 
+opportunities and increasing their right to own land and property, 
+allowing them to potentially support themselves and their children.
+  Violence has a profound effect on the lives of women and girls. In 
+addition to being a pressing human rights issue, such violence 
+contributes to inequality and political instability, making it a 
+security issue as well as a moral issue for us all. I am committed to 
+continuing to work with my colleagues to end violence against women and 
+girls and to provide the assistance and resources necessary to achieve 
+this goal.
+                                 ______
+```

@@ -1,0 +1,34 @@
+---
+granule: CREC-2017-11-14-pt1-PgH9188-4
+date: 2017-11-14
+edition: CREC
+section: HOUSE
+page: H9188
+citation: 163 Cong. Rec. H9188
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  Reverend Dr. Anthony K.R. Gibson, African Methodist Episcopal Zion 
+Church, Indianapolis, Indiana, offered the following prayer:
+  On this day and before this august body, we pause to prayerfully 
+acknowledge Your presence in this place as the living God. There is 
+none like You. Your dominion will never recess, and Your will will 
+never end.
+  On this day, O God, saturate this place with Your presence and fill 
+this House with Your spirit. You have not given us the spirit of fear. 
+You have given us the spirit of love, the spirit of compassionate 
+authority, and the spirit of godly judgment.
+  Holy Spirit, touch the hearts of our elected officials. Let 
+everything done in this Chamber be for Your glory and for Your praise. 
+We bless You in advance for the mercy and truth that will permeate from 
+this House on this day and reach all areas of these United States and, 
+indeed, the uttermost parts of the world.
+  In Jesus' name we pray.
+  Amen.
+
+                          ____________________
+```

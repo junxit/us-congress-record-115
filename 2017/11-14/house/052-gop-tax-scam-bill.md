@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-11-14-pt1-PgH9241-2
+date: 2017-11-14
+edition: CREC
+section: HOUSE
+page: H9241
+citation: 163 Cong. Rec. H9241
+---
+
+# GOP TAX SCAM BILL
+
+**Speaking:** Chu, Judy (C001080) [D-CA]
+
+**Measures:** H.R. 1
+
+```
+                              {time}  1730
+                           GOP TAX SCAM BILL
+
+  (Ms. JUDY CHU of California asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Ms. JUDY CHU of California. Mr. Speaker, I rise in opposition to the 
+GOP tax scam bill, H.R. 1, which, considering who it really helps, 
+should be labeled ``H.R. 1 percent.''
+  As a member of the Ways and Means Committee, I offered amendments to 
+ensure the middle class benefits, but Republicans rejected those 
+proposals in order to give away tax cuts for corporate interests and 
+the top 1 percent. Instead, H.R. 1 percent repeals the deductions for 
+State and local taxes, raising taxes on California families who already 
+pay more to the Federal Government than they receive back. In fact, the 
+average middle class California family who owns a home will see an 
+average tax increase of 26.4 percent, making California the hardest hit 
+State in the country. It is outrageous.
+  The SALT deduction enables communities to fund important services 
+that improve our quality of life, like law enforcement, infrastructure, 
+and education. But repealing it forces constituents in my State to 
+either accept higher taxes or a lower standard of living, all to pay 
+for tax cuts for corporations and the wealthiest few.
+  Mr. Speaker, I urge my colleagues to vote ``no'' on the GOP tax scam.
+
+                          ____________________
+```

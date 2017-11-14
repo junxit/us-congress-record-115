@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-11-14-pt1-PgH9239-4
+date: 2017-11-14
+edition: CREC
+section: HOUSE
+page: H9239
+citation: 163 Cong. Rec. H9239
+---
+
+# HONORING EVELYN MALZBERG
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                        HONORING EVELYN MALZBERG
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, yesterday I rose to honor our Nation's public 
+schools. Today I rise to honor Ms. Evelyn Malzberg, a lady who embodies 
+the saying: ``It is never too late to learn.''
+  After graduating high school in 1943, Ms. Malzberg thought about 
+going to college, but Ms. Malzberg's mom told her that no man would 
+marry a woman smarter than he is. So Ms. Malzberg found success 
+elsewhere. She married, raised a family, and had a career as a legal 
+secretary.
+  Somewhere along the way, Ms. Malzberg concluded that she had made a 
+mistake. She started taking college courses, one a semester. A few 
+years ago, at the young age of 84, Ms. Malzberg graduated from New 
+Jersey City University with a bachelor's degree in creative writing.
+  I ask my colleagues to join me in celebrating Ms. Malzberg, a lady 
+whose remarkable story proves how valuable the Nation's public 
+education system is to our people.
+
+                          ____________________
+```
