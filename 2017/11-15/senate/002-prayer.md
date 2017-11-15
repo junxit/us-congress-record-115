@@ -1,0 +1,32 @@
+---
+granule: CREC-2017-11-15-pt1-PgS7225-2
+date: 2017-11-15
+edition: CREC
+section: SENATE
+page: S7225
+citation: 163 Cong. Rec. S7225
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, Dr. Barry C. Black, offered the following prayer:
+  Let us pray.
+  Eternal God, our hope for years to come, we offer You a sacrifice of 
+thanksgiving. We thank You for Your steadfast love that sustains our 
+lawmakers every hour. We thank You for surrounding our Senators with 
+Your presence that permits them to dwell in peace.
+  Lord, we are grateful for the joy we all receive by observing the 
+works of Your hands, finding pleasure in the beauty of the sunrise and 
+the glory of the sunset. We gaze with wonder at the majesty of the 
+butterfly and the soaring eagle, knowing that the same hands that guide 
+them in flight desire to direct our steps.
+  Generous God, we celebrate Your love that provides redemption for 
+humanity. You sacrificed Yourself for our salvation.
+  Lord of all, to You we raise this our prayer of grateful praise.
+  We pray in Your bountiful Name. Amen.
+
+                          ____________________
+```

@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-11-15-pt1-PgS7268-2
+date: 2017-11-15
+edition: CREC
+section: SENATE
+page: S7268
+citation: 163 Cong. Rec. S7268
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate November 15, 2017:
+
+
+                          DEPARTMENT OF LABOR
+
+       DAVID G. ZATEZALO, OF WEST VIRGINIA, TO BE ASSISTANT 
+     SECRETARY OF LABOR FOR MINE SAFETY AND HEALTH.
+
+
+                         DEPARTMENT OF DEFENSE
+
+       MARK T. ESPER, OF VIRGINIA, TO BE SECRETARY OF THE ARMY.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       BOBBY L. CHRISTINE, OF GEORGIA, TO BE UNITED STATES 
+     ATTORNEY FOR THE SOUTHERN DISTRICT OF GEORGIA FOR THE TERM OF 
+     FOUR YEARS.
+       DAVID J. FREED, OF PENNSYLVANIA, TO BE UNITED STATES 
+     ATTORNEY FOR THE MIDDLE DISTRICT OF PENNSYLVANIA FOR THE TERM 
+     OF FOUR YEARS.
+```

@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-11-15-pt1-PgH9267
+date: 2017-11-15
+edition: CREC
+section: HOUSE
+page: H9267
+citation: 163 Cong. Rec. H9267
+---
+
+# LET'S WORK TOGETHER TO CRAFT A TAX REFORM BILL
+
+**Speaking:** Tsongas, Niki (T000465) [D-MA]
+
+**Measures:** H.R. 1
+
+```
+             LET'S WORK TOGETHER TO CRAFT A TAX REFORM BILL
+
+  (Ms. TSONGAS asked and was given permission to address the House for 
+1 minute.)
+  Ms. TSONGAS. Mr. Speaker, tomorrow the House will vote on H.R. 1, the 
+so-called Tax Cuts and Jobs Act, which Republicans say will support 
+America's middle class. Unfortunately, that is not the case.
+  Middle-income Americans will receive, at best, one-fifth of the 
+promised benefit of these tax cuts.
+  According to the nonpartisan Tax Policy Center, H.R. 1 will raise 
+taxes on 36 million hardworking middle class American households.
+  It scraps benefits our families depend on, like the student loan 
+interest and medical expense deductions. Imagine, in a time when access 
+to higher education is critical to a family's economic well-being, 
+making it even more expensive.
+  This legislation was written behind closed doors, in secret, without 
+Democratic input and without any hearings.
+  Mr. Speaker, a bill to overhaul the Tax Code, the results of which 
+will affect every American for decades to come, deserves open and 
+transparent consideration. I urge my colleagues to work together to 
+instead craft a tax reform bill that truly lifts up the middle class 
+and invests in our future.
+
+                          ____________________
+```

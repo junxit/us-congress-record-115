@@ -1,0 +1,49 @@
+---
+granule: CREC-2017-11-15-pt1-PgS7265-2
+date: 2017-11-15
+edition: CREC
+section: SENATE
+page: S7265
+citation: 163 Cong. Rec. S7265
+---
+
+# SENATE RESOLUTION 333--PERMITTING THE COLLECTION OF CLOTHING, TOYS , FOOD, AND HOUSEWARES DURING THE HOLIDAY SEASON FOR CHARITABLE PURPOSES IN SENATE BUILDINGS
+
+**Measures:** S.Res. 333
+
+```
+ SENATE RESOLUTION 333--PERMITTING THE COLLECTION OF CLOTHING, TOYS , 
+FOOD, AND HOUSEWARES DURING THE HOLIDAY SEASON FOR CHARITABLE PURPOSES 
+                          IN SENATE BUILDINGS
+
+  Mr. ISAKSON (for himself and Mr. Tester) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 333
+
+       Resolved,
+
+     SECTION 1. COLLECTION OF CLOTHING, TOYS, FOOD, AND HOUSEWARES 
+                   DURING THE HOLIDAY SEASON FOR CHARITABLE 
+                   PURPOSES IN SENATE BUILDINGS.
+
+       (a) In General.--Notwithstanding any other provision of the 
+     rules or regulations of the Senate--
+       (1) a Senator, officer of the Senate, or employee of the 
+     Senate may collect from another Senator, officer of the 
+     Senate, or employee of the Senate within Senate buildings 
+     nonmonetary donations of clothing, toys, food, and housewares 
+     for charitable purposes related to serving persons in need or 
+     members of the Armed Forces and the families of those members 
+     during the holiday season, if the charitable purposes do not 
+     otherwise violate any rule or regulation of the Senate or of 
+     Federal law; and
+       (2) a Senator, officer of the Senate, or employee of the 
+     Senate may work with a nonprofit organization with respect to 
+     the delivery of donations described under paragraph (1).
+       (b) Expiration.--The authority provided by this resolution 
+     shall expire at the end of the first session of the 115th 
+     Congress.
+
+                          ____________________
+```
