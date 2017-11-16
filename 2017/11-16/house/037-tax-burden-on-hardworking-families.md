@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-11-16-pt1-PgH9415-7
+date: 2017-11-16
+edition: CREC
+section: HOUSE
+page: H9415
+citation: 163 Cong. Rec. H9415
+---
+
+# TAX BURDEN ON HARDWORKING FAMILIES
+
+**Speaking:** Cardenas, Tony (C001097) [D-CA]
+
+```
+                   TAX BURDEN ON HARDWORKING FAMILIES
+
+  (Mr. CARDENAS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. CARDENAS. Mr. Speaker, just a few minutes ago, on the floor of 
+the House of Representatives, we saw a vote on what has been called the 
+middle class tax cut. Unfortunately, I am here to remind all of us, Mr. 
+Speaker, that it really is a tax scam.
+  When we have looked into the many communities across America and seen 
+families like the hardworking families in the district that I represent 
+in California, the average family or household that files a tax return 
+every April 15 makes an average income of about $69,000.
+  That family, according to what was just passed on this floor, is 
+going to be leaving behind over $1,000 more than they normally would 
+have when they do their taxes. That hurts. That family is a hardworking 
+family. That family cannot afford to miss out on $1,000 of their hard-
+earned money.
+  I heard people say earlier that that is not going to happen. That is 
+just not true.
+
+                          ____________________
+```

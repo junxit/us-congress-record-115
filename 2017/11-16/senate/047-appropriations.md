@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-11-16-pt1-PgS7293-3
+date: 2017-11-16
+edition: CREC
+section: SENATE
+page: S7293
+citation: 163 Cong. Rec. S7293
+---
+
+# APPROPRIATIONS
+
+**Speaking:** Cochran, Thad (C000567) [R-MS]
+
+```
+                             APPROPRIATIONS
+
+  Mr. COCHRAN. Mr. President, I would like to review for the Senate the 
+status of appropriations for fiscal year 2018.
+  The Appropriations Committee has marked up 8 of the 12 regular 
+appropriations bills for this fiscal year. The committee has also 
+processed two supplemental appropriations bills and one continuing 
+resolution.
+  We have little time to finalize the regular appropriations bills and 
+to consider additional supplemental appropriations requests for defense 
+and for natural disaster recovery.
+  We need a new budget deal to finish our work. Congress and the 
+administration must reach agreement on acceptable top-line funding 
+levels for defense and nondefense programs.
+  At the funding cap currently in law, the Appropriations Committee 
+would be hard-pressed to write a 2018 Defense bill that fully meets our 
+national security needs or reflects the priorities of the Senate.
+  The current continuing resolution expires on December 8. We cannot 
+afford to extend that CR into next year.
+  A budget agreement is necessary for the Senate to approve responsible 
+appropriations legislation. I urge all parties to those negotiations to 
+redouble their efforts to reach agreement.
+
+                          ____________________
+```
