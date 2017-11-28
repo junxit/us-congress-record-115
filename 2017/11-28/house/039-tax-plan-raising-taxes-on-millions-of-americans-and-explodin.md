@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-11-28-pt1-PgH9456-3
+date: 2017-11-28
+edition: CREC
+section: HOUSE
+page: H9456
+citation: 163 Cong. Rec. H9456
+---
+
+# TAX PLAN RAISING TAXES ON MILLIONS OF AMERICANS AND EXPLODING THE DEFICIT
+
+**Speaking:** Krishnamoorthi, Raja (K000391) [D-IL]
+
+```
+   TAX PLAN RAISING TAXES ON MILLIONS OF AMERICANS AND EXPLODING THE 
+                                DEFICIT
+
+  (Mr. KRISHNAMOORTHI asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. KRISHNAMOORTHI. Mr. Speaker, 2 weeks ago, this Chamber passed a 
+tax plan that would raise taxes on millions of Americans and explode 
+the deficit. Now the Senate is having its turn. Their proposal would 
+devastate working families through tax hikes and undermine Americans' 
+healthcare through the stealth repeal of the Affordable Care Act.
+  Just as the House Republican plan included a huge middle class tax 
+increase, so does the Senate's. By 2027, 82 million middle class 
+households would see a tax increase.
+  But the damage of the Senate plan goes beyond that. It would cut 
+Medicare by $25 billion next year alone and add $1.4 trillion to the 
+deficit, and it would destabilize healthcare for millions of Americans.
+  The Senate plan would leave 13 million more Americans without 
+healthcare, while those keeping theirs would see premiums jump up by 10 
+percent per year for the next decade.
+  Republican Senators have already spoken out against this bill. The 
+truth is we all should.
+
+                          ____________________
+```

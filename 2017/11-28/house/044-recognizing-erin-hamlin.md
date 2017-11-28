@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-11-28-pt1-PgH9457-2
+date: 2017-11-28
+edition: CREC
+section: HOUSE
+page: H9457
+citation: 163 Cong. Rec. H9457
+---
+
+# RECOGNIZING ERIN HAMLIN
+
+**Speaking:** Tenney, Claudia (T000478) [R-NY]
+
+```
+                        RECOGNIZING ERIN HAMLIN
+
+  (Ms. TENNEY asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TENNEY. Mr. Speaker, I rise today to recognize Erin Hamlin, a 
+hardworking and outstanding constituent of the 22nd Congressional 
+District, who has just qualified for her fourth consecutive Winter 
+Olympic Games.
+  Erin hails from a beautiful hamlet in Oneida County, known as Remsen, 
+New York.
+  Erin started her career in luge in 2005. Her first major 
+international victory was achieved in 2009, in Lake Placid, at the 
+World Luge Championships, where Erin earned a remarkable gold medal.
+  At the 2014 Sochi Winter Olympics, Erin became the first American 
+ever--both male and female--to medal in a singles luge competition when 
+she brought home the bronze for Team USA.
+  Next year, Erin will represent Team USA in South Korea by again 
+competing in the singles luge competition.
+  Please join me in wishing the best of luck to our hometown rock star 
+Erin Hamlin and all of Team USA in next year's Winter Olympic Games in 
+Pyeongchang, South Korea.
+
+                          ____________________
+```

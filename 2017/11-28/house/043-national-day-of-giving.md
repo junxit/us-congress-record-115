@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-11-28-pt1-PgH9457
+date: 2017-11-28
+edition: CREC
+section: HOUSE
+page: H9457
+citation: 163 Cong. Rec. H9457
+---
+
+# NATIONAL DAY OF GIVING
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                         NATIONAL DAY OF GIVING
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, today is Giving Tuesday, a 
+global day dedicated to giving back.
+  Last week, we celebrated Thanksgiving, and families across the 
+country gathered to celebrate and give thanks for all their blessings.
+  Today, on the National Day of Giving, many come together for a common 
+purpose: to celebrate generosity and to give.
+  Giving Tuesday kicks off the charitable season when many focus on 
+their holiday and end-of-year giving to worthy causes. Charitable 
+giving is a force for good, which is why the tax reform package, 
+approved by the House, maintains this important deduction.
+  Charities, families, businesses, community centers, and people around 
+the world will lend their time or their personal resources to 
+philanthropic efforts across the Nation.
+  Giving Tuesday also brings together the collective power of a unique 
+blend of partners--nonprofits, civic organizations, businesses and 
+corporations, as well as families and individuals--to encourage and 
+amplify small acts of kindness.
+  As a global movement, Giving Tuesday unites countries around the 
+world by sharing our capacity to care for and empower one another. That 
+is something we can all celebrate.
+
+                          ____________________
+```
