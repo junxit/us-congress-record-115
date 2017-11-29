@@ -1,0 +1,85 @@
+---
+granule: CREC-2017-11-29-pt1-PgS7473
+date: 2017-11-29
+edition: CREC
+section: SENATE
+page: S7473
+citation: 163 Cong. Rec. S7473
+---
+
+# Text of Senate Amendment 1636
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+```
+  SA 1636. Mr. DURBIN submitted an amendment intended to be proposed to 
+amendment SA 1618 submitted by Mr. Hatch (for himself and Ms. 
+Murkowski) and intended to be proposed to the bill H.R. 1, to provide 
+for reconciliation pursuant to titles II and V of the concurrent 
+resolution on the budget for fiscal year 2018; which was ordered to lie 
+on the table; as follows:
+
+       At the end of part III of subtitle A of title I, insert the 
+     following:
+
+     SEC. 11030. MODIFICATION AND EXTENSION OF WORK OPPORTUNITY 
+                   CREDIT FOR CERTAIN YOUTH EMPLOYEES.
+
+       (a) Expansion of Credit for Summer Youth.--
+       (1) Credit allowed for year-round employment.--Section 
+     51(d)(7)(A) is amended--
+       (A) by striking clauses (i) and (iii) and redesignating 
+     clauses (ii) and (iv) as clauses (i) and (ii), respectively;
+       (B) in clause (i) (as so redesignated), by striking ``(or 
+     if later, on May 1 of the calendar year involved),'' and 
+     inserting ``, and''; and
+       (C) by adding at the end the following new clause:
+       ``(iii) who will be employed for not more than 20 hours per 
+     week during any period between September 16 and April 30 in 
+     which such individual is regularly attending any secondary 
+     school.''.
+       (2) Increase in credit amount.--Section 51(d)(7) is amended 
+     by striking subparagraph (B) and by redesignating 
+     subparagraph (C) as subparagraph (B).
+       (3) Conforming amendments.--
+       (A) Subparagraph (F) of section 51(d)(1) is amended by 
+     striking ``summer''.
+       (B) Paragraph (7) of section 51(d) is amended--
+       (i) by striking ``summer'' each place it appears in 
+     subparagraphs (A);
+       (ii) in subparagraph (B), as redesignated by paragraph (2), 
+     by striking ``subparagraph (A)(iv)'' and inserting 
+     ``subparagraph (A)(ii)''; and
+       (iii) by striking ``summer'' in the heading thereof.
+       (b) Credit for At-Risk Youth.--
+       (1) In general.--Paragraph (1) of section 51(d) is amended 
+     by striking ``or'' at the end of subparagraph (I), by 
+     striking the period at the end of subparagraph (J) and 
+     inserting ``, or'' , and by adding at the end the following 
+     new subparagraph:
+       ``(K) an at-risk youth.''.
+       (2) At-risk youth.--Paragraph (14) of section 51(d) is 
+     amended to read as follows:
+       ``(14) At-risk youth.--The term `at-risk youth' means any 
+     individual who is certified by the designated local agency--
+       ``(A) as--
+       ``(i) having attained age 16 but not age 25 on the hiring 
+     date,
+       ``(ii) as not regularly attending any secondary, technical, 
+     or post-secondary school during the 6-month period preceding 
+     the hiring date,
+       ``(iii) as not regularly employed during such 6-month 
+     period, and
+       ``(iv) as not readily employable by reason of lacking a 
+     sufficient number of basic skills, or
+       ``(B) as--
+       ``(i) having attained age 16 but not age 21 on the hiring 
+     date, and
+       ``(ii) an eligible foster child (as defined in section 
+     152(f)(1)(C)) who was in foster care during the 12-month 
+     period ending on the hiring date.''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to individuals who begin work for the employer 
+     after the date of the enactment of this Act.
+                                 ______
+```

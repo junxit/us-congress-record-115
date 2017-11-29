@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-11-29-pt1-PgH9512-2
+date: 2017-11-29
+edition: CREC
+section: HOUSE
+page: H9512
+citation: 163 Cong. Rec. H9512
+---
+
+# CONGRATULATING LaTOYA CANTRELL, THE MAYOR-ELECT OF NEW ORLEANS
+
+**Speaking:** Richmond, Cedric L. (R000588) [D-LA]
+
+```
+     CONGRATULATING LaTOYA CANTRELL, THE MAYOR-ELECT OF NEW ORLEANS
+
+  (Mr. RICHMOND asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. RICHMOND. Mr. Speaker, I rise today with extreme joy and 
+excitement. My hometown, which is New Orleans, a part of my 
+congressional district, next year, will celebrate our 300th 
+anniversary. Over the years, we were under French control, we were 
+under Spanish control, we were back under French control, and then we 
+had the Louisiana Purchase. But as we walk into our 300th year, we have 
+an elected--and we will be under the control of--female mayor for the 
+first time in New Orleans history. That female is LaToya Cantrell.
+  She is a community activist and she is very focused on the future. I 
+just want to congratulate LaToya on being elected to be the mayor of 
+the city of New Orleans, and just to assure the people of New Orleans 
+that we are going to go forward in our 300th year together and continue 
+to improve the greatest city in the world, and that is New Orleans, 
+Louisiana.
+  Mr. Speaker, I, once again, congratulate LaToya Cantrell on her 
+election to be mayor of the city of New Orleans.
+
+                          ____________________
+```

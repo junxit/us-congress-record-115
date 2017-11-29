@@ -1,0 +1,67 @@
+---
+granule: CREC-2017-11-29-pt1-PgS7407
+date: 2017-11-29
+edition: CREC
+section: SENATE
+page: S7407
+citation: 163 Cong. Rec. S7407
+---
+
+# SENATE RESOLUTION 344--HONORING THE LIFE AND ACHIEVEMENTS OF DR. ROBERT LAWRENCE JR
+
+**Measures:** S.Res. 344
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+SENATE RESOLUTION 344--HONORING THE LIFE AND ACHIEVEMENTS OF DR. ROBERT 
+                              LAWRENCE JR
+
+  Mr. NELSON (for himself, Mr. Rubio, Mr. Durbin, Mr. Cruz, Mr. Markey, 
+Ms. Duckworth, and Mr. Thune) submitted the following resolution; which 
+was considered and agreed to:
+
+                              S. Res. 344
+
+       Whereas Robert Lawrence was born on October 2, 1935, in 
+     Chicago, Illinois and graduated from Englewood High School at 
+     the age of 16;
+       Whereas Robert Lawrence began his Air Force career in the 
+     Reserve Officer Training Corps when he was a teenager 
+     attending Bradley University;
+       Whereas Robert Lawrence received an undergraduate degree in 
+     chemistry from Bradley University in 1956;
+       Whereas Robert Lawrence was commissioned a second 
+     lieutenant into the U.S. Air Force upon graduation at age 20;
+       Whereas Robert Lawrence completed flight training at Malden 
+     Air Force Base in 1956 and was designated a U.S. Air Force 
+     pilot;
+       Whereas Robert Lawrence was assigned as an instructor pilot 
+     for the German air force, flying T-33 trainers at 
+     Furstenfeldbruck Air Base near Munich;
+       Whereas Robert Lawrence accrued over 2,500 hours of flight 
+     time with 2,000 of those hours in jets;
+       Whereas Robert Lawrence earned his Ph.D. in 1965, after 
+     delivering his doctoral dissertation entitled ``The Mechanism 
+     of the Tritium Beta-Ray Induced Exchange Reactions of 
+     Deuterium with Methane and Ethane in the Gas Phase'';
+       Whereas Robert Lawrence was selected as an astronaut in the 
+     Department of Defense's Manned Orbital Laboratory in 1967;
+       Whereas Robert Lawrence was instrumental in compiling 
+     flight maneuver data that was used in the development of the 
+     Space Shuttle for the National Aeronautics and Space 
+     Administration; and
+       Whereas on December 8, 1967, Robert Lawrence died in a 
+     crash of an F-104 Starfighter at Edwards Air Force Base, 
+     leaving behind an inspiring career in the STEM field and 
+     spaceflight awareness to encourage a generation of young 
+     scientists and astronauts: Now, therefore, be it
+       Resolved, That the Senate honors the life of Dr. Robert 
+     Lawrence Jr., an Air Force Major, test pilot, and the first 
+     African-American astronaut selected for spaceflight.
+
+                          ____________________
+```

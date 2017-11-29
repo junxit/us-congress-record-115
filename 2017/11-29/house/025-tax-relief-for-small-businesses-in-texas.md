@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-11-29-pt1-PgH9475-4
+date: 2017-11-29
+edition: CREC
+section: HOUSE
+page: H9475
+citation: 163 Cong. Rec. H9475
+---
+
+# TAX RELIEF FOR SMALL BUSINESSES IN TEXAS
+
+**Speaking:** Marchant, Kenny (M001158) [R-TX]
+
+```
+                TAX RELIEF FOR SMALL BUSINESSES IN TEXAS
+
+  (Mr. MARCHANT asked and was given permission to address the House for 
+1 minute.)
+  Mr. MARCHANT. Mr. Speaker, last Saturday, across America, was Small 
+Business Saturday, a yearly event that highlights American Main Street 
+businesses by encouraging consumers to shop in their local shops.
+  Forty-five percent of all companies in Texas are small businesses. 
+They provide jobs to 4 million Texans. They are our neighbors, our 
+family members, and our friends. They provide jobs to more than 4 
+million families as well as the 4 million Texans.
+  The Tax Cuts and Jobs Act provides small businesses in my north Texas 
+district with the lowest tax rate since World War II, allowing them to 
+invest in their community, hire more people, and, as the National 
+Federation of Independent Business says: This tax bill will lead small 
+businesses into a better position.
+  We highlighted small businesses last weekend, and the Tax Cuts and 
+Jobs Act follows through with a Tax Code built for increased wages and 
+long-term growth.
+
+                          ____________________
+```
