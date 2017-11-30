@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-11-30-pt1-PgH9563-3
+date: 2017-11-30
+edition: CREC
+section: HOUSE
+page: H9563
+citation: 163 Cong. Rec. H9563
+---
+
+# IN MEMORY OF FORMER CONGRESSMAN MAURICE HINCHEY
+
+**Speaking:** Maloney, Carolyn B. (M000087) [D-NY]
+
+```
+            IN MEMORY OF FORMER CONGRESSMAN MAURICE HINCHEY
+
+  (Mrs. CAROLYN B. MALONEY of New York asked and was given permission 
+to address the House for 1 minute.)
+  Mrs. CAROLYN B. MALONEY of New York. Mr. Speaker, last week we lost 
+one of the finest people ever to serve the people of New York State and 
+the country when Congressman Maurice Hinchey passed away.
+  I would like to express my deepest condolences to his wife, Ilene; 
+his sons, Reese and Josef; his daughter, Michelle; and the entire 
+Hinchey family.
+  Maurice leaves behind a legacy of service that is second to none. 
+During his 18 years in the New York State Assembly, he became what 
+former Governor Mario Cuomo called ``the environmental conscience of 
+New York State'' for his groundbreaking investigations into polluters 
+and landmark environmental laws.
+  When he came to Congress in 1993, he continued that work, creating 
+the Hudson River Valley National Heritage Area, preserving wild public 
+lands, and doing everything possible to clean and protect his beloved 
+Hudson River.
+  Maurice and I came to Congress in the same class and we became fast 
+friends. I already miss him dearly, but I know that his work and his 
+legacy will be remembered for generations to come. To know him was to 
+love him.
+  Rest in peace, my dear friend.
+
+                          ____________________
+```

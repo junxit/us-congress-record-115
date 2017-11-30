@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-11-30-pt1-PgH9527-3
+date: 2017-11-30
+edition: CREC
+section: HOUSE
+page: H9527
+citation: 163 Cong. Rec. H9527
+---
+
+# REPUBLICAN TAX SCAM
+
+**Speaking:** Schakowsky, Janice D. (S001145) [D-IL]
+
+```
+                          REPUBLICAN TAX SCAM
+
+  (Ms. SCHAKOWSKY asked and was given permission to address the House 
+for 1 minute.)
+  Ms. SCHAKOWSKY. Mr. Speaker, it is fact: the Republican tax scam is 
+an attack on America's senior citizens. According to the AARP, 5.2 
+million senior citizens, many on fixed incomes, will see a tax hike 
+under the Republican bill. Meanwhile, over 60 percent of the tax 
+benefits go to the top 1 percent.
+  Plus, the bill will trigger an automatic cut to Medicare--$25 billion 
+in 2018 alone. In 2019, Americans 50 to 64 years old buying health 
+insurance through the individual market will see their premiums 
+increase $1,500 on average, according to the AARP. For the first time, 
+the bill changes the way Social Security COLA is calculated, reducing 
+Social Security benefits.
+  Seniors lose in the Republican tax bill, and so does pretty much 
+everybody else. Who wins? Millionaires, billionaires, and the 
+wealthiest corporations. We should say no to the Republican tax scam. 
+Americans deserve a better deal.
+
+                          ____________________
+```
