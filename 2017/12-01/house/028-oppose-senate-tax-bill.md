@@ -1,0 +1,43 @@
+---
+granule: CREC-2017-12-01-pt1-PgH9587-6
+date: 2017-12-01
+edition: CREC
+section: HOUSE
+page: H9587
+citation: 163 Cong. Rec. H9587
+---
+
+# OPPOSE SENATE TAX BILL
+
+**Speaking:** Panetta, Jimmy (P000613) [D-CA]
+
+```
+                         OPPOSE SENATE TAX BILL
+
+  (Mr. PANETTA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PANETTA. Mr. Speaker, I rise today to speak out against the 
+Senate's version of the tax reform bill because this bill will hurt the 
+central coast in California.
+  By fully repealing the State and local tax deduction, 177,000 
+households in my district that deduct an average of $23,000 each year 
+will be hurt.
+  By repealing the student loan interest deduction, low- and middle-
+income students in my district will find college further out of reach 
+and will be hurt.
+  By allowing individual tax cuts to expire on people earning less than 
+$75,000, over 140,000 households in my district will see their taxes go 
+up and they will be hurt.
+  Now, with confirmation that the tax cuts will not pay for themselves 
+but will add over $1 trillion to our debt, this tax reform bill will be 
+a tax burden bill not only for my constituents in my district, but for 
+all of our constituents in our Nation. Worse, this bill will hurt
+
+[[Page H9588]]
+
+not only my two daughters, but all of our sons and daughters.
+  That is why I oppose the Senate bill, and I urge my colleagues to do 
+the same.
+
+                          ____________________
+```

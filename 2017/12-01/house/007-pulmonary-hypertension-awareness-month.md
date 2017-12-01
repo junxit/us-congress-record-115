@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-12-01-pt1-PgH9571-6
+date: 2017-12-01
+edition: CREC
+section: HOUSE
+page: H9571
+citation: 163 Cong. Rec. H9571
+---
+
+# PULMONARY HYPERTENSION AWARENESS MONTH
+
+**Speaking:** Brady, Kevin (B000755) [R-TX]
+
+```
+                 PULMONARY HYPERTENSION AWARENESS MONTH
+
+  (Mr. BRADY of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. BRADY of Texas. Mr. Speaker, I rise today in honor of Pulmonary 
+Hypertension Awareness Month and the outstanding work of the Pulmonary 
+Hypertension Association.
+  It is hard to believe that just over 20 years ago pulmonary 
+hypertension patients were given less than 3 years to live and no 
+treatment options. Today, there are 14 FDA-approved treatments for 
+patients with this rare condition, and they continue to live longer.
+  I am proud of the work of the Pulmonary Hypertension Association and 
+their volunteers and leadership over the past decade and a half, and I 
+am glad to be a small part of it.
+  My inspiration was a 5-year-old patient named Emily, the daughter of 
+my dear friend Jack Stibbs. Thanks to medical advancements, Emily 
+graduated from Vanderbilt University and is leading an amazing life.
+  Mr. Speaker, I encourage my colleagues to continue to support 
+critical research efforts to improve the lives of our PH patients.
+
+                          ____________________
+```
