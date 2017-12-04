@@ -1,0 +1,45 @@
+---
+granule: CREC-2017-12-04-pt1-PgH9619
+date: 2017-12-04
+edition: CREC
+section: HOUSE
+page: H9619
+citation: 163 Cong. Rec. H9619
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 38, H.R. 2396, H.R. 2897, H.R. 3731
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. GOODLATTE: Committee the Judiciary. H.R. 38. A bill to 
+     amend title 18, United States Code, to provide a means by 
+     which nonresidents of a State whose residents may carry 
+     concealed firearms may also do so in the State; with an 
+     amendment (Rept. 115-433). Referred to the Committee of the 
+     Whole House on the state of the Union.
+       Mr. HENSARLING: Committee on Financial Services. H.R. 2396. 
+     A bill to amend the Gramm-Leach-Bliley Act to update the 
+     exception for certain annual notices provided by financial 
+     institutions; with an amendment (Rept. 115-434). Referred to 
+     the Committee of the Whole House on the state of the Union.
+       Mr. GOWDY: Committee on Oversight and Government Reform. 
+     H.R. 3731. A bill to provide overtime pay for employees of 
+     the United States Secret Service, and for other purposes 
+     (Rept. 115-435, Pt. 1). Ordered to be printed.
+       Mr. GOWDY: Committee on Oversight and Government Reform. 
+     H.R. 2897. A bill to authorize the Mayor of the District of 
+     Columbia and the Director of the National Park Service to 
+     enter into cooperative management agreements for the 
+     operation, maintenance, and management of units of the 
+     National Park System in the District of Columbia, and for 
+     other purposes (Rept. 115-436, Pt. 1). Ordered to be printed.
+
+                          ____________________
+```

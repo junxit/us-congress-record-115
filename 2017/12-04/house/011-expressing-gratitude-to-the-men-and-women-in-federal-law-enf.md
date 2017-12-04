@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-12-04-pt1-PgH9602-2
+date: 2017-12-04
+edition: CREC
+section: HOUSE
+page: H9602
+citation: 163 Cong. Rec. H9602
+---
+
+# EXPRESSING GRATITUDE TO THE MEN AND WOMEN IN FEDERAL LAW ENFORCEMENT
+
+**Speaking:** Jackson Lee, Sheila (J000032) [D-TX]
+
+```
+  EXPRESSING GRATITUDE TO THE MEN AND WOMEN IN FEDERAL LAW ENFORCEMENT
+
+  (Ms. JACKSON LEE asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. JACKSON LEE. Mr. Speaker, I serve on the House Judiciary 
+Committee and serve as the ranking member on the Crime, Terrorism, 
+Homeland Security, and Investigations Subcommittee, which means that I 
+deal with every single Federal law enforcement entity across the 
+Nation.
+  I am disappointed and I am outraged by the language from the 
+Commander in Chief to suggest that the FBI is in tatters. We have 
+agreements and disagreements with the chief law enforcement agency, but 
+these men and women protecting us in this Nation, but also against 
+domestic terrorism and even beyond, are called around the Nation to 
+investigate heinous crimes. Their expertise is respected.
+  I remember when there was a child molester in my community. I worked 
+with local police, but I insisted that the FBI get involved. They were 
+willing to do so even though it was not a matter across State lines. 
+Their very presence made a difference.
+  I think we owe them a better response, and I certainly think the 
+Commander in Chief has a responsibility to do a better job.
+  I also believe that we have got to pass CHIP because thousands of 
+children need healthcare. It is important for us to do our job.
+
+                          ____________________
+```
