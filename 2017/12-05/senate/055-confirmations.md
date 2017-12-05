@@ -1,0 +1,35 @@
+---
+granule: CREC-2017-12-05-pt1-PgS7857-2
+date: 2017-12-05
+edition: CREC
+section: SENATE
+page: S7857
+citation: 163 Cong. Rec. S7857
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate December 5, 2017:
+
+
+                    GENERAL SERVICES ADMINISTRATION
+
+       EMILY WEBSTER MURPHY, OF MISSOURI, TO BE ADMINISTRATOR OF 
+     GENERAL SERVICES.
+
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+       KIRSTJEN NIELSEN, OF VIRGINIA, TO BE SECRETARY OF HOMELAND 
+     SECURITY .
+
+
+                       FARM CREDIT ADMINISTRATION
+
+       GLEN R. SMITH, OF IOWA, TO BE A MEMBER OF THE FARM CREDIT 
+     ADMINISTRATION BOARD, FARM CREDIT ADMINISTRATION, FOR A TERM 
+     EXPIRING MAY 21, 2022.
+```

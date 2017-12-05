@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-12-05-pt1-PgH9633
+date: 2017-12-05
+edition: CREC
+section: HOUSE
+page: H9633
+citation: 163 Cong. Rec. H9633
+---
+
+# CHANGE PALESTINIAN PAY-TO-SLAY POLICY
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                 CHANGE PALESTINIAN PAY-TO-SLAY POLICY
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, I rise today in support of the Taylor Force 
+Act, offered by my colleague from Colorado (Mr. Lamborn). This bill is 
+named after Taylor Force, who was killed in Tel Aviv last year by a 
+Palestinian terrorist wielding a knife.
+  As part of the Palestinian Authority's ``pay-to-slay'' policy in 
+which families of terrorists are rewarded for murdering Americans and 
+Israelis, relatives of Force's killer now receive a $400 monthly 
+stipend. The average monthly income for Palestinians in the West Bank 
+is only $150. This policy doubles, or even triples, a family's earnings 
+overnight.
+  This policy directly encourages terrorism and incentivizes the murder 
+of Americans and our allies. Payments to families of terrorists have 
+reached $355 million in 2017. The Taylor Force Act ceases any continued 
+U.S. aid to Palestinian interests until these so-called martyr payments 
+are permanently ceased.
+  The U.S. currently sends $300 million in aid to Palestinian 
+interests. We shouldn't send a penny more until this heinous policy is 
+abolished for good.
+
+                          ____________________
+```
