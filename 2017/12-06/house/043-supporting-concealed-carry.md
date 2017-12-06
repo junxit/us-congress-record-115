@@ -1,0 +1,39 @@
+---
+granule: CRECB-2017-pt14-Pg19387-3
+date: 2017-12-06
+edition: CRECB
+section: HOUSE
+page: 19387
+---
+
+# SUPPORTING CONCEALED CARRY
+
+```
+                       SUPPORTING CONCEALED CARRY
+
+  (Ms. TENNEY asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TENNEY. Mr. Speaker, I rise today to support H.R. 38, the 
+Concealed Carry Reciprocity Act of 2017, which passed the House with a 
+bipartisan vote a few moments ago.
+  As the Representative of a district with a large number of law-
+abiding firearm owners, I know many individuals who have concealed 
+carry permits use their firearm for personal protection. This 
+commonsense measure would also allow qualified law-abiding citizens who 
+have obtained concealed carry permits to carry their firearms across 
+State lines and in other States.
+  Since 1991, the number of concealed carry permits has increased 
+dramatically, while the violent crime rates have dropped nearly 51 
+percent, according to the Bureau of Justice Statistics. Additionally, 
+the fix on the so-called NICS provision of the legislation would add an 
+extra layer of accountability to the National Instant Criminal 
+Background Check System for individuals who are legally prohibited from 
+obtaining a firearm.
+  As one of the leading advocates for Second Amendment rights in New 
+York State, I was the first to introduce a full repeal of Governor 
+Andrew Cuomo's gun-grabbing so-called SAFE Act. I firmly believe that 
+our Second Amendment rights are God-given by the Constitution and 
+something we need to defend each and every day.
+
+                          ____________________
+```
