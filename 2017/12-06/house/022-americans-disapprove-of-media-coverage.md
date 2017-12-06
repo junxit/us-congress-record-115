@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-12-06-pt1-PgH9672
+date: 2017-12-06
+edition: CREC
+section: HOUSE
+page: H9672
+citation: 163 Cong. Rec. H9672
+---
+
+# AMERICANS DISAPPROVE OF MEDIA COVERAGE
+
+**Speaking:** Smith, Lamar (S000583) [R-TX]
+
+```
+                 AMERICANS DISAPPROVE OF MEDIA COVERAGE
+
+  (Mr. SMITH of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. SMITH of Texas. Mr. Speaker, according to a new Quinnipiac poll, 
+58 percent of Americans disapprove of the media's coverage of the 
+President. Only 38 percent approve. It is no surprise why the American 
+people disapprove of the media's coverage.
+  A few weeks ago, CBS Evening News ran a lengthy story mocking 
+President Trump for taking a sip of water during the middle of a 
+speech.
+  To date, the broadcast networks of ABC, CBS, and NBC have spent over 
+12 hours on an unproven Trump-Russia connection while only devoting 
+4\1/2\ minutes to the Clinton uranium scandal involving Russia.
+  Newsweek published a headline accusing Ivanka Trump of plagiarism 
+because she used a sentence from a previous speech. Newsweek should 
+check the dictionary. It is not plagiarism if you use your own words.
+  These are only three of many examples that account for why 58 percent 
+of Americans disapprove of the media's coverage. Their liberal bias is 
+on display for all to see, and Americans are tired of it.
+
+                          ____________________
+```

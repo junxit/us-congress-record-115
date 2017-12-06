@@ -1,0 +1,37 @@
+---
+granule: CREC-2017-12-06-pt1-PgH9704
+date: 2017-12-06
+edition: CREC
+section: HOUSE
+page: H9704
+citation: 163 Cong. Rec. H9704
+---
+
+# REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 477, SMALL BUSINESS MERGERS, ACQUISITIONS, SALES, AND BROKERAGE SIMPLIFICATION ACT OF 2017; PROVIDING FOR CONSIDERATION OF H.R. 3971...
+
+**Measures:** H.J.Res. 123, H.R. 477, H.Res. 647, H.R. 3971
+
+```
+  REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 477, SMALL 
+BUSINESS MERGERS, ACQUISITIONS, SALES, AND BROKERAGE SIMPLIFICATION ACT 
+     OF 2017; PROVIDING FOR CONSIDERATION OF H.R. 3971, COMMUNITY 
+      INSTITUTION MORTGAGE RELIEF ACT OF 2017; AND PROVIDING FOR 
+ CONSIDERATION OF H.J. RES 123, FURTHER CONTINUING APPROPRIATIONS ACT, 
+                                  2018
+
+  MR. WOODALL, from the Committee on Rules, submitted a privileged 
+report (Rept. No. 115-443) on the resolution (H. Res. 647) providing 
+for consideration of the bill (H.R. 477) to amend the Securities 
+Exchange Act of 1934 to exempt from registration brokers performing 
+services in connection with the transfer of ownership of smaller 
+privately held companies; providing for consideration of the bill (H.R. 
+3971) to amend the Truth in Lending Act and the Real Estate Settlement 
+Procedures Act of 1974 to modify the requirements for community 
+financial institutions with respect to certain rules relating to 
+mortgage loans, and for other purposes; and providing for consideration 
+of the joint resolution (H.J. Res. 123) making further continuing 
+appropriations for fiscal year 2018, and for other purposes, which was 
+referred to the House Calendar and ordered to be printed.
+
+                          ____________________
+```
