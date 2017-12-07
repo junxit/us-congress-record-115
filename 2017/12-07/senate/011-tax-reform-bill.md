@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-12-07-pt1-PgS7898-5
+date: 2017-12-07
+edition: CREC
+section: SENATE
+page: S7898
+citation: 163 Cong. Rec. S7898
+---
+
+# TAX REFORM BILL
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+```
+                            TAX REFORM BILL
+
+  Mr. McCONNELL. Now, Mr. President, on another matter, yesterday the 
+Senate formally voted to join our colleagues from the House to consider 
+our tax reform bills in a conference committee. It is another important 
+step toward delivering much needed relief to the men, women, and 
+families we represent. Now the committee members will reconcile the 
+differences between the bills. When they finish their work, Members of 
+both Chambers will have the opportunity to pass this tax reform 
+legislation and send it to President Trump.
+  As I have said before, tax reform represents the single most 
+important thing we can do right now to grow the economy and boost 
+middle-class families. It will also incentivize businesses to bring 
+investment and jobs home and keep them here. We want a tax bill that 
+works for hard-working American families, one that can bring 
+opportunity, help create new jobs, and keep more money in workers' 
+paychecks. That means a typical family of four earning a median income 
+could see a tax cut of approximately $2,200.
+  This tax reform plan is our way of helping families get ahead and 
+plan for their future. It has taken a lot of hard work to get to this 
+point, and I wish to thank my Senate colleagues and our friends in the 
+House and in the Trump administration for their efforts to 
+fundamentally rethink our Tax Code.
+  I look forward to the conference committee's report so we can 
+complete our efforts and deliver relief to those who need it most.
+
+                          ____________________
+```

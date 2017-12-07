@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-12-07-pt1-PgH9746-5
+date: 2017-12-07
+edition: CREC
+section: HOUSE
+page: H9746
+citation: 163 Cong. Rec. H9746
+---
+
+# CALIFORNIA WILDFIRES
+
+**Speaking:** Westerman, Bruce (W000821) [R-AR]
+
+```
+                          CALIFORNIA WILDFIRES
+
+  (Mr. WESTERMAN asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. WESTERMAN. Mr. Speaker, I rise today to plead on behalf of our 
+country for immediate Senate action on the Resilient Federal Forests 
+Act of 2017. The House passed this bipartisan bill on November 1, 
+following a record wildfire season with millions of acres going up in 
+smoke and ash.
+  Just this week, fires have flared up again in southern California 
+with more than 110,000 acres currently burning
+
+[[Page H9747]]
+
+and more than 200,000 individuals forced from their homes. Many schools 
+are closed, residents hundreds of miles away are advised to stay 
+indoors to avoid the smoke, and, more urgently, lives and property are 
+at risk across Los Angeles and Ventura Counties.
+  The time for the Senate to act was 2 years ago when they failed to 
+act on similar legislation. We can't afford for the Senate to continue 
+to do nothing. Pass the Resilient Federal Forests Act. Give the Forest 
+Service the tools it needs to prevent and combat catastrophic 
+wildfires. Fires are raging, lives are in danger, and the situation 
+will get worse in the future if the Senate continues to fail to act.
+
+                          ____________________
+```
