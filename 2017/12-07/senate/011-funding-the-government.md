@@ -1,0 +1,31 @@
+---
+granule: CRECB-2017-pt14-Pg19488-3
+date: 2017-12-07
+edition: CRECB
+section: SENATE
+page: 19488
+---
+
+# FUNDING THE GOVERNMENT
+
+```
+                         FUNDING THE GOVERNMENT
+
+  Mr. McCONNELL. Now, Mr. President, on one final matter, the Senate 
+must act before the end of the week to pass a clean, short-term funding 
+bill to maintain critical operations of the Federal Government. Our 
+colleagues in the House will send us the noncontroversial provision 
+soon, and then we will have an opportunity to consider it. I urge my 
+colleagues to join me in voting to pass it. This short-term continuing 
+resolution will provide us with the time we need to complete 
+discussions on a long-term solution. It will also provide certainty to 
+States to continue funding the Children's Health Insurance Program.
+  Later today, Speaker Ryan, Leader Schumer, Leader Pelosi, and I will 
+meet with President Trump to continue discussing an agreement to fund 
+the Federal Government. I look forward to working together with 
+colleagues in a serious, bipartisan way to address a number of the 
+priorities of our Nation in the coming weeks. I hope all Members will 
+join me.
+
+                          ____________________
+```

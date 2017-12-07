@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt14-Pg19474-4
+date: 2017-12-07
+edition: CRECB
+section: HOUSE
+page: 19474
+---
+
+# HONORING PEARL HARBOR SURVIVOR AND WORLD WAR II VETERAN CLARENCE VAROS
+
+```
+ HONORING PEARL HARBOR SURVIVOR AND WORLD WAR II VETERAN CLARENCE VAROS
+
+  (Ms. CHENEY asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. CHENEY. Mr. Speaker, on this historic day in this Chamber where 
+President Roosevelt appeared the day after the Pearl Harbor attack, I 
+rise to honor a World War II veteran and Pearl Harbor survivor, Mr. 
+Clarence Varos, who will turn 100 this weekend.
+  Born on December 10, 1917, Mr. Varos has served our country and State 
+in many ways. As a member of the U.S. Navy, Mr. Varos fought through 
+and survived the attack on Pearl Harbor. He risked his life in the 
+defense of freedom as a gunner on the USS Hyde, transporting marines in 
+the Pacific theater. After bravely serving our Nation in uniform, Mr. 
+Varos went on to dedicate 30 years of his life to the Union Pacific 
+Railroad.
+  I want to thank Mr. Varos for all he has contributed to our great 
+Nation and State. His sacrifice, bravery, and grit are an example to us 
+all. I look forward to congratulating Mr. Varos in person at 
+celebrations in his honor this weekend in Cheyenne. I would like to say 
+happy birthday to Mr. Varos and thank him for his service.
+
+                          ____________________
+```

@@ -1,0 +1,43 @@
+---
+granule: CRECB-2017-pt14-Pg19446-6
+date: 2017-12-07
+edition: CRECB
+section: HOUSE
+page: 19446
+---
+
+# REPUBLICAN TAX BILL
+
+```
+                          REPUBLICAN TAX BILL
+
+  (Mr. KILDEE asked and was given permission to address the House for 1 
+minute.)
+  Mr. KILDEE. Mr. Speaker, Republicans continue to rush their tax scam 
+through Congress, raising taxes on tens of millions of people, 
+borrowing over $1 trillion, just to give massive tax breaks to the 
+people at the very top of the economy.
+  For the last 3 months since we passed the temporary spending bill, 
+what has been their focus?
+  Has it been to deal with the lack of reauthorization and full funding 
+for children's health? No.
+  Have they focused at all on the need to deal with the Dream Act and 
+those DREAMers who are here, knowing no other place than the United 
+States? Have they done anything on that? No.
+  They have an obsession about one thing: tax cuts for the wealthiest.
+  Have they done anything at all to deal with this opioid crisis? The 
+President talked about it, declared an emergency.
+  What have we seen from the other side? Nothing, except an obsession 
+to
+
+[[Page 19447]]
+
+give tax breaks to the people at the top. For 3 months since we passed 
+that temporary spending bill, that has been the singular obsession of 
+the Republican majority.
+  That is not what the American people are looking for. That is not 
+what they sent us here to do. We should do the work of the American 
+people.
+
+                          ____________________
+```
