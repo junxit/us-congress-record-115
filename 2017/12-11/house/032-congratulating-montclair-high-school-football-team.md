@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt14-Pg19567-2
+date: 2017-12-11
+edition: CRECB
+section: HOUSE
+page: 19567
+---
+
+# CONGRATULATING MONTCLAIR HIGH SCHOOL FOOTBALL TEAM
+
+```
+           CONGRATULATING MONTCLAIR HIGH SCHOOL FOOTBALL TEAM
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, I rise today to congratulate the Montclair 
+High School Mounties football team for winning their State championship 
+game against the Union City Soaring Eagles.
+  The Mounties' senior running back, Daniel Webb, returned the 
+championship game's opening kickoff 92 yards for a touchdown only 13 
+seconds after the game began. The Mounties never lost their lead. They 
+beat Union City 35-14 and won New Jersey's North 1, Group 5 State 
+championship. This was Montclair's third perfect season and fourth 
+State championship in the past 6 years.
+  The championship is a big win for everyone in Montclair, New Jersey. 
+For weeks, local businesses and community groups came together to 
+support the Mounties. At the championship game, on December 1, more 
+than 1,500 fans turned out to cheer their team on.
+  I ask my colleagues to join me in congratulating head coach John 
+Fiore and the Montclair Mounties football team for their big win in a 
+stellar year.
+
+                          ____________________
+```

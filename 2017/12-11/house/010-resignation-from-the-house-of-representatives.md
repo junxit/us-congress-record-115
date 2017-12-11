@@ -1,0 +1,57 @@
+---
+granule: CRECB-2017-pt14-Pg19546-6
+date: 2017-12-11
+edition: CRECB
+section: HOUSE
+page: 19546
+---
+
+# RESIGNATION FROM THE HOUSE OF REPRESENTATIVES
+
+```
+             RESIGNATION FROM THE HOUSE OF REPRESENTATIVES
+
+  The SPEAKER pro tempore laid before the House the following 
+resignation from the House of Representatives:
+
+                                Congress of the United States,
+
+                                 Washington, DC, December 8, 2017.
+     Hon. Paul D. Ryan,
+     Speaker, House of Representatives,
+     Washington, DC.
+       Dear Speaker Ryan: Effective today, December 8, 2017, at 
+     12:00 noon ET, I hereby tender my resignation as a Member of 
+     the U.S. House of Representatives from Arizona's 8th 
+     Congressional District.
+       Serving in the People's House under God and the 
+     Constitution of the United States of America has been a true 
+     honor and privilege that I will deeply cherish throughout the 
+     remainder of my life.
+           Most sincerely,
+                                                     Trent Franks,
+     Member of Congress.
+                                  ____
+
+
+
+                                Congress of the United States,
+
+                                 Washington, DC, December 8, 2017.
+     Hon. Doug Ducey,
+     Governor, State of Arizona, Phoenix, AZ.
+       Dear Governor Ducey: This letter is to notify you that I 
+     have submitted a letter to Speaker Paul Ryan tendering my 
+     resignation as a Member of the U.S. House of Representatives 
+     from Arizona's 8th Congressional District effective today, 
+     December 8, 2017 at 12:00 noon ET.
+       Serving Arizona in the People's House under God and the 
+     Constitution of the United States of America has been a true 
+     honor and privilege that I will deeply cherish throughout the 
+     remainder of my life.
+           Most sincerely,
+                                                     Trent Franks,
+     Member of Congress.
+
+                          ____________________
+```
