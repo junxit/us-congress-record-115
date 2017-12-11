@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-12-11-pt1-PgH9781-2
+date: 2017-12-11
+edition: CREC
+section: HOUSE
+page: H9781
+citation: 163 Cong. Rec. H9781
+---
+
+# GIRL SCOUTS OF WATAUGA COUNTY
+
+**Speaking:** Foxx, Virginia (F000450) [R-NC]
+
+```
+                     GIRL SCOUTS OF WATAUGA COUNTY
+
+  (Ms. FOXX asked and was given permission to address the House for 1 
+minute.)
+  Ms. FOXX. Mr. Speaker, as we approach Christmas, many of us consider 
+the season of giving and some also think of Christmas cookies. Equally, 
+when many consider giving back, or cookies, they think of the Girl 
+Scouts. However, Mr. Speaker, it is important to note that Girl Scouts 
+do more than sell cookies. They actively work to improve their 
+communities all year long.
+  Five Girl Scouts in Watauga County recently received the bronze and 
+silver awards for outstanding community service. A few troops earned 
+awards for redecorating a library reading cave to encourage classmates 
+to spend more time learning. Another Girl Scout taught a free dance 
+class so that children who couldn't afford lessons wouldn't miss out. 
+Last, one Girl Scout sought to help end hunger in Watauga County. She 
+wrote thank-you cards to sponsors that provided funds for healthy 
+Thanksgiving meals to feed the hungry.
+  These young women are a credit to their parents and to our 
+communities. I congratulate these young women on their well-earned 
+awards, and I look forward to their continued success.
+
+                          ____________________
+```

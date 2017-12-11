@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-12-11-pt1-PgH9779-3
+date: 2017-12-11
+edition: CREC
+section: HOUSE
+page: H9779
+citation: 163 Cong. Rec. H9779
+---
+
+# SEX AND LABOR TRAFFICKING IN LIBYA
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+                   SEX AND LABOR TRAFFICKING IN LIBYA
+
+  (Mr. POE of Texas asked and was given permission to address the House 
+for 1 minute.)
+  Mr. POE of Texas. Mr. Speaker, the auctioneer shouted: ``Does anybody 
+want to buy a worker? Here is a worker, a big strong man. He will dig.
+  ``What is the bid? What is the bid?
+  ``Sold to the highest bid of $400.''
+  Mr. Speaker, West Africans go to Libya thinking that they will get a 
+job in Europe but, instead, are sold in Libya to labor and sex 
+traffickers. These Africans simply seek a new life, free from 
+terrorism, persecution, and famine; however, they become victims of 
+modern-day slavery.
+  In the years following the United States' overthrow of the Libyan 
+Government, the nation became a failed state. Sinking further into 
+despair, the failed state became a brothel of slavery: human sex and 
+labor trafficking. People are bound to the slave block and sold at the 
+marketplace of sex slavery and labor trafficking.
+  Mr. Speaker, slavery is a crime against humanity, and the United 
+States must exercise caution when toppling regimes without 
+understanding the long-term consequences like human slavery.
+  And that is just the way it is
+
+                          ____________________
+```

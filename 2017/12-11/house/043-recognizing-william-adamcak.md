@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-12-11-pt1-PgH9781-3
+date: 2017-12-11
+edition: CREC
+section: HOUSE
+page: H9781
+citation: 163 Cong. Rec. H9781
+---
+
+# RECOGNIZING WILLIAM ADAMCAK
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                      RECOGNIZING WILLIAM ADAMCAK
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to recognize the 
+life of Mr. William Adamcak, who passed away on November 23, 2017, at 
+98 years of age.
+  Mr. Adamcak was a true patriot and an American war hero, serving in 
+World War II, the Korean war, and the Vietnam war. He received the 
+Purple Heart for his service in D-day during World War II. Even though 
+he and the rest of the Allied forces faced heavy Nazi resistance, Mr. 
+Adamcak led his men through the infamous Omaha Beach and into the 
+French uplands, where they dug foxholes.
+  Huddled in their foxholes, they faced heavy mortar attack from the 
+Germans. But through Mr. Adamcak's bravery, training, and leadership, 
+he led his men to a successful completion of their mission.
+  Mr. William Adamcak was a living legend and hero, and I could not be 
+more honored to recognize this man from the Greatest Generation on the 
+House floor today. He will truly be missed.
+
+                          ____________________
+```
