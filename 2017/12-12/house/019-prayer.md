@@ -1,0 +1,32 @@
+---
+granule: CREC-2017-12-12-pt1-PgH9797-3
+date: 2017-12-12
+edition: CREC
+section: HOUSE
+page: H9797
+citation: 163 Cong. Rec. H9797
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Patrick J. Conroy, offered the following 
+prayer:
+  God, Father of us all, we give You thanks for giving us another day. 
+Ever faithful to Your promises, we ask Your presence with Your people, 
+now and forever.
+  The sun grows dim and the daylight is measured. In the darkness, 
+phantoms loom. The eye cannot discern as the distance fades. Be for us 
+light.
+  Help the Members of Congress make clear judgments that will propel us 
+into a blessed future. Remove any shadowy cloud so that they might 
+follow the patterns of Your inspirations.
+  O Lord of the ages, ever faithful to Your promises, be with us 
+throughout these waning days of the session, and may all that is done 
+in the people's House be for Your greater honor and glory.
+  Amen.
+
+                          ____________________
+```

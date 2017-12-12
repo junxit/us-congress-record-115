@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-12-12-pt1-PgH9798-3
+date: 2017-12-12
+edition: CREC
+section: HOUSE
+page: H9798
+citation: 163 Cong. Rec. H9798
+---
+
+# CELEBRATING THE CAREER OF MARIA DIAZ
+
+**Speaking:** Ros-Lehtinen, Ileana (R000435) [R-FL]
+
+```
+                  CELEBRATING THE CAREER OF MARIA DIAZ
+
+  (Ms. ROS-LEHTINEN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. ROS-LEHTINEN. Mr. Speaker, I rise today to celebrate the career 
+of Maria Diaz, who will be retiring after more than 35 years serving at 
+the Social Security Administration in my hometown of Miami.
+  My staff and I have had an opportunity to know and work with her over 
+the last 17 years that she has served as a public affairs specialist. 
+Throughout that time, she has been an invaluable resource to us and our 
+constituents.
+  Maria started working at the Social Security Administration in 1982 
+in what she thought would be a temporary job, but she quickly grew to 
+love her work and those she had an opportunity to serve. Over the last 
+three decades, with her calm demeanor and ever-present smile, Maria has 
+made a significant impact in the lives of countless individuals in our 
+community.
+  Mr. Speaker, Maria Diaz is the embodiment of the ideal public 
+servant. She has dedicated her life to faithfully and diligently 
+serving those most in need in South Florida.
+  On behalf of a grateful community, I wish her the best of luck in the 
+next exciting chapter of her life.
+  Felicidades, amiga.
+
+                          ____________________
+```
