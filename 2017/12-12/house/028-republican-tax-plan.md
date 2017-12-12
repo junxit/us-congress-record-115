@@ -1,0 +1,34 @@
+---
+granule: CRECB-2017-pt14-Pg19624-2
+date: 2017-12-12
+edition: CRECB
+section: HOUSE
+page: 19624
+---
+
+# REPUBLICAN TAX PLAN
+
+```
+                          REPUBLICAN TAX PLAN
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Mr. Speaker, the Trump White House and the 
+U.S. Treasury Secretary continue to issue formal reports about the 
+Republican corporate tax cut plan. These reports are devoid of fact or 
+credibility and have been categorically rejected by each and every 
+respectable tax expert.
+  These tax cuts will pay for themselves and fuel $2 trillion in 
+economic growth over the next decade.
+  Not true. Tax cuts have never come close to paying for themselves, 
+not once or ever in human history.
+  Corporate tax cuts will trickle down to increase annual household 
+income in America by between $4,000 and $9,000.
+  No one believes this or them. For the White House Council of Economic 
+Advisers to say this is official misconduct and a blatant fraud 
+perpetrated against middle America.
+  Mr. Speaker, this big, corporate tax cut is a massive giveaway to 
+corporate America and a major takeaway from middle America.
+
+                          ____________________
+```

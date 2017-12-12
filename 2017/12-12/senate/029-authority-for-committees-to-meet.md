@@ -1,0 +1,103 @@
+---
+granule: CRECB-2017-pt14-Pg19615-2
+date: 2017-12-12
+edition: CRECB
+section: SENATE
+page: 19615
+---
+
+# AUTHORITY FOR COMMITTEES TO MEET
+
+```
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+  Mr. McCONNELL. Mr. President, I have 9 request for committees to meet 
+during today's session of the Senate. They have the approval of the 
+Majority and Minority leaders.
+  Pursuant to Rule XXVI, paragraph 5(a), of the Standing Rules of the 
+Senate, the following committees are authorized to meet during today's 
+session of the Senate:
+
+
+               Committee on Energy and Natural Resources
+
+  The Committee on Energy and Natural Resources is authorized to meet 
+during the session of the Senate on Tuesday, December 12, 2017, at 10 
+a.m. in room SD-366 to consider the following nominations: Linda 
+Capuano, of Texas, to be Administrator of the Energy Information 
+Administration, Department of Energy, and Timothy R. Petty, of Indiana, 
+to be an Assistant Secretary of the Interior.
+
+
+               Committee on Energy and Natural Resources
+
+  The Committee on Energy and Natural Resources is authorized to meet 
+during the session of the Senate on Tuesday, December 12, 2017, at 10 
+a.m. in room SD-366 to conduct a hearing.
+
+
+          Committee on Health, Education, Labor, and Pensions
+
+  The Committee on Health, Education, Labor, and Pensions is authorized 
+to meet during the session of the Senate on Tuesday, December 12, 2017, 
+at 10 a.m. in room SD-430 to conduct a hearing entitled ``The Cost of 
+Prescription Drugs: An Examination of the National Academies of 
+Sciences, Engineering, and Medicine Report ``Making Medicines 
+Affordable: A National Imperative'.
+
+
+                       Committee on the Judiciary
+
+  The Committee on the Judiciary is authorized to meet during the 
+session of the Senate on Tuesday, December 12, 2017, at 10 a.m. to 
+conduct a hearing entitled ``Oversight of the Ensuring Patient Access 
+and Effective Drug Enforcement Act''.
+
+
+                    Select Committee on Intelligence
+
+  The Select Committee on Intelligence is authorized to meet during the 
+session of the Senate on Tuesday, December 12, 2017, at 2:30 p.m. in 
+room SH-219 to conduct a closed hearing.
+
+
+Subcommittee on Communication, Technology, Innovation, and the Internet
+
+  The Subcommittee on Communication, Technology, Innovation, and the 
+Internet of the Committee on Commerce, Science, and Transportation is 
+authorized to meet during the session of the Senate on Tuesday, 
+December 12, 2017, at 10 a.m. to conduct a hearing entitled ``Digital 
+Decision-Making: the Building Blocks of the Machine Learning and 
+Artificial Intelligence''
+
+
+       Subcommittee Ocean, Atmosphere, Fisheries, and Coast Guard
+
+  The Subcommittee Ocean, Atmosphere, Fisheries, and Coast Guard of the 
+Committee on Commerce, Science, and Transportation is authorized to 
+meet during the session of the Senate on Tuesday, December 12, 2017, at 
+2:30 p.m. in room SR-253 to conduct a hearing entitled ``National Ocean 
+Policy: Stakeholder Perspectives''.
+
+
+        Subcommittee on Europe and Regional Security Cooperation
+
+  The Subcommittee on Europe and Regional Security Cooperation of the 
+Committee on Foreign Relations is authorized to meet during the session 
+of the Senate on Tuesday, December 12, 2017, at 10 a.m. in room SR-253 
+to conduct a hearing entitled ``European Energy Security: U.S. 
+Interests and Coercive Russian Diplomacy''.
+
+
+            Subcommittee on Africa and Global Health Policy
+
+  The Subcommittee on Africa and Global Health Policy of the Committee
+
+[[Page 19616]]
+
+on Foreign Relations is authorized to meet during the session of the 
+Senate on Tuesday, December 12, 2017, at 2 p.m. to conduct a hearing 
+entitled ``The Future of Zimbabwe''.
+
+                          ____________________
+```

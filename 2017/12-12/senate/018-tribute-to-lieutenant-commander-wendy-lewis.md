@@ -1,0 +1,39 @@
+---
+granule: CRECB-2017-pt14-Pg19611
+date: 2017-12-12
+edition: CRECB
+section: SENATE
+page: 19611
+---
+
+# TRIBUTE TO LIEUTENANT COMMANDER WENDY LEWIS
+
+```
+              TRIBUTE TO LIEUTENANT COMMANDER WENDY LEWIS
+
+  Mr. THUNE. Mr. President, today I recognize Lieutenant Commander 
+Wendy Lewis of the National Oceanic and Atmospheric Administration 
+Commissioned Officer Corps, who has served as a fellow to the Commerce, 
+Science, and Transportation Committee for the past 3 years. I thank
+
+[[Page 19612]]
+
+Lieutenant Commander Lewis for all of the hard work she has done for 
+me, my staff, and the entire committee.
+  Lieutenant Commander Lewis has had a significant impact during her 
+time as a fellow. Her expertise as a ship driver and manager of our 
+Nation's natural resources has meaningfully informed the committee's 
+efforts. She has worked on several pieces of legislation that have 
+become law, including the National Oceanic and Atmospheric 
+Administration Sexual Harassment and Assault Prevention Act and the 
+Weather Research and Forecasting Innovation Act of 2017. Her 
+contributions have enhanced the ability of the National Oceanic and 
+Atmospheric Administration to carry out its missions and bettered the 
+lives of those who work there.
+  I would like to extend my sincere thanks and appreciation to 
+Lieutenant Commander Lewis for all of the fine work she has done and 
+for her continued service to our Nation. I wish her success in the 
+years to come.
+
+                          ____________________
+```
