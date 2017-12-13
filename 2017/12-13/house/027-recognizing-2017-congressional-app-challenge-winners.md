@@ -1,0 +1,43 @@
+---
+granule: CRECB-2017-pt14-Pg19724-6
+date: 2017-12-13
+edition: CRECB
+section: HOUSE
+page: 19724
+---
+
+# RECOGNIZING 2017 CONGRESSIONAL APP CHALLENGE WINNERS
+
+```
+          RECOGNIZING 2017 CONGRESSIONAL APP CHALLENGE WINNERS
+
+  (Mr. NEWHOUSE asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. NEWHOUSE. Mr. Speaker, I rise today to recognize three high 
+school students from Kennewick, Washington, as the winners of 
+Washington's Fourth District 2017 Congressional App Challenge.
+  Seth Florman, Damon Fuller, and Kyler Zimmerman spent many hours 
+creating and refining an app they named Powerhouse, which enables the 
+user to take on the role of businessowner of an energy company. These 
+students designed the app to illustrate an energy company's 
+responsibilities to the community and to draw attention to the 
+challenges energy providers face.
+  Thank you to our panel of judges and to the engineers at Pacific 
+Northwest National Laboratory who will be providing the winners with a 
+tour of their great facility.
+  The Congressional App Challenge highlights the value of computer 
+science and coding, and I am proud to represent central Washington, 
+where schools and teachers are dedicated to encouraging students to 
+excel in STEM education.
+  This year, the Fourth Congressional District's App Challenge had the 
+highest number of entries since my office began participating in the 
+contest, which is a testament to the creativity of our young people.
+
+[[Page 19725]]
+
+  I ask my colleagues to join me in congratulating Seth, Damon, and 
+Kyler on their wining app, Powerhouse, and I look forward to their 
+continued educational and professional success.
+
+                          ____________________
+```
