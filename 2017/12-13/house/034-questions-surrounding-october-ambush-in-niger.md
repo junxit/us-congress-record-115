@@ -1,0 +1,44 @@
+---
+granule: CREC-2017-12-13-pt1-PgH9853-6
+date: 2017-12-13
+edition: CREC
+section: HOUSE
+page: H9853
+citation: 163 Cong. Rec. H9853
+---
+
+# QUESTIONS SURROUNDING OCTOBER AMBUSH IN NIGER
+
+**Speaking:** Wilson, Frederica S. (W000808) [D-FL]
+
+```
+             QUESTIONS SURROUNDING OCTOBER AMBUSH IN NIGER
+
+  (Ms. WILSON of Florida asked and was given permission to address the 
+House for 1 minute.)
+  Ms. WILSON of Florida. Mr. Speaker, I rise today to remind Congress 
+and the Nation that there are still many questions surrounding the 
+October ambush
+
+[[Page H9854]]
+
+in Niger during which my constituent, Sergeant La David Johnson and 
+three members of his unit were killed by Islamist militants.
+  This week, two news organizations reported disturbing details that 
+raise questions about the true nature of the unit's mission in Niger. 
+There also is a question of who exactly was making the decisions on 
+that fateful night: Was it the soldiers or their commanders back at 
+base?
+  According to one report, after being separated from the unit for 48 
+hours, Africa Command believed that Sergeant Johnson was still alive 
+and may have been captured, tortured, and executed.
+  The true story of what happened to Sergeant Johnson may be, in the 
+end, a source of embarrassment for the Pentagon and this Nation, but 
+the agency owes his family and the American people the truth, however 
+ugly it may be.
+  Mr. Speaker, I am committed to keeping this issue on the front burner 
+and in everyone's mind until we know what happened to Sergeant La David 
+Johnson.
+
+                          ____________________
+```

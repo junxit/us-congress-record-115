@@ -1,0 +1,38 @@
+---
+granule: CREC-2017-12-13-pt1-PgH9891-3
+date: 2017-12-13
+edition: CREC
+section: HOUSE
+page: H9891
+citation: 163 Cong. Rec. H9891
+---
+
+# TAX REFORM ON STUDENTS
+
+**Speaking:** Watson Coleman, Bonnie (W000822) [D-NJ]
+
+```
+                         TAX REFORM ON STUDENTS
+
+  (Mrs. WATSON COLEMAN asked and was given permission to address the 
+House for 1 minute.)
+  Mrs. WATSON COLEMAN. Mr. Speaker, education is supposed to be the 
+great equalizer, but instead of investing in our students, Republicans, 
+through their tax scam, are attempting to widen that equality gap.
+  Young people want to pursue higher education, and Republicans want to 
+punish them with higher taxes so we can give away benefits to 
+millionaires and billionaires.
+  Students are gaining knowledge that can actually make a difference in 
+this world, but the Republicans' tax plan will only serve to deter them 
+from that goal.
+  It is right here in black and white. Republicans are trying to 
+eliminate student loan interest deductions. They want to tax college 
+endowments that provide scholarships and student aid. They are taxing 
+graduate tuition benefits that would make graduate school unattainable 
+for low- and middle-income students.
+  So this Republican attack on college and graduate students says loud 
+and clear: Low income? No rich parents? Good luck. Pay up.
+  It is an absolute disgrace.
+
+                          ____________________
+```

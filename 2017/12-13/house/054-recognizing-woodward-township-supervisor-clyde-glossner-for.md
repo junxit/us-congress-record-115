@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-12-13-pt1-PgH9891-4
+date: 2017-12-13
+edition: CREC
+section: HOUSE
+page: H9891
+citation: 163 Cong. Rec. H9891
+---
+
+# RECOGNIZING WOODWARD TOWNSHIP SUPERVISOR CLYDE GLOSSNER FOR 47 YEARS OF SERVICE
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+RECOGNIZING WOODWARD TOWNSHIP SUPERVISOR CLYDE GLOSSNER FOR 47 YEARS OF 
+                                SERVICE
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to honor the 
+career of Clyde Glossner, who has served the Woodward Township in 
+Clinton County as supervisor for nearly 50 years.
+  Supervisor Glossner, who is 84, will retire this year after 47 years 
+of service. Next Tuesday, he will oversee his last board of supervisors 
+meeting.
+  Supervisor Glossner has been a resident of the township his entire 
+life. He is a member of the Forty and Eight organization and the Masons 
+in Lock Haven.
+  He and his wife of 60 years, Wilma, were married in 1955 in First 
+Evangelical United Brethren Church in Lock Haven. In September 1955, 
+Clyde and Wilma purchased their home in Woodward Township. They still 
+live there today, and they have three grown sons.
+  In his earlier years, Supervisor Glossner worked as a food inspector 
+for the Pennsylvania Department of Agriculture. He has shown his 
+dedication to his neighbors through his years of public service, and 
+the community will gather next Tuesday, December 19, at the Dunnstown 
+Fire Hall to honor him.
+  Mr. Speaker, I commend Supervisor Glossner for a life of service, and 
+I wish him well in his retirement.
+
+                          ____________________
+```

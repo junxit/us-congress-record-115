@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-12-13-pt1-PgH9853
+date: 2017-12-13
+edition: CREC
+section: HOUSE
+page: H9853
+citation: 163 Cong. Rec. H9853
+---
+
+# RECOGNIZING ORANGE COUNTY CIF CHAMPIONS
+
+**Speaking:** Correa, J. Luis (C001110) [D-CA]
+
+```
+                RECOGNIZING ORANGE COUNTY CIF CHAMPIONS
+
+  (Mr. CORREA asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. CORREA. Mr. Speaker, I rise today to recognize not one, not two, 
+but three championship high school football teams in my district.
+  Anaheim's own Katella High School varsity football team won their 
+first ever CIF Division 11 championship victory. On December 1, the 
+Katella Knights varsity football team brought a championship title to 
+their school for the first time in the school's history.
+  On December 2, Orange High School, another public school in my 
+district, brought home the Division 13 CIF title.
+  Also on December 2, Mater Dei High School's varsity football team won 
+their first CIF Southern Section Division 1 title since 1999.
+  Mr. Speaker, please join me in congratulating these fine athletes, 
+their coaches, and their outstanding football programs.
+  I must say congratulations to the Knights, Panthers, and Monarchs. 
+All three teams will be playing for their State titles in their 
+respective divisions this Saturday.
+
+                          ____________________
+```
