@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt14-Pg19855-3
+date: 2017-12-14
+edition: CRECB
+section: SENATE
+page: 19855
+---
+
+# REPORTS OF COMMITTEES
+
+```
+                         REPORTS OF COMMITTEES
+
+  The following reports of committees were submitted:
+
+       By Mr. JOHNSON, from the Committee on Homeland Security and 
+     Governmental Affairs, with amendments:
+       S. 584. A bill to amend chapter 6 of title 5, United States 
+     Code (commonly known as the Regulatory Flexibility Act), to 
+     ensure complete analysis of potential impacts on small 
+     entities of rules, and for other purposes (Rept. No. 115-
+     194).
+       By Mr. JOHNSON, from the Committee on Homeland Security and 
+     Governmental Affairs, with an amendment in the nature of a 
+     substitute:
+       S. 1769. A bill to require a new or updated Federal website 
+     that is intended for use by the public to be mobile friendly, 
+     and for other purposes (Rept. No. 115-195).
+       By Mr. JOHNSON, from the Committee on Homeland Security and 
+     Governmental Affairs, with an amendment:
+       S. 1869. A bill to reauthorize and rename the position of 
+     Whistleblower Ombudsman to be the Whistleblower Protection 
+     Coordinator (Rept. No. 115-196).
+
+                          ____________________
+```
