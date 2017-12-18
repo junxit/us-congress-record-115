@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-12-18-pt1-PgH10167
+date: 2017-12-18
+edition: CREC
+section: HOUSE
+page: H10167
+citation: 163 Cong. Rec. H10167
+---
+
+# HONORING U.S. ARMY COLONEL JOSEPH TOPPIN'S 100TH BIRTHDAY
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+       HONORING U.S. ARMY COLONEL JOSEPH TOPPIN'S 100TH BIRTHDAY
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, I rise today to honor Colonel Joseph Toppin 
+of Edison, New Jersey, on the occasion of his 100th birthday.
+  Colonel Toppin entered the military in 1948, the same year that a 
+wavering President named Harry Truman finally prohibited racial 
+discrimination in the Armed Forces. Colonel Toppin rose to become the 
+first African American to serve as battalion commander for the Army's 
+40th Infantry Division.
+  The colonel has dedicated his life to improving the quality of our 
+democracy and making the world a safer place. He helped with postwar 
+planning for the development of Korea. He also was the principal 
+planner for the Army's ship-to-shore discharge operations along the 
+west coast of France. And Colonel Toppin was the inspector general for 
+Fort Dix in New Jersey.
+  Upon leaving the Army, he had an illustrious career at Bethlehem 
+Steel Corporation.
+  Colonel Toppin is now retired, but he has still not stopped inspiring 
+those around him, which is why I stand here tonight. Mr. Speaker, I ask 
+my colleagues to join me in honoring Colonel Toppin on his 100th 
+birthday and for his service to the United States of America.
+
+                          ____________________
+```

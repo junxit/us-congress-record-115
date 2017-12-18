@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-12-18-pt1-PgH10167-5
+date: 2017-12-18
+edition: CREC
+section: HOUSE
+page: H10167
+citation: 163 Cong. Rec. H10167
+---
+
+# REPUBLICAN TAX PLAN
+
+**Speaking:** Krishnamoorthi, Raja (K000391) [D-IL]
+
+```
+                          REPUBLICAN TAX PLAN
+
+  (Mr. KRISHNAMOORTHI asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. KRISHNAMOORTHI. Mr. Speaker, tomorrow, the Members of the House 
+will cast a vote on the tax conference committee report, the final 
+version of the Republican tax plan.
+  The Republican leadership rushed this bill to the finish line at the 
+expense of small-business owners and working families. I strongly urge 
+my colleagues to vote ``no.''
+  As a former small-business owner, I understand firsthand the 
+importance of tax simplification. Unfortunately, this bill does the 
+opposite: it complicates our Tax Code while giving companies fewer than 
+2 weeks to adjust before it goes into effect. This creates serious 
+uncertainty for small-business owners who create jobs and invest in our 
+communities.
+  I support reforming our Tax Code, but I ask my colleagues to stop 
+rushing this process and to put working families first. There is simply 
+too much at stake.
+  We can simplify our tax system without exploding the national debt 
+and spiking healthcare premiums. For the sake of our economy and our 
+future, we need to kill this bill.
+
+                          ____________________
+```

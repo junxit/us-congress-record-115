@@ -1,0 +1,41 @@
+---
+granule: CREC-2017-12-18-pt1-PgS8070-2
+date: 2017-12-18
+edition: CREC
+section: SENATE
+page: S8070
+citation: 163 Cong. Rec. S8070
+---
+
+# MEASURES REFERRED
+
+**Measures:** H.R. 2396, H.R. 2815, H.R. 4042, H.R. 4324
+
+```
+                           MEASURES REFERRED
+
+  The following bills were read the first and the second times by 
+unanimous consent, and referred as indicated:
+
+       H.R. 2396. An act to amend the Gramm-Leach-Bliley Act to 
+     update the exception for certain annual notices provided by 
+     financial institutions; to the Committee on Banking, Housing, 
+     and Urban Affairs.
+       H.R. 2815. An act to designate the facility of the United 
+     States Postal Service located at 30 East Somerset Street in 
+     Raritan, New Jersey, as the ``Gunnery Sergeant John Basilone 
+     Post Office''; to the Committee on Homeland Security and 
+     Governmental Affairs.
+       H.R. 4042. An act to designate the facility of the United 
+     States Postal Service located at 1415 West Oak Street, in 
+     Kissimmee, Florida, as the ``Borinqueneers Post Office 
+     Building''; to the Committee on Homeland Security and 
+     Governmental Affairs.
+       H.R. 4324. An act to require the Secretary of the Treasury 
+     to make certifications with respect to United States and 
+     foreign financial institutions' aircraft-related transactions 
+     involving Iran, and for other purposes; to the Committee on 
+     Banking, Housing, and Urban Affairs.
+
+                          ____________________
+```
