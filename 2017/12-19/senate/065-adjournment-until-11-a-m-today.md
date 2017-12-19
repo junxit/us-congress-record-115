@@ -1,0 +1,24 @@
+---
+granule: CREC-2017-12-19-pt1-PgS8151-8
+date: 2017-12-19
+edition: CREC
+section: SENATE
+page: S8151
+citation: 163 Cong. Rec. S8151
+---
+
+# ADJOURNMENT UNTIL 11 A.M. TODAY
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+```
+                    ADJOURNMENT UNTIL 11 A.M. TODAY
+
+  Mr. McCONNELL. Madam President, if there is no further business to 
+come before the Senate, I ask unanimous consent that it stand adjourned 
+under the previous order.
+  There being no objection, the Senate, at 12:53 a.m., adjourned until 
+Wednesday, December 20, 2017, at 11 a.m.
+
+                          ____________________
+```

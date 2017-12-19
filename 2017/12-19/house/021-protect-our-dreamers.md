@@ -1,0 +1,44 @@
+---
+granule: CREC-2017-12-19-pt1-PgH10187-6
+date: 2017-12-19
+edition: CREC
+section: HOUSE
+page: H10187
+citation: 163 Cong. Rec. H10187
+---
+
+# PROTECT OUR DREAMERS
+
+**Speaking:** Costa, Jim (C001059) [D-CA]
+
+```
+                          PROTECT OUR DREAMERS
+
+  (Mr. COSTA asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. COSTA. Mr. Speaker, I rise today to stand with the DREAMers, both 
+in the San Joaquin Valley and throughout our country. Protecting our 
+DREAMers is the responsible, moral, and just thing to do.
+  The majority of Americans want legal protection for our DREAMers, and 
+Congress must listen. I have been listening to those who have visited 
+my offices, university presidents, religious organizations, my 
+constituents, who simply want us to provide legalization for these 
+individuals who have come to this country at an average age of 6 years 
+of age. This is the only country they have ever known.
+  Passing the Dream Act is a priority for Democrats and has strong 
+support for many Republicans. We just need to vote on the bill.
+  I am a cosponsor of the Dream Act, and I have joined nearly 200 of my 
+colleagues signing a discharge petition to bring this legislation to 
+the floor. I now call on my Republican colleagues to do the right thing 
+and allow a vote on the Dream Act.
+  I will continue to advocate for policies that protect our DREAMers. I 
+urge our DREAMers to continue to make their voices heard, as they have 
+across this country, and to urge people in Congress to do the right 
+thing.
+  We must stay vigilant in our efforts to protect these individuals, 
+and we as Americans understand what these individuals mean to our 
+country.
+  Pass the Dream Act now.
+
+                          ____________________
+```

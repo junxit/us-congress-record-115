@@ -1,0 +1,42 @@
+---
+granule: CREC-2017-12-19-pt1-PgH10233-4
+date: 2017-12-19
+edition: CREC
+section: HOUSE
+page: H10233
+citation: 163 Cong. Rec. H10233
+---
+
+# IN HONOR OF LILLIE BIGGINS
+
+**Speaking:** Veasey, Marc A. (V000131) [D-TX]
+
+```
+                       IN HONOR OF LILLIE BIGGINS
+
+  (Mr. VEASEY asked and was given permission to address the House for 1 
+minute.)
+  Mr. VEASEY. Mr. Speaker, I rise today to honor my neighbor in east 
+Fort Worth and my friend, Lillie Biggins, who will soon be retiring 
+from the Texas Health Harris Methodist Hospital after 45 years of 
+service.
+  Lillie joined the Texas Health Fort Worth family back in 1997, 
+serving as vice president of operations. Her role was critical in 
+overseeing major departments, such as emergency services, trauma 
+services, and restorative services.
+  During her tenure, she helped cultivate a vision of success for the 
+Texas Health Fort Worth community. Not only did Lillie dedicate her 
+time in the health community, but she also volunteers all around the 
+city of Fort Worth. Lillie often mentors and helps others in the area 
+of health, education, youth, senior citizen services, businesses, and 
+so many areas in our city that are underserved.
+  For her dedicated service to the community, she has been awarded so 
+many awards, including her induction into the Texas Women's Hall of 
+Fame in 2014.
+  Mr. Speaker, I wish Lillie all the best as she moves on into her 
+relaxing retirement, but I know that she probably won't be that relaxed 
+and that she is going to be very active in the community. I wish her 
+the best in the future.
+
+                          ____________________
+```

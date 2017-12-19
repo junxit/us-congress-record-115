@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-12-19-pt1-PgH10187-4
+date: 2017-12-19
+edition: CREC
+section: HOUSE
+page: H10187
+citation: 163 Cong. Rec. H10187
+---
+
+# THE DIFFERENCE BETWEEN WHAT THE MAJORITY SAYS AND WHAT THE MAJORITY DOES
+
+**Speaking:** Kelly, Robin L. (K000385) [D-IL]
+
+```
+  THE DIFFERENCE BETWEEN WHAT THE MAJORITY SAYS AND WHAT THE MAJORITY 
+                                  DOES
+
+  (Ms. KELLY of Illinois asked and was given permission to address the 
+House for 1 minute.)
+  Ms. KELLY of Illinois. Mr. Speaker, I rise today because the majority 
+is working to pass a tax scam that will raise taxes on my constituents.
+  For nearly a year, Republicans have promised tax reform that benefits 
+middle class families. Once again, there is a big difference between 
+what the majority says and what the majority does.
+  Instead of being a tax break for middle class Americans, it is a tax 
+scam that will force hardworking Illinois moms and dads to pay the bill 
+for tax giveaways to the rich and well connected. That is just wrong.
+  Mr. Speaker, the American people know it is a scam. A new poll from 
+Monmouth University found that half of all Americans believe this GOP 
+tax scam will raise their taxes. These folks are right. It will raise 
+their taxes, especially for families in Illinois and in the Second 
+District.
+  Mr. Speaker, I will never vote to raise my constituents' taxes just 
+to pay for massive tax giveaways to major corporations and a handful of 
+superwealthy families.
+  I urge my colleagues to vote ``no'' and stand with America's middle 
+class and working families, the backbone of our Nation.
+
+                          ____________________
+```
