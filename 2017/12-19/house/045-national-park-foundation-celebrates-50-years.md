@@ -1,0 +1,38 @@
+---
+granule: CRECB-2017-pt14-Pg20206-2
+date: 2017-12-19
+edition: CRECB
+section: HOUSE
+page: 20206
+---
+
+# NATIONAL PARK FOUNDATION CELEBRATES 50 YEARS
+
+```
+              NATIONAL PARK FOUNDATION CELEBRATES 50 YEARS
+
+  (Mr. PAULSEN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PAULSEN. Mr. Speaker, 50 years ago, the National Park Foundation 
+was established by Congress and President Johnson.
+  The National Park Foundation is the official charity of America's 
+national parks and the nonprofit partner to the National Park Service. 
+For 50 years, they have raised funds, private funds, to help protect 
+more than 84 million acres of national parks through critical 
+conservation and preservation efforts.
+  The National Park Foundation has helped safeguard our heritage and 
+engage that next generation of national
+
+[[Page 20207]]
+
+park enthusiasts by connecting us to the parks right in our own 
+backyard. Although they haven't been around as long as the National 
+Park Service, they have played an important role in strengthening and 
+enhancing our parks.
+  So, Mr. Speaker, I would just like to thank the National Park 
+Foundation for its work to help protect and preserve the crown jewels 
+of America, our national parks, monuments, and battlefields. Our 
+country looks forward to another 50 years of your great work.
+
+                          ____________________
+```

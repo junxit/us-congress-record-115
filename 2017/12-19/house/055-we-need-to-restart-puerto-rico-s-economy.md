@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt14-Pg20208-4
+date: 2017-12-19
+edition: CRECB
+section: HOUSE
+page: 20208
+---
+
+# WE NEED TO RESTART PUERTO RICO'S ECONOMY
+
+```
+                WE NEED TO RESTART PUERTO RICO'S ECONOMY
+
+  (Miss GONZALEZ-COLON of Puerto Rico asked and was given permission to 
+address the House for 1 minute and to revise and extend her remarks.)
+  Miss GONZALEZ-COLON of Puerto Rico. Mr. Speaker, Puerto Rico's 
+economy is the most vital aspect in bringing back some sense of 
+normalcy to the lives of 3.4 million American citizens on the island 
+after the devastating impact of both Hurricanes Irma and Maria.
+  Puerto Rico's economy had already been in a decline prior to these 
+unprecedented natural disasters, due mostly to the island's outdated 
+and discriminatory territorial status.
+  Tax reform presented this Congress with the historic opportunity to, 
+even if only partially, fix these longstanding inequities by granting 
+Puerto Rico equal treatment to that of the 50 States.
+  While we are grateful for the extension of federally qualified 
+opportunity zones in this bill to the island, I believe that there is 
+broad recognition on both sides of the aisle that more needs to be done 
+in the future.
+  Congress must live up to its responsibility and act decisively to end 
+years of improvisation by implementing sustainable pro-growth economic 
+policies that are based upon the bedrock principles of citizen equality 
+and political empower, and my constituents deserve no less.
+
+                          ____________________
+```

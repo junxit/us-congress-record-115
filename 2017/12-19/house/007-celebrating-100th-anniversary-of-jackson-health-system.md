@@ -1,0 +1,36 @@
+---
+granule: CRECB-2017-pt14-Pg20152-3
+date: 2017-12-19
+edition: CRECB
+section: HOUSE
+page: 20152
+---
+
+# CELEBRATING 100TH ANNIVERSARY OF JACKSON HEALTH SYSTEM
+
+```
+         CELEBRATING 100TH ANNIVERSARY OF JACKSON HEALTH SYSTEM
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Florida (Ms. Ros-Lehtinen) for 5 minutes.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I am proud to rise today to celebrate 
+the 100th anniversary of Jackson Health System.
+  Jackson Memorial Hospital first opened its doors in south Florida a 
+century ago as a 13-bed community hospital. In the years since, Jackson 
+has grown to become one of the Nation's largest and most renowned 
+public hospital systems.
+  But, throughout the many periods of growth and expansion, Jackson has 
+remained true to its core mission: to build and improve the health of 
+our community by providing the best possible care for Miami's 
+residents.
+  Mr. Speaker, by caring for those most in need, Jackson Health System 
+has created a solid foundation that has empowered our families to 
+thrive.
+  Congratulations to their leader, Carlos Migoya, and all of the staff 
+of Jackson Health System on a century of excellence and care to our 
+community. I thank them for continuing to serve as stewards of 
+Jackson's legacy and for continuing to use healthcare to improve 
+people's lives and to help shape their bright futures.
+
+                          ____________________
+```

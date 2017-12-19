@@ -1,0 +1,29 @@
+---
+granule: CRECB-2017-pt14-Pg20207
+date: 2017-12-19
+edition: CRECB
+section: HOUSE
+page: 20207
+---
+
+# KEEPING OUR PROMISE
+
+```
+                          KEEPING OUR PROMISE
+
+  (Mr. ESPAILLAT asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. ESPAILLAT. Mr. Speaker, I looked at the calendar today and saw 
+there was no Dream Act vote on the floor this week. As we approach 
+tomorrow, a potential CR, Republican and Democrats must support this 
+bipartisan Dream Act.
+  These are hardworking men and women, young people. They are doctors 
+and artists, scientists and police officers, mentors and EMTs. These 
+are Americans through and through.
+  We made a promise that we must keep. We need to protect the rights 
+and principles that our country was founded on and thrives upon.
+  We demand a vote for a clean Dream Act today. We demand a vote for a 
+clean Dream Act tomorrow.
+
+                          ____________________
+```
