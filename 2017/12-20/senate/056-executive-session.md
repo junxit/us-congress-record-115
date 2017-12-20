@@ -1,0 +1,41 @@
+---
+granule: CRECB-2017-pt14-Pg20345-3
+date: 2017-12-20
+edition: CRECB
+section: SENATE
+page: 20345
+---
+
+# EXECUTIVE SESSION
+
+```
+                           EXECUTIVE SESSION
+
+                                 ______
+                                 
+
+                           EXECUTIVE CALENDAR
+
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the Senate 
+proceed to executive session for the en bloc consideration of the 
+following nominations: Executive Calendar Nos. 489, 498, 509, 531, and 
+532; that the Senate vote on the nominations en bloc with no 
+intervening action or debate; that if confirmed, the motions to 
+reconsider be considered made and laid upon the table en bloc; that the 
+President be immediately notified of the Senate's action; that no 
+further motions be in order; and that any statements relating to the 
+nominations be printed in the Record.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+  Thereupon, the Senate proceeded to consider the nominations en bloc.
+  The PRESIDING OFFICER. The question is, Will the Senate advise and 
+consent to the nominations of Bruce D. Jette, of Virginia, to be an 
+Assistant Secretary of the Army; James E. McPherson, of Virginia, to be 
+General Counsel of the Department of the Army; Randall G. Schriver, of 
+Virginia, to be an Assistant Secretary of Defense; Thomas Harker, of 
+Virginia, to be an Assistant Secretary of the Navy; and John P. Roth, 
+of Virginia, to be an Assistant Secretary of the Air Force en bloc?
+  The nominations were confirmed en bloc.
+
+                          ____________________
+```
