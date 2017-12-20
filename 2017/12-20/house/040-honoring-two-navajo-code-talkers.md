@@ -1,0 +1,36 @@
+---
+granule: CREC-2017-12-20-pt1-PgH10333
+date: 2017-12-20
+edition: CREC
+section: HOUSE
+page: H10333
+citation: 163 Cong. Rec. H10333
+---
+
+# HONORING TWO NAVAJO CODE TALKERS
+
+**Speaking:** Biggs, Andy (B001302) [R-AZ]
+
+```
+                    HONORING TWO NAVAJO CODE TALKERS
+
+  (Mr. BIGGS asked and was given permission to address the House for 1 
+minute.)
+  Mr. BIGGS. Mr. Speaker, I rise today to honor the lives of two Navajo 
+Code Talkers, George B. Willie Sr. and Teddy Draper Sr., who recently 
+both passed away in my home State of Arizona.
+  While both young men, Mr. Willie and Mr. Draper enlisted in the U.S. 
+Marine Corps and valiantly served in World War II in the Battles of 
+Okinawa and Iwo Jima.
+  The Navajo Code Talkers used the Navajo language to transmit and 
+receive messages that could not be translated or intercepted by the 
+Japanese. This unique skill was a great advantage for the United 
+States' victory in the Pacific theater.
+  In 2001, both Mr. Willie and Mr. Draper were awarded the 
+Congressional Silver Medal for their service and selfless devotion to 
+duty. The sacrifices of Mr. Willie and Mr. Draper and their families 
+during World War II will be remembered for generations. We will be 
+forever grateful for their dedication to our Nation.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2017-12-20-pt1-PgH10331
+date: 2017-12-20
+edition: CREC
+section: HOUSE
+page: H10331
+citation: 163 Cong. Rec. H10331
+---
+
+# RECOGNIZING MAYOR SANDRA MARTIN FOR 30 YEARS OF PUBLIC SERVICE
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+     RECOGNIZING MAYOR SANDRA MARTIN FOR 30 YEARS OF PUBLIC SERVICE
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to recognize Mayor 
+Sandra Martin from Flemington, Georgia, for more than 30 years of 
+public service. Mayor Martin is a talented public servant who has truly 
+made Flemington, in Georgia's First Congressional District, a better 
+place to live.
+  Flemington is located near Hinesville, Georgia, which is home to the 
+Fort Stewart military base, and being the mayor here comes with unique 
+challenges. Under her leadership, Flemington took these challenges and 
+ran with them.
+  Flemington built its first-ever city hall for meetings and events. 
+Before that time, citizens needed to search around town for a city 
+council member to speak with.
+  The city also went from being an inconspicuous town on the side of 
+the highway to advertising itself and coaxing visitors to come in and 
+experience its hospitality.
+  I am proud to have a city official like Mayor Martin who is immensely 
+dedicated to our area in the First Congressional District. Other mayors 
+could learn from her example of good government.
+
+                          ____________________
+```
