@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-12-21-pt1-PgS8252
+date: 2017-12-21
+edition: CREC
+section: SENATE
+page: S8252
+citation: 163 Cong. Rec. S8252
+---
+
+# RECOGNIZING GLASGOW, MONTANA
+
+**Speaking:** Daines, Steve (D000618) [R-MT]
+
+```
+                      RECOGNIZING GLASGOW, MONTANA
+
+● Mr. DAINES. Mr. President, this week, I have the distinct 
+honor of recognizing the community of Glasgow for leading the way with 
+their generosity during the holiday season. Earlier this month, members 
+of the community successfully conducted their annual Block of Bucks 
+program to help raise funds for local families to have warm clothing 
+during the winter months.
+  This charitable effort brought together a broad collection of the 
+community, including the Glasgow Soroptimists, student council leaders 
+from Glasgow High School, members of the National Guard, the local Elks 
+Club, a host of local businesses, and dozens of other volunteers. 
+Through their focused actions, the community of Glasgow raised over 
+$30,000 to provide more than 300 hundred children with winter clothing. 
+If you have ever experienced winter along the Hi-Line in northeast 
+Montana, you will know how important it is to have the proper gear. The 
+generosity of neighbors in towns like Glasgow is something that we can 
+all appreciate.
+  It is a Montana hallmark for neighbors to identify a need and then 
+gather the people and resources to meet that need at a local level. 
+Going into Christmas, I would like to offer a heartfelt thank you to 
+the folks in Glasgow for giving their time and talents to help others 
+by adding warmth to the holiday season.●
+
+                          ____________________
+```

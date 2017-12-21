@@ -1,0 +1,35 @@
+---
+granule: CREC-2017-12-21-pt1-PgS8280-8
+date: 2017-12-21
+edition: CREC
+section: SENATE
+page: S8280
+citation: 163 Cong. Rec. S8280
+---
+
+# DISCHARGED NOMINATIONS
+
+```
+                         DISCHARGED NOMINATIONS
+
+  The Senate Committee on Environment and Public Works was discharged 
+from further consideration of the following nominations by unanimous 
+consent and the nominations were confirmed:
+
+       KENNETH E. ALLEN, OF KENTUCKY, TO BE A MEMBER OF THE BOARD 
+     OF DIRECTORS OF THE TENNESSEE VALLEY AUTHORITY FOR A TERM 
+     EXPIRING MAY 18, 2021.
+       A. D. FRAZIER, OF GEORGIA, TO BE A MEMBER OF THE BOARD OF 
+     DIRECTORS OF THE TENNESSEE VALLEY AUTHORITY FOR A TERM 
+     EXPIRING MAY 18, 2022.
+       JEFFREY SMITH, OF TENNESSEE, TO BE A MEMBER OF THE BOARD OF 
+     DIRECTORS OF THE TENNESSEE VALLEY AUTHORITY FOR A TERM 
+     EXPIRING MAY 18, 2022.
+       JAMES R. THOMPSON III, OF ALABAMA, TO BE A MEMBER OF THE 
+     BOARD OF DIRECTORS OF THE TENNESSEE VALLEY AUTHORITY FOR A 
+     TERM EXPIRING MAY 18, 2021.
+       CHRISTOPHER CALDWELL, OF ARKANSAS, TO BE FEDERAL 
+     COCHAIRPERSON, DELTA REGIONAL AUTHORITY.
+
+                          ____________________
+```

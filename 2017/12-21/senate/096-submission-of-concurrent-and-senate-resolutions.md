@@ -1,0 +1,40 @@
+---
+granule: CREC-2017-12-21-pt1-PgS8260
+date: 2017-12-21
+edition: CREC
+section: SENATE
+page: S8260
+citation: 163 Cong. Rec. S8260
+---
+
+# SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+**Measures:** S.Res. 364, S.Res. 365, S.Res. 366
+
+```
+            SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+  The following concurrent resolutions and Senate resolutions were 
+read, and referred (or acted upon), as indicated:
+
+           By Mrs. McCASKILL (for herself and Mr. Blunt):
+       S. Res. 364. A resolution congratulating the University of 
+     Central Missouri women's soccer team for winning the National 
+     Collegiate Athletic Association Division II Women's Soccer 
+     Championship at Swope Soccer Village in Kansas City, 
+     Missouri; considered and agreed to.
+           By Mrs. FISCHER (for herself and Mr. Sasse):
+       S. Res. 365. A resolution congratulating the University of 
+     Nebraska-Lincoln volleyball team for winning the 2017 
+     National Collegiate Athletic Association Division I 
+     Volleyball Championship; considered and agreed to.
+           By Ms. HARRIS (for herself, Mr. Perdue, Mr. Booker, Mr. 
+             Brown, Mrs. Gillibrand, Mr. Schumer, and Mr. Burr):
+       S. Res. 366. A resolution honoring the accomplishments of 
+     the 9 historically Black colleges and universities that 
+     celebrated their sesquicentennial anniversaries during the 
+     week of September 24 through September 30, 2017; to the 
+     Committee on Health, Education, Labor, and Pensions.
+
+                          ____________________
+```

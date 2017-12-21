@@ -1,0 +1,46 @@
+---
+granule: CREC-2017-12-21-pt1-PgH10347-7
+date: 2017-12-21
+edition: CREC
+section: HOUSE
+page: H10347
+citation: 163 Cong. Rec. H10347
+---
+
+# AMERICAN FAMILIES LEFT BEHIND AGAIN
+
+**Speaking:** Kildee, Daniel T. (K000380) [D-MI]
+
+```
+                  AMERICAN FAMILIES LEFT BEHIND AGAIN
+
+  (Mr. KILDEE asked and was given permission to address the House for 1 
+minute.)
+  Mr. KILDEE. Mr. Speaker, yesterday, I guess for the second day in a 
+row, this House voted for massive tax cuts for people at the very top 
+and left behind a lot of working Americans. In fact, it gave permanent 
+tax cuts to corporations and only temporary help for some American 
+families. They said that the marketplace and corporations needed 
+certainty. That is why those tax cuts were permanent.
+  Now, we have a continuing resolution for 28 days of funding after 11 
+months of not doing anything about it.
+  What about the certainty for veterans that they are going to get the 
+healthcare that they deserve?
+  It is not a priority.
+  What about the certainty for children who depend on CHIP?
+  It is not a priority.
+  What about the certainty for those families who are struggling with a 
+family member fighting opioid abuse?
+  All the promises ring hollow because they are not a priority. 
+Corporations are the top priority. With this tax bill, and now the 
+continuing resolution, the American people, who struggle every single 
+day, are just not a priority. After 11 months of complete Republican 
+control and false promises, American families get left behind again. It 
+is a shame.
+
+[[Page H10348]]
+
+  
+
+                          ____________________
+```
