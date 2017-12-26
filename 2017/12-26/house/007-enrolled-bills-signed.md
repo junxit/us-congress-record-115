@@ -1,0 +1,75 @@
+---
+granule: CREC-2017-12-26-pt1-PgH10428
+date: 2017-12-26
+edition: CREC
+section: HOUSE
+page: H10428
+citation: 163 Cong. Rec. H10428
+---
+
+# ENROLLED BILLS SIGNED
+
+**Measures:** H.R. 267, H.R. 381, H.R. 518, H.R. 560, H.R. 699, H.R. 863, H.R. 954, H.R. 1242, H.R. 1306, H.R. 1927, H.R. 2142, H.R. 2228, H.R. 2331, H.R. 2611, H.R. 4661
+
+```
+                         ENROLLED BILLS SIGNED
+
+  Karen L. Haas, Clerk of the House, reported and found truly enrolled 
+bills of the House of the following titles, which were thereupon signed 
+by the Speaker pro tempore, Mr. Upton, on Friday, December 22, 2017:
+
+       H.R. 267. An act to redesignate the Martin Luther King, 
+     Junior, National Historic Site in the State of Georgia, and 
+     for other purposes.
+       H.R. 381. An act to designate a mountain in the John Muir 
+     Wilderness of the Sierra National Forest as ``Sky Point''.
+       H.R. 518. An act to amend the Energy Policy and 
+     Conservation Act to exclude power supply circuits, drivers, 
+     and devices designed to be connected to, and power, light-
+     emitting diodes or organic light-emitting diodes providing 
+     illumination from energy conservation standards for external 
+     power supplies, and for other purposes.
+       H.R. 560. An act to amend the Delaware Water Gap National 
+     Recreation Area Improvement Act to provide access to certain 
+     vehicles serving residents of municipalities adjacent to the 
+     Delaware Water Gap National Recreation Area, and for other 
+     purposes.
+       H.R. 699. An act to amend the Omnibus Public Land 
+     Management Act of 2009 to modify provisions relating to 
+     certain land exchanges in the Mt. Hood Wilderness in the 
+     State of Oregon.
+       H.R. 863. An act to facilitate the addition of park 
+     administration at the Coltsville National Historical Park, 
+     and for other purposes.
+       H.R. 954. An act to remove the use restrictions on certain 
+     land transferred to Rockingham County, Virginia, and for 
+     other purposes.
+       H.R. 1242. An act to establish the 400 Years of African-
+     American History Commission, and for other purposes.
+       H.R. 1306. An act to provide for the conveyance of certain 
+     Federal land in the State of Oregon, and for other purposes.
+       H.R. 1927. An act to amend title 54, United States Code, to 
+     establish within the National Park Service the African 
+     American Civil Rights Network, and for other purposes.
+       H.R. 2142. An act to improve the ability of U.S. Customs 
+     and Border Protection to interdict fentanyl, other synthetic 
+     opioids, and other narcotics and psychoactive substances that 
+     are illegally imported into the United States, and for other 
+     purposes.
+       H.R. 2228. An act to provide support for law enforcement 
+     agency efforts to protect the mental health and well-being of 
+     law enforcement officers, and for other purposes.
+       H.R. 2331. An act to require a new or updated Federal 
+     website that is intended for use by the public to be mobile 
+     friendly, and for other purposes.
+       H.R. 2611. An act to modify the boundary of the Little Rock 
+     Central High School National Historic Site, and for other 
+     purposes.
+       H.R. 4661. An act to reauthorize the United States Fire 
+     Administration, the Assistance to Firefighters Grants 
+     program, the Fire Prevention and Safety Grants program, and 
+     the Staffing for Adequate Fire and Emergency Response grant 
+     program, and for other purposes.
+
+                          ____________________
+```
