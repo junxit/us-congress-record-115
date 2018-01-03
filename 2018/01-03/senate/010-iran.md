@@ -1,0 +1,33 @@
+---
+granule: CRECB-2018-pt1-Pg3
+date: 2018-01-03
+edition: CRECB
+section: SENATE
+page: 3
+---
+
+# IRAN
+
+```
+                                  IRAN
+
+  Mr. McCONNELL. Now, on another matter, Mr. President, over the last 
+week, one of the often overlooked costs of Iran's regional aggression 
+has come to light. Iranians have taken to the streets in protest, 
+demanding that Supreme Leader Khamenei and President Rouhani do more to 
+expand the domestic economy. Iran's actions in Yemen, Syria, and Iraq 
+and its support for proxies such as Hezbollah have diverted resources 
+away from economic reform and investment. While the government has 
+prioritized payments to the military and security elites and clerical 
+institutions, the people throughout Iran have suffered. Now their 
+discontent is fully evident.
+  As part of our overall strategy toward Iran, which should be focused 
+on ending Iran's malign activities across the Middle East, we should 
+hold accountable any officials behind a crackdown on these protests. 
+The coming days will be noteworthy as we wait to see if hardliners use 
+these protests as an excuse to promote more aggressive policies against 
+the West and to tighten their grip further on the country and its 
+economy.
+
+                          ____________________
+```
