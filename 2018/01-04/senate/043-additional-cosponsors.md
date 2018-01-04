@@ -1,0 +1,91 @@
+---
+granule: CREC-2018-01-04-pt1-PgS46-3
+date: 2018-01-04
+edition: CREC
+section: SENATE
+page: S46
+citation: 164 Cong. Rec. S46
+---
+
+# ADDITIONAL COSPONSORS
+
+**Measures:** S. 338, S.Res. 363, S. 1357, S. 1674, S. 1693, S. 1764, S. 1911, S. 2203
+
+```
+                         ADDITIONAL COSPONSORS
+
+
+                                 S. 338
+
+  At the request of Mr. Nelson, the name of the Senator from California 
+(Ms. Harris) was added as a cosponsor of S. 338, a bill to protect 
+scientific integrity in Federal research and policymaking, and for 
+other purposes.
+
+
+                                S. 1357
+
+  At the request of Ms. Baldwin, the name of the Senator from Maine 
+(Ms. Collins) was added as a cosponsor of S. 1357, a bill to amend 
+title XIX of the Social Security Act to provide a standard definition 
+of therapeutic family care services in Medicaid.
+
+
+                                S. 1674
+
+  At the request of Mr. Reed, the names of the Senator from Connecticut 
+(Mr. Blumenthal) and the Senator from Maryland (Mr. Van Hollen) were 
+added as cosponsors of S. 1674, a bill to
+
+[[Page S47]]
+
+provide grants for the repair, renovation, and construction of public 
+elementary schools and secondary schools, to establish a school 
+infrastructure bond program, and for other purposes.
+
+
+                                S. 1693
+
+  At the request of Mr. Portman, the name of the Senator from Indiana 
+(Mr. Young) was added as a cosponsor of S. 1693, a bill to amend the 
+Communications Act of 1934 to clarify that section 230 of that Act does 
+not prohibit the enforcement against providers and users of interactive 
+computer services of Federal and State criminal and civil law relating 
+to sex trafficking.
+
+
+                                S. 1764
+
+  At the request of Mr. Booker, the name of the Senator from Maryland 
+(Mr. Van Hollen) was added as a cosponsor of S. 1764, a bill to extend 
+the principle of federalism to State drug policy, provide access to 
+medical marijuana, and enable research into the medicinal properties of 
+marijuana.
+
+
+                                S. 1911
+
+  At the request of Mr. Manchin, the name of the Senator from Alaska 
+(Ms. Murkowski) was added as a cosponsor of S. 1911, a bill to amend 
+the Surface Mining Control and Reclamation Act of 1977 to transfer 
+certain funds to the 1974 United Mine Workers of America Pension Plan, 
+and for other purposes.
+
+
+                                S. 2203
+
+  At the request of Mrs. Gillibrand, the name of the Senator from New 
+Hampshire (Ms. Hassan) was added as a cosponsor of S. 2203, a bill to 
+amend title 9 of the United States Code with respect to arbitration.
+
+
+                              S. RES. 363
+
+  At the request of Mr. Nelson, the name of the Senator from Virginia 
+(Mr. Kaine) was added as a cosponsor of S. Res. 363, a resolution 
+expressing profound concern about the growing political, humanitarian, 
+and economic crisis in Venezuela and the widespread human rights abuses 
+perpetrated by the Government of Venezuela.
+
+                          ____________________
+```
