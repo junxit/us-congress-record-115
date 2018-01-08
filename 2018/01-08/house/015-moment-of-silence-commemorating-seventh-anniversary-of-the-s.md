@@ -1,0 +1,48 @@
+---
+granule: CRECB-2018-pt1-Pg88-9
+date: 2018-01-08
+edition: CRECB
+section: HOUSE
+page: 88
+---
+
+# MOMENT OF SILENCE COMMEMORATING SEVENTH ANNIVERSARY OF THE SHOOTING IN TUCSON, ARIZONA
+
+```
+MOMENT OF SILENCE COMMEMORATING SEVENTH ANNIVERSARY OF THE SHOOTING IN 
+                            TUCSON, ARIZONA
+
+  (Ms. McSALLY asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. McSALLY. Mr. Speaker, I rise today with my colleagues from 
+Arizona to commemorate the seventh anniversary of the shooting that 
+took place on January 8, 2011, in Tucson, Arizona.
+  Congresswoman Gabby Giffords was meeting with her constituents when a 
+gunman opened fire. He killed 6 people and injured 13 more, including 
+the Congresswoman.
+  Last year, when I led this moment of silence, many people in this 
+Chamber could only imagine being the target of a gunman. This year, 
+even more Members of Congress have lived that reality. Majority Whip 
+Steve Scalise narrowly escaped with his life, thanks to the quick 
+action of brave Capitol police.
+  Hateful violence against elected officials is not an attack on any 
+particular individual. It is an attack on a party. It is an attack on 
+our representative government and the ideals that underpin our 
+democracy.
+  I believe our Nation can chart a new course. Where there has been 
+division, there can be unity. Where there has been hatred, there can be 
+understanding. Where there has been vitriol, there can be civil 
+discourse.
+  In the aftermath of the 2011 shooting, Tucson united to support the 
+grieving, honor the victims, and commend our first responders. Just 
+this morning, my hometown dedicated the January 8 Memorial in downtown 
+Tucson.
+  Tonight, we remember those we lost: Christina-Taylor Green; Dorothy 
+Morris; Judge John Roll; Phyllis Schneck; Dorwan Stoddard; and 
+congressional staffer, Gabriel ``Gabe'' Zimmerman.
+  Mr. Speaker, I would now ask that the House rise and observe a moment 
+of silence in remembrance of the victims.
+  The SPEAKER pro tempore. The House will rise for a moment of silence.
+
+                          ____________________
+```
