@@ -1,0 +1,35 @@
+---
+granule: CREC-2018-01-08-pt1-PgS68-6
+date: 2018-01-08
+edition: CREC
+section: SENATE
+page: S68
+citation: 164 Cong. Rec. S68
+---
+
+# AUTHORITY FOR COMMITTEES TO MEET
+
+**Speaking:** Cornyn, John (C001056) [R-TX]
+
+```
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+  Mr. CORNYN. Mr. President, I have a request for one committee to meet 
+during today's session of the Senate. It has the approval of the 
+Majority and Minority leaders.
+  Pursuant to rule XXVI, paragraph 5(a), of the Standing Rules of the 
+Senate, the following committee is authorized to meet during today's 
+session of the Senate:
+
+
+        Committee on Homeland Security and Governmental Affairs
+
+  The Committee on Homeland Security and Governmental Affairs is 
+authorized to meet during the session of the Senate on Monday, January 
+8, 2018, at 5:30 p.m. to conduct a hearing on the following 
+nominations: Margaret Weichert, of Georgia, to be Deputy Director for 
+Management, Office of Management and Budget, and Mark L. Greenblatt, of 
+Maryland, to be Inspector General, Export-Import Bank.
+
+                          ____________________
+```
