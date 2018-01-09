@@ -1,0 +1,37 @@
+---
+granule: CREC-2018-01-09-pt1-PgH31-3
+date: 2018-01-09
+edition: CREC
+section: HOUSE
+page: H31
+citation: 164 Cong. Rec. H31
+---
+
+# MEDIA POSITIVE NEWS
+
+**Speaking:** Smith, Lamar (S000583) [R-TX]
+
+```
+                          MEDIA POSITIVE NEWS
+
+  (Mr. SMITH of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. SMITH of Texas. Madam Speaker, the media's daily barrage of 
+negative stories have undermined the public's confidence in their 
+reporting. The media continues to ignore positive stories about the 
+President's effective policies.
+  If the media were not so biased against the President, more of the 
+American people would know the following:
+  The 4.1 percent unemployment rate for the entire country is the 
+lowest it has been in 17 years;
+  Latino and African-American unemployment numbers are the lowest in 
+decades;
+  The stock market has broken numerous records, adding significant 
+value to Americans' investment and retirement accounts;
+  The economy is growing at 3.3 percent, the fastest in years;
+  Consumer confidence is at a 17-year high.
+  The liberal media should report the facts, even if they make the 
+President look good.
+
+                          ____________________
+```

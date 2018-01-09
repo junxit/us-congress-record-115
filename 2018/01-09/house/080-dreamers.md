@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-01-09-pt1-PgH66
+date: 2018-01-09
+edition: CREC
+section: HOUSE
+page: H66
+citation: 164 Cong. Rec. H66
+---
+
+# DREAMERS
+
+**Speaking:** Rohrabacher, Dana (R000409) [R-CA]
+
+```
+                                DREAMERS
+
+  (Mr. ROHRABACHER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. ROHRABACHER. Mr. Speaker, I rise today to draw attention to the 
+American people to information that is being kept from them. So often 
+the good will and good-heartedness of the American people is 
+manipulated to achieve goals that sometimes are detrimental to our 
+people and detrimental to our country as well.
+  Today, the American people are being told that there are young people 
+who are here illegally, brought by their parents at an early age--they 
+call them DREAMers--and that we must be concerned about them, as we 
+are. Of course, we are concerned about them. Our sympathy is with young 
+people anywhere who want a better life.
+  But what the American people are not being told is that there are 
+850,000 of these young people. That is being left out of the 
+discussion. They are looking to be legalized. When they are legalized, 
+that means they can apply for family reunification, which means that 
+they then will receive government benefits and even more people will 
+come in under their platform.
+  I suggest that we take a look to see what 850,000 more young people 
+and the millions more who will come will do to the American people.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-01-09-pt1-PgH31-4
+date: 2018-01-09
+edition: CREC
+section: HOUSE
+page: H31
+citation: 164 Cong. Rec. H31
+---
+
+# RECOGNIZING LITTLE ROCK POLICE DEPARTMENT
+
+**Speaking:** Hill, J. French (H001072) [R-AR]
+
+```
+               RECOGNIZING LITTLE ROCK POLICE DEPARTMENT
+
+  (Mr. HILL asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. HILL. Madam Speaker, I rise today on this National Law 
+Enforcement Appreciation Day to recognize this year's Little Rock 
+Police Department recruit class and their efforts to fill dozens of 
+sworn officer vacancies within the department.
+  Little Rock's police force has suffered a loss in numbers over the 
+past few years, currently with 84 sworn officer vacancies. According to 
+department data, this fall's recruit class is tied for the largest 
+number of starting recruits since 1993.
+  Earlier this year, City Manager Bruce Moore announced that officers 
+would work mandatory overtime due to the vacancies. So I thank City 
+Manager Moore, Chief Buckner, and Mayor Mark Stodola for their 
+leadership and efforts to address these vacancies and return this 
+department to full strength.
+  I respect and appreciate the important work of our police throughout 
+the Nation who are charged with the critical work of protecting us in 
+our States and communities.
+  I wish this recruit class the very best of luck as they pursue their 
+goal of joining the Little Rock Police Department and ensuring the 
+safety of our citizens, our neighborhoods, and our property.
+
+                          ____________________
+```

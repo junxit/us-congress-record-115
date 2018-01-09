@@ -1,0 +1,63 @@
+---
+granule: CREC-2018-01-09-pt1-PgH28
+date: 2018-01-09
+edition: CREC
+section: HOUSE
+page: H28
+citation: 164 Cong. Rec. H28
+---
+
+# SUPPORTING THOSE LIVING WITH ALZHEIMER'S DISEASE
+
+**Speaking:** Fitzpatrick, Brian K. (F000466) [R-PA]
+
+```
+            SUPPORTING THOSE LIVING WITH ALZHEIMER'S DISEASE
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Pennsylvania (Mr. Fitzpatrick) for 5 minutes.
+  Mr. FITZPATRICK. Mr. Speaker, I rise today to share the story of 
+Philip Gutis.
+  Mr. Gutis is from New Hope, Pennsylvania. At the age of 56, he has 
+been diagnosed with early-onset Alzheimer's disease. Early-onset 
+Alzheimer's currently affects hundreds of thousands of Americans who 
+are under the age of 65. Diagnoses for this debilitating neurological 
+disease in its early stages can be arduous and frustrating, as many of 
+the symptoms resemble less serious issues like stress.
+  Mr. Gutis recently visited my district office to discuss living with 
+this disease. He detailed the pain, stress, and confusion that he felt 
+when first diagnosed. He described how simple tasks can become 
+challenging when dealing with memory loss. But his message was not to 
+complain about his ailment, it was to be a voice for other individuals 
+who live with Alzheimer's, those who are unable to have their voices be 
+heard.
+  Alzheimer's is a serious neurological disease. Though there is no 
+cure, treatment for symptoms can help slow the progressive effects of 
+dementia.
+  I stand in support of Mr. Gutis and all those living with 
+Alzheimer's.
+
+
+                      Doylestown Health Foundation
+
+  Mr. FITZPATRICK. Mr. Speaker, the Doylestown Health Foundation is a 
+healthcare network that has provided critical care to the Bucks County 
+community for over 90 years. In recognition of its continued work, 
+Doylestown Health recently received $10 million in gifts, the largest 
+amount in their history.
+  The pair of $5 million donations were given by two families with 
+close ties to the Doylestown Health Foundation. Richard and Angela 
+Clark have had four generations of family cared for at Doylestown 
+Hospital, while Alex Gorsky, the CEO of Johnson & Johnson, and his 
+wife, Patricia, have served on the hospital board and board of 
+directors, respectively.
+  Supporting institutions in our community through charitable donations 
+are crucial to community prosperity. The generous gifts of the Clark 
+and Gorsky families are earmarked for vital projects like a new heart 
+and vascular center.
+  With contributions like these, the Doylestown Health Foundation will 
+be able to continue providing optimal care to those in our Bucks County 
+community.
+
+                          ____________________
+```

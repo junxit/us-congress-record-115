@@ -1,0 +1,44 @@
+---
+granule: CREC-2018-01-09-pt1-PgH31-2
+date: 2018-01-09
+edition: CREC
+section: HOUSE
+page: H31
+citation: 164 Cong. Rec. H31
+---
+
+# NATIONAL LAW ENFORCEMENT APPRECIATION DAY AND HONORING THE LIFE OF DEPUTY DANIEL McCARTNEY
+
+**Speaking:** Reichert, David G. (R000578) [R-WA]
+
+```
+  NATIONAL LAW ENFORCEMENT APPRECIATION DAY AND HONORING THE LIFE OF 
+                        DEPUTY DANIEL McCARTNEY
+
+  (Mr. REICHERT asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. REICHERT. Madam Speaker, before I came to Congress, I spent 33 
+years as a cop. Today is National Law Enforcement Appreciation Day, a 
+day to honor our dedicated law enforcement officers who selflessly put 
+their lives on the line each and every day to protect our families. We 
+not only honor those who protect and serve us today, but we also 
+remember those who paid the ultimate sacrifice.
+  Sadly, yesterday, in my community, we experienced the death, the 
+murder, of another police officer. His name was Deputy Daniel McCartney 
+of the Pierce County Sheriff's Department, shot and killed while 
+responding to a burglary call. This brave man was also a Navy veteran 
+and leaves behind a wife and three sons--4 years old, 6 years old, and 
+9 years old--without a father.
+  I ask you to join me today in praying for his family and for his 
+colleagues in the Pierce County Sheriff's Department.
+  Every day, law enforcement officers are asked to stand tall in the 
+face of danger. I know.
+  To paraphrase a quote from Sheriff Pastor yesterday after the death 
+of his fallen officer, he said: Deputy McCartney ran toward trouble, 
+ran to protect. He is a man who served with the heart of a servant, 
+with spirit, with strength and compassion.
+  Please join me today in thanking our law enforcement officers across 
+this Nation for their dedicated service.
+
+                          ____________________
+```

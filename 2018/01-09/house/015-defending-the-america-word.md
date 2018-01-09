@@ -1,0 +1,50 @@
+---
+granule: CREC-2018-01-09-pt1-PgH25-3
+date: 2018-01-09
+edition: CREC
+section: HOUSE
+page: H25
+citation: 164 Cong. Rec. H25
+---
+
+# DEFENDING THE AMERICA WORD
+
+**Speaking:** Kennedy, Joseph P., III (K000379) [D-MA]
+
+```
+                       DEFENDING THE AMERICA WORD
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Massachusetts (Mr. Kennedy) for 5 minutes.
+  Mr. KENNEDY. Mr. Speaker, this morning, a high school senior sat 
+attentively in a Chicago classroom while
+
+[[Page H26]]
+
+this country held her college dreams hostage.
+  This morning, a fourth-year medical student started her rotation as 
+an aspiring thoracic surgeon in Cambridge while this country took her 
+talent for granted.
+  This morning, an enlisted soldier living in Queens eagerly awaited 
+his basic training assignment while his country shrugged their 
+shoulders at his service.
+  This morning, 800,000 young men and women woke up, offered a brave 
+smile to their loved ones, and sought to better the only home they have 
+ever known.
+  You can call them DREAMers. You can call them immigrants. You can 
+call them Americans. You can call them husbands, wives, sons, 
+daughters, neighbors, doctors, students, servicemen and -women.
+  You can call them human beings who deserve to live in a place that 
+they call home; whose lives shouldn't be horse-traded for big walls, 
+petty tweets, and bad campaign ads; who have offered us their talent, 
+their tirelessness, their ingenuity, their empathy, their loyalty, and 
+their patriotism; who have earned their government's protection in 
+return.
+  We gave those 800,000 human beings our word, and if those of us here 
+in this room who have the incredible privilege of serving in these 
+halls bestowed with the title ``Representative,'' if we aren't willing 
+to defend the American word and make sure that it still means 
+something, then who will?
+
+                          ____________________
+```

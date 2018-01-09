@@ -1,0 +1,35 @@
+---
+granule: CREC-2018-01-09-pt1-PgH30-5
+date: 2018-01-09
+edition: CREC
+section: HOUSE
+page: H30
+citation: 164 Cong. Rec. H30
+---
+
+# CHILDREN'S HEALTH INSURANCE PROGRAM
+
+**Speaking:** Young, David (Y000066) [R-IA]
+
+```
+                  CHILDREN'S HEALTH INSURANCE PROGRAM
+
+  (Mr. YOUNG of Iowa asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. YOUNG of Iowa. Madam Speaker, I rise today again to call on my 
+colleagues to quickly pass a 5-year extension of the Children's Health 
+Insurance Program. Around 85,000 Iowa children rely on CHIP for their 
+health. If we don't act, families and children will suffer.
+  This is not a Republican issue or a Democrat issue, and we must pass 
+a solution together. Families should not be worried about losing 
+coverage for their children.
+  And the fact that this Congress cannot muster the ability to pass a 
+long-term extension of CHIP is confounding, to say the least.
+  We must quickly set aside any political games, come to the table, and 
+work together to pass a long-term CHIP funding bill.
+  Madam Speaker, I urge my colleagues to set aside any political games 
+or partisan brinksmanship and come together and fully fund CHIP. The 
+health of our children is at stake.
+
+                          ____________________
+```
