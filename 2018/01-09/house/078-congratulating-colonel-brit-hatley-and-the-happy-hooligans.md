@@ -1,0 +1,39 @@
+---
+granule: CRECB-2018-pt1-Pg192-2
+date: 2018-01-09
+edition: CRECB
+section: HOUSE
+page: 192
+---
+
+# CONGRATULATING COLONEL BRIT HATLEY AND THE HAPPY HOOLIGANS
+
+```
+       CONGRATULATING COLONEL BRIT HATLEY AND THE HAPPY HOOLIGANS
+
+  (Mr. CRAMER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. CRAMER. Mr. Speaker, no U.S. Air Force unit has ever won more 
+than 19 Outstanding Unit Awards. This last Saturday, I was honored to 
+be in Fargo as the North Dakota Air National Guard's 119th Wing was 
+awarded their 19th.
+  The 119th Wing, known as the Happy Hooligans, has received this 
+prestigious recognition nearly constantly since 2006.
+  The Air Force Outstanding Unit Award is given to numbered units of 
+the Active Duty Air Force, Air National Guard, and U.S. Air Force 
+Reserve that have distinguished themselves by exceptionally meritorious 
+service or outstanding achievement.
+  The mission of the 119th Wing is to provide trained and ready airmen, 
+executing world class MQ-9 and reconnaissance kinetic and nonkinetic 
+target intelligence production, and expeditionary support capabilities 
+for the Nation and State.
+  Mr. Speaker, Aristotle said: ``We are what we repeatedly do. 
+Excellence, then, is not an act, but a habit.''
+  Freedom-loving people around the world are grateful to the Happy 
+Hooligans from Fargo for making excellence in defending liberty a 
+habit.
+  Congratulations, Colonel Brit Hatley and Hooligans, and thank you for 
+your outstanding service to the cause of freedom around the world.
+
+                          ____________________
+```

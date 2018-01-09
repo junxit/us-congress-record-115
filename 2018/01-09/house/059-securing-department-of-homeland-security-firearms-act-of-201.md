@@ -1,0 +1,309 @@
+---
+granule: CRECB-2018-pt1-Pg173
+date: 2018-01-09
+edition: CRECB
+section: HOUSE
+page: 173
+---
+
+# SECURING DEPARTMENT OF HOMELAND SECURITY FIREARMS ACT OF 2017
+
+```
+     SECURING DEPARTMENT OF HOMELAND SECURITY FIREARMS ACT OF 2017
+
+  Mr. FITZPATRICK. Mr. Speaker, I move to suspend the rules and pass 
+the
+
+[[Page 174]]
+
+bill (H.R. 4433) to amend the Homeland Security Act of 2002 to require 
+the Under Secretary for Management of the Department of Homeland 
+Security to achieve security of sensitive assets among the components 
+of the Department of Homeland Security, and for other purposes, as 
+amended.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                               H.R. 4433
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Securing Department of 
+     Homeland Security Firearms Act of 2017'' or the ``Securing 
+     DHS Firearms Act of 2017''.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act:
+       (1) Department.--The term ``Department'' means the 
+     Department of Homeland Security.
+       (2) Lost.--The term ``lost'' includes loss by theft.
+       (3) Sensitive assets.--The term ``sensitive assets'' means 
+     any asset, regardless of value--
+       (A) that the Department of Homeland Security issues to a 
+     Department employee; and
+       (B) that either the Under Secretary for Management of the 
+     Department or a component head determines requires special 
+     control and accounting.
+       (4) Under secretary for management.--The term ``Under 
+     Secretary for Management'' means the Under Secretary for 
+     Management of the Department of Homeland Security.
+
+     SEC. 3. INCLUSION OF SECURING FIREARMS AND OTHER SENSITIVE 
+                   ASSETS IN RESPONSIBILITIES OF UNDER SECRETARY 
+                   FOR MANAGEMENT.
+
+       Section 701 of the Homeland Security Act of 2002 (6 U.S.C. 
+     341) is amended--
+       (1) in subsection (a)(6), by inserting ``(including 
+     firearms and other sensitive assets)'' after ``equipment'';
+       (2) by redesignating the second subsection (e) (relating to 
+     the definition of interoperable communications) as subsection 
+     (f); and
+       (3) by amending such redesignated subsection (f) to read as 
+     follows:
+       ``(f) Definitions.--In this section:
+       ``(1) Interoperable communications.--The term 
+     `interoperable communications' has the meaning given such 
+     term in section 7303(g) of the Intelligence Reform and 
+     Terrorism Prevention Act of 2004 (6 U.S.C. 194(g)).
+       ``(2) Sensitive assets.--The term `sensitive assets' means 
+     any asset, regardless of value--
+       ``(A) that the Department of Homeland Security issues to a 
+     Department employee; and
+       ``(B) that either the Under Secretary for Management of the 
+     Department or a component head determines requires special 
+     control and accounting.''.
+
+     SEC. 4. MANAGEMENT DIRECTIVE.
+
+       (a) Safeguarding Firearms and Sensitive Assets Directive.--
+       (1) In general.--Not later than 120 days after the date of 
+     the enactment of this Act, the Under Secretary for Management 
+     shall develop and disseminate a Department-wide directive for 
+     achieving adequate security over firearms and other sensitive 
+     assets across the Department.
+       (2) Contents.--The directive required under subsection (a) 
+     shall, at a minimum, include the following:
+       (A) Descriptions of what equipment, in addition to 
+     firearms, is classified as a sensitive asset for the purpose 
+     of carrying out this Act.
+       (B) Requirements for securing Department-issued firearms 
+     and other sensitive assets.
+       (C) A classification system for all categories of 
+     Department-issued badges and corresponding requirements for 
+     safeguarding such assets.
+       (D) Reporting requirements for lost firearms and other 
+     sensitive assets, including timelines for such reporting, to 
+     supervisors, local law enforcement, the Federal Bureau of 
+     Investigation's National Crime Information Center, and 
+     Department headquarters.
+       (E) Recordkeeping requirements for lost firearms and other 
+     sensitive assets in inventory systems, including a timeline 
+     for recording such losses.
+       (3) Review and update of directive.--Not later than one 
+     year after the issuance of the directive required under 
+     subsection (a) the Under Secretary for Management shall 
+     review and update, as necessary, such directive, including 
+     adding a requirement relating to recording in the inventory 
+     systems maintained by each component of the Department the 
+     acceptance or transfer of a firearm or other sensitive asset 
+     by such component.
+       (b) Personal Property Asset Management Program Manual.--
+     Together with the issuance of the directive pursuant to 
+     subsection (a), the Under Secretary for Management shall 
+     disseminate a revised version of the Personal Property Asset 
+     Management Program Manual that includes the following:
+       (1) Requirements for component heads to develop procedures 
+     to safeguard firearms and other sensitive assets during on 
+     and off-duty time.
+       (2) Requirements for the issuance of safety locking devices 
+     and policies on the use of such assets, as applicable.
+       (3) Requirements for initial, recurrent, and remedial 
+     training on safeguarding such assets.
+       (4) Examples, with detail, of how to report and record lost 
+     sensitive assets across components of the Department, and an 
+     enforcement mechanism to ensure supervisors maintain such 
+     records.
+       (5) A requirement that the file maintained on a lost 
+     firearm or other sensitive asset contains both the 
+     corresponding police report and the Department report 
+     detailing the circumstances surrounding such loss, including 
+     information on adherence to safeguarding procedures.
+
+     SEC. 5. COMPONENT RESPONSIBILITIES.
+
+       Department component heads shall--
+       (1) comply with Federal law, Federal regulations, executive 
+     branch guidance, and Department policy, including directives 
+     required by this Act, relating to the management and 
+     oversight of securing firearms and other sensitive assets;
+       (2) review the need for non-law enforcement badges;
+       (3) require component personnel to safeguard firearms and 
+     other sensitive assets in accordance with the directive 
+     issued by the Under Secretary for Management under section 4;
+       (4) require that component personnel adhere to the 
+     procedures and timelines for properly reporting to 
+     supervisors lost firearms and other sensitive assets;
+       (5) require that lost firearms and other sensitive assets 
+     are reported to local law enforcement, the Federal Bureau of 
+     Investigation's National Crime Information Center, and 
+     Department headquarters in the timeframe established in such 
+     directive; and
+       (6) require that lost firearms and other sensitive assets 
+     are recorded in inventory systems in the timeframe 
+     established by such directive.
+
+     SEC. 6. INSPECTOR GENERAL REVIEW.
+
+       The Inspector General of the Department of Homeland 
+     Security shall, on an ongoing basis, review implementation of 
+     this Act and, not later than 180 days after issuance of the 
+     directive under section 4, submit to the Committee on 
+     Homeland Security of the House of Representatives and the 
+     Committee on Homeland Security and Governmental Affairs of 
+     the Senate a review of the progress and effectiveness of such 
+     directive, including an assessment of the adequacy of such 
+     directive, as well as the level of compliance among the 
+     components of the Department to achieve adequate security of 
+     sensitive assets across Department components.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Pennsylvania (Mr. Fitzpatrick) and the gentleman from California (Mr. 
+Correa) each will control 20 minutes.
+  The Chair recognizes the gentleman from Pennsylvania.
+
+
+                             General Leave
+
+  Mr. FITZPATRICK. Mr. Speaker, I ask unanimous consent that all 
+Members have 5 legislative days within which to revise and extend their 
+remarks and include any extraneous material on the bill under 
+consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Pennsylvania?
+  There was no objection.
+  Mr. FITZPATRICK. Mr. Speaker, I yield myself such time as I may 
+consume.
+  Mr. Speaker, I rise in strong support of H.R. 4433, the Securing 
+Department of Homeland Security Firearms Act of 2017.
+  A recent report by the Department of Homeland Security Office of 
+Inspector General, entitled, ``DHS' Controls Over Firearms and Other 
+Sensitive Assets,'' found that, between fiscal year 2014 and fiscal 
+year 2016, personnel from DHS and its components misplaced a total of 
+2,142 highly sensitive assets, including 228 firearms and 1,889 badges.
+  DHS is charged with the safety of our Nation and its citizens. The 
+OIG report indicates that not only are there some DHS personnel not 
+being held accountable for failing to safeguard their sensitive assets, 
+they are also not receiving proper training on how to properly 
+safeguard and keep track of such equipment. Given the importance of 
+DHS' mission, this is unacceptable, Mr. Speaker.
+  H.R. 4433 follows the OIG's recommendations and requires DHS' Under 
+Secretary for Management to promulgate a departmentwide directive to 
+DHS personnel aimed at achieving adequate security over DHS firearms 
+and other sensitive assets. H.R. 4433 mandates that this directive 
+include descriptions of what equipment is classified as a sensitive 
+asset, requirements
+
+[[Page 175]]
+
+for securing Department-issued sensitive assets, and recordkeeping 
+requirements for reporting lost or stolen firearms and other assets.
+  H.R. 4433 also requires DHS to update its Personal Property Asset 
+Management Program Manual to include procedures and training on how to 
+safeguard assets, both on and off duty, in accordance with the 
+directive.
+  Mr. Speaker, I urge all Members to join me in supporting this bill, 
+and I reserve the balance of my time.
+  Mr. CORREA. Mr. Speaker, I yield myself such time as I may consume.
+  I rise in support of H.R. 4433, the Securing Department of Homeland 
+Security Firearms Act of 2017.
+  Mr. Speaker, DHS is a diverse Department that has the distinction of 
+being the largest law enforcement agency in the Federal Government. To 
+help support its critical mission, DHS must maintain and safeguard a 
+variety of sensitive law enforcement equipment, such as firearms, 
+ammunition, and badges. DHS equipment in the wrong hands could result 
+in loss of life.
+  According to an October 2017 report issued by the DHS Office of 
+Inspector General, the Department does not have adequate requirements 
+to safeguard its sensitive assets. Approximately 2,100 highly sensitive 
+assets were lost between 2014 and 2016. In response to the report, my 
+legislation requires DHS to develop and implement policies to secure 
+firearms and other sensitive DHS equipment at the Department.
+  This security measure requires the Under Secretary of Management to 
+disseminate a departmentwide directive that includes requirements for 
+securing firearms and sensitive DHS equipment, as well as reporting 
+these requirements.
+  This measure outlines the responsibilities to properly safeguard 
+firearms and sensitive assets in accordance with the directive and 
+requires personnel to properly report lost firearms and equipment.
+  This measure was unanimously approved by the Committee on Homeland 
+Security last month and will help foster greater accountability and 
+security within DHS, and I urge passage of this measure.
+  Mr. Speaker, in closing, my legislation is intended to advance the 
+critical mission of DHS by ensuring that firearms and sensitive assets 
+are properly safeguarded and maintained.
+  In my home State of California, in 2015, a 27-year-old, Antonio 
+Ramos, was shot and killed with an ICE agent's stolen 9-millimeter 
+weapon.
+  According to the DHS OIG, failures to safeguard important equipment 
+and assets are still not being properly addressed. Given DHS' mission, 
+it is essential that the DHS workforce prioritize and properly protect 
+the equipment that is critical to their mission.
+  Mr. Speaker, I urge passage of this measure, and I yield back the 
+balance of my time.
+  Mr. FITZPATRICK. Mr. Speaker, I, once again, urge my colleagues to 
+support H.R. 4433, and I yield back the balance of my time.
+  Mr. JOHNSON of Georgia. Mr. Speaker, I rise in support of H.R. 4433.
+  H.R. 4433, the Securing DHS Firearms Act of 2017, makes the Under 
+Secretary of the Department of Homeland Security (DHS) responsible for 
+the security of sensitive assets, such as badges, firearms, or other 
+weapons.
+  This legislation directs the DHS's Under Secretary to create and 
+disseminate a directive. This directive should designate which assets 
+should be classified as sensitive, the requirements for securing and 
+safeguarding sensitive assets, and the methods to record and report 
+lost assets. H.R. 4433 also directs the Under Secretary to revise the 
+Personal Property Asset Management Program Manual, which contains the 
+procedures and trainings for safeguarding sensitive assets, guides for 
+recording lost assets, and requirements that a lost asset file contain 
+both a DHS report and a corresponding police report.
+  H.R. 4433 is vital to safeguard sensitive assets that could result in 
+loss of life and significant mission derailment if lost. From 2014 to 
+2016, DHS purportedly lost 2,141 sensitive assets, including firearms, 
+badges, and secure immigration stamps. In many of these cases, DHS 
+personnel acted recklessly and were not held accountable for improperly 
+safeguarding their sensitive assets. Furthermore, DHS personnel often 
+fail to track down their lost sensitive assets. H.R. 4433 will address 
+this loose behavior by holding the Under Secretary of the DHS 
+accountable for ensuring that sensitive assets are kept safe.
+  I am particularly concerned with safeguarding sensitive assets due to 
+the increase in stolen guns within Georgia's 4th district and the state 
+as a whole. The Atlanta police chief recently reported that 954 guns 
+were stolen from cars in Atlanta last year. This represents a 40 
+percent increase in the number of firearms stolen from cars compared to 
+2015. However, this is not just a Georgian problem--a study by Harvard 
+and Northeastern researchers this past year estimated that roughly 
+380,000 firearms are stolen in the U.S. every year. One of the best 
+ways to address this issue is through prevention. By strengthening the 
+expectations and rules for firearm ownership within the DHS, we can do 
+a small part to reduce the number of stolen guns in Georgia and across 
+the country.
+  As a member of the Judiciary committee, I have worked consistently to 
+promote responsible gun ownership. I cosponsored legislation that 
+required the review of U.S. policy regarding capture, custody, 
+treatment, judicial proceedings, and repatriation of suspected 
+`unlawful enemy combatants.' With these past legislative actions in 
+mind, I support H.R. 4433 and urge my fellow members to do the same.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Pennsylvania (Mr. Fitzpatrick) that the House suspend 
+the rules and pass the bill, H.R. 4433, as amended.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the bill, as amended, was passed.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CRECB-2018-pt1-Pg150-8
+date: 2018-01-09
+edition: CRECB
+section: HOUSE
+page: 150
+---
+
+# OFFSHORE OIL DRILLING IS A RISKY PROPOSITION
+
+```
+              OFFSHORE OIL DRILLING IS A RISKY PROPOSITION
+
+  (Ms. CASTOR of Florida asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. CASTOR of Florida. Mr. Speaker, last week, the Trump 
+administration proposed opening up all of the coast of
+
+[[Page 151]]
+
+the United States of America to offshore oil drilling. This is a very 
+risky proposition for my home State of Florida. Our economy depends on 
+tourism, clean water, a strong fishing economy, and we have a military 
+mission line off of the West Coast of Florida that has to be protected 
+from drilling.
+  We are not that far removed from the BP Deepwater Horizon disaster 
+that caused loss of life, billions of dollars in economic damage, and 
+significant environmental damage as well. Why would we put our economy, 
+our environment, our military missions at risk for such a risky 
+proposition?
+  There may be appropriate places to drill for oil, but it is not off 
+of the coast of the State of Florida.
+  My Republican colleague Francis Rooney and I have cosponsored a 
+bipartisan bill, the Florida Coastal Protection Act, H.R. 2002. I urge 
+the support of the Congress in turning back this very risky proposal 
+for offshore oil drilling by the Trump administration.
+
+                          ____________________
+```
