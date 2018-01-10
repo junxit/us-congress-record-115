@@ -1,0 +1,38 @@
+---
+granule: CREC-2018-01-10-pt1-PgH93-4
+date: 2018-01-10
+edition: CREC
+section: HOUSE
+page: H93
+citation: 164 Cong. Rec. H93
+---
+
+# RECOGNIZING SERGEANT THOMAS REID, JR.
+
+**Speaking:** Chabot, Steve (C000266) [R-OH]
+
+```
+                 RECOGNIZING SERGEANT THOMAS REID, JR.
+
+  (Mr. CHABOT asked and was given permission to address the House for 1 
+minute.)
+  Mr. CHABOT. Mr. Speaker, I rise today to honor and thank Sergeant 
+Thomas Reid, Jr., for his 45 years of service with the Cincinnati 
+Police Department.
+  A lot has changed since he joined the department back in 1972, after 
+serving in Vietnam, but one thing has remained the same. For 4\1/2\ 
+decades, Sergeant Reid continued to dedicate himself to keeping our 
+community safe.
+  During his time on the force, Sergeant Reid led by example and passed 
+his knowledge and experience on to his fellow officers, often advising 
+them to ``treat others as you want to be treated.''
+  Sergeant Reid retired at the end of December as the Cincinnati Police 
+Department's longest-serving member, and his leadership and guidance 
+will be missed. The city of Cincinnati is a better place because of his 
+service, and his legacy and impact will be felt in our community for 
+years to come. For that, Mr. Speaker, we Cincinnatians are deeply 
+grateful and indebted to him.
+  Thank you, Sergeant Reid.
+
+                          ____________________
+```

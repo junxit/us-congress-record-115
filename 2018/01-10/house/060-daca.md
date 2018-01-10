@@ -1,0 +1,38 @@
+---
+granule: CREC-2018-01-10-pt1-PgH127
+date: 2018-01-10
+edition: CREC
+section: HOUSE
+page: H127
+citation: 164 Cong. Rec. H127
+---
+
+# DACA
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                              {time}  1830
+                                  DACA
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, Congress must stop deferring the American 
+Dream for bright young people simply because they were brought here as 
+children.
+  DACA recipients represent the best of our Nation. These are young 
+people who are in school, got their education, or served in our Armed 
+Forces. These are people who never committed a felony offense or 
+significant misdemeanor. These are people who pose no threat to public 
+safety. These are people who just want to live the American Dream, and 
+each day that passes without Congress voting on the Dream Act darkens 
+their futures.
+  Mr. Speaker, if it is numbers my esteemed colleagues on the other 
+side of the aisle want, I have got them. Deporting DACA recipients 
+would cost the U.S. economy $400 billion. Deporting the 5,300 eligible 
+people for DACA in my district alone would cost the economy $140 
+million.
+  Aren't we supposed to be growing the economy, not shrinking it?
+
+                          ____________________
+```

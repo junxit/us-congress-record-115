@@ -1,0 +1,48 @@
+---
+granule: CREC-2018-01-10-pt1-PgH128-5
+date: 2018-01-10
+edition: CREC
+section: HOUSE
+page: H128
+citation: 164 Cong. Rec. H128
+---
+
+# NON-METRO AREA AGENCY ON AGING
+
+**Speaking:** Lujan Grisham, Michelle (L000580) [D-NM]
+
+```
+                              {time}  1845
+                     NON-METRO AREA AGENCY ON AGING
+
+  (Ms. MICHELLE LUJAN GRISHAM of New Mexico asked and was given 
+permission to address the House for 1 minute and to revise and extend 
+her remarks.)
+  Ms. MICHELLE LUJAN GRISHAM of New Mexico. Mr. Speaker, a few years 
+ago, New Mexico decimated its behavioral health system when it 
+terminated nearly every behavioral health provider in the State.
+  In fact, thousands of New Mexicans did not have access to medicine, 
+counselors, or treatment, increasing their risks of substance abuse, 
+health issues, and homelessness.
+  Many New Mexicans suffered, were incarcerated, or died because of the 
+State's negligence. Today, we are potentially seeing an even more 
+catastrophic State-created crisis in the making.
+  Just a few weeks ago, the State announced it intended to cancel its 
+contract with the Non-Metro Area Agency on Aging, which manages and 
+oversees critical services like adult daycare, meal services, 
+caregiving, transportation, and respite care for vulnerable seniors and 
+their families.
+  Decimating the current system without public hearings, due process, 
+or having a public plan to ensure the continuity of services will 
+disrupt these lifesaving safety net programs that serve nearly 80,000 
+seniors; and these seniors are going to suffer because of this reckless 
+and hasty decision.
+  I have written to HHS demanding that they immediately investigate the 
+State's negligent behavior.
+
+[[Page H129]]
+
+  
+
+                          ____________________
+```

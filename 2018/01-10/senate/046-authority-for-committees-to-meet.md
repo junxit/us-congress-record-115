@@ -1,0 +1,45 @@
+---
+granule: CREC-2018-01-10-pt1-PgS141-2
+date: 2018-01-10
+edition: CREC
+section: SENATE
+page: S141
+citation: 164 Cong. Rec. S141
+---
+
+# AUTHORITY FOR COMMITTEES TO MEET
+
+**Speaking:** Barrasso, John (B001261) [R-WY]
+
+```
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+  Mr. BARRASSO. Mr. President, I have 2 requests for committees to meet 
+during today's session of the Senate. They have the approval of the 
+Majority and Minority leaders.
+  Pursuant to rule XXVI, paragraph 5(a), of the Standing Rules of the 
+Senate, the following committees are authorized to meet during today's 
+session of the Senate:
+
+
+               Committee on Environment and Public Works
+
+  The Committee on Environment and Public Works is authorized to meet 
+during the session of the Senate on Wednesday, January 10, 2018, at 10 
+a.m. to conduct a hearing entitled ``America's Water Infrastructure 
+Needs and Challenges.''
+
+
+                       Committee on the Judiciary
+
+  The Committee on the Judiciary is authorized to meet during the 
+session of the Senate on Wednesday, January 10, 2018, at 10 a.m., to 
+conduct a hearing on the following nominations: Kurt D. Engelhardt, of 
+Louisiana, to be United States Circuit Judge for the Fifth Circuit, 
+Barry W. Ashe, to be United States District Judge for the Eastern 
+District of Louisiana, Howard C. Nielson, Jr., to be United States 
+District Judge for the District of Utah, and James R. Sweeney II, to be 
+United States District Judge for the Southern District of Indiana.
+
+                          ____________________
+```

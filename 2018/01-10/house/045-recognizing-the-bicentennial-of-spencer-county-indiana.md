@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-01-10-pt1-PgH96-3
+date: 2018-01-10
+edition: CREC
+section: HOUSE
+page: H96
+citation: 164 Cong. Rec. H96
+---
+
+# RECOGNIZING THE BICENTENNIAL OF SPENCER COUNTY, INDIANA
+
+**Speaking:** Bucshon, Larry (B001275) [R-IN]
+
+```
+        RECOGNIZING THE BICENTENNIAL OF SPENCER COUNTY, INDIANA
+
+  (Mr. BUCSHON asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. BUCSHON. Mr. Speaker, I rise today in recognition of an important 
+milestone in Indiana history, the bicentennial of Spencer County, 
+Indiana.
+  Founded in 1818 by Captain Spier Spencer, this rural county along the 
+Ohio River was the boyhood home of Abraham Lincoln. Years later, when 
+recalling his time in Spencer County, the man who became our 16th 
+President stated quite succinctly: ``There, I grew up.''
+  In addition to the Lincoln Boyhood National Memorial and a scenic 
+state park, Spencer County is home to St. Meinrad Archabbey and 
+Indiana's premier tourist destinations, Holiday World and Splashin' 
+Safari. Wildly recognized as the world's first theme park, Holiday 
+World draws hundreds of thousands of visitors to the county each year.
+  Today, strategically connected to the world by Interstate 64, US 231, 
+rail, and the Ohio River, Spencer County has become a leader in 
+agriculture, manufacturing, maritime and ground logistics, steel 
+production, power generation, and world class family entertainment.
+  I proudly salute the citizens and the wonderful hometowns of Spencer 
+County on this notable occasion.
+
+                          ____________________
+```
