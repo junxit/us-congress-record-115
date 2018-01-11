@@ -1,0 +1,51 @@
+---
+granule: CREC-2018-01-11-pt1-PgH168
+date: 2018-01-11
+edition: CREC
+section: HOUSE
+page: H168
+citation: 164 Cong. Rec. H168
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 1532, H.R. 1701, H.R. 3737, H.R. 4043
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. GOWDY: Committee on Oversight and Government Reform. 
+     H.R. 4043. A bill to amend the Inspector General Act of 1978 
+     to reauthorize the whistleblower protection program, and for 
+     other purposes; with amendments (Rept. 115-510). Referred to 
+     the Committee of the Whole House on the state of the Union.
+       Mr. GOWDY: Committee on Oversight and Government Reform. 
+     H.R. 1701. A bill to prohibit the use of Federal funds for 
+     the costs of painting portraits of officers and employees of 
+     the Federal Government; with amendments (Rept. 115-511, Pt. 
+     1). Referred to the Committee of the Whole House on the state 
+     of the Union.
+       Mr. GOWDY: Committee on Oversight and Government Reform. 
+     H.R. 3737. A bill to provide for a study on the use of social 
+     media in security clearance investigations (Rept. 115-512). 
+     Referred to the Committee of the Whole House on the state of 
+     the Union.
+       Mr. BISHOP of Utah: Committee on Natural Resources. H.R. 
+     1532. A bill to reaffirm that certain land has been taken 
+     into trust for the benefit of the Poarch Band of Creek 
+     Indians, and for other purposes (Rept. 115-513). Referred to 
+     the Committee of the Whole House on the state of the Union.
+
+
+                         discharge of committee
+
+  Pursuant to clause 2 of rule XIII, the Committee on House 
+Administration discharged from further consideration. H.R. 1701 
+referred to the Committee of the Whole House on the state of the Union.
+
+                          ____________________
+```

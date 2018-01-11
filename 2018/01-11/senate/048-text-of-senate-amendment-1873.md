@@ -1,0 +1,28 @@
+---
+granule: CREC-2018-01-11-pt1-PgS169-8
+date: 2018-01-11
+edition: CREC
+section: SENATE
+page: S169
+citation: 164 Cong. Rec. S169
+---
+
+# Text of Senate Amendment 1873
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+```
+  SA 1873. Mr. McCONNELL proposed an amendment to amendment SA 1872 
+proposed by Mr. McConnell to the bill S. 139, to implement the use of 
+Rapid
+
+[[Page S170]]
+
+DNA instruments to inform decisions about pretrial release or detention 
+and their conditions, to solve and prevent violent crimes and other 
+crimes, to exonerate the innocent, to prevent DNA analysis backlogs, 
+and for other purposes; as follows:
+
+       Strike ``3 days'' and insert ``4 days''
+                                 ______
+```

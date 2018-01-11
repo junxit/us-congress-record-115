@@ -1,0 +1,35 @@
+---
+granule: CREC-2018-01-11-pt1-PgS167-4
+date: 2018-01-11
+edition: CREC
+section: SENATE
+page: S167
+citation: 164 Cong. Rec. S167
+---
+
+# EXECUTIVE REPORTS OF COMMITTEE
+
+```
+                     EXECUTIVE REPORTS OF COMMITTEE
+
+  The following executive reports of nominations were submitted:
+
+       By Mr. GRASSLEY for the Committee on the Judiciary.
+       Fernando Rodriguez, Jr., of Texas, to be United States 
+     District Judge for the Southern District of Texas.
+       Joseph D. Brown, of Texas, to be United States Attorney for 
+     the Eastern District of Texas for the term of four years.
+       Matthew D. Krueger, of Wisconsin, to be United States 
+     Attorney for the Eastern District of Wisconsin for the term 
+     of four years.
+       Norman Euell Arflack, of Kentucky, to be United States 
+     Marshal for the Eastern District of Kentucky for the term of 
+     four years.
+       Ted G. Kamatchus, of Iowa, to be United States Marshal for 
+     the Southern District of Iowa for the term of four years.
+
+  (Nominations without an asterisk were reported with the 
+recommendation that they be confirmed.)
+
+                          ____________________
+```
