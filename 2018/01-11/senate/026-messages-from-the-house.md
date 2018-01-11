@@ -1,0 +1,55 @@
+---
+granule: CRECB-2018-pt1-Pg335-3
+date: 2018-01-11
+edition: CRECB
+section: SENATE
+page: 335
+---
+
+# MESSAGES FROM THE HOUSE
+
+```
+                        MESSAGES FROM THE HOUSE
+
+  At 10:02 a.m., a message from the House of Representatives, delivered 
+by Mrs. Cole, one of its reading clerks, announced that the House has 
+passed the following bill, with an amendment, in which it requests the 
+concurrence of the Senate:
+
+       S. 140. An act to amend the White Mountain Apache Tribe 
+     Water Rights Quantification Act of 2010 to clarify the use of 
+     amounts in the WMAT Settlement Fund.
+
+  The message also announced that the House has passed the following 
+bill, in which it requests the concurrence of the Senate:
+
+       H.R. 4567. An act to require a Department of Homeland 
+     Security overseas personnel enhancement plan, and for other 
+     purposes.
+                                  ____
+
+  At 12:40 p.m., a message from the House of Representatives, delivered 
+by Mr. Novotny, one of its reading clerks, announced that the House has 
+passed the following bill, with an amendment, in which it requests the 
+concurrence of the Senate:
+
+       S. 139. An act to implement the use of Rapid DNA 
+     instruments to inform decisions about pretrial release or 
+     detention and their conditions, to solve and prevent violent 
+     crimes and other crimes, to exonerate the innocent, to 
+     prevent DNA analysis backlogs, and for other purposes.
+
+
+[[Page 336]]
+
+
+  The message also announced that the House has agreed to the following 
+concurrent resolution, in which it requests the concurrence of the 
+Senate:
+
+       H. Con. Res. 98. Concurrent resolution directing the 
+     Secretary of the Senate to make a correction in the 
+     enrollment of the bill S. 139.
+
+                          ____________________
+```
