@@ -1,0 +1,32 @@
+---
+granule: CREC-2018-01-16-pt1-PgH177
+date: 2018-01-16
+edition: CREC
+section: HOUSE
+page: H177
+citation: 164 Cong. Rec. H177
+---
+
+# MEDIA DISDAIN FOR THE AMERICAN FAMILY
+
+**Speaking:** Smith, Lamar (S000583) [R-TX]
+
+```
+                 MEDIA DISDAIN FOR THE AMERICAN FAMILY
+
+  (Mr. SMITH of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. SMITH of Texas. Mr. Speaker, we already knew, from their daily 
+attacks, that the media disdained the President. What we didn't know 
+with a certainty, until last week, was that the media also disdained 
+the American family.
+  How else to explain their front-paging and televising, at all hours, 
+a four-letter expletive that would be seen by children across America?
+  CNN reportedly used the word 195 times in one day. Sad.
+  There was a time when the media would show some respect for family 
+values, but no more. Words that might have been omitted or not spelled 
+out are now broadcast in their entirety. That is the media's decision 
+to make, but it is a poor decision for the American family.
+
+                          ____________________
+```
