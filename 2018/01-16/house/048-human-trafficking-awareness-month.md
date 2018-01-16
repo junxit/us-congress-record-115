@@ -1,0 +1,42 @@
+---
+granule: CRECB-2018-pt1-Pg659-8
+date: 2018-01-16
+edition: CRECB
+section: HOUSE
+page: 659
+---
+
+# HUMAN TRAFFICKING AWARENESS MONTH
+
+```
+                   HUMAN TRAFFICKING AWARENESS MONTH
+
+  (Ms. ROS-LEHTINEN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. ROS-LEHTINEN. Mr. Speaker, as we observe Human Trafficking 
+Awareness Month, I would like to recognize organizations in my home 
+district of Miami that are working to put an end to this modern day 
+slavery.
+
+[[Page 660]]
+
+  As a tourist destination and a gateway to the Americas, south Florida 
+is a preferred spot for criminals to commit these types of outrageous 
+human rights violations. But thanks to organizations like Kristi House 
+and The Women's Fund of Miami-Dade, there is a critical campaign afoot 
+to bring public awareness and to stop this terrible scourge.
+  St. Thomas University has created the Human Trafficking Academy, 
+which offers training and technical assistance to law enforcement, 
+lawyers, and the general public.
+  Resources like the Human Trafficking Miami Hotline, led by our 
+esteemed Miami-Dade State attorney's office, serves victims and 
+survivors of human trafficking by encouraging calls to 305-350-5567.
+  We are also blessed to have devoted law enforcement officers who are 
+committed to a zero tolerance campaign to protect victims, to prosecute 
+and dismantle traffickers.
+  As you can see, Mr. Speaker, south Florida is dedicated to fighting 
+this crime. A future free of human trafficking is out there, and I urge 
+every American to make that a reality.
+
+                          ____________________
+```
