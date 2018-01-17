@@ -1,0 +1,52 @@
+---
+granule: CRECB-2018-pt1-Pg726-2
+date: 2018-01-17
+edition: CRECB
+section: SENATE
+page: 726
+---
+
+# INTRODUCTION OF BILLS AND JOINT RESOLUTIONS
+
+```
+              INTRODUCTION OF BILLS AND JOINT RESOLUTIONS
+
+  The following bills and joint resolutions were introduced, read the 
+first and second times by unanimous consent, and referred as indicated:
+
+           By Mrs. McCASKILL (for herself, Mr. Tester, Ms. 
+             Heitkamp, and Ms. Harris):
+       S. 2314. A bill to increase the number of U.S. Customs and 
+     Border Protection Office of Field Operations officers and 
+     support staff and to require reports that identify staffing, 
+     infrastructure, and equipment needed to enhance security at 
+     ports of entry; to the Committee on Homeland Security and 
+     Governmental Affairs.
+           By Mr. ISAKSON (for himself and Mr. Casey):
+       S. 2315. A bill to amend the Federal Food, Drug, and 
+     Cosmetic Act to clarify the regulatory framework with respect 
+     to certain nonprescription drugs that are marketed without an 
+     approved new drug application, and for other purposes; to the 
+     Committee on Health, Education, Labor, and Pensions.
+           By Mr. THUNE:
+       S. 2316. A bill to amend the Agricultural Act of 2014 to 
+     make available to Native Americans who own horses for 
+     noncommercial use livestock indemnity payments and payments 
+     under the livestock forage disaster program, and for other 
+     purposes; to the Committee on Agriculture, Nutrition, and 
+     Forestry.
+           By Mr. MARKEY (for himself, Mr. Paul, Ms. Hassan, and 
+             Ms. Collins):
+       S. 2317. A bill to amend the Controlled Substances Act to 
+     provide for additional flexibility with respect to 
+     medication-assisted treatment for opioid use disorders, and 
+     for other purposes; to the Committee on Health, Education, 
+     Labor, and Pensions.
+           By Ms. BALDWIN (for herself and Mr. Brown):
+       S. 2318. A bill to require the payment of user fees by 
+     qualified professional asset managers seeking an individual 
+     exemption from certain requirements; to the Committee on 
+     Health, Education, Labor, and Pensions.
+
+                          ____________________
+```

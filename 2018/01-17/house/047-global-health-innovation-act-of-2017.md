@@ -1,0 +1,249 @@
+---
+granule: CRECB-2018-pt1-Pg763
+date: 2018-01-17
+edition: CRECB
+section: HOUSE
+page: 763
+---
+
+# GLOBAL HEALTH INNOVATION ACT OF 2017
+
+```
+                  GLOBAL HEALTH INNOVATION ACT OF 2017
+
+  Mr. ROYCE of California. Mr. Speaker, I move to suspend the rules and 
+pass the bill (H.R. 1660) to direct the Administrator of the United 
+States Agency for International Development to submit to Congress a 
+report on the development and use of global health innovations in the 
+programs, projects, and activities of the Agency.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                               H.R. 1660
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Global Health Innovation Act 
+     of 2017''.
+
+     SEC. 2. ANNUAL REPORT.
+
+       (a) In General.--Not later than 180 days after the date of 
+     the enactment of this Act, and annually thereafter for a 
+     period of 4 years, the Administrator of the United States 
+     Agency for International Development shall submit to Congress 
+     a report on the development and use of global health 
+     innovations in the programs, projects, and activities of the 
+     Agency.
+       (b) Matters To Be Included.--The report required by 
+     subsection (a) shall include the following:
+
+[[Page 764]]
+
+       (1) A description of--
+       (A) the extent to which global health innovations described 
+     in subsection (a) include drugs, diagnostics, devices, 
+     vaccines, electronic and mobile health technologies, and 
+     related behavior change and service delivery innovations;
+       (B) how innovation has advanced the Agency's commitments to 
+     achieving an HIV/AIDS-free generation, ending preventable 
+     child and maternal deaths, and protecting communities from 
+     infectious diseases, as well as furthered by the Global 
+     Health Strategic Framework;
+       (C) how goals are set for health product development in 
+     relation to the Agency's health-related goals and how 
+     progress and impact are measured towards those goals;
+       (D) how the Agency's investments in innovation relate to 
+     its stated goals; and
+       (E) progress made towards health product development goals.
+       (2) How the Agency, both independently and with partners, 
+     donors, and public-private partnerships, is--
+       (A) leveraging United States investments to achieve greater 
+     impact in health innovation;
+       (B) engaging in activities to develop, advance, and 
+     introduce affordable, available, and appropriate global 
+     health products; and
+       (C) scaling up appropriate health innovations in the 
+     development pipeline.
+       (3) A description of collaboration and coordination with 
+     other Federal departments and agencies, including the Centers 
+     for Disease Control and Prevention, in support of global 
+     health product development, including a description of how 
+     the Agency is working to ensure critical gaps in product 
+     development for global health are being filled.
+       (4) A description of how the Agency is coordinating and 
+     aligning global health innovation activities between the 
+     Global Development Lab, the Center for Accelerating 
+     Innovation and Impact, and the Bureau for Global Health.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+California (Mr. Royce) and the gentleman from New Jersey (Mr. Sires) 
+each will control 20 minutes.
+  The Chair recognizes the gentleman from California.
+
+
+                             General Leave
+
+  Mr. ROYCE of California. Mr. Speaker, I ask unanimous consent that 
+all Members may have 5 legislative days to revise and extend their 
+remarks and include any extraneous material on the bill.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from California?
+  There was no objection.
+  Mr. ROYCE of California. Mr. Speaker, I yield myself such time as I 
+may consume.
+  Mr. Speaker, I rise in support of H.R. 1660, the Global Health 
+Innovation Act. I thank Mr. Sires of New Jersey, the ranking member of 
+the Subcommittee on the Western Hemisphere, for bringing this forward 
+in a timely manner.
+  Over the past two decades, we have made unprecedented progress in 
+addressing some of the most difficult global health challenges of our 
+time. When you think about it, global rates of child mortality have 
+dropped by 53 percent. The prevalence of tuberculosis has been cut, in 
+fact, by half. Malaria deaths are now down 47 percent.
+  Five countries in sub-Saharan Africa once ravaged by HIV/AIDS are on 
+the verge of controlling their epidemics. The eradication of polio is 
+within reach. The only place it still exists is on the Pakistani-Afghan 
+border, which the Taliban controls. As you know, the Taliban resists 
+vaccinations. They, in fact, assassinate health workers who vaccinate. 
+That is the only reason we have not been able to eradicate this last 
+spot where polio continues to create damage to young lives.
+  Yet, despite these successes, we still do have a long way to go. Part 
+of that is reflected in the 2014 Ebola outbreak in West Africa that 
+resulted in 11,000 deaths in 10 countries. It serves as a very stark 
+reminder of the global threat of infectious diseases.
+  Though global child and maternal death rates have been cut in half, 
+there is still an estimated 830 mothers around the world who continue 
+to die from preventable causes every day. That is why we talk about 
+maternal health.
+  USAID is working to address these global health challenges by 
+harnessing the power of science, technology, and innovation to develop 
+low-cost, high-impact health technologies. They are devoting 
+considerable time and resources to developing these innovations.
+  This bill makes sure that we ensure that they are being effectively 
+deployed. It supports USAID's efforts, while also enhancing 
+congressional oversight. It directs the Administrator of USAID to 
+report on the development and use of global health innovations in its 
+programs, particularly those related to HIV/AIDS, maternal and child 
+health, and combating infectious diseases to ensure that our 
+investments in global health are deployed and are delivering results.
+  Mr. Speaker, I urge Members to support the bill, and I reserve the 
+balance of my time.
+  Mr. SIRES. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I rise in support of this measure. I want to start by 
+thanking Chairman Royce and Ranking Member Engel for their work on 
+global health and their efforts to bring this bill to the floor. 
+Chairman Royce has put in the time and effort to make sure the Foreign 
+Affairs Committee is frequently thought of as the most bipartisan 
+committee in Congress, and I thank him for his public service.
+  I also thank the Members who have cosponsored this bill, especially 
+Congressman Mario Diaz-Balart, who has graciously acted as the 
+Republican lead. Additionally, I thank the staffers who worked hard to 
+bring H.R. 1660 to the floor for consideration.
+  Infectious diseases and other health conditions still claim the lives 
+of nearly 9 million people each year. Emerging health threats, such as 
+drug resistance, pose a serious threat to human health across the 
+globe. New vaccines, drugs, tests, and other health tools are 
+desperately needed, but progress cannot be made without a sustained 
+investment in research and development.
+  U.S. investments in global health research are central components of 
+U.S. foreign policy to increase national security, strengthen U.S. 
+relations around the world, and reduce infectious diseases. The U.S. 
+has a legacy of leadership in global health research through agencies 
+like USAID.
+  This is why I was proud to introduce H.R. 1660, the Global Health 
+Innovation Act. This will provide the oversight needed to gain a 
+clearer picture of USAID's global health research and development.
+  Over the years, research and development projects have greatly 
+expanded at USAID, searching for advancements towards an HIV/AIDS-free 
+generation, preventable maternal and childhood deaths, and preventable 
+infectious diseases.
+  This legislation is an effort to keep up with USAID's efforts and 
+ensure their research and development activities reflect our goals and 
+priorities. This report asks them to provide clarity on their goals and 
+metrics to better understand their work.
+  H.R. 1660 directs the USAID Administrator to report annually to 
+Congress on the development and use of global health innovations in 
+USAID programs, projects, and activities. The report must also include 
+how the Agency measures progress towards their health-related goals.
+  I urge my colleagues to vote in support of H.R. 1660 to allow 
+Congress to exercise its oversight powers and ensure USAID's research 
+and development efforts reflect their priorities.
+  Mr. Speaker, I yield back the balance of my time.
+  Mr. ROYCE of California. Mr. Speaker, I yield myself such time as I 
+may consume.
+  Mr. Speaker, again, I thank Mr. Sires of New Jersey, ranking member 
+of the Subcommittee on the Western Hemisphere. I thank him for bringing 
+forward this timely measure.
+  The Global Health Innovation Act seeks to accelerate USAID's work to 
+identify, develop, and expand access to low-cost, high-impact health 
+technologies that will enhance the U.S. global health security agenda. 
+Frankly, that will save a lot of lives.
+
+                              {time}  1445
+
+  What it does is ensure that the time and the resources that are being 
+directed toward developing these technologies are put to good use, and 
+are put to good use quickly.
+  Mr. Speaker, I support this bill and I urge its adoption.
+
+[[Page 765]]
+
+  Mr. Speaker, I yield back the balance of my time.
+  Ms. JACKSON LEE. Mr. Speaker, I rise in strong support of H.R. 1660, 
+Global Health Innovation Act, because it encourages the continual 
+research and development of new global health strategies and promotes 
+transparency between our Federal agencies and the United States 
+Congress.
+  Under H.R. 1660, the U.S. Agency for International Development 
+(USAID) would be required to report to Congress on the development and 
+use of global health innovations in USAID programs, projects, and 
+activities.
+  This annual report would have to include a thorough description of:
+  The extent to which global health innovations include drugs, 
+vaccines, and mobile technologies, as well as related service delivery 
+improvements and behavior changes;
+  How innovation has advanced USAID's efforts to combat HIV/AIDS, end 
+preventable child and maternal deaths, protect communities from 
+infectious diseases, and further its Global Health Strategic Framework;
+  Progress made toward health product development goals;
+  How USAID's investments in innovation relate to its goals;
+  How USAID leverages investments to improve health innovation, 
+develops affordable global health products, and advances health 
+innovations in development;
+  USAID's collaboration with other federal agencies; and
+  How USAID is coordinating global health innovation activities between 
+its Global Development Lab, Center for Accelerating Innovation and 
+Impact, and Bureau for Global Health.
+  The report would have to be submitted within 180 days of the bill's 
+enactment, and then annually for four years.
+  The critical research and development of global health technologies 
+has facilitated the development of life-saving technologies saving 
+countless lives across the globe.
+  Ultimately, the goal of H.R. 1660 is to support a long-term program 
+to develop these much needed health technologies and innovative easy-
+to-use health solutions for low resource environment.
+  I have always been an advocate for the protection of women and 
+children.
+  This bill would help to stifle the spread of infectious diseases in 
+underdeveloped countries, and work to find new and improved ways to 
+fight infection for those who cannot fight themselves.
+  So I stand for H.R. 1660; and I ask my colleagues to stand with me in 
+support of this bill, and the pursuit of improved global health.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from California (Mr. Royce) that the House suspend the rules 
+and pass the bill, H.R. 1660.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. ROYCE of California. Mr. Speaker, on that I demand the yeas and 
+nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, further 
+proceedings on this motion will be postponed.
+
+                          ____________________
+```
