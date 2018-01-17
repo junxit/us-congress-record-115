@@ -1,0 +1,43 @@
+---
+granule: CREC-2018-01-17-pt1-PgS253
+date: 2018-01-17
+edition: CREC
+section: SENATE
+page: S253
+citation: 164 Cong. Rec. S253
+---
+
+# EXECUTIVE REPORTS OF COMMITTEES
+
+```
+                    EXECUTIVE REPORTS OF COMMITTEES
+
+  The following executive reports of nominations were submitted:
+
+       By Mr. CRAPO for the Committee on Banking, Housing, and 
+     Urban Affairs.
+       *Robert Hunter Kurtz, of Virginia, to be an Assistant 
+     Secretary of Housing and Urban Development.
+       *Brian D. Montgomery, of Texas, to be an Assistant 
+     Secretary of Housing and Urban Development.
+       *Jerome H. Powell, of Maryland, to be Chairman of the Board 
+     of Governors of the Federal Reserve System for a term of four 
+     years.
+       *Randal Quarles, of Colorado, to be a Member of the Board 
+     of Governors of the Federal Reserve System for a term of 
+     fourteen years from February 1, 2018.
+       *David J. Ryder, of New Jersey, to be Director of the Mint 
+     for a term of five years.
+       By Mr. HATCH for the Committee on Finance.
+       *Alex Michael Azar II, of Indiana, to be Secretary of 
+     Health and Human Services.
+       *Kevin K. McAleenan, of Hawaii, to be Commissioner of U.S. 
+     Customs and Border Protection, Department of Homeland 
+     Security.
+
+  *Nomination was reported with recommendation that it be confirmed 
+subject to the nominee's commitment to respond to requests to appear 
+and testify before any duly constituted committee of the Senate.
+
+                          ____________________
+```
