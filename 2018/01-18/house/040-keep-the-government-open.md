@@ -1,0 +1,38 @@
+---
+granule: CRECB-2018-pt1-Pg826-3
+date: 2018-01-18
+edition: CRECB
+section: HOUSE
+page: 826
+---
+
+# KEEP THE GOVERNMENT OPEN
+
+```
+                        KEEP THE GOVERNMENT OPEN
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, Republicans have got to start working with 
+Democrats to govern. We can't keep moving from one shutdown crisis to 
+the next.
+  Here is what we can do today, right now:
+  First, we can work together to keep the Federal Government open by 
+pursuing bipartisan priorities of the American people; funding 
+community health centers, permanently reauthorizing CHIP, providing 
+disaster relief, and protecting DREAMers. Let's do that, not for 
+politics, but for people.
+  Second, we can work together on a Federal budget that raises caps for 
+domestic spending. We should increase veterans funding so there is not 
+a single veteran left behind in our great Nation.
+  We need to protect pensions, provide the disaster relief funds for 
+hurricane and wildfire victims, create good-paying jobs and full-time 
+jobs for American workers, and protect healthcare.
+  Let's create a bipartisan budget that is a better deal for the 
+American people.
+  Mr. Speaker, it is too easy these days to be partisan and cynical. 
+Let us, instead, work together to keep the Federal Government open and 
+functioning for the American people.
+
+                          ____________________
+```

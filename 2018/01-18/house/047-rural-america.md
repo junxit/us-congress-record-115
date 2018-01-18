@@ -1,0 +1,40 @@
+---
+granule: CRECB-2018-pt1-Pg827-4
+date: 2018-01-18
+edition: CRECB
+section: HOUSE
+page: 827
+---
+
+# RURAL AMERICA
+
+```
+                             RURAL AMERICA
+
+  (Mr. PALAZZO asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PALAZZO. Mr. Speaker, I rise today to thank President Trump for 
+his strong support of rural America and for remembering the forgotten 
+farmer.
+  Last week, the President made us so very proud when he became the 
+first sitting President in 25 years to address the Farm Bureau. During 
+his speech, the President emphasized the importance of agriculture in 
+America. And as a member of the Appropriations Committee's Subcommittee 
+on Agriculture, Rural Development, Food and Drug Administration, and 
+Related Agencies, I could not agree more.
+  Our farmers provide America with food security unlike any other 
+country on Earth. Farmers and ranchers are a small percentage of our 
+population, feeding, fueling, and clothing our country and the rest of 
+the world. But it hasn't been easy for them. Foreign countries cheat 
+our farmers with unfair trade practices. Unelected bureaucrats have 
+strangled our farmers with regulation after regulation. And even your 
+elected officials have tried to tax our farmers to death. As a result, 
+farm income has been on a drastic and steady decline until now.
+  So I thank the President for not forgetting about rural America; and 
+I thank him for rolling back job-killing regulations, calling out 
+corrupt trade practices, and pushing Congress to ease the burden of the 
+death tax.
+  My farm friends in Mississippi thank the President.
+
+                          ____________________
+```
