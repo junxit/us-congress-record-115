@@ -1,0 +1,42 @@
+---
+granule: CREC-2018-01-18-pt1-PgH492-6
+date: 2018-01-18
+edition: CREC
+section: HOUSE
+page: H492
+citation: 164 Cong. Rec. H492
+---
+
+# LOVE SAVES LIVES
+
+**Speaking:** Davidson, Warren (D000626) [R-OH]
+
+```
+                            LOVE SAVES LIVES
+
+  (Mr. DAVIDSON asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+
+[[Page H493]]
+
+  
+
+  Mr. DAVIDSON. Mr. Speaker, I rise today to express my excitement that 
+this body has taken a strong pro-life stance and, likewise, that this 
+country is becoming increasingly pro-life.
+  This is not surprising since it is a view that is plainly obvious 
+that we are not talking about a clump of cells but a baby human. 
+Advances in science and medicine make this more clear all the time.
+  In addition to our votes this week to save babies with the necessary 
+medical care when they are born alive following an abortion, tomorrow 
+my office will be welcoming and hosting pro-life leaders and friends 
+from Ohio's Eighth District traveling to Washington, D.C., to 
+participate in this year's March for Life.
+  I am proud to participate tomorrow in the march where we will seek to 
+get out the message that love saves lives. Since Roe v. Wade, nearly 60 
+million babies with all their potential have had their lives tragically 
+cut short. I look forward to the day when love and sound science 
+finally put an end to abortion.
+
+                          ____________________
+```

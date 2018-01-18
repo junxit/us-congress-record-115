@@ -1,0 +1,34 @@
+---
+granule: CREC-2018-01-18-pt1-PgH540-3
+date: 2018-01-18
+edition: CREC
+section: HOUSE
+page: H540
+citation: 164 Cong. Rec. H540
+---
+
+# HONORING THE LIFE OF DENISE BURDITUS
+
+**Speaking:** Kihuen, Ruben J. (K000390) [D-NV]
+
+```
+                  HONORING THE LIFE OF DENISE BURDITUS
+
+  (Mr. KIHUEN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. KIHUEN. Mr. Speaker, today I rise to remember the life of Denise 
+Burditus.
+  Denise was a mother of two and a grandmother of three. She was 
+looking forward to the birth of her fourth grandchild. She had recently 
+left her job, after 30 years of working at a bank, so she could return 
+to school and spend more time with her grandchildren.
+  She went to the Route 91 Harvest music festival in Las Vegas with her 
+high school sweetheart and husband of 32 years, Tony Burditus.
+  Denise is remembered by her friends and family for being full of 
+life, for always being positive, and for her devotion to her family.
+  I extend my condolences to Denise Burditus' family and friends. 
+Please know that the city of Las Vegas, the State of Nevada, and the 
+whole country grieve with you.
+
+                          ____________________
+```
