@@ -1,0 +1,36 @@
+---
+granule: CREC-2018-01-19-pt1-PgH574-2
+date: 2018-01-19
+edition: CREC
+section: HOUSE
+page: H574
+citation: 164 Cong. Rec. H574
+---
+
+# READING EAGLE HISTORY
+
+**Speaking:** Costello, Ryan A. (C001106) [R-PA]
+
+```
+                         READING EAGLE HISTORY
+
+  (Mr. COSTELLO of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. COSTELLO of Pennsylvania. Mr. Speaker, I rise to recognize a 
+pillar of journalistic integrity in our democracy, the Reading Eagle, a 
+newspaper in my district in Berks County, Pennsylvania. This month, the 
+paper celebrates its 150th anniversary.
+  On January 28, 1868, the Reading Eagle published its first daily 
+paper and is now one of the oldest family-owned newspapers in our 
+country. Today, the paper operates its headquarters in downtown Reading 
+and serves as a valuable resource for news to many of my constituents.
+  Congratulations to the Reading Eagle and its staff on this exciting 
+milestone; and thank you for providing community news, great local 
+content, national news, and providing transparency and accountability 
+of government at all levels for the betterment of our democracy.
+  In spite of all of the competing sources of information and evolving 
+technology of today, the Reading Eagle remains the greater Berks 
+region's go-to source for reliable local news and information.
+
+                          ____________________
+```

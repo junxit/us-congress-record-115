@@ -1,0 +1,34 @@
+---
+granule: CREC-2018-01-19-pt1-PgH557-2
+date: 2018-01-19
+edition: CREC
+section: HOUSE
+page: H557
+citation: 164 Cong. Rec. H557
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  Rabbi Mara Nathan, Temple Beth-El, San Antonio, Texas, offered the 
+following prayer:
+  Holy One of blessing, You are the source of all. Regardless of our 
+faith traditions, we recognize a force in the universe calling each of 
+us to fulfill our potential.
+  We challenge ourselves to compensate for our shortcomings and 
+emphasize our talents and energies for the greater good. We dedicate 
+ourselves, each in our own way, to a life of service and meaning. 
+Committed to the ideals of our great Nation, we are ever working 
+towards the promise of what is still yet to be.
+  Therefore, we pray that You bestow the blessings of foresight, 
+compassion, and patience upon the women and men of our Congress. May 
+they be united in working for the good of our Nation, and may they 
+recognize the spark of holiness in every human being.
+  Bless our leaders with strong minds and open hearts, ever ready to 
+serve with integrity, purpose, and honor.
+  Amen.
+
+                          ____________________
+```
