@@ -1,0 +1,42 @@
+---
+granule: CREC-2018-01-22-pt1-PgH621
+date: 2018-01-22
+edition: CREC
+section: HOUSE
+page: H621
+citation: 164 Cong. Rec. H621
+---
+
+# RESIGNATION AS MEMBER OF COMMITTEE ON TRANSPORTATION AND INFRASTRUCTURE
+
+```
+RESIGNATION AS MEMBER OF COMMITTEE ON TRANSPORTATION AND INFRASTRUCTURE
+
+  The SPEAKER pro tempore laid before the House the following 
+resignation as a member of the Committee on Transportation and 
+Infrastructure:
+
+
+                                     House of Representatives,
+
+                                 Washington, DC, January 22, 2018.
+     Hon. Paul D. Ryan,
+     Speaker, House of Representatives,
+     Washington, DC.
+       Dear Speaker Ryan: Pursuant to my election as Ranking 
+     Member of the House Judiciary Committee, I write to inform 
+     you that I am resigning from the House Transportation and 
+     Infrastructure Committee in compliance with the rules of the 
+     Democratic Caucus.
+       If you have any further questions, please do not hesitate 
+     to contact me.
+           Sincerely,
+                                                   Jerrold Nadler,
+                                               Member of Congress.
+
+  The SPEAKER pro tempore. Without objection, the resignation is 
+accepted.
+  There was no objection.
+
+                          ____________________
+```

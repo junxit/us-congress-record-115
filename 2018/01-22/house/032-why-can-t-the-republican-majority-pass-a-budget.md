@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-01-22-pt1-PgH615-7
+date: 2018-01-22
+edition: CREC
+section: HOUSE
+page: H615
+citation: 164 Cong. Rec. H615
+---
+
+# WHY CAN'T THE REPUBLICAN MAJORITY PASS A BUDGET?
+
+**Speaking:** Perlmutter, Ed (P000593) [D-CO]
+
+```
+            WHY CAN'T THE REPUBLICAN MAJORITY PASS A BUDGET?
+
+  (Mr. PERLMUTTER asked and was given permission to address the House 
+for 1 minute.)
+  Mr. PERLMUTTER. Mr. Speaker, I am going to ask the Speaker: How is it 
+that the Republican majority, in really less than a month, could pass 
+legislation that was the biggest transfer of wealth to the wealthiest 
+people in America through this giant tax cut that costs every single 
+American $7,000 or more, but the Republican majority cannot pass a 
+budget that they have had a year to pass, that addresses our military, 
+that addresses healthcare, that addresses pensions, that addresses the 
+DREAMers, and that addresses a whole variety of things?
+  Why can't it get done?
+  Why is the only thing that the Republican majority has found the will 
+to pass is giant tax cuts for the wealthiest Americans?
+  That is really the question that people should be asking. Here we 
+are, we can't even pass a budget to keep the government open.
+
+[[Page H616]]
+
+  I ask my friends to continue to ask that question of the majority 
+party.
+
+                          ____________________
+```

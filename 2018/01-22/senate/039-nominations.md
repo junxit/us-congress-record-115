@@ -1,0 +1,38 @@
+---
+granule: CREC-2018-01-22-pt1-PgS443-2
+date: 2018-01-22
+edition: CREC
+section: SENATE
+page: S443
+citation: 164 Cong. Rec. S443
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                         DEPARTMENT OF DEFENSE
+
+        JOHN H. GIBSON II, OF TEXAS, TO BE CHIEF MANAGEMENT 
+     OFFICER OF THE DEPARTMENT OF DEFENSE. (NEW POSITION)
+
+
+                 FEDERAL DEPOSIT INSURANCE CORPORATION
+
+        JELENA MCWILLIAMS, OF OHIO, TO BE A MEMBER OF THE BOARD OF 
+     DIRECTORS OF THE FEDERAL DEPOSIT INSURANCE CORPORATION FOR A 
+     TERM OF SIX YEARS, VICE THOMAS HOENIG, TERM EXPIRING.
+
+
+                          DEPARTMENT OF STATE
+
+        TREVOR D. TRAINA, OF CALIFORNIA, TO BE AMBASSADOR 
+     EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED STATES OF 
+     AMERICA TO THE REPUBLIC OF AUSTRIA.
+
+                          ____________________
+```

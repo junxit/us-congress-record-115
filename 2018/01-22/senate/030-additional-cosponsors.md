@@ -1,0 +1,46 @@
+---
+granule: CREC-2018-01-22-pt1-PgS441-3
+date: 2018-01-22
+edition: CREC
+section: SENATE
+page: S441
+citation: 164 Cong. Rec. S441
+---
+
+# ADDITIONAL COSPONSORS
+
+**Measures:** S.Res. 368, S. 2121, S. 2324
+
+```
+                         ADDITIONAL COSPONSORS
+
+
+                                S. 2121
+
+  At the request of Mr. Heller, the name of the Senator from West 
+Virginia (Mrs. Capito) was added as a cosponsor of S. 2121, a bill to 
+amend title XVIII of the Social Security Act to require reporting of 
+certain data by providers and suppliers of air ambulance services for 
+purposes of reforming reimbursements for such services under the 
+Medicare program, and for other purposes.
+
+
+                                S. 2324
+
+  At the request of Mr. Heller, the name of the Senator from Indiana 
+(Mr. Donnelly) was added as a cosponsor of S. 2324, a bill to amend the 
+Investment Company Act of 1940 to change certain requirements relating 
+to the capital structure of business development companies, to direct 
+the Securities and Exchange Commission to revise certain rules relating 
+to business development companies, and for other purposes.
+
+
+                              S. RES. 368
+
+  At the request of Mr. Corker, the names of the Senator from Oklahoma 
+(Mr. Lankford) and the Senator from Nevada (Ms. Cortez Masto) were 
+added as cosponsors of S. Res. 368, a resolution supporting the right 
+of all Iranian citizens to have their voices heard.
+
+                          ____________________
+```
