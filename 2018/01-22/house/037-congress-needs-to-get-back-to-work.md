@@ -1,0 +1,36 @@
+---
+granule: CRECB-2018-pt1-Pg1159-3
+date: 2018-01-22
+edition: CRECB
+section: HOUSE
+page: 1159
+---
+
+# CONGRESS NEEDS TO GET BACK TO WORK
+
+```
+                   CONGRESS NEEDS TO GET BACK TO WORK
+
+  (Mr. RYAN of Ohio asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. RYAN of Ohio. Mr. Speaker, this is about Members of Congress 
+doing their job.
+  The number one function of a Congress is to put out a budget. This 
+Congress spent the last 6 to 8 months giving away $2 trillion to the 
+wealthiest people in the country, and now we come to do a budget and 
+say: Well, we don't have any money.
+  We have priorities here, and it is about taking care of people who 
+are getting hurt.
+  It is about a gentleman who drove a truck for 40 years, missing 
+baseball games and soccer matches because he was on the road. Now that 
+he needs his pension, it is cut in half, and this Congress isn't doing 
+a damn thing about it.
+  It is about the coal miner who climbed into a dirty hole for 40 years 
+and now wants a pension. The Republican leadership here is absent.
+  It is about healthcare for kids, and it is about 11 million kids who 
+are going to law school, going to college, going to med school, and all 
+they want is a chance to sleep good at night.
+  This Congress needs to get back to work.
+
+                          ____________________
+```

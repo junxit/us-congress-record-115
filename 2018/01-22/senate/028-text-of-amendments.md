@@ -1,0 +1,35 @@
+---
+granule: CRECB-2018-pt1-Pg1151-2
+date: 2018-01-22
+edition: CRECB
+section: SENATE
+page: 1151
+---
+
+# TEXT OF AMENDMENTS
+
+```
+                           TEXT OF AMENDMENTS
+
+  SA 1919. Mr. BURR (for himself and Mr. Warner) submitted an amendment 
+intended to be proposed to amendment SA 1917 proposed by Mr. McConnell 
+to the bill H.R. 195, to amend title 44, United States Code, to 
+restrict the distribution of free printed copies of the Federal 
+Register to Members of Congress and other officers and employees of the 
+United States, and for other purposes; which was ordered to lie on the 
+table; as follows:
+
+       At the end add the following:
+       In section 2001, in the matter being added to the 
+     Continuing Appropriations Act, 2018, in section 148, strike 
+     ``may be obligated and expended notwithstanding section 
+     504(a)(1) of the National Security Act of 1947 (50 U.S.C. 
+     3094(a)(1))'' and insert the following: ``, for intelligence 
+     or intelligence related activities are deemed to be 
+     specifically authorized by the Congress for purposes of 
+     section 504 of the National Security Act of 1947 (50 U.S.C. 
+     3094) during fiscal year 2018 until the date of the enactment 
+     of the Intelligence Authorization Act for fiscal year 2018''.
+
+                          ____________________
+```
