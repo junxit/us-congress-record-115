@@ -1,0 +1,30 @@
+---
+granule: CREC-2018-01-23-pt1-PgS445-4
+date: 2018-01-23
+edition: CREC
+section: SENATE
+page: S445
+citation: 164 Cong. Rec. S445
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, Dr. Barry C. Black, offered the following prayer:
+  Let us pray.
+  Almighty God, the fountain of wisdom, thank You for hearing and 
+answering our prayers.
+  Lord, You have given us so much, blessing us in immeasurable ways. 
+You have exceeded our own expectations. For that, God, we are grateful. 
+We thank You for this great country, for our leadership, and for the 
+women and men who serve in this body. Help them to remember, God, that 
+this is Your country and they are Your stewards but for a moment in 
+time. We pray that You will help us move forward with faith in 
+tomorrow, knowing You will transform our thoughts, words, and actions 
+according to Your divine will.
+  We pray in Your heavenly Name. Amen.
+
+                          ____________________
+```
