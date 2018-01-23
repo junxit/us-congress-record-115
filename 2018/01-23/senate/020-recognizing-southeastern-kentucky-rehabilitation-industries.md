@@ -1,0 +1,33 @@
+---
+granule: CRECB-2018-pt1-Pg1194-3
+date: 2018-01-23
+edition: CRECB
+section: SENATE
+page: 1194
+---
+
+# RECOGNIZING SOUTHEASTERN KENTUCKY REHABILITATION INDUSTRIES
+
+```
+      RECOGNIZING SOUTHEASTERN KENTUCKY REHABILITATION INDUSTRIES
+
+  Mr. McCONNELL. Mr. President, today I wish to recognize the work of 
+the Southeastern Kentucky Rehabilitation Industries, SEKRI, a nonprofit 
+organization in Corbin, KY, which helps provide employment 
+opportunities for individuals with disabilities.
+  Before its founding in 1971, men and women with mental or physical 
+disabilities in southeastern Kentucky often struggled to find real 
+opportunities for employment. Since SEKRI was established, it has 
+helped many men and women find work. Seventy-five percent of SEKRI's 
+workforce is comprised of individuals with disabilities who produce 
+garments such as caps and protective gear for the Armed Forces. Today 
+SEKRI has five plants, four of which are in Kentucky, and employs over 
+550 individuals throughout the region. SEKRI plans to open its sixth 
+plant in Pineville, KY, this year.
+  For more than 45 years, SEKRI has helped hundreds of workers with 
+disabilities in eastern Kentucky participate in the workforce. I would 
+like to commend SEKRI for its many contributions to the Commonwealth of 
+Kentucky.
+
+                          ____________________
+```
