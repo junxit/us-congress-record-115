@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-01-29-pt1-PgH655-3
+date: 2018-01-29
+edition: CREC
+section: HOUSE
+page: H655
+citation: 164 Cong. Rec. H655
+---
+
+# CELEBRATING 100TH ANNIVERSARY OF SOUTH FLORIDA RED CROSS
+
+**Speaking:** Ros-Lehtinen, Ileana (R000435) [R-FL]
+
+```
+        CELEBRATING 100TH ANNIVERSARY OF SOUTH FLORIDA RED CROSS
+
+  (Ms. ROS-LEHTINEN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. ROS-LEHTINEN. Mr. Speaker, I rise tonight to celebrate the 100th 
+anniversary of the Red Cross South Florida.
+  The Red Cross opened its first south Florida chapter in 1918 in order 
+to meet the demands of World War I. In the century since, its wonderful 
+volunteers and trained personnel have valiantly responded to our most 
+critical needs during national disasters and other catastrophes.
+  While this organization has significantly grown and expanded into 
+five chapters, it still has remained true to its core mission, which is 
+to be a vital source of relief for disaster victims while helping to 
+prevent, to prepare for, and to respond to emergencies across 13 
+counties.
+  Mr. Speaker, by caring for the most vulnerable members of our 
+society, the local Red Cross chapter has become a cornerstone of our 
+south Florida community. So today I would like to congratulate all of 
+the staff and the volunteers of the South Florida Red Cross for a 
+century of dedication of service and of excellence.
+  Thank you for serving as stewards of the Red Cross legacy and for 
+continuing to provide compassionate care to all who need it.
+  Congratulations to all.
+
+                          ____________________
+```
