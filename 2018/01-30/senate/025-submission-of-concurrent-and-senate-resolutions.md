@@ -1,0 +1,52 @@
+---
+granule: CRECB-2018-pt2-Pg1392
+date: 2018-01-30
+edition: CRECB
+section: SENATE
+page: 1392
+---
+
+# SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+```
+            SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+  The following concurrent resolutions and Senate resolutions were 
+read, and referred (or acted upon), as indicated:
+
+           By Mr. FLAKE (for himself and Mr. Booker):
+       S. Res. 386. A resolution urging the Government of the 
+     Democratic Republic of the Congo to fulfill its agreement to 
+     hold credible elections, comply with constitutional limits on 
+     presidential terms, and fulfill its constitutional mandate 
+     for a democratic transition of power by taking concrete and 
+     measurable steps towards holding elections not later than 
+     December 2018 as outlined in the existing election calendar, 
+     and allowing for freedom of expression and association; to 
+     the Committee on Foreign Relations.
+           By Ms. HIRONO (for herself, Ms. Duckworth, Mr. 
+             Whitehouse, Mr. Blumenthal, Mr. Coons, and Mrs. 
+             Feinstein):
+       S. Res. 387. A resolution recognizing January 30, 2018, as 
+     ``Fred Korematsu Day of Civil Liberties and the 
+     Constitution''; to the Committee on the Judiciary.
+           By Mr. BLUMENTHAL (for himself, Mr. Booker, Ms. 
+             Cantwell, Ms. Hirono, Mr. Durbin, Mr. Markey, Mr. Van 
+             Hollen, Mr. Brown, Ms. Duckworth, Mr. Schatz, and 
+             Mrs. Murray):
+       S. Res. 388. A resolution recognizing January 27, 2018, as 
+     the anniversary of the first refugee and Muslim ban, and 
+     urging the President to demonstrate true leadership on 
+     refugee resettlement; to the Committee on the Judiciary.
+           By Mrs. FISCHER (for herself and Mr. Sasse):
+       S. Res. 389. A resolution commemorating the commissioning 
+     of the USS Omaha; considered and agreed to.
+           By Ms. KLOBUCHAR (for herself, Mr. Grassley, Mrs. 
+             Feinstein, Mr. Crapo, and Ms. Hirono):
+       S. Res. 390. A resolution raising awareness and encouraging 
+     the prevention of stalking by designating January 2018 as 
+     ``National Stalking Awareness Month''; considered and agreed 
+     to.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CRECB-2018-pt2-Pg1409-9
+date: 2018-01-30
+edition: CRECB
+section: HOUSE
+page: 1409
+---
+
+# AMERICANS ARE BETTER OFF
+
+```
+                        AMERICANS ARE BETTER OFF
+
+  (Mr. SMITH of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. SMITH of Texas. Mr. Speaker, the differences are stark between 
+President Obama's first year in office and President Trump's first year 
+in office. If you just listen to the liberal media, you would think our 
+country is worse off under President Trump. However, if you follow the 
+facts, Americans are far better off.
+  In 2009, 4 million jobs were lost. In 2017, 1.7 million jobs were 
+created.
+  Gross domestic product in President Obama's first year went down 2.8 
+percent. It was up 2.3 percent last year.
+  Unemployment in 2009 increased from 7.8 percent to 9.9 percent. It 
+fell in 2017
+
+[[Page 1410]]
+
+from 4.8 percent to 4.1 percent, a 17-year low.
+  The Standard & Poor's stock market index was at 1,115 President 
+Obama's first year. It recently hit 2,673.
+  President Trump's policies are helping more Americans get back to 
+work, pay less in taxes, and build their retirement and savings 
+accounts. These are the facts.
+  Mr. Speaker, Americans can accurately say they are better off today 
+than they were 8 years ago, or even 1 year ago.
+
+                          ____________________
+```

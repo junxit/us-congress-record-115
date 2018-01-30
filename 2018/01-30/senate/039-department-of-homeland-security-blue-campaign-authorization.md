@@ -1,0 +1,41 @@
+---
+granule: CRECB-2018-pt2-Pg1402
+date: 2018-01-30
+edition: CRECB
+section: SENATE
+page: 1402
+---
+
+# DEPARTMENT OF HOMELAND SECURITY BLUE CAMPAIGN AUTHORIZATION ACT
+
+```
+    DEPARTMENT OF HOMELAND SECURITY BLUE CAMPAIGN AUTHORIZATION ACT
+
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of H.R. 4708, which was received 
+from the House.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The senior assistant legislative clerk read as follows:
+
+       A bill (H.R. 4708) to amend the Homeland Security Act of 
+     2002 to require the Secretary of Homeland Security to issue 
+     Department of Homeland Security-wide guidance and develop 
+     training programs as part of the Department of Homeland 
+     Security Blue Campaign, and for other purposes.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. McCONNELL. I ask unanimous consent that the bill be considered 
+read a third time.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill was ordered to a third reading and was read the third time.
+  Mr. McCONNELL. I know of no further debate on the bill.
+  The PRESIDING OFFICER. Is there further debate?
+  If not, the bill having been read the third time, the question is, 
+Shall it pass?
+  The bill (H.R. 4708) was passed.
+  Mr. McCONNELL. I ask unanimous consent that the motion to reconsider 
+be considered made and laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
