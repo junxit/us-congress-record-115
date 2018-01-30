@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-01-30-pt1-PgS580-2
+date: 2018-01-30
+edition: CREC
+section: SENATE
+page: S580
+citation: 164 Cong. Rec. S580
+---
+
+# MEASURES REFERRED
+
+**Measures:** H.R. 1426, H.R. 1457, H.R. 2255, H.R. 4792
+
+```
+                           MEASURES REFERRED
+
+  The following bills were read the first and the second times by 
+unanimous consent, and referred as indicated:
+
+       H.R. 1426. An act to amend the Home Owners' Loan Act to 
+     allow Federal savings associations to elect to operate as 
+     national banks, and for other purposes; to the Committee on 
+     Banking, Housing, and Urban Affairs.
+       H.R. 1457. An act to establish requirements for use of a 
+     driver's license or personal identification card by certain 
+     financial institutions for opening an account or obtaining a 
+     financial product or service, and for other purposes; to the 
+     Committee on Banking, Housing, and Urban Affairs.
+       H.R. 2255. An act to clarify that nonprofit organizations 
+     may accept donated mortgage appraisals, and for other 
+     purposes; to the Committee on Banking, Housing, and Urban 
+     Affairs.
+       H.R. 4792. An act to amend the Securities Exchange Act of 
+     1934 to expand access to capital for small businesses 
+     affected by hurricanes or other natural disasters, and for 
+     other purposes; to the Committee on Banking, Housing, and 
+     Urban Affairs.
+
+                          ____________________
+```
