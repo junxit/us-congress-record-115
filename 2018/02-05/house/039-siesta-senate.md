@@ -1,0 +1,41 @@
+---
+granule: CREC-2018-02-05-pt1-PgH765
+date: 2018-02-05
+edition: CREC
+section: HOUSE
+page: H765
+citation: 164 Cong. Rec. H765
+---
+
+# SIESTA SENATE
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+                             SIESTA SENATE
+
+  (Mr. POE of Texas asked and was given permission to address the House 
+for 1 minute.)
+  Mr. POE of Texas. Mr. Speaker, Hurricane Harvey hammered the great 
+State of Texas in August. It devastated over 300,000 homes in the 
+Houston area, not including businesses.
+  Last year, the House passed a crucial $81 billion disaster relief 
+bill. This funding will not only help repair the devastation caused by 
+the hurricane, but it will also go toward disaster prevention in the 
+future. But Texas, Florida, and Puerto Rico are still waiting to see 
+this hurricane relief money.
+  Why?
+  Because the ``Siesta Senate'' still hasn't taken any action. And the 
+reason they haven't is because the Senate still uses an archaic, 
+outdated 60-vote rule to pass simple legislation.
+  The people of Texas are still suffering in their wait. The Senate 
+needs to change the 60-vote rule and go back to 51. The Gulf Coast is 
+in Hurricane Alley. Maybe the Senate doesn't realize hurricanes come 
+around every year.
+  Mr. Speaker, there are also over 401 House bills awaiting Senate 
+action, and this bill is one of them. The Siesta Senate must vote. Nap 
+time is over.
+  And that is just the way it is.
+
+                          ____________________
+```

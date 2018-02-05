@@ -1,0 +1,45 @@
+---
+granule: CREC-2018-02-05-pt1-PgH766
+date: 2018-02-05
+edition: CREC
+section: HOUSE
+page: H766
+citation: 164 Cong. Rec. H766
+---
+
+# TRAIN ACCIDENT HEROES
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                         TRAIN ACCIDENT HEROES
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, tragically, in the last 
+week, I have been impacted by two train wrecks, and I have also seen 
+firsthand civilian heroes rise to the challenges.
+  The first, on Wednesday, was the trash truck collision in Crozet, 
+Albemarle County, Virginia, where my wife, Roxanne, and I were 
+passengers. It was inspiring to see immediately physician Members of 
+Congress race to those injured in the wreck led by Congressman Brad 
+Wenstrup from Ohio and Roger Marshall from Kansas and heroically 
+assisted by registered nurse Lily Knight, wife of Congressman Steve 
+Knight from California. First responders and emergency personnel were 
+professional and showed great courage.
+  Yesterday, an Amtrak train collided with a parked freight train in my 
+home community of Pine Ridge, South Carolina. The passengers 
+thoughtfully cared for each other as emergency personnel and law 
+enforcement from Cayce and Pine Ridge, and Lexington County Sheriff Jay 
+Koon, working with State officials, provided assistance coordinated by 
+Governor Henry McMaster. The American Red Cross, along with Lexington 
+School District Two, established a shelter for victims.
+  I am grateful that Transportation Secretary Elaine Chao called with 
+her sympathy and assurance of Federal support. Our deepest condolences 
+go out to the families who have suffered a loss in these accidents and 
+our prayers for the quick recovery for all injured.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism.
+
+                          ____________________
+```
