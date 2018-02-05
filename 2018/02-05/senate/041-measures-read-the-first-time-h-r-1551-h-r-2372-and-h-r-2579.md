@@ -1,0 +1,36 @@
+---
+granule: CRECB-2018-pt2-Pg1500-4
+date: 2018-02-05
+edition: CRECB
+section: SENATE
+page: 1500
+---
+
+# MEASURES READ THE FIRST TIME--H.R. 1551, H.R. 2372, AND H.R. 2579
+
+```
+   MEASURES READ THE FIRST TIME--H.R. 1551, H.R. 2372, AND H.R. 2579
+
+  Mr. McCONNELL. Mr. President, I understand that there are three bills 
+at the desk, and I ask for their first reading en bloc.
+  The PRESIDING OFFICER. The clerk will read the bills by title for the 
+first time en bloc.
+  The senior assistant legislative clerk read as follows:
+
+       A bill (H.R. 1551) to amend the Internal Revenue Code of 
+     1986 to modify the credit for production from advanced 
+     nuclear power facilities.
+       A bill (H.R. 2372) to amend the Internal Revenue Code of 
+     1986 to clarify the rules relating to veteran health 
+     insurance and eligibility for the premium tax credit.
+       A bill (H.R. 2579) to amend the Internal Revenue Code of 
+     1986 to allow the premium tax credit with respect to 
+     unsubsidized COBRA continuation coverage.
+
+  Mr. McCONNELL. Mr. President, I now ask for a second reading, and I 
+object to my own request, all en bloc.
+  The PRESIDING OFFICER. Objection having been heard, the bills will be 
+read for the second time on the next legislative day.
+
+                          ____________________
+```

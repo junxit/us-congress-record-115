@@ -1,0 +1,35 @@
+---
+granule: CRECB-2018-pt2-Pg1530-2
+date: 2018-02-05
+edition: CRECB
+section: HOUSE
+page: 1530
+---
+
+# RECOGNIZING JOHN LEWIS AND DENNY BARNEY OF MARICOPA COUNTY
+
+```
+       RECOGNIZING JOHN LEWIS AND DENNY BARNEY OF MARICOPA COUNTY
+
+  (Mr. BIGGS asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BIGGS. Mr. Speaker, I rise tonight to recognize two gentlemen in 
+my district: John Lewis and Denny Barney.
+  Since 2015, John Lewis has served as the president and CEO of the 
+East Valley Partnership and previously served as the mayor of Gilbert. 
+The East Valley Partnership works with our cities and towns to maximize 
+their economic potential and to help create jobs. John has done 
+exceptional work, and I wish him the best as he and his wife will be 
+leaving this summer to serve a church mission in Cambodia.
+  Denny Barney is a wonderful choice to replace Mr. Lewis as president 
+and CEO. Mr. Barney's record of service in the private sector and on 
+the Maricopa Board of Supervisors gives him a unique perspective as he 
+accepts this new responsibility. He is a dynamic, bright, and great 
+leader. The East Valley Partnership will benefit from his leadership 
+for years to come.
+  I am grateful for all of our leaders in the East Valley Partnership 
+who work diligently to foster an attractive environment for families to 
+live and businesses to grow.
+
+                          ____________________
+```
