@@ -1,0 +1,25 @@
+---
+granule: CRECB-2018-pt2-Pg1728
+date: 2018-02-06
+edition: CRECB
+section: HOUSE
+page: 1728
+---
+
+# ENROLLED BILL SIGNED
+
+```
+                          ENROLLED BILL SIGNED
+
+  Karen L. Haas, Clerk of the House, reported and found truly enrolled 
+a bill of the House of the following title, which was thereupon signed 
+by the Speaker:
+
+       H.R. 4708. An act to amend the Homeland Security Act of 
+     2002 to require the Secretary of Homeland Security to issue 
+     Department of Homeland Security-wide guidance and develop 
+     training programs as part of the Department of Homeland 
+     Security Blue Campaign, and for other purposes.
+
+                          ____________________
+```
