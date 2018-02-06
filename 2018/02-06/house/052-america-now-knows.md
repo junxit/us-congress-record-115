@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-02-06-pt1-PgH898-4
+date: 2018-02-06
+edition: CREC
+section: HOUSE
+page: H898
+citation: 164 Cong. Rec. H898
+---
+
+# AMERICA NOW KNOWS
+
+**Speaking:** Gaetz, Matt (G000578) [R-FL]
+
+```
+                           AMERICA NOW KNOWS
+
+  (Mr. GAETZ asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. GAETZ. Mr. Speaker, America now knows the truth. The Democratic 
+Party hired the Perkins Law Firm. The Perkins Law Firm hired the Fusion 
+GPS company. Fusion GPS needed two things: fake dirt on Donald Trump, 
+and they needed a way to inject that fake dirt into the bloodstream of 
+our intelligence community. So they hired Christopher Steele. And then 
+they went and hired Nellie Ohr, the wife of senior Justice Department 
+official Bruce Ohr.
+  Now, Bruce Ohr's portfolio included counternarcotics and antidrug 
+work. But all of a sudden, after his wife gets hired from the money 
+that you can trace back to the Democratic Party, Bruce Ohr starts 
+taking counterintelligence meetings, meeting with Glenn Simpson and 
+Christopher Steele, before and after the election.
+  What should enrage the American people is the notion that cash at a 
+political party could ever be convertible to a warrant to spy on 
+political enemies in the United States of America.
+  That is what we are fighting against. That is what is at issue. That 
+is why we are going to do everything we can to hold the bad actors 
+accountable and then institute reforms so that this type of thing never 
+happens again.
+
+                          ____________________
+```

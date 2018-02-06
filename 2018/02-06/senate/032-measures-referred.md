@@ -1,0 +1,34 @@
+---
+granule: CREC-2018-02-06-pt1-PgS650-2
+date: 2018-02-06
+edition: CREC
+section: SENATE
+page: S650
+citation: 164 Cong. Rec. S650
+---
+
+# MEASURES REFERRED
+
+**Measures:** H.R. 2504, H.R. 2646, H.R. 2888, H.R. 4547
+
+```
+                           MEASURES REFERRED
+
+  The following bills were read the first and the second times by 
+unanimous consent, and referred as indicated:
+
+       H.R. 2504. An act to ensure fair treatment in licensing 
+     requirements for the export of certain echinoderms; to the 
+     Committee on Environment and Public Works.
+       H.R. 2646. An act to reauthorize the United States-Jordan 
+     Defense Cooperation Act of 2015, and for other purposes; to 
+     the Committee on Foreign Relations.
+       H.R. 2888. An act to establish the Ste. Genevieve National 
+     Historic Site in the State of Missouri, and for other 
+     purposes; to the Committee on Energy and Natural Resources.
+       H.R. 4547. An act to amend titles II, VIII, and XVI of the 
+     Social Security Act to improve and strengthen the 
+     representative payment program; to the Committee on Finance.
+
+                          ____________________
+```

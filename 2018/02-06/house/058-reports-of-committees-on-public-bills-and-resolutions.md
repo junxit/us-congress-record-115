@@ -1,0 +1,29 @@
+---
+granule: CREC-2018-02-06-pt1-PgH901
+date: 2018-02-06
+edition: CREC
+section: HOUSE
+page: H901
+citation: 164 Cong. Rec. H901
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.Res. 727, H.R. 1892
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. SESSIONS: Committee on Rules. House Resolution 727. 
+     Resolution providing for consideration of the Senate 
+     amendment to the bill (H.R. 1892) to amend title 4, United 
+     States Code, to provide for the flying of the flag at half-
+     staff in the event of the death of a first responder in the 
+     line of duty (Rept. 115-547). Referred to the House Calendar.
+
+                          ____________________
+```
