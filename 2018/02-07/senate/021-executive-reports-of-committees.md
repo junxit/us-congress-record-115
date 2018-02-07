@@ -1,0 +1,54 @@
+---
+granule: CREC-2018-02-07-pt1-PgS703-2
+date: 2018-02-07
+edition: CREC
+section: SENATE
+page: S703
+citation: 164 Cong. Rec. S703
+---
+
+# EXECUTIVE REPORTS OF COMMITTEES
+
+```
+                    EXECUTIVE REPORTS OF COMMITTEES
+
+  The following executive reports of nominations were submitted:
+
+       By Mr. CORKER for the Committee on Foreign Relations.
+       *Peter Hendrick Vrooman, of New York, a Career Member of 
+     the Senior Foreign Service, Class of Counselor, to be 
+     Ambassador Extraordinary and Plenipotentiary of the United 
+     States of America to the Republic of Rwanda.
+       Nominee: Peter Hendrick Vrooman.
+       Post: Kigali, Rwanda.
+       The following is a list of all members of my immediate 
+     family and their spouses. I have asked each of these persons 
+     to inform me of the pertinent contributions made by them. To 
+     the best of my knowledge, the information contained in this 
+     report is complete and accurate.
+       Contribution, Amount, Date, and Donee:
+       1. Self: none.
+       2. Spouse: Johnette Stubbs: none.
+       3. Children and Spouses: Zarah Vrooman Hendrick Vrooman: 
+     none.
+       4. Parents: Sally Eaton Vrooman: none; David H. Vrooman, 
+     Jr.: deceased.
+       5. Grandparents: Dorothy Vrooman; David H. Vrooman, Sr.; 
+     Frances B. Eaton; Donald Eaton: all deceased.
+       6. Brothers and Spouses: (Jill Locke, sister-in-law): $100, 
+     9/2/2014, Claire Snyder Hall; Eric D. Vrooman: none; Bruce M. 
+     Vrooman: none.
+       7. Sisters and Spouses: n/a.
+       *Eric M. Ueland, of Oregon, to be an Under Secretary of 
+     State (Management).
+       By Mr. BARRASSO for the Committee on Environment and Public 
+     Works.
+       *Andrew Wheeler, of Virginia, to be Deputy Administrator of 
+     the Environmental Protection Agency.
+
+  *Nomination was reported with recommendation that it be confirmed 
+subject to the nominee's commitment to respond to requests to appear 
+and testify before any duly constituted committee of the Senate.
+
+                          ____________________
+```
