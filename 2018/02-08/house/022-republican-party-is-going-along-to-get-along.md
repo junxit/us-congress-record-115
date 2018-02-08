@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-02-08-pt1-PgH981
+date: 2018-02-08
+edition: CREC
+section: HOUSE
+page: H981
+citation: 164 Cong. Rec. H981
+---
+
+# REPUBLICAN PARTY IS GOING ALONG TO GET ALONG
+
+**Speaking:** Duncan, John J., Jr. (D000533) [R-TN]
+
+```
+              REPUBLICAN PARTY IS GOING ALONG TO GET ALONG
+
+  (Mr. DUNCAN of Tennessee asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. DUNCAN of Tennessee. Mr. Speaker, I sent my first paycheck as a 
+bag boy at the A&P--$19-and-some-odd cents--to the Barry Goldwater 
+campaign. I was 16 years old.
+  I have been involved in almost every major Republican campaign in my 
+State and nationally since then. But the Republican Party I grew up in 
+was the fiscally conservative party. I wish it still was.
+  But we will pass a spending bill today that is everything but 
+fiscally conservative. Our national debt is now over $20 trillion. This 
+bill will speed us down the road to $30 trillion.
+  Our deficit last year was $666 billion. This bill will make it even 
+higher this year. There is nothing fiscally conservative about this 
+bill. Spending was already going up.
+  Now we are busting the budget caps and adding another $300 billion 
+more. Anyone who supports this bill cannot accurately say that they are 
+fiscally conservative.
+  It is very sad to me that the Republican Party I love is now going 
+along to get along and spending many, many billions that we simply do 
+not have.
+
+                          ____________________
+```

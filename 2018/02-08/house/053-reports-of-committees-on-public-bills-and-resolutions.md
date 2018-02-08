@@ -1,0 +1,50 @@
+---
+granule: CREC-2018-02-08-pt1-PgH1074
+date: 2018-02-08
+edition: CREC
+section: HOUSE
+page: H1074
+citation: 164 Cong. Rec. H1074
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.Res. 734, H.R. 1417, H.R. 1892, H.R. 3948, H.R. 4508
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. BISHOP of Utah: Committee on Natural Resources. H.R. 
+     1417. A bill to amend the National Law Enforcement Museum Act 
+     to allow the Museum to acquire, receive, possess, collect, 
+     ship, transport, import, and display firearms, and for other 
+     purposes (Rept. 115-548). Referred to the Committee of the 
+     Whole House on the state of the Union.
+       Mr. HENSARLING: Committee on Financial Services. H.R. 3948. 
+     A bill to prohibit the Securities and Exchange Commission 
+     from compelling a person to produce or furnish algorithmic 
+     trading source code or similar intellectual property to the 
+     Commission unless the Commission first issues a subpoena, and 
+     for other purposes; with amendments (Rept. 115-549). Referred 
+     to the Committee of the Whole House on the state of the 
+     Union.
+       Ms. FOXX: Committee on Education and the Workforce. H.R. 
+     4508. A bill to support students in completing an affordable 
+     postsecondary education that will prepare them to enter the 
+     workforce with the skills they need for lifelong success; 
+     with an amendment (Rept. 115-550). Referred to the Committee 
+     of the Whole House on the state of the Union.
+       Mr. SESSIONS: Committee on Rules. House Resolution 734. 
+     Resolution providing for consideration of the Senate 
+     amendment to the House amendment to the Senate amendment to 
+     the bill (H.R. 1892) to amend title 4, United States Code, to 
+     provide for the flying of the flag at half-staff in the event 
+     of the death of a first responder in the line of duty (Rept. 
+     115-551). Referred to the House Calendar.
+
+                          ____________________
+```
