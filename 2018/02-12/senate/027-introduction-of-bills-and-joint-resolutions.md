@@ -1,0 +1,32 @@
+---
+granule: CRECB-2018-pt2-Pg2150-2
+date: 2018-02-12
+edition: CRECB
+section: SENATE
+page: 2150
+---
+
+# INTRODUCTION OF BILLS AND JOINT RESOLUTIONS
+
+```
+              INTRODUCTION OF BILLS AND JOINT RESOLUTIONS
+
+  The following bills and joint resolutions were introduced, read the 
+first and second times by unanimous consent, and referred as indicated:
+
+           By Mr. GRASSLEY (for himself and Mr. Bennet):
+       S. 2415. A bill to amend title XIX of the Social Security 
+     Act to streamline enrollment of certain Medicaid providers 
+     and suppliers across State lines, and for other purposes; to 
+     the Committee on Finance.
+           By Mr. WICKER (for himself and Mr. Coons):
+       S. 2416. A bill to amend titles 5, 10, and 37, United 
+     States Code, to ensure that an order to serve on active duty 
+     under section 12304b of title 10, United States Code, is 
+     treated the same as other orders to serve on active duty for 
+     determining the eligibility of members of the uniformed 
+     services for certain benefits; to the Committee on Armed 
+     Services.
+
+                          ____________________
+```
