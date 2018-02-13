@@ -1,0 +1,36 @@
+---
+granule: CREC-2018-02-13-pt1-PgE174-3
+date: 2018-02-13
+edition: CREC
+section: EXTENSIONS
+page: E174
+citation: 164 Cong. Rec. E174
+---
+
+# PERSONAL EXPLANATION
+
+**Speaking:** Walz, Timothy J. (W000799) [D-MN]
+
+**Measures:** H.R. 1153
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                          HON. TIMOTHY J. WALZ
+
+                              of minnesota
+
+                    in the house of representatives
+
+                       Tuesday, February 13, 2018
+
+  Mr. WALZ. Mr. Speaker, I was absent for Roll Call No. 57 (on the 
+Motion to Table the Appeal of the Ruling of the Chair) and Roll Call 
+No. 64 (H.R. 1153, Mortgage Choice Act of 2017). Had I been present, I 
+would have voted No on each of these votes.
+
+                          ____________________
+```
