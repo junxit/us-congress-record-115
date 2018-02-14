@@ -1,0 +1,35 @@
+---
+granule: CREC-2018-02-14-pt1-PgH1129-5
+date: 2018-02-14
+edition: CREC
+section: HOUSE
+page: H1129
+citation: 164 Cong. Rec. H1129
+---
+
+# SALUTING LEWIS WOOD
+
+**Speaking:** Foxx, Virginia (F000450) [R-NC]
+
+```
+                          SALUTING LEWIS WOOD
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+North Carolina (Ms. Foxx) for 5 minutes.
+  Ms. FOXX. Mr. Speaker, new Boy Scouts make a promise to do their best 
+to do their duty to God and country and to help other people at all 
+times.
+  Mr. Lewis Wood from Stokes County, North Carolina, has not only 
+fulfilled that promise, he has lived it to the fullest. Mr. Wood joined 
+the Boy Scouts of America in January 1943. Later, he served as a 
+volunteer and Scoutmaster for Troop 440 for 50 years.
+  When Mr. Wood and his family were recently informed of his pancreatic 
+cancer diagnosis, he was focused on living until this January, the 75th 
+anniversary of his becoming a Scout. What an admirable spirit and a 
+wonderful man. After a lifetime of service, Mr. Wood is now preparing 
+for his next journey.
+  Mr. Speaker, I commend Mr. Wood for his 75 years of dedication to the 
+Boy Scouts and Stokes County.
+
+                          ____________________
+```

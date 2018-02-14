@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-02-14-pt1-PgH1170-5
+date: 2018-02-14
+edition: CREC
+section: HOUSE
+page: H1170
+citation: 164 Cong. Rec. H1170
+---
+
+# DOMESTIC ABUSE IS WRONG
+
+**Speaking:** Jackson Lee, Sheila (J000032) [D-TX]
+
+```
+                        DOMESTIC ABUSE IS WRONG
+
+  (Ms. JACKSON LEE asked and was given permission to address the House 
+for 1 minute.)
+  Ms. JACKSON LEE. Mr. Speaker, as we address Women's History Month in 
+the month of March, I raise the attention of my colleagues to a set of 
+circumstances that we have seen relating to the administration and its 
+personnel policies, but the real issue is the affirmation of opposition 
+to domestic violence and abuse.
+  Thousands of women and some men lose their lives to domestic abuse 
+and domestic violence. Thousands live in silence and absolute fear. 
+Children see their mothers and fathers killed. To have insensitivity to 
+the importance of anyone who has engaged in domestic violence and 
+domestic abuse be ignored sends a wrong signal to the girls and young 
+women in this country.
+  We must join together in a bipartisan manner to ensure that the 
+Violence Against Women Act is reauthorized in March, and we must 
+pronounce that domestic violence and domestic abuse is wrong for men, 
+women, and families. It is something that should be condemned and not 
+condoned.
+  No matter how important a position you may hold, it is important for 
+America's leadership to denounce this kind of vicious attack on 
+families. Mr. Speaker, I look forward to bipartisanship on this issue.
+
+                          ____________________
+```
