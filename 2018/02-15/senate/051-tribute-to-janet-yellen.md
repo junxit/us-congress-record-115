@@ -1,0 +1,38 @@
+---
+granule: CREC-2018-02-15-pt1-PgS1160
+date: 2018-02-15
+edition: CREC
+section: SENATE
+page: S1160
+citation: 164 Cong. Rec. S1160
+---
+
+# TRIBUTE TO JANET YELLEN
+
+**Speaking:** Crapo, Mike (C000880) [R-ID]
+
+```
+                        TRIBUTE TO JANET YELLEN
+
+  Mr. CRAPO. Mr. President, today I wish to say a few words about Janet 
+Yellen, an outstanding public servant, who recently completed her term 
+as Chair of the Board of Governors of the Federal Reserve System and 
+stepped down from the Board. At different times, over 42 years, she 
+served the Fed as staff economist, member of the Board, president of 
+the San Francisco Fed, Vice Chair, and then Chair. Under her 
+leadership, the Fed began the process of normalizing monetary policy by 
+winding down its balance sheet and raising interest rates after years 
+at the zero lower bound.
+  Twice yearly, Ms. Yellen reported to the Banking Committee on 
+monetary policy, conscientiously answering questions from members and 
+was helpful in enlisting Federal Reserve staff to respond to inquiries 
+from committee members and staff. I have appreciated her willingness to 
+engage constructively with me and members of the committee as we have 
+worked on legislation to tailor regulations and promote a healthy 
+economy.
+  Over the years, I found Ms. Yellen to be serious, engaging, and 
+generous with her time, a sentiment that is widely shared in this body. 
+I thank her for her service.
+
+                          ____________________
+```
