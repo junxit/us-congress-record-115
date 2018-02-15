@@ -1,0 +1,33 @@
+---
+granule: CRECB-2018-pt2-Pg2569-4
+date: 2018-02-15
+edition: CRECB
+section: HOUSE
+page: 2569
+---
+
+# LET DEMOCRACY PREVAIL ON IMMIGRATION
+
+```
+                  LET DEMOCRACY PREVAIL ON IMMIGRATION
+
+  (Mr. HOYER asked and was given permission to address the House for 1 
+minute.)
+  Mr. HOYER. Madam Speaker, we have 4 legislative days before those 
+protected by DACA will be at risk. The Speaker has said he was going to 
+address this issue. He has not at this point in time.
+  The Speaker said on 9/23/2010: We will advance major legislation one 
+issue at a time.
+  He said: We will not duck the tough issues. We will take them head-
+on.
+  In that light, I urge the Speaker to put on the floor the three bills 
+that are pending in this House: a clean Dream Act; the USA Act, 
+sponsored by Representatives Aguilar and Hurd, a bipartisan bill; and a 
+Republican bill, the Securing America's Future Act, sponsored by 
+Representative Goodlatte.
+  Madam Speaker, let the people's House speak. Let them vote. Put these 
+three bills on the floor, and let the majority rule. That is democracy. 
+Let democracy prevail in this House.
+
+                          ____________________
+```
