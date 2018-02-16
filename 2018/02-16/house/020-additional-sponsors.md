@@ -1,0 +1,66 @@
+---
+granule: CREC-2018-02-16-pt1-PgH1217-8
+date: 2018-02-16
+edition: CREC
+section: HOUSE
+page: H1217
+citation: 164 Cong. Rec. H1217
+---
+
+# ADDITIONAL SPONSORS
+
+**Measures:** H.J.Res. 48, H.R. 99, H.J.Res. 122, H.R. 184, H.R. 586, H.R. 778, H.R. 846, H.R. 878, H.R. 881, H.R. 1161, H.R. 2309, H.R. 2479, H.R. 2553, H.R. 2623, H.R. 2640, H.R. 2687, H.R. 2832, H.R. 3174, H.R. 3252, H.R. 3642, H.R. 3671, H.R. 4115, H.R. 4131, H.R. 4223, H.R. 4240, H.R. 4403, H.R. 4673, H.R. 4681, H.R. 4747, H.R. 4800, H.R. 4910, H.R. 4945, H.R. 4970, H.R. 4995, H.R. 5015
+
+```
+                          ADDITIONAL SPONSORS
+
+  Under clause 7 of rule XII, sponsors were added to public bills and 
+resolutions, as follows:
+
+       H.R. 99: Ms. Matsui and Mr. Khanna.
+       H.R. 184: Mr. Sires.
+       H.R. 586: Mr. Mooney of West Virginia.
+       H.R. 778: Mr. Schrader.
+       H.R. 846: Mr. Sam Johnson of Texas.
+       H.R. 878: Mrs. Handel and Mr. Bost.
+       H.R. 881: Ms. Jackson Lee.
+       H.R. 1161: Mr. MacArthur.
+       H.R. 2309: Mr. Capuano and Mr. Khanna.
+       H.R. 2479: Ms. Meng.
+       H.R. 2553: Mr. Jody B. Hice of Georgia and Mr. Dunn.
+       H.R. 2623: Mr. Budd.
+       H.R. 2640: Mr. Sires, Ms. DeGette, and Ms. Bass.
+       H.R. 2687: Mr. Visclosky.
+       H.R. 2832: Mr. Biggs and Mr. Rice of South Carolina.
+       H.R. 3174: Mr. Pallone, Ms. Michelle Lujan Grisham of New 
+     Mexico, Mr. Yarmuth, Mr. Peterson, and Mr. Carbajal.
+       H.R. 3252: Mr. O'Rourke.
+       H.R. 3642: Mr. Kilmer, Mr. Bishop of Michigan, Mr. Knight, 
+     and Mr. Cooper.
+       H.R. 3671: Mr. Crowley.
+       H.R. 4115: Mr. Carson of Indiana.
+       H.R. 4131: Mr. Mitchell.
+       H.R. 4223: Mr. Sessions.
+       H.R. 4240: Mr. Himes and Mr. Curbelo of Florida.
+       H.R. 4403: Mr. Sessions.
+       H.R. 4673: Ms. McSally and Mr. Fitzpatrick.
+       H.R. 4681: Mr. Chabot.
+       H.R. 4747: Mr. Babin.
+       H.R. 4800: Mr. Welch, Mr. Garamendi, Mr. Khanna, Mr. Ben 
+     Ray Lujan of New Mexico, Mr. Gene Green of Texas, Mr. Meeks, 
+     Ms. DelBene, Mr. Michael F. Doyle of Pennsylvania, Mr. Rush, 
+     Ms. Clarke of New York, Mr. McNerney, Mr. Cardenas, Mr. 
+     Swalwell of California, Ms. DeGette, Mr. Pocan, Mr. 
+     Butterfield, Ms. Matsui, Mr. Huffman, Ms. Norton, Mr. Carson 
+     of Indiana, Ms. Kuster of New Hampshire, Mr. Peterson, Mrs. 
+     Comstock, Mr. Collins of New York, and Mr. Tipton.
+       H.R. 4910: Mrs. Handel.
+       H.R. 4945: Ms. Rosen.
+       H.R. 4970: Mr. Garamendi.
+       H.R. 4995: Mr. Cohen.
+       H.R. 5015: Ms. Shea-Porter and Mr. Ted Lieu of California.
+       H.J. Res. 48: Mr. Heck.
+       H.J. Res. 122: Mr. Pittenger, Mr. Palazzo, Mr. DesJarlais, 
+     Mr. Rohrabacher, Mr. Kustoff of Tennessee, and Mr. Kelly of 
+     Mississippi.
+```
