@@ -1,0 +1,34 @@
+---
+granule: CRECB-2018-pt2-Pg2654-7
+date: 2018-02-16
+edition: CRECB
+section: HOUSE
+page: 2654
+---
+
+# COMMUNICATION FROM SHARED EMPLOYEE OF THE HOUSE
+
+```
+            COMMUNICATION FROM SHARED EMPLOYEE OF THE HOUSE
+
+  The SPEAKER pro tempore laid before the House the following 
+communication from a shared employee of the House of Representatives:
+
+                                                February 14, 2018.
+     Hon. Paul D. Ryan,
+     Speaker, House of Representatives,
+     Washington, DC.
+       Dear Mr. Speaker: This is to notify you formally, pursuant 
+     to Rule VIII of the Rules of the House of Representatives, 
+     that I have been served with a subpoena for documents in a 
+     criminal case issued by the United States District Court for 
+     the District of Columbia.
+       After consultation with the Office of General Counsel, I 
+     have determined that compliance with the subpoena is 
+     consistent with the privileges and rights of the House.
+           Sincerely,
+                                                   Susan Anfinson,
+     Financial Administrator.
+
+                          ____________________
+```
