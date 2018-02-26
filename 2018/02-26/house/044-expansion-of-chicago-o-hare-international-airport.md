@@ -1,0 +1,39 @@
+---
+granule: CRECB-2018-pt3-Pg2730-7
+date: 2018-02-26
+edition: CRECB
+section: HOUSE
+page: 2730
+---
+
+# EXPANSION OF CHICAGO O'HARE INTERNATIONAL AIRPORT
+
+```
+           EXPANSION OF CHICAGO O'HARE INTERNATIONAL AIRPORT
+
+  (Mr. KRISHNAMOORTHI asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. KRISHNAMOORTHI. Mr. Speaker, the city of Chicago and Chicago's 
+airline carriers are finalizing their negotiations for an $8.5 billion 
+expansion of Chicago O'Hare International Airport. This will provide it 
+with a state-of-the-art global terminal. This plan will bring more 
+tourism, more economic activity, and more jobs to the Chicago area, 
+while making it more necessary than ever to complete the Elgin O'Hare 
+Western Access Project.
+  This project has won support from every faction: Chicago and the 
+suburbs, Republicans and Democrats, business and labor, and even Cubs 
+and Sox fans. It is clear why. Western Access would create nearly 
+20,000 jobs: 7,400 in direct construction and more than 3,000 in 
+engineering; another 6,000 indirect jobs
+
+[[Page 2731]]
+
+would be created for equipment suppliers and contractors.
+  Once the project is completed, our region would realize 65,000 
+permanent jobs: 44,000 in Cook County, and nearly half that many in 
+DuPage.
+  With the O'Hare of the future in development, it is time we complete 
+Western Access and allow our region to reap the rewards.
+
+                          ____________________
+```

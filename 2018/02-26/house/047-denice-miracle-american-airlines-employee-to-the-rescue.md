@@ -1,0 +1,36 @@
+---
+granule: CRECB-2018-pt3-Pg2731-3
+date: 2018-02-26
+edition: CRECB
+section: HOUSE
+page: 2731
+---
+
+# DENICE MIRACLE--AMERICAN AIRLINES EMPLOYEE TO THE RESCUE
+
+```
+        DENICE MIRACLE--AMERICAN AIRLINES EMPLOYEE TO THE RESCUE
+
+  (Mr. POE of Texas asked and was given permission to address the House 
+for 1 minute.)
+  Mr. POE of Texas. Mr. Speaker, New York City lights, modeling, and 
+starring in music videos sounds like a script from a movie. So when two 
+young girls met a man they knew as ``Drey'' on Instagram, they thought 
+they had their ticket to the spotlight. Little did they know they were 
+about to be victims of human sex trafficking.
+  The 15- and 17-year-old girls headed to the airport, ready to check 
+into their American Airlines flight. Denice Miracle, however, was 
+working the American Airlines ticket counter when the girls approached. 
+She noticed that the teenagers looked nervous. They had too many bags, 
+no adult was with them, and they had one-way, first-class tickets.
+  Denise's training kicked in, recognizing the red flags of human 
+trafficking. She immediately alerted law enforcement, and they came to 
+the rescue. Thankfully, this story ends with both girls returning home 
+safely. They were not trafficked into the scourge of human slavery, in 
+large part, because of Denice, who saw something and said something.
+  We thank people like Denise Miracle for their work, for their 
+personal involvement in rescuing these two girls from evil.
+  And that is just the way it is.
+
+                          ____________________
+```
