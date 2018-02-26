@@ -1,0 +1,41 @@
+---
+granule: CREC-2018-02-26-pt1-PgH1247
+date: 2018-02-26
+edition: CREC
+section: HOUSE
+page: H1247
+citation: 164 Cong. Rec. H1247
+---
+
+# MOMENT OF SILENCE HONORING THOSE KILLED AT MARJORY STONEMAN DOUGLAS HIGH SCHOOL
+
+**Speaking:** Deutch, Theodore E. (D000610) [D-FL]
+
+```
+  MOMENT OF SILENCE HONORING THOSE KILLED AT MARJORY STONEMAN DOUGLAS 
+                              HIGH SCHOOL
+
+  (Mr. DEUTCH asked and was given permission to address the House for 1 
+minute.)
+  Mr. DEUTCH. Mr. Speaker, I rise today to honor the memory of 17 
+members of the Marjory Stoneman Douglas High School community in 
+Parkland, Florida, and do so in the presence of some of their 
+classmates:
+  Alyssa, Chris, Meadow, Scott, Luke, Helena, Martin, Cara, Alex, 
+Nicholas, Gina, Carmen, Aaron, Joaquin, Peter, Jaime, and Alaina.
+  On February 14, 2018, they were killed in yet another senseless act 
+of gun violence.
+  As we bow in silence, I ask that we remember those we lost, I ask 
+that we lift up the families who are grieving, and I ask that we offer 
+prayers of healing for those who were injured and prayers of peace for 
+the 3,300 survivors.
+  I ask that our quiet contemplation stir courage within the Members of 
+this body--the courage to take action to ensure the freedom of our 
+students, the freedom to learn without fear, and to take action to 
+secure the freedom of all Americans to live in communities without gun 
+violence.
+  The SPEAKER pro tempore. Members and guests in the gallery, please 
+rise for a moment of silence.
+
+                          ____________________
+```
