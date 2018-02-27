@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-02-27-pt1-PgH1319
+date: 2018-02-27
+edition: CREC
+section: HOUSE
+page: H1319
+citation: 164 Cong. Rec. H1319
+---
+
+# FIGHT ONLINE SEX TRAFFICKING
+
+**Speaking:** Paulsen, Erik (P000594) [R-MN]
+
+**Measures:** H.R. 1865
+
+```
+                      FIGHT ONLINE SEX TRAFFICKING
+
+  (Mr. PAULSEN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PAULSEN. Mr. Speaker, sex trafficking is a modern-day slavery 
+that violates the human rights of nearly 21 million victims every year. 
+It is a rampant crime, committed around the world, but what many don't 
+realize is that human trafficking is unfortunately a big problem right 
+here in the United States.
+  Online trafficking is booming because there are no serious legal 
+consequences for the websites that exploit or profit from the 
+exploitation of innocent and vulnerable young children. Websites like 
+backpage.com are able to evade responsibility for their role in 
+trafficking in this industry as they continue to profit from ads 
+selling girls for sex.
+  That is why I am a cosponsor of H.R. 1865, the Allow States and 
+Victims to Fight Online Sex Trafficking Act, bipartisan legislation 
+that will give Federal, State, and local prosecutors the tools that 
+they need to hold websites accountable for supporting this horrendous 
+industry and help put an end to the online sale of trafficking victims.
+
+                          ____________________
+```

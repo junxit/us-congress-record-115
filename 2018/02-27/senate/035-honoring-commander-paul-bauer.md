@@ -1,0 +1,29 @@
+---
+granule: CREC-2018-02-27-pt1-PgS1238
+date: 2018-02-27
+edition: CREC
+section: SENATE
+page: S1238
+citation: 164 Cong. Rec. S1238
+---
+
+# HONORING COMMANDER PAUL BAUER
+
+**Speaking:** Duckworth, Tammy (D000622) [D-IL]
+
+```
+                     HONORING COMMANDER PAUL BAUER
+
+  Ms. DUCKWORTH. Mr. President, today I wish to pay tribute to 
+Commander Paul Bauer, a 31-year veteran of the police force who was 
+fatally shot on Tuesday February 13, 2018, while in the line of duty. 
+Commander Bauer had a remarkable career with the Chicago Police 
+Department and will be remembered by his colleagues as a model police 
+officer. Commander Bauer made the ultimate sacrifice while protecting 
+our city and its people, and I am thankful for all of his years of 
+service. He leaves behind his wife, Erin, of 16 years and his 13-year-
+old daughter, Grace. May his service, sacrifice, and kind spirit serve 
+as an inspiration to us all.
+
+                          ____________________
+```

@@ -1,0 +1,44 @@
+---
+granule: CREC-2018-02-27-pt1-PgH1320-5
+date: 2018-02-27
+edition: CREC
+section: HOUSE
+page: H1320
+citation: 164 Cong. Rec. H1320
+---
+
+# MICHAEL KENNY NAMED 2018 GRAND MARSHAL OF SAVANNAH'S ST. PATRICK'S DAY PARADE
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+MICHAEL KENNY NAMED 2018 GRAND MARSHAL OF SAVANNAH'S ST. PATRICK'S DAY 
+                                 PARADE
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to recognize Mr. 
+Michael Kenny for being named the 2018 grand marshal of the Savannah 
+St. Patrick's Day Parade, the second largest St. Patrick's Day Parade 
+in the United States. It is important for everyone in Savannah, but 
+most specifically, it is important for the Savannah Irish.
+  Savannah has a historically large Irish community, integral to the 
+fabric of our city, and the St. Patrick's Day Parade is a direct result 
+of this impact. The first public observance of the holiday began in 
+1824, and now the parade has around 280 bands, families, soldiers, and 
+floats, all marching through the streets of Savannah.
+  A family affair, the Kenny family owns a successful local roofing 
+company and has worked with the parade for over 40 years. His father, 
+Nicolas Kenny, Jr., was the grand marshal in 1978.
+  In past years, the committee has chosen between many candidates for 
+grand
+
+[[Page H1321]]
+
+marshal, but this year, Mr. Kenny was the only person nominated, a 
+testament to the support and respect he maintains throughout Savannah.
+  Mr. Speaker, I know that Mr. Kenny will do a great job with this 
+year's festivities, and I look forward to the celebration.
+
+                          ____________________
+```

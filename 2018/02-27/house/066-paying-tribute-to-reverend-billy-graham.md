@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-02-27-pt1-PgH1321-6
+date: 2018-02-27
+edition: CREC
+section: HOUSE
+page: H1321
+citation: 164 Cong. Rec. H1321
+---
+
+# PAYING TRIBUTE TO REVEREND BILLY GRAHAM
+
+**Speaking:** Arrington, Jodey C. (A000375) [R-TX]
+
+```
+                PAYING TRIBUTE TO REVEREND BILLY GRAHAM
+
+  (Mr. ARRINGTON asked and was given permission to address the House 
+for 1 minute.)
+  Mr. ARRINGTON. Mr. Speaker, I rise today to pay tribute to the life 
+and legacy of Reverend Billy Graham. He was America's pastor. He was a 
+humble man, and he devoted his life to helping people of all 
+backgrounds discover the true peace and joy found in the life of 
+service to Jesus Christ.
+  Mr. Speaker, we have a lot of problems to solve in this country, much 
+of which are too deep for mere legislation. We need prayer more than we 
+need policy solutions. We need repentance more than we need reform.
+
+[[Page H1322]]
+
+  Mr. Speaker, we need God more than we need government. Billy Graham 
+understood that.
+  We need more of what Billy Graham talked about for six decades, that 
+simple story that God so loved the world that He gave His only son to 
+die for us, and that if we believed that, we would have eternal life 
+with Him. That is what we need.
+  Thank God for Billy Graham.
+
+                          ____________________
+```

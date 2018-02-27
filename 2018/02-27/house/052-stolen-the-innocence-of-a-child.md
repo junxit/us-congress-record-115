@@ -1,0 +1,38 @@
+---
+granule: CREC-2018-02-27-pt1-PgH1319-3
+date: 2018-02-27
+edition: CREC
+section: HOUSE
+page: H1319
+citation: 164 Cong. Rec. H1319
+---
+
+# STOLEN: THE INNOCENCE OF A CHILD
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+                    STOLEN: THE INNOCENCE OF A CHILD
+
+  (Mr. POE of Texas asked and was given permission to address the House 
+for 1 minute.)
+  Mr. POE of Texas. Mr. Speaker, Jane was 9 years old--9--when she was 
+first trafficked in Brownsville, Texas. For 3 years, Maria Losoya 
+trafficked the child. That is her right there. She trafficked Jane from 
+town to town in south Texas. Losoya filled her own pockets by selling 
+Jane at the marketplace of modern-day sex slavery.
+  Mr. Speaker, filthy criminals steal children like Jane's youth, 
+innocence, and they try to steal their souls. Jane's story finally came 
+to light when she alerted authorities at her school in 2015. Now she is 
+trying to cope with the guilt and shame of her past.
+  Mr. Speaker, it is not Jane who should be ashamed; it is the 
+dastardly human traffickers like Maria Losoya who should be ashamed. 
+That is why my legislation, the Shame Act, gives Federal judges the 
+ability to publish the names and photographs of convicted buyers and 
+sellers of our children. Buyers and sellers will no longer be able to 
+hide in plain sight under the cloak of being anonymous. Those who sell 
+and buy the innocence of children should be shamed for all to see.
+  And that is just the way it is.
+
+                          ____________________
+```
