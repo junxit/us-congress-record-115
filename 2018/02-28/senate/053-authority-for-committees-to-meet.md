@@ -1,0 +1,65 @@
+---
+granule: CREC-2018-02-28-pt1-PgS1290-3
+date: 2018-02-28
+edition: CREC
+section: SENATE
+page: S1290
+citation: 164 Cong. Rec. S1290
+---
+
+# AUTHORITY FOR COMMITTEES TO MEET
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+```
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+  Mr. McCONNELL. Mr. President, I have 5 requests for committees to 
+meet during today's session of the Senate. They have the approval of 
+the Majority and Minority leaders.
+  Pursuant to rule XXVI, paragraph 5(a), of the Standing Rules of the 
+Senate, the following committees are authorized to meet during today's 
+session of the Senate:
+
+
+               Committee on Environment and Public Works
+
+  The Committee on Environment and Public Works is authorized to meet 
+during the session of the Senate on Wednesday, February, 28, 2018, at 
+10 a.m., to conduct a hearing entitled ``Oversight: FBI Headquarters 
+Consolidation Project.''
+
+
+           Committee on Health, Education, Labor and Pensions
+
+  The Committee on Health, Education, Labor and Pensions is authorized 
+to meet during the session of the Senate on Wednesday, February, 28, 
+2018, at 9:45 a.m., to conduct a hearing.
+
+
+        Committee on Homeland Security and Governmental Affairs
+
+  The Committee on Homeland Security and Governmental Affairs is 
+authorized to meet during the session of the Senate on Wednesday, 
+February, 28, 2018, at 10 a.m., to conduct a hearing on pending 
+legislation and the following nomination: Michael K. Atkinson, of 
+Maryland, to be Inspector General of the Intelligence Community, Office 
+of the Director of National Intelligence.
+
+
+                     Committee on Veterans' Affairs
+
+  The Committee on Veterans' Affairs is authorized to meet during the 
+session of the Senate on Wednesday, February, 28, 2018, at 10 a.m., to 
+conduct a joint hearing with the House Committee on Veterans' Affairs.
+
+
+                    Subcommittee on Water and Power
+
+  The Subcommittee on Water and Power of the Committee on Energy and 
+Natural Resources is authorized to meet during the session of the 
+Senate on Wednesday, February, 28, 2018 at 11 a.m. to conduct a 
+hearing.
+
+                          ____________________
+```
