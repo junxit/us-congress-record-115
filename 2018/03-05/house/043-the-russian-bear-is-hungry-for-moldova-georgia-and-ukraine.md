@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-03-05-pt1-PgH1356-4
+date: 2018-03-05
+edition: CREC
+section: HOUSE
+page: H1356
+citation: 164 Cong. Rec. H1356
+---
+
+# THE RUSSIAN BEAR IS HUNGRY FOR MOLDOVA, GEORGIA, AND UKRAINE
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+      THE RUSSIAN BEAR IS HUNGRY FOR MOLDOVA, GEORGIA, AND UKRAINE
+
+  (Mr. POE of Texas asked and was given permission to address the House 
+for 1 minute.)
+  Mr. POE of Texas. Mr. Speaker, after the fall of the Soviet Union, 
+the Russian bear started roaming Eastern Europe with its hungry 
+appetite to gobble and dominate politics and the Governments of 
+Moldova, Georgia, and Ukraine.
+  Each nation has had a portion of its sovereign territory occupied by 
+the Napoleon of Siberia, Putin. His military is there, too.
+  I have been in each nation and talked to the speakers of each of the 
+parliaments. Now the three countries are working together in a 
+trilateral bond to thwart Russian interference and also improve their 
+democratic processes.
+  For as it is written in Ecclesiastes: ``A cord of three strands is 
+not easily broken.''
+  I also commend the Atlantic Council for their work with these nations 
+in promoting democratic ideals, combating corruption, and increasing 
+personal freedom.
+  The United States should encourage and support this trilateral union 
+to prevent the hungry bear from eating up each nation and returning 
+them to the old days of Russian oppression.
+  And that is just the way it is.
+
+                          ____________________
+```
