@@ -1,0 +1,94 @@
+---
+granule: CREC-2018-03-06-pt1-PgS1382-3
+date: 2018-03-06
+edition: CREC
+section: SENATE
+page: S1382
+citation: 164 Cong. Rec. S1382
+---
+
+# Text of Senate Amendment 2050
+
+**Speaking:** Nelson, Bill (N000032) [D-FL]
+
+```
+  SA 2050. Mr. NELSON (for himself and Mr. Rubio) submitted an 
+amendment intended to be proposed by him to the bill S. 2155, to 
+promote economic growth, provide tailored regulatory relief, and 
+enhance consumer protections, and for other purposes; which was ordered 
+to lie on the table; as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. __. STANDARDS FOR PHYSICAL CONDITION AND MANAGEMENT OF 
+                   HOUSING RECEIVING ASSISTANCE PAYMENTS.
+
+       (a) In General.--Section 8 of the United States Housing Act 
+     of 1937 (42 U.S.C. 1437f) is amended by inserting after 
+     subsection (v) the following:
+       ``(w) Standards for Physical Condition and Management of 
+     Housing Receiving Assistance Payments.--
+       ``(1) Standards for physical condition and management of 
+     housing.--Any entity receiving assistance payments under this 
+     section shall maintain decent, safe, and sanitary conditions, 
+     as determined by the Secretary, for any structure covered 
+     under a housing assistance payment contract.
+       ``(2) Survey of tenants.--The Secretary shall develop a 
+     process by which a Performance-Based Contract Administrator 
+     shall, on a semiannual basis, conduct a survey of the tenants 
+     of each structure covered under a housing assistance payment 
+     contract for the purpose of identifying consistent or 
+     persistent problems with the physical condition of the 
+     structure or performance of the manager of the structure.
+       ``(3) Remediation.--A structure covered under a housing 
+     assistance payment contract shall be referred to the 
+     Secretary for remediation if a Performance-Based Contract 
+     Administrator identifies a consistent or persistent problem 
+     with the structure or the management of the structure based 
+     on--
+       ``(A) a survey conducted under paragraph (2); or
+       ``(B) any other observation made by the Performance-Based 
+     Contract Administrator during the normal course of business.
+       ``(4) Penalty for failure to uphold standards.--
+       ``(A) In general.--The Secretary may impose a penalty on 
+     any owner of a structure covered under a housing assistance 
+     payment contract if the Secretary finds that the structure or 
+     manager of the structure--
+       ``(i) did not satisfactorily meet the requirements under 
+     paragraph (1); or
+       ``(ii) is repeatedly referred to the Secretary for 
+     remediation by a Performance Based Contract Administrator 
+     through the process established under paragraph (3).
+       ``(B) Amount.--A penalty imposed under subparagraph (A) 
+     shall be in an amount equal to not less than 1 percent of the 
+     annual budget authority the owner is allocated under a 
+     housing assistance payment contract.
+       ``(C) Use of amounts.--Any amounts collected under this 
+     paragraph shall be used solely for the purpose of supporting 
+     safe and sanitary conditions at applicable structures or for 
+     tenant relocation, as designated by the Secretary, with 
+     priority given to the tenants of the structure that led to 
+     the penalty.
+       ``(5) Applicability.--This subsection shall not apply to 
+     any property assisted under subsection (o).''.
+       (b) Issuance of Report.--Not later than 1 year after the 
+     date of enactment of this Act, the Secretary of Housing and 
+     Urban Development shall submit to Congress a report that--
+       (1) examines the adequacy of capital reserves for each 
+     structure covered under a housing assistance payment contract 
+     under section 8 of the United States Housing Act of 1937 (42 
+     U.S.C. 1437f);
+       (2) examines the use of funds derived from a housing 
+     assistance payment contract for purposes unrelated to the 
+     maintenance and capitalization of the structure covered under 
+     the contract; and
+       (3) includes any administrative or legislative 
+     recommendations to further improve the living conditions at 
+     those structures.
+
+[[Page S1383]]
+
+  
+
+                                 ______
+```

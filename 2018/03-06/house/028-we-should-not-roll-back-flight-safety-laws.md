@@ -1,0 +1,37 @@
+---
+granule: CREC-2018-03-06-pt1-PgH1381
+date: 2018-03-06
+edition: CREC
+section: HOUSE
+page: H1381
+citation: 164 Cong. Rec. H1381
+---
+
+# WE SHOULD NOT ROLL BACK FLIGHT SAFETY LAWS
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+               WE SHOULD NOT ROLL BACK FLIGHT SAFETY LAWS
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Mr. Speaker, 9 years ago, Continental Flight 
+3407 crashed in western New York, killing all aboard and one on the 
+ground.
+  The National Transportation Safety Board found that the cause of the 
+crash was pilot error and poor training.
+  Prior to the enactment of flight safety laws, there were two levels 
+of safety: one more stringent for the commercial carriers that we are 
+all familiar with, and one considerably less stringent for the ones 
+that we are less aware of. There were two levels of safety.
+  Now there is only one because of the courageous work of the families 
+of the survivors who came to Congress and helped Congress enact very 
+strict safety regulations. We have not had a commercial crash that 
+ended up in fatalities since that time.
+  It is important that we not roll back these safety standards, as they 
+are based on the National Transportation Safety Board's findings and 
+the work of this Congress.
+
+                          ____________________
+```

@@ -1,0 +1,71 @@
+---
+granule: CREC-2018-03-06-pt1-PgS1376-3
+date: 2018-03-06
+edition: CREC
+section: SENATE
+page: S1376
+citation: 164 Cong. Rec. S1376
+---
+
+# MESSAGES FROM THE HOUSE
+
+**Measures:** S. 831, H.R. 1209, H.R. 2673, H.R. 3183, H.R. 3656, H.R. 4406, H.R. 4646, H.R. 4685
+
+```
+                        MESSAGES FROM THE HOUSE
+
+  At 10:16 a.m., a message from the House of Representatives, delivered 
+by Mrs. Cole, one of its reading clerks, announced that the House has 
+passed the following bill, without amendment:
+
+       S. 831. An act to designate the facility of the United 
+     States Postal Service located at 120 West Pike Street in 
+     Canonsburg, Pennsylvania, as the ``Police Officer Scott 
+     Bashioum Post Office Building''.
+
+  The message also announced that the House has passed the following 
+bills, in which it requests the concurrence of the Senate:
+
+       H.R. 1209. An act to designate the facility of the United 
+     States Postal Service located at 901 N. Francisco Avenue, 
+     Mission, Texas, as the ``Mission Veterans Post Office 
+     Building''.
+       H.R. 2673. An act to designate the facility of the United 
+     States Postal Service located at 514 Broadway Street in 
+     Pekin, Illinois, as the ``Lance Corporal Jordan S. Bastean 
+     Post Office''.
+       H.R. 3183. An act to designate the facility of the United 
+     States Postal Service located at 13683 James Madison Highway 
+     in Palmyra, Virginia, as the ``U.S. Navy Seaman Dakota Kyle 
+     Rigsby Post Office''.
+       H.R. 4406. An act to designate the facility of the United 
+     States Postal Service located at 99 Macombs Place in New 
+     York, New York, as the ``Tuskegee Airmen Post Office 
+     Building''.
+       H.R. 4646. An act to designate the facility of the United 
+     States Postal Service located at 1900 Corporate Drive in 
+     Birmingham, Alabama, as the ``Lance Corporal Thomas E. 
+     Rivers, Jr. Post Office Building''.
+       H.R. 4685. An act to designate the facility of the United 
+     States Postal Service located at 515 Hope Street in Bristol, 
+     Rhode Island, as the ``First Sergeant P. Andrew McKenna Jr. 
+     Post Office''.
+
+
+                          Enrolled Bill Signed
+
+  At 12:36 p.m., a message from the House of Representatives, delivered 
+by Mrs. Cole, one of its reading clerks, announced that the Speaker has 
+signed the following enrolled bill:
+
+       H.R. 3656. An act to amend title 38, United States Code, to 
+     provide for a consistent eligibility date for provision of 
+     Department of Veterans Affairs memorial headstones and 
+     markers for eligible spouses and dependent children of 
+     veterans whose remains are unavailable.
+
+  The enrolled bill was subsequently signed by the President pro 
+tempore (Mr. Hatch).
+
+                          ____________________
+```

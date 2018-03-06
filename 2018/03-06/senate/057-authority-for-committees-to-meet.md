@@ -1,0 +1,84 @@
+---
+granule: CREC-2018-03-06-pt1-PgS1398-2
+date: 2018-03-06
+edition: CREC
+section: SENATE
+page: S1398
+citation: 164 Cong. Rec. S1398
+---
+
+# AUTHORITY FOR COMMITTEES TO MEET
+
+**Speaking:** Thune, John (T000250) [R-SD]
+
+```
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+  Mr. THUNE. Mr. President, I have 6 requests for committees to meet 
+during today's session of the Senate. They have the approval of the 
+Majority and Minority leaders.
+  Pursuant to rule XXVI, paragraph 5(a), of the Standing Rules of the 
+Senate, the following committees are authorized to meet during today's 
+session of the Senate:
+
+
+                      Committee on Armed Services
+
+  The Committee on Armed Services is authorized to meet during the 
+session of the Senate on Tuesday, March 6, 2018, at 9:30 a.m., to 
+conduct a hearing.
+
+
+               Committee on Energy and Natural Resources
+
+  The Committee on Energy and Natural Resources is authorized to meet 
+during the session of the Senate on Tuesday, March 6, 2018, at 10 a.m., 
+to conduct a hearing on the nomination of James Reilly, of Colorado, to 
+be Director of the United States Geological Survey, Department of the 
+Interior.
+
+
+                          Committee on Finance
+
+  The Committee on Finance is authorized to meet during the session of 
+the Senate on Tuesday, March 6, 2018, at 10 a.m., to conduct a hearing 
+entitled ``Protecting E-Commerce Consumers and from Counterfeits.''
+
+
+                     Committee on Veterans' Affairs
+
+  The Committee on Veterans' Affairs is authorized to meet during the 
+session of the Senate on Tuesday, March 6, 2018, at 2 p.m., to conduct 
+a joint hearing.
+
+
+                    Select Committee on Intelligence
+
+  The Select Committee on Intelligence is authorized to meet during the 
+session of the Senate on Tuesday, March 6, 2018, at 2:30 p.m., to 
+conduct a closed briefing.
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page S1398, March 6, 2018, in the second column, the 
+following appears: The Committee on Environment and Public Works 
+is . . .
+  
+  The online Record has been corrected to read: The Select 
+Committee on Intelligence is . . .
+
+
+ ========================= END NOTE ========================= 
+
+
+
+                        Subcommittee on Seapower
+
+  The Subcommittee on Seapower of the Committee Armed Services is 
+authorized to meet during the session of the Senate on Tuesday, March 
+6, 2018 at 10 a.m. to conduct a hearing.
+
+                          ____________________
+```
