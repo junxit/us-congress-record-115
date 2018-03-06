@@ -1,0 +1,40 @@
+---
+granule: CRECB-2018-pt3-Pg3061-2
+date: 2018-03-06
+edition: CRECB
+section: SENATE
+page: 3061
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                  REMEMBERING DANA MARSHALL-BERNSTEIN
+
+● Ms. CORTEZ MASTO. Mr. President, it is with a heavy heart that 
+I honor the life and memory of Dana Marshall-Bernstein and express my 
+deepest condolences to her parents, family, and friends.
+  Dana was diagnosed as a young child with Crohn's disease, which she 
+succumbed to at age 28, but Dana did not allow her disease to define 
+her and instead will be remembered for her infallible spirit, 
+perseverance, strength, and
+
+[[Page 3062]]
+
+courage. Through her large collection of hats and artistic spirit, Dana 
+brought joy to so many. She was a light in the lives around her, as a 
+``spiritual warrior,'' giving hope and support through her work with 
+the southwest chapter of the Crohn's and Colitis Foundation.
+  Dana lived life to the fullest--skiing, playing piano, creating art, 
+and singing every chance she got. Dana's intelligence, brilliance, 
+amazing sense of humor and wit, loving compassionate heart, and all-
+around remarkable soul will always be in the hearts and minds of her 
+loving family and in those who had the fortune of knowing her.●
+
+                          ____________________
+```

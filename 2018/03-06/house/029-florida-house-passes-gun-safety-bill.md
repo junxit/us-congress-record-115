@@ -1,0 +1,32 @@
+---
+granule: CRECB-2018-pt3-Pg3099-3
+date: 2018-03-06
+edition: CRECB
+section: HOUSE
+page: 3099
+---
+
+# FLORIDA HOUSE PASSES GUN SAFETY BILL
+
+```
+                              {time}  1215
+                  FLORIDA HOUSE PASSES GUN SAFETY BILL
+
+  (Ms. NORTON asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. NORTON. Mr. Speaker, Marco Rubio's Florida State Senate got 
+shocked enough by the Parkland shooting to pass a token gun safety 
+bill. The Florida House has yet to act. Whatever Florida does, Rubio's 
+token gun bill in Washington is belied by his pending bill to eliminate 
+virtually all of the District of Columbia's gun safety laws. Worse, 
+Rubio has put his D.C. bill in the Congress to raise his NRA rating for 
+the last two Congresses. It did raise his NRA rating from B plus to A.
+  I have managed to save D.C.'s gun safety laws, but Rubio's shamefully 
+token responses in the Senate to the Parkland tragedy will be seen as 
+one more act of hypocrisy until he stops meddling in the District of 
+Columbia's affairs and withdraws his D.C. gun bill.
+  The SPEAKER pro tempore (Mr. Gianforte). Members are reminded to 
+refrain from engaging in personalities toward Members of the Senate.
+
+                          ____________________
+```
