@@ -1,0 +1,40 @@
+---
+granule: CRECB-2018-pt3-Pg3174-8
+date: 2018-03-07
+edition: CRECB
+section: HOUSE
+page: 3174
+---
+
+# IN MEMORY OF DEPUTY LOCKLEAR
+
+```
+                      IN MEMORY OF DEPUTY LOCKLEAR
+
+  (Mr. PITTENGER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. PITTENGER. Mr. Speaker, I rise today in memory of Scotland 
+County,
+
+[[Page 3175]]
+
+North Carolina, Deputy Alexis ``Thunder Eagle'' Locklear, who was 
+killed in the line of duty last Thursday while rushing to the aid of a 
+fellow officer.
+  Deputy Locklear was just 23 years old and had only been on the force 
+for 10 months, yet those who knew him best said he died doing what he 
+loved.
+  My friend, Scotland County Sheriff Ralph Kersey, said that Deputy 
+Locklear made friends everywhere he went. Sheriff Kersey said: ``He 
+wanted to be a law enforcement officer, and he chose the Scotland 
+County Sheriff's Office. It did not take a long time spending with 
+Thunder to know that he would fit right in with this family.''
+  Deputy Locklear leaves behind a 4-year-old daughter as well as his 
+parents, grandparents, and six sisters.
+  Last week, Scotland County lost a hero, but a hero remembered never 
+dies in our hearts. Please join me in offering condolences to the 
+Locklear family, Sheriff Kersey, and the Scotland County Sheriff's 
+Office.
+
+                          ____________________
+```

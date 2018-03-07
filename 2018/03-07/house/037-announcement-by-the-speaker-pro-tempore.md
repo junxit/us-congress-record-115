@@ -1,0 +1,23 @@
+---
+granule: CRECB-2018-pt3-Pg3190-3
+date: 2018-03-07
+edition: CRECB
+section: HOUSE
+page: 3190
+---
+
+# ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+
+```
+                ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, proceedings 
+will resume on questions previously postponed.
+  Votes will be taken in the following order:
+  The motion to recommit on H.R. 1917; and
+  Passage of H.R. 1917, if ordered.
+  The first electronic vote will be conducted as a 15-minute vote. The 
+second electronic vote will be conducted as a 5-minute vote.
+
+                          ____________________
+```

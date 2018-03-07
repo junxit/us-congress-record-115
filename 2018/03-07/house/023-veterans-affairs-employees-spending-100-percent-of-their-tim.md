@@ -1,0 +1,35 @@
+---
+granule: CRECB-2018-pt3-Pg3175-2
+date: 2018-03-07
+edition: CRECB
+section: HOUSE
+page: 3175
+---
+
+# VETERANS AFFAIRS EMPLOYEES SPENDING 100 PERCENT OF THEIR TIME ON UNION ACTIVITIES
+
+```
+VETERANS AFFAIRS EMPLOYEES SPENDING 100 PERCENT OF THEIR TIME ON UNION 
+                               ACTIVITIES
+
+  (Mr. ARRINGTON asked and was given permission to address the House 
+for 1 minute.)
+  Mr. ARRINGTON. Mr. Speaker, I came to the floor today to speak about 
+my cotton farmers, but my heart is heavy after a conversation with our 
+veterans--our VFW, to be exact--about this issue of union time, union 
+activities on the taxpayer dole.
+  There was a GAO report a year ago that said there were hundreds of VA 
+employees spending 100 percent of their time on union activity, not the 
+job they were hired to do, not in service to our veterans who wait in 
+line to get healthcare, who sometimes get sicker and sometimes even 
+die.
+  The law says that the only way to do official time is it must be 
+administered in a way that is reasonable, necessary, and in the 
+public's best interests. Somebody spending 100 percent of their time on 
+anything other than what they were hired to do, and especially in 
+service to our veterans, is not reasonable; it is not necessary, and it 
+certainly isn't in the best interests of the American people. It is 
+outrageous.
+
+                          ____________________
+```

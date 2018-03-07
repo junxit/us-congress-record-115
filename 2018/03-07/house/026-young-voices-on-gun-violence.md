@@ -1,0 +1,38 @@
+---
+granule: CRECB-2018-pt3-Pg3175-5
+date: 2018-03-07
+edition: CRECB
+section: HOUSE
+page: 3175
+---
+
+# YOUNG VOICES ON GUN VIOLENCE
+
+```
+                              {time}  1215
+                      YOUNG VOICES ON GUN VIOLENCE
+
+  (Mrs. DAVIS of California asked and was given permission to address 
+the House for 1 minute.)
+  Mrs. DAVIS of California. Mr. Speaker, I would like to share excerpts 
+from a letter I received from a 15-year-old in my district of San 
+Diego. It shows the impact the Parkland, Florida, school shooting is 
+having on our young people.
+  This young person writes: ``I have never been in a school shooting 
+nor do I know anyone who has, yet I feel every time I think about it or 
+have a dream about it, I experience it.
+  ``I'm only 15 years old, why am I terrified to go to places I used to 
+love because someone could shoot me?
+  ``Why is it so easy to buy and make guns in this country?
+  ``Why can nobody seem to do the right thing and put a stop to this?
+  ``Why does nobody pay attention to the kids in this country who have 
+never been in a shooting but live in constant fear and do not feel 
+safe?
+  ``I am asking you to do something about the gun policies in this 
+country so people stop dying and younger generations of people can feel 
+safe.
+  ``Put us first, not guns.''
+  Mr. Speaker, what is the Chair's answer to this young voice?
+
+                          ____________________
+```
