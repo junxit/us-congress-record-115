@@ -1,0 +1,37 @@
+---
+granule: CREC-2018-03-08-pt1-PgH1479-2
+date: 2018-03-08
+edition: CREC
+section: HOUSE
+page: H1479
+citation: 164 Cong. Rec. H1479
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  Pastor Tony Perkins, Greenwell Springs Baptist Church, Greenwell 
+Springs, Louisiana, offered the following prayer:
+  Father, we thank You for today.
+  I thank You for the men and women in this distinguished body, whom 
+You have given the privilege of serving the people of this country. May 
+they understand the unique, but fleeting, moment they occupy in the 
+history of man.
+  The challenges of our day are certainly many, and, as a result, the 
+burden that those in this Chamber carry is very heavy. May they look to 
+You as the Apostle James encouraged when we need the wisdom to face 
+challenges and solve problems.
+  As citizens of this country, we pray for them, that You will give 
+them wisdom, wisdom which is from above.
+  I ask that the Holy Spirit guide them like the pillar of fire and the 
+cloud that led the children of Israel.
+  I pray they will recognize and declare dependence upon You, governing 
+with an understanding of the Psalmist's words: ``Blessed is the nation, 
+whose God is the Lord.''
+  In Jesus' name, we pray.
+  Amen.
+
+                          ____________________
+```

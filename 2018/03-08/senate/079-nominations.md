@@ -1,0 +1,56 @@
+---
+granule: CREC-2018-03-08-pt1-PgS1615-4
+date: 2018-03-08
+edition: CREC
+section: SENATE
+page: S1615
+citation: 164 Cong. Rec. S1615
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nomination received by the Senate:
+
+
+                           IN THE COAST GUARD
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS COMMANDANT 
+     OF THE UNITED STATES COAST GUARD AND TO THE GRADE INDICATED 
+     UNDER TITLE 14, U.S.C., SECTION 44:
+
+                             To be admiral
+
+VICE ADM. KARL L. SCHULTZ
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS VICE 
+     COMMANDANT, UNITED STATES COAST GUARD, AND TO THE GRADE 
+     INDICATED UNDER TITLE 14, U.S.C., SECTION 47:
+
+                             To be admiral
+
+VICE ADM. CHARLES W. RAY
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page S1615, March 8, 2018, at the end of the third column, 
+the following appears:IN THE COAST GUARD THE FOLLOWING NAMED 
+OFFICER FOR APPOINTMENT AS COMMANDANT OF THE UNITED STATES COAST 
+GUARD AND TO THE GRADE INDICATED UNDER TITLE 14, U.S.C., SECTION 
+44: To be admiral VICE ADM. KARL L. SCHULTZ
+  
+  The online Record has been corrected to read:IN THE COAST GUARD 
+THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS COMMANDANT OF THE 
+UNITED STATES COAST GUARD AND TO THE GRADE INDICATED UNDER TITLE 
+14, U.S.C., SECTION 44: To be admiral VICE ADM. KARL L. SCHULTZ 
+THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS VICE COMMANDANT, 
+UNITED STATES COAST GUARD, AND TO THE GRADE INDICATED UNDER TITLE 
+14, U.S.C., SECTION 47:To be admiral VICE ADM. CHARLES W. RAY
+
+
+ ========================= END NOTE =========================
+```
