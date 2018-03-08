@@ -1,0 +1,34 @@
+---
+granule: CRECB-2018-pt3-Pg3456-2
+date: 2018-03-08
+edition: CRECB
+section: HOUSE
+page: 3456
+---
+
+# PETITIONS, ETC.
+
+```
+                            PETITIONS, ETC.
+
+  Under clause 3 of rule XII, petitions and papers were laid on the 
+clerk's desk and referred as follows:
+
+       84. The SPEAKER presented a petition of Mr. Gregory D. 
+     Watson, a citizen of Austin, TX, relative to urging Congress 
+     to enact legislation that would guarantee retirees of state 
+     governments, and retirees of local governments, full receipt 
+     of Social Security benefits if, while employed in state or 
+     local government, those retirees made full payments into the 
+     Social Security Trust Fund, via Social Security payroll taxes 
+     on their employment earnings, and that would cease the 
+     appropriation of excess funds for any purposes unrelated to 
+     the Social Security program, including intra-governmental 
+     debt; to the Committee on Ways and Means.
+       85. Also, a petition of the House of Representatives of the 
+     20th Northern Marianas Commonwealth Legislature, relative to 
+     House Joint Resolution No. 20-8, to support the passage of S. 
+     2325, the Northern Mariana Islands U.S. Work Force Act; 
+     jointly to the Committees on Natural Resources and the 
+     Judiciary.
+```
