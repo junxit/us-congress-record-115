@@ -1,0 +1,33 @@
+---
+granule: CREC-2018-03-12-pt1-PgS1642-3
+date: 2018-03-12
+edition: CREC
+section: SENATE
+page: S1642
+citation: 164 Cong. Rec. S1642
+---
+
+# ORDERS FOR TUESDAY, MARCH 13, 2018
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+**Measures:** S. 2155
+
+```
+                   ORDERS FOR TUESDAY, MARCH 13, 2018
+
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that when the 
+Senate completes its business today, it adjourn until 10 a.m., Tuesday, 
+March 13; further, that following the prayer and pledge, the morning 
+hour be deemed expired, the Journal of proceedings be approved to date, 
+the time for the two leaders be reserved for their use later in the 
+day, and morning business be closed. I further ask that following 
+leader remarks, the Senate resume consideration of S. 2155. Finally, I 
+ask that the Senate recess from 12:30 p.m. until 2:15 p.m. and that all 
+time during recess, adjournment, morning business, and leader remarks 
+count postcloture on amendment No. 2151, as modified.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+
+                          ____________________
+```
