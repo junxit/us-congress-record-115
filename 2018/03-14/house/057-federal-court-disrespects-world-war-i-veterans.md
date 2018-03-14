@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-03-14-pt1-PgH1586-3
+date: 2018-03-14
+edition: CREC
+section: HOUSE
+page: H1586
+citation: 164 Cong. Rec. H1586
+---
+
+# FEDERAL COURT DISRESPECTS WORLD WAR I VETERANS
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+             FEDERAL COURT DISRESPECTS WORLD WAR I VETERANS
+
+  (Mr. POE of Texas asked and was given permission to address the House 
+for 1 minute.)
+  Mr. POE of Texas. Mr. Speaker, in 1925, the American Legion erected a 
+memorial in Bladensburg, Maryland, to honor the 49 men who were killed 
+in World War I. The mothers of those who died decided to erect a large 
+cross to mirror the cross-shaped grave markers in the foreign 
+cemeteries where their sons were buried. The 40-foot-tall memorial 
+became known as the Peace Cross.
+  Even though the monument is secular, and after almost 100 years, an 
+agnostic Federal court ruled the historic monument must be torn down, 
+all because it is in the shape of a cross.
+  The wrong-headed decision to tear down the 93-year-old monument is 
+proof that this Federal court has no respect for the sacrifices of 
+Americans killed in World War I. Instead of destroying monuments, we 
+should erect more.
+  What is next? Are Federal judges going to chisel off the crosses on 
+grave markers at veterans' cemeteries?
+  We will see.
+  Keep the Memorial Peace Cross memorial. Heaven forbid, don't remove 
+the cross.
+  And that is just the way it is.
+
+                          ____________________
+```

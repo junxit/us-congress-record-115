@@ -1,0 +1,52 @@
+---
+granule: CREC-2018-03-14-pt1-PgH1552-7
+date: 2018-03-14
+edition: CREC
+section: HOUSE
+page: H1552
+citation: 164 Cong. Rec. H1552
+---
+
+# WELCOMING PASTOR RODNEY DAVID CANNON
+
+**Speaking:** Soto, Darren (S001200) [D-FL]
+
+```
+                  WELCOMING PASTOR RODNEY DAVID CANNON
+
+  The SPEAKER. Without objection, the gentleman from Florida (Mr. Soto) 
+is recognized for 1 minute.
+
+[[Page H1553]]
+
+  There was no objection.
+  Mr. SOTO. Mr. Speaker, I would like to welcome Rodney David Cannon as 
+our congressional guest chaplain today, not only one of our prominent 
+pastors in the district, but also our mayor in Frostproof, Florida.
+  Born in Kansas, raised in Fort Meade, and having lived all over Polk 
+County, Rodney settled down in his new hometown of Frostproof, where he 
+lives with his wife, Lindsey, and their children.
+  As a child, Rodney lived in Highland City, Bartow, and eventually 
+Fort Meade, where he graduated high school in 1995. After graduation, 
+Rodney accepted a music scholarship and began his higher education 
+journey. First he attended Brevard Community College, then transferred 
+to Lee University in Cleveland, Tennessee.
+  Throughout their 15-year marriage, Rodney and Lindsey have lived in 
+various places. Rodney served as a youth pastor in Fort Meade, Winter 
+Haven, Lakeland, Tampa, and Englewood before planting a church in the 
+Daytona area. After 2 years there, the opportunity came for Rodney to 
+become a senior pastor in Frostproof.
+  It was also in 2015 that Rodney decided to run for city council. He 
+won the seat that year by only 20 votes. In his first city council 
+meeting, he was elected by his peers to serve as vice mayor. During 
+that first year on the council, Rodney was able to save the city 
+residents and businesses hundreds of thousands of dollars by working 
+hard to keep the volunteer fire department open.
+  In 2016, he was elected to serve as mayor after only 1 year on the 
+council, and the next year, reelected to serve another 1-year term as 
+mayor.
+  Thank you, Pastor Cannon, for all you do for the Frostproof 
+community.
+
+                          ____________________
+```

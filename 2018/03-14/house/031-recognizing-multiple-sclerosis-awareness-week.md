@@ -1,0 +1,42 @@
+---
+granule: CREC-2018-03-14-pt1-PgH1554
+date: 2018-03-14
+edition: CREC
+section: HOUSE
+page: H1554
+citation: 164 Cong. Rec. H1554
+---
+
+# RECOGNIZING MULTIPLE SCLEROSIS AWARENESS WEEK
+
+**Speaking:** Lee, Barbara (L000551) [D-CA]
+
+**Measures:** H.Res. 176
+
+```
+             RECOGNIZING MULTIPLE SCLEROSIS AWARENESS WEEK
+
+  (Ms. LEE asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. LEE. Mr. Speaker, I rise today to commemorate Multiple Sclerosis 
+Awareness Week, which is March 11 through 17.
+  Each year, activists, physicians, and policymakers come together to 
+spread awareness about this disease and to salute the healthcare 
+professionals and researchers who are dedicated to finding treatments 
+and a cure for this debilitating disease.
+  Since 2008, I have introduced a bipartisan resolution recognizing the 
+goals and ideals of MS Awareness Week. That is H. Res. 176.
+  MS is an unpredictable and incurable disease that my family and 
+hundreds of thousands of families across our Nation experience every 
+day.
+  My sister, Mildred, has lived with MS for more than 40 years. Her 
+courage and the courage of 2 million people living with MS around the 
+world inspire my efforts to bring more research for treatment and a 
+cure.
+  As a member of the House Health and Human Services Appropriations 
+Subcommittee, I promise to continue fighting for increased funding to 
+find a cure, and I hope all of my colleagues, Democrats and 
+Republicans, help us in this effort.
+
+                          ____________________
+```

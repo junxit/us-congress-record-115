@@ -1,0 +1,32 @@
+---
+granule: CREC-2018-03-14-pt1-PgH1552-4
+date: 2018-03-14
+edition: CREC
+section: HOUSE
+page: H1552
+citation: 164 Cong. Rec. H1552
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  Pastor Rodney David Cannon, Frostproof Church of God, Frostproof, 
+Florida, offered the following prayer:
+  Creator God in Heaven, we thank You for this great Nation and for 
+placing us in it for such a time as this. We humbly ask for Your wisdom 
+and guidance in leading as we lay down our titles and take up the 
+servant leader's towel. May we honor You by serving those across the 
+aisle, across the street, and those around the world.
+  Protect those who are protecting us.
+  In the name of Your Son, Jesus, who taught us to pray by saying:
+  Our Father, which art in heaven, hallowed be Thy name. Thy kingdom 
+come, Thy will be done in Earth as it is in Heaven. Give us this day 
+our daily bread, and forgive us our debts, as we forgive our debtors. 
+And lead us not into temptation, but deliver us from evil: For Thine is 
+the kingdom, and the power, and the glory, forever.
+  Amen.
+
+                          ____________________
+```

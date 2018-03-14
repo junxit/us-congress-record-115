@@ -1,0 +1,38 @@
+---
+granule: CREC-2018-03-14-pt1-PgH1554-3
+date: 2018-03-14
+edition: CREC
+section: HOUSE
+page: H1554
+citation: 164 Cong. Rec. H1554
+---
+
+# CALLING FOR ACTION ON GUN SAFETY
+
+**Speaking:** Shea-Porter, Carol (S001170) [D-NH]
+
+```
+                    CALLING FOR ACTION ON GUN SAFETY
+
+  (Ms. SHEA-PORTER asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. SHEA-PORTER. Mr. Speaker, I just returned from outside these 
+doors where there are thousands of young people who are calling for 
+action on gun safety.
+  I marched out with my Democratic colleagues, and I really wish that 
+my Republican friends across the aisle had joined us in this, but I 
+will describe what I saw.
+  I saw a lot of very, very upset young people who are begging this 
+House and the Senate to make change to protect them. They no longer 
+want to live under this threat.
+  There was one sign in particular that caught my eye. A young girl was 
+standing there with a sign, quietly, and it said, ``Am I next?''
+  So, Mr. Speaker, we have to ask ourselves that question: Are we next?
+  They don't want another moment of silence. They want action. They 
+want it now.
+  I congratulate them for their efforts.
+  When 18-year-olds are leading the country with moral courage, I think 
+it is time for us to respond in kind.
+
+                          ____________________
+```

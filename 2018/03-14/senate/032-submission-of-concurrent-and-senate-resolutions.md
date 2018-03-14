@@ -1,0 +1,50 @@
+---
+granule: CREC-2018-03-14-pt1-PgS1735-2
+date: 2018-03-14
+edition: CREC
+section: SENATE
+page: S1735
+citation: 164 Cong. Rec. S1735
+---
+
+# SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+**Measures:** S.Res. 434, S.Res. 435, S.Res. 436
+
+```
+            SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+  The following concurrent resolutions and Senate resolutions were 
+read, and referred (or acted upon), as indicated:
+
+           By Mr. COONS (for himself, Mr. Cochran, Mrs. Shaheen, 
+             Mr. Wicker, Ms. Duckworth, Mr. Cassidy, Mr. Van 
+             Hollen, Mr. Blunt, Mr. Whitehouse, Mr. Boozman, Mr. 
+             Carper, Mr. McCain, Mr. Reed, Mr. Hatch, Ms. Warren, 
+             Ms. Collins, Mr. Brown, Mr. Bennet, Mr. Manchin, Mr. 
+             Cardin, Ms. Hassan, Mr. Donnelly, Mr. Durbin, Mr. 
+             Markey, Mr. Tester, Ms. Smith, Ms. Baldwin, Mr. 
+             Heinrich, Mr. Booker, Ms. Hirono, Mrs. Murray, Ms. 
+             Harris, and Mr. King):
+       S. Res. 434. A resolution recognizing the contributions of 
+     AmeriCorps members and alumni to the lives of the people of 
+     the United States; to the Committee on Health, Education, 
+     Labor, and Pensions.
+           By Mr. PORTMAN (for himself, Mr. Durbin, Mr. Casey, Mr. 
+             Rubio, Mr. Gardner, Mr. Inhofe, Mr. Blumenthal, Mr. 
+             Brown, Mr. Johnson, Mr. Wicker, Ms. Klobuchar, Mr. 
+             Murphy, and Mrs. Shaheen):
+       S. Res. 435. A resolution expressing the sense of the 
+     Senate that the 85th anniversary of the Ukrainian Famine of 
+     1932-1933, known as the Holodomor, should serve as a reminder 
+     of repressive Soviet policies against the people of Ukraine; 
+     to the Committee on Foreign Relations.
+           By Mrs. SHAHEEN (for herself, Mrs. Capito, Ms. 
+             Duckworth, and Ms. Collins):
+       S. Res. 436. A resolution recognizing the Girl Scouts of 
+     the United States of America on its 106th birthday and 
+     affirming the importance of leadership development for girls; 
+     considered and agreed to.
+
+                          ____________________
+```
