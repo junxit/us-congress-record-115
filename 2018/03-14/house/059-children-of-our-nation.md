@@ -1,0 +1,39 @@
+---
+granule: CRECB-2018-pt3-Pg3693-5
+date: 2018-03-14
+edition: CRECB
+section: HOUSE
+page: 3693
+---
+
+# CHILDREN OF OUR NATION
+
+```
+                         CHILDREN OF OUR NATION
+
+  (Ms. JACKSON LEE asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. JACKSON LEE. Mr. Speaker, the children of our Nation are raising 
+their voices. In the last couple of days in my district, many young 
+people representing the 140,000 DACA-status young people in Texas and 
+800,000 in the Nation walked and shouted and asked and cajoled and 
+spoke eloquently about the ridiculous malaise of this Congress, where 
+we have not reauthorized DACA when there is a bill ready to move.
+  Do we care about our children? Do we care about the doctors, lawyers, 
+and astronauts? Do we care about the teachers? Do we care about the 
+parents--mothers and fathers--all DACA-status individuals who love this 
+Nation?
+  And then today we heard from the voices of those who raised their 
+hands and said: I do not feel safe in school. I do not feel safe.
+  So they left their schools and honored those who died in Florida just 
+a few weeks ago. They begged for this Nation and this Congress to get 
+out of its stupor and to begin to pass real gun safety legislation.
+  Raise the age. Ban the bump stocks. Have universal background checks. 
+The children's voices are crying.
+  Finally, Mr. Speaker, where in the world does General Sessions get in 
+his mind that he can fire FBI Directors, Assistant Directors? And where 
+in the world does the President get in his mind that he can fire the 
+Secretary of State in such a disgraceful manner?
+
+                          ____________________
+```
