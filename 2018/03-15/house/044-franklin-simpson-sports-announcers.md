@@ -1,0 +1,42 @@
+---
+granule: CREC-2018-03-15-pt1-PgH1645-4
+date: 2018-03-15
+edition: CREC
+section: HOUSE
+page: H1645
+citation: 164 Cong. Rec. H1645
+---
+
+# FRANKLIN-SIMPSON SPORTS ANNOUNCERS
+
+**Speaking:** Comer, James (C001108) [R-KY]
+
+```
+                   FRANKLIN-SIMPSON SPORTS ANNOUNCERS
+
+  (Mr. COMER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. COMER. Mr. Speaker, I rise today to recognize Mr. James Mooneyhan 
+and Mr. Steve Thurmond for their contributions to Simpson County in the 
+First Congressional District of Kentucky.
+  These two community leaders have not only served as ambassadors for 
+Franklin-Simpson High School throughout their careers and collectively 
+witnessed over 33 years of sports history, but have contributed to the 
+economic development and well-being of their fellow citizens during 
+their careers in public service.
+  Off air, Steve Thurmond is the executive director of the Franklin-
+Simpson Chamber of Commerce, and James Mooneyhan has served as Simpson 
+County's jailer. From state championship titles to their children's 
+successes, their commentary continually showcased the fervent pride 
+Simpson Countians hold for their community.
+  The excitement and spirit resulting from the unique blend of their 
+personalities will be extremely difficult to replace, and their 
+retirement marks the end of an era for this storied program.
+  Although the voices of Franklin-Simpson athletics will soon be 
+broadcast throughout the region for the last time, I join with the 
+entire community to thank them for the laughs and unforgettable 
+memories they have provided over the last 25 years. I look forward to 
+seeing these Wildcat fans on the sidelines for years to come.
+
+                          ____________________
+```
