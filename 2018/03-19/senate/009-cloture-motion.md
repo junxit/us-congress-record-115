@@ -1,0 +1,176 @@
+---
+granule: CREC-2018-03-19-pt1-PgS1780-2
+date: 2018-03-19
+edition: CREC
+section: SENATE
+page: S1780
+citation: 164 Cong. Rec. S1780
+---
+
+# CLOTURE MOTION
+
+**Speaking:** Cornyn, John (C001056) [R-TX]
+
+**Measures:** H.R. 1865
+
+```
+                             CLOTURE MOTION
+
+  The PRESIDING OFFICER. Pursuant to rule XXII, the Chair lays before 
+the Senate the pending cloture motion, which the clerk will state.
+  The legislative clerk read as follows:
+
+                             Cloture Motion
+
+       We, the undersigned Senators, in accordance with the 
+     provisions of rule XXII of the Standing Rules of the Senate, 
+     do hereby move to bring to a close debate on the motion to 
+     proceed to Calendar No. 339, H.R. 1865, an act to amend the 
+     Communications Act of 1934 to clarify that section 230 of 
+     such Act does not prohibit the enforcement against providers 
+     and users of interactive computer services of Federal and 
+     State criminal and civil law relating to sexual exploitation 
+     of children or sex trafficking, and for other purposes.
+         Mitch McConnell, John Kennedy, John Cornyn, Dan Sullivan, 
+           Joni Ernst, James Lankford, Richard Burr, Johnny 
+           Isakson, Thom Tillis, Mike Crapo, Steve Daines, John 
+           Hoeven, Tom Cotton, Roger F. Wicker, Patrick J. Toomey, 
+           Mike Rounds, Rob Portman.
+
+  The PRESIDING OFFICER. By unanimous consent, the mandatory quorum 
+call has been waived.
+  The question is, Is it the sense of the Senate that debate on the 
+motion to proceed to H.R. 1865, an act to amend the Communications Act 
+of 1934 to clarify that section 230 of such Act does not prohibit the 
+enforcement against providers and users of interactive computer 
+services of Federal and State criminal and civil law relating to sexual 
+exploitation of children or sex trafficking, and for other purposes, 
+shall be brought to a close?
+  The yeas and nays are mandatory under the rule.
+  The clerk will call the roll.
+  The bill clerk called the roll.
+  Mr. CORNYN. The following Senators are necessarily absent: the 
+Senator from North Carolina (Mr. Burr), the Senator from Arizona (Mr. 
+McCain), the Senator from Kansas (Mr. Roberts), and the Senator from 
+Pennsylvania (Mr. Toomey).
+  The PRESIDING OFFICER. Are there any other Senators in the Chamber 
+desiring to vote?
+  The yeas and nays resulted--yeas 94, nays 2, as follows:
+
+                      [Rollcall Vote No. 57 Leg.]
+
+                                YEAS--94
+
+     Alexander
+     Baldwin
+     Barrasso
+     Bennet
+     Blumenthal
+     Blunt
+     Booker
+     Boozman
+     Brown
+     Cantwell
+     Capito
+     Cardin
+     Carper
+     Casey
+     Cassidy
+     Cochran
+     Collins
+     Coons
+     Corker
+     Cornyn
+     Cortez Masto
+     Cotton
+     Crapo
+     Cruz
+     Daines
+     Donnelly
+     Duckworth
+     Durbin
+     Enzi
+     Ernst
+     Feinstein
+     Fischer
+     Flake
+     Gardner
+     Gillibrand
+     Graham
+     Grassley
+     Harris
+     Hassan
+     Hatch
+     Heinrich
+     Heitkamp
+     Heller
+     Hirono
+     Hoeven
+     Inhofe
+     Isakson
+     Johnson
+     Jones
+     Kaine
+     Kennedy
+     King
+     Klobuchar
+     Lankford
+     Leahy
+     Lee
+     Manchin
+     Markey
+     McCaskill
+     McConnell
+     Menendez
+     Merkley
+     Moran
+     Murkowski
+     Murphy
+     Murray
+     Nelson
+     Perdue
+     Peters
+     Portman
+     Reed
+     Risch
+     Rounds
+     Rubio
+     Sanders
+     Sasse
+     Schatz
+     Schumer
+     Scott
+     Shaheen
+     Shelby
+     Smith
+     Stabenow
+     Sullivan
+     Tester
+     Thune
+     Tillis
+     Udall
+     Van Hollen
+     Warner
+     Warren
+     Whitehouse
+     Wicker
+     Young
+
+                                NAYS--2
+
+     Paul
+     Wyden
+       
+
+                             NOT VOTING--4
+
+     Burr
+     McCain
+     Roberts
+     Toomey
+  The PRESIDING OFFICER. On this vote, the yeas are 94, the nays are 2.
+  Three-fifths of the Senators duly chosen and sworn having voted in 
+the affirmative, the motion is agreed to.
+
+                          ____________________
+```

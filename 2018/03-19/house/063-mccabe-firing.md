@@ -1,0 +1,41 @@
+---
+granule: CREC-2018-03-19-pt1-PgH1683-2
+date: 2018-03-19
+edition: CREC
+section: HOUSE
+page: H1683
+citation: 164 Cong. Rec. H1683
+---
+
+# McCABE FIRING
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                             McCABE FIRING
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute.)
+  Ms. KAPTUR. Mr. Speaker, our law enforcement and intelligence 
+community--most notably, the FBI--is sustaining an unprecedented, 
+coordinated attack led by the President of the United States. No one is 
+above the law in our country, including the President.
+  FBI Director Andrew McCabe, a 20-year veteran of the FBI, is the 
+latest to fall to this concentrated effort to undermine Special Counsel 
+Robert Mueller's investigation into the Trump campaign's entanglements 
+with Russia during the 2016 Presidential election.
+  Incidentally, former FBI Director Mueller has served our Nation for 
+36 years: as a soldier in the U.S. Navy with a Purple Heart; as a U.S. 
+attorney; and also as FBI Director, including after 9/11 when he 
+oversaw the transformation of the FBI from a domestic law enforcement 
+agency into a global counterterrorism and counterintelligence agency. 
+Wow.
+  This administration is making every effort to degrade our Federal law 
+enforcement institutions and, even more insidiously, by a negative 
+media campaign to erode public faith in these institutions. Let truth 
+will out.
+  The SPEAKER pro tempore. Members are reminded to refrain from 
+engaging in personalities toward the President.
+
+                          ____________________
+```

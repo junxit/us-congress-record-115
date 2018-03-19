@@ -1,0 +1,36 @@
+---
+granule: CREC-2018-03-19-pt1-PgH1659-3
+date: 2018-03-19
+edition: CREC
+section: HOUSE
+page: H1659
+citation: 164 Cong. Rec. H1659
+---
+
+# RECOGNIZING THE BUCKS COUNTY CHILDREN'S MUSEUM
+
+**Speaking:** Fitzpatrick, Brian K. (F000466) [R-PA]
+
+```
+             RECOGNIZING THE BUCKS COUNTY CHILDREN'S MUSEUM
+
+  (Mr. FITZPATRICK asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. FITZPATRICK. Mr. Speaker, I rise today to recognize The Bucks 
+County Children's Museum and the impactful programs that they bring to 
+our community.
+  Located in New Hope, the museum focuses on creating fun for children 
+up to 7 years old who enjoy using their imagination. At 9,000 square 
+feet, the Children's Museum provides something for every kid. From 
+``The Hospital'' exhibit, where kids can put on a lab coat, drive an 
+ambulance, and perform an operation, to the ``Town Square,'' where kids 
+can go back in time to a ``turn of the century'' general store, or ride 
+the Express train. Our kids can take a virtual hot air balloon or grab 
+a shovel and dig to find artifacts buried in a ``Digging'' exhibit.
+  It is incredibly important that we continue to inspire and educate 
+our next generation. I thank the Bucks County Children's Museum for 
+what they do to bring wonder and wonderful experiences to the youngest 
+citizens of Bucks County.
+
+                          ____________________
+```
