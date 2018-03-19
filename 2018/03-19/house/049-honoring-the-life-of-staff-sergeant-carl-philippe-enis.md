@@ -1,0 +1,41 @@
+---
+granule: CRECB-2018-pt3-Pg3870-2
+date: 2018-03-19
+edition: CRECB
+section: HOUSE
+page: 3870
+---
+
+# HONORING THE LIFE OF STAFF SERGEANT CARL PHILIPPE ENIS
+
+```
+         HONORING THE LIFE OF STAFF SERGEANT CARL PHILIPPE ENIS
+
+  (Ms. ROS-LEHTINEN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. ROS-LEHTINEN. Mr. Speaker, it is with deep respect that I 
+recognize the tragic loss of Staff Sergeant Carl Philippe Enis, 
+pictured here, who was one of seven brave U.S. servicemembers killed in 
+a helicopter crash last Thursday, March 15, 2018, in western Iraq.
+  Carl, a south Florida native who grew up in my congressional district 
+in Pinecrest, was an Air Force pararescueman serving in a combat role 
+in Iraq for the 308th Rescue Squadron from Patrick Air Force Base 
+supporting Operation Inherent Resolve when his helicopter went down.
+  Sergeant Enis was a Reserve Citizen Airman combat rescue and recovery 
+specialist who supported Air Force special operations. His job truly 
+embodied his heart and spirit, where he consistently put his own life 
+at risk to save others both in combat and humanitarian environments. He 
+always tackled every challenge with a smile on his face, no matter the 
+danger or difficulty.
+  Carl was also an active outdoorsman who embraced his passion for 
+fishing, hiking, hunting, and scuba diving, and lived his life to the 
+fullest. He was a graduate of Gulliver Prep, in my congressional 
+district, and Florida State University.
+  Carl is survived by his wife, Angela; his mother, Colleen; and his 
+brother, Edward. Their families, our community, and all Americans can 
+be proud knowing that Sergeant Enis gave his last full measure 
+performing his mission and serving the most noble pararescue creed: 
+``These things we do, that others may live.'
+
+                          ____________________
+```

@@ -1,0 +1,38 @@
+---
+granule: CRECB-2018-pt3-Pg3869-5
+date: 2018-03-19
+edition: CRECB
+section: HOUSE
+page: 3869
+---
+
+# REMEMBERING DR. STEPHEN HAWKING
+
+```
+                    REMEMBERING DR. STEPHEN HAWKING
+
+  (Mr. LANGEVIN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LANGEVIN. Mr. Speaker, I rise today to honor the extraordinary 
+life of Dr. Stephen Hawking, who passed away last week at the age of 
+76.
+  Stephen Hawking was a brilliant student of the universe, a giant of 
+the world stage, an inspiration to me personally and to us all. Through 
+his discoveries about black holes and quantum mechanics, Professor 
+Hawking challenged humankind to ponder the mysteries of the cosmos. He 
+was curiosity personified, having once remarked: ``My goal is simple. 
+It is a complete understanding of the universe, why it is as it is and 
+why it exists at all.''
+  Yet Professor Hawking, who was diagnosed with ALS, also known as Lou 
+Gehrig's disease, at the age of 21, also personified the unconquerable 
+human spirit. He took on the challenges of his disability with 
+unparalleled tenacity and a trademark sense of humor, all the while 
+reminding us ``to look up at the stars and not down at your feet.''
+
+[[Page 3870]]
+
+  Mr. Speaker, in short, he was a force of nature. He made a 
+difference.
+
+                          ____________________
+```

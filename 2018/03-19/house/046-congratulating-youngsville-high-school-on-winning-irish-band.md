@@ -1,0 +1,37 @@
+---
+granule: CRECB-2018-pt3-Pg3869-4
+date: 2018-03-19
+edition: CRECB
+section: HOUSE
+page: 3869
+---
+
+# CONGRATULATING YOUNGSVILLE HIGH SCHOOL ON WINNING IRISH BAND COMPETITION
+
+```
+     CONGRATULATING YOUNGSVILLE HIGH SCHOOL ON WINNING IRISH BAND 
+                              COMPETITION
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to 
+congratulate the Youngsville High School Marching Band for winning the 
+48th annual Limerick International Band Championship in Ireland.
+  The Youngsville Marching Eagles stole the show as they were crowned 
+the overall winners in the band competition. The Warren County students 
+braved blizzard-like conditions to bring home the top prize. Snow was 
+piled high on umbrellas, hats; and even big brass instruments were 
+coated in snowflakes. But the weather couldn't dampen the spirits of 
+the musicians or the spectators. Spirits are also flying high for the 
+proud parents, friends, and supporters in Youngsville, Pennsylvania.
+  Mr. Speaker, the Youngsville Marching Eagles worked hard to fundraise 
+to make this international trip possible. For many, it was the first 
+time they traveled outside the Commonwealth, let alone the country. The 
+band also performed in Dublin at the St. Patrick's Festival Parade, 
+where they were named ``Best Small Band.''
+  These Youngsville teens really dazzled the crowd, and I am so proud 
+of their incredible international achievement. Congratulations to the 
+band and Band Director Cindy Scheid.
+
+                          ____________________
+```
