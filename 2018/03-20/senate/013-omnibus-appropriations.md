@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-03-20-pt1-PgS1800-3
+date: 2018-03-20
+edition: CREC
+section: SENATE
+page: S1800
+citation: 164 Cong. Rec. S1800
+---
+
+# OMNIBUS APPROPRIATIONS
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+```
+                         OMNIBUS APPROPRIATIONS
+
+  Mr. SCHUMER. Mr. President, while the Senate conducts an important 
+debate today on Yemen, we continue to negotiate an omnibus spending 
+bill. It will follow through on the bipartisan budget deal we struck in 
+February that, for the first time in a long time, will robustly fund 
+our military and provide substantial investment in our middle class.
+  For too long, the arbitrary and pointless sequester caps held back 
+Federal investment in jobs, scientific research, healthcare, and 
+education. They also handicapped our military and prevented long-term 
+planning at the Pentagon. The budget deal paved the way to do away with 
+the harmful sequester caps, and now the omnibus will put the nail in 
+the coffin.
+  Negotiations continue between the four leaders. A few sticking points 
+remain but we are very close to signing off on legislation that both 
+Houses will be able to take up and pass by the end of the week.
+  Mr. President, on the omni, I agree with the leader. Hopefully, we 
+can come to an agreement and pass it this week. It has some things no 
+one likes, and it has a lot of things not everybody likes but most 
+people like. The basic structure of it was a fair compromise, and, 
+hopefully, we can come to an agreement. Our staffs are working really 
+hard.
+
+                          ____________________
+```

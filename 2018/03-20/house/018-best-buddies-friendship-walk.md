@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-03-20-pt1-PgH1703-3
+date: 2018-03-20
+edition: CREC
+section: HOUSE
+page: H1703
+citation: 164 Cong. Rec. H1703
+---
+
+# BEST BUDDIES FRIENDSHIP WALK
+
+**Speaking:** Ros-Lehtinen, Ileana (R000435) [R-FL]
+
+```
+                      BEST BUDDIES FRIENDSHIP WALK
+
+  (Ms. ROS-LEHTINEN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. ROS-LEHTINEN. Mr. Speaker, I rise today to congratulate Best 
+Buddies International for a successful 5K walk in downtown Miami this 
+past Saturday, March 17.
+  Best Buddies International was founded in 1989 by one of my 
+constituents, Anthony K. Shriver, and it promotes the idea that every 
+person has a gift and that every person can contribute. This message is 
+emblematic of what makes America successful, and it has made Best 
+Buddies a thriving global organization serving thousands of individuals 
+with intellectual and developmental disabilities.
+  The Best Buddies Friendship Walk allows those who are often excluded 
+because of their differences the opportunity to create one-on-one 
+friendships that last a lifetime. It is that model that has allowed 
+Best Buddies to make extraordinary advancements in the autism community 
+to increase understanding and acceptance of the disability.
+  I would like to extend my congratulations for a successful Best 
+Buddies Friendship Walk. I am so delighted to see my constituents 
+giving the gift of friendship to individuals in south Florida with 
+intellectual and developmental disabilities.
+
+                          ____________________
+```

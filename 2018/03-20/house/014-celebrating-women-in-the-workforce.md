@@ -1,0 +1,37 @@
+---
+granule: CREC-2018-03-20-pt1-PgH1702-9
+date: 2018-03-20
+edition: CREC
+section: HOUSE
+page: H1702
+citation: 164 Cong. Rec. H1702
+---
+
+# CELEBRATING WOMEN IN THE WORKFORCE
+
+**Speaking:** Foxx, Virginia (F000450) [R-NC]
+
+```
+                   CELEBRATING WOMEN IN THE WORKFORCE
+
+  (Ms. FOXX asked and was given permission to address the House for 1 
+minute.)
+  Ms. FOXX. Mr. Speaker, today I rise in honor of Women's History 
+Month. Every March, we celebrate the trailblazing women who have 
+enriched our history, our society, and our communities.
+  This month, it is important to recognize the hardworking women in 
+today's workforce. Today, more than 70 percent of women work outside of 
+the home, and these women account for nearly half of the workforce, 
+while 40 percent of women are their family's top earners.
+  Because of tax reform, the women of America's workforce will be able 
+to keep more of their hard-earned cash to spend on their families, 
+rather than sending it to Washington. Additionally, working moms and 
+their families will receive double the child tax credit to ensure they 
+have the means to care for their children.
+  Mr. Speaker, to the naysayers who claimed that tax reform would only 
+benefit rich men, I say that is categorically false. Tax reform already 
+has and will continue to empower the wonderful women in America's 
+workforce to make history worth recognizing.
+
+                          ____________________
+```

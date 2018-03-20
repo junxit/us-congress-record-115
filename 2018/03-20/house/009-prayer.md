@@ -1,0 +1,36 @@
+---
+granule: CREC-2018-03-20-pt1-PgH1702-4
+date: 2018-03-20
+edition: CREC
+section: HOUSE
+page: H1702
+citation: 164 Cong. Rec. H1702
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  Dr. Michael S. Lewis, Roswell Street Baptist Church, Marietta, 
+Georgia, offered the following prayer:
+  Our Father in Heaven, we enter into Your presence this day with 
+thanksgiving in our hearts for the gracious gift of life and the 
+opportunities that You have set before us. We bless You for being our 
+Creator and for providing a living relationship of love through Your 
+Son and our Savior, the Lord Jesus Christ.
+  We humble ourselves before You as men and women of this special body 
+whom You have appointed with the responsibility of serving the people 
+of this Nation. May You fill the minds of each leader with wisdom which 
+is from above, fill each heart with passion for Your glory and the 
+greatest good of others, and fill each decision with the guidance of 
+Your Spirit.
+  My heart is grateful to voice this intercessory prayer on this day in 
+our Nation's history with fellow citizens. May You unite our hearts to 
+glorify Your name. May You bless the cities and communities of our 
+Nation with peace. May You bless the United States of America, for I 
+humbly make this prayer in the name of Jesus.
+  Amen.
+
+                          ____________________
+```

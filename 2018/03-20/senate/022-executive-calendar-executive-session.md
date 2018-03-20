@@ -1,0 +1,48 @@
+---
+granule: CREC-2018-03-20-pt1-PgS1834
+date: 2018-03-20
+edition: CREC
+section: SENATE
+page: S1834
+citation: 164 Cong. Rec. S1834
+---
+
+# EXECUTIVE CALENDAR (Executive Session)
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+```
+                           EXECUTIVE CALENDAR
+
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the Senate 
+proceed to executive session for the en bloc consideration of the 
+following nominations: Executive Calendar Nos. 735, 736, 737, 738, and 
+739.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+  The clerk will report the nominations en bloc.
+  The bill clerk read the nominations of William M. McSwain, of 
+Pennsylvania, to be United States Attorney for the Eastern District of 
+Pennsylvania for the term of four years; Matthew D. Harris, of Utah, to 
+be United States Marshal for the District of Utah for the term of four 
+years; Johnny Lee Kuhlman, of Oklahoma, to be United States Marshal for 
+the Western District of Oklahoma for the term of four years; Joseph D. 
+McClain, of Indiana, to be United States Marshal for the Southern 
+District of Indiana for the term of four years; and David A. Weaver, of 
+Colorado, to be United States Marshal for the District of Colorado for 
+the term of four years.
+  Thereupon, the Senate proceeded to consider the nominations en bloc.
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the Senate 
+vote on the nominations en bloc with no intervening action or debate; 
+that if confirmed, the motions to reconsider be considered made and 
+laid upon the table en bloc; that the President be immediately notified 
+of the Senate's action; that no further motions be in order; and that 
+any statements relating to the nominations be printed in the Record.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+  The question is, Will the Senate advise and consent to the McSwain, 
+Harris, Kuhlman, McClain, and Weaver nominations en bloc?
+  The nominations were confirmed en bloc.
+
+                          ____________________
+```

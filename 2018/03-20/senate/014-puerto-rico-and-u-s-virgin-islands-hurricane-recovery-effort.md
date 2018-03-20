@@ -1,0 +1,50 @@
+---
+granule: CREC-2018-03-20-pt1-PgS1800-4
+date: 2018-03-20
+edition: CREC
+section: SENATE
+page: S1800
+citation: 164 Cong. Rec. S1800
+---
+
+# PUERTO RICO AND U.S. VIRGIN ISLANDS HURRICANE RECOVERY EFFORT
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+```
+     PUERTO RICO AND U.S. VIRGIN ISLANDS HURRICANE RECOVERY EFFORT
+
+  Mr. SCHUMER. Mr. President, I would like to say a word about Puerto 
+Rico. Today marks the sixth anniversary of Hurricane Maria's landfall 
+on the island--the 6-month anniversary. We all know that the storm in 
+Puerto Rico and the U.S. Virgin Islands was one of the most powerful 
+and devastating ever to have struck those islands. There was terrible 
+damage to schools, hospitals, water systems, roads, homes, and 
+businesses.
+
+[[Page S1801]]
+
+  For months and months, people didn't have electricity or clean water 
+or cell service. Far too many people are still waiting for relief. 
+There are 120,000 people without electricity. Hundreds of thousands 
+continue to lose power on a temporary basis. Calculating the hours of 
+lost electricity service, Puerto Rico has experienced the longest 
+blackout in the history of the United States.
+  Tens of thousands are still awaiting permanent shelter, and 10,000 
+small businesses are closed.
+  Puerto Rico struggled with a severe debt and healthcare crisis before 
+Hurricane Maria came to its shores. The damage wrought by the hurricane 
+has set the island even further back, despite the valiant efforts of 
+its people.
+  Congress has passed significant relief as part of the bipartisan 
+budget agreement earlier this year. We have to make sure that the aid 
+goes to where it needs to go and that we provide additional aid if it 
+is required.
+  To the long-suffering citizens of Puerto Rico, the Virgin Islands, 
+and the thousands who have relocated to the mainland, we haven't 
+forgotten you. We are here to help you. You are on our minds, and we 
+are going to keep fighting to help you rebuild your homes, your 
+communities, and your beloved islands.
+
+                          ____________________
+```
