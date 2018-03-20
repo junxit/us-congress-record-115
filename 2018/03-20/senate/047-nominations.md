@@ -1,0 +1,44 @@
+---
+granule: CRECB-2018-pt3-Pg3950-3
+date: 2018-03-20
+edition: CRECB
+section: SENATE
+page: 3950
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                          DEPARTMENT OF STATE
+
+       MIKE POMPEO, OF KANSAS, TO BE SECRETARY OF STATE, VICE REX 
+     W. TILLERSON.
+       STEPHEN AKARD, OF INDIANA, TO BE DIRECTOR OF THE OFFICE OF 
+     FOREIGN MISSIONS, WITH THE RANK OF AMBASSADOR, VICE GENTRY O. 
+     SMITH, RESIGNED
+
+
+                EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+
+       SHARON FAST GUSTAFSON, OF VIRGINIA, TO BE GENERAL COUNSEL 
+     OF THE EQUAL EMPLOYMENT OPPORTUNITY COMMISSION FOR A TERM OF 
+     FOUR YEARS, VICE P. DAVID LOPEZ, RESIGNED.
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED UNDER ARTICLE II, SECTION 
+     2, CLAUSE 2, OF THE UNITED STATES CONSTITUTION:
+
+                           To be rear admiral
+
+REAR ADM. (LH) RONNY L. JACKSON
+
+                          ____________________
+```

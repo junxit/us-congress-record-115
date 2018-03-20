@@ -1,0 +1,45 @@
+---
+granule: CRECB-2018-pt3-Pg3900
+date: 2018-03-20
+edition: CRECB
+section: SENATE
+page: 3900
+---
+
+# OMNIBUS APPROPRIATIONS
+
+```
+                         OMNIBUS APPROPRIATIONS
+
+  Mr. McCONNELL. Mr. President, on a final matter, later this week, the 
+Senate will consider an omnibus spending package to address a number of 
+critical priorities, from rebuilding America's infrastructure to 
+fighting the opioid epidemic. In particular, building on the funding 
+agreement passed in February, the measure will deliver the resources 
+and certainty that America's military deserves. To be specific, this 
+legislation will provide the largest year-on-year increase in defense 
+funding in 15 years. After years of disproportionate cuts to our armed 
+services, Congress has begun to provide adequate resources to put an 
+end to the harmful decline in combat readiness, to fulfill our 
+commitments to American families who sacrifice through service--many of 
+them in my home State of Kentucky.
+  For our men and women in uniform, this means a well-deserved pay 
+raise. For our veterans back home, it means increased oversight and 
+modernization in the Veterans' Administration care system, thanks to a 
+record level of VA funding. Our warriors on the frontline deserve to be 
+trained to the highest standards, as do the units that replace them. 
+Now our commanders can work to restore combat readiness--and not a 
+moment too soon. Threats around the world are only growing in number 
+and intensity. By strengthening our investment in missile defense, by 
+funding new weapons systems, by scaling up shipbuilding and aircraft 
+procurement, and by investing in our all-volunteer servicemembers, we 
+will send a strong message to our allies and our foes alike that 
+America's military is regaining dominance.
+  This week, my colleagues will have the opportunity to follow through 
+and address the pressing needs of the defense community. I hope each of 
+them will join me in voting to swiftly pass the omnibus, thus giving 
+our Armed Forces the resources they need and deserve.
+  I yield the floor.
+
+                          ____________________
+```
