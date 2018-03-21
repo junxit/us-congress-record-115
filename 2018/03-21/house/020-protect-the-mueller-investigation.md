@@ -1,0 +1,41 @@
+---
+granule: CRECB-2018-pt3-Pg4031-3
+date: 2018-03-21
+edition: CRECB
+section: HOUSE
+page: 4031
+---
+
+# PROTECT THE MUELLER INVESTIGATION
+
+```
+                   PROTECT THE MUELLER INVESTIGATION
+
+  (Mr. WELCH asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. WELCH. Mr. Speaker, make no mistake about it: through their words 
+and actions, President Trump and his allies are doing everything they 
+can to destroy the independent investigation of Special Counsel Robert 
+Mueller through provocative tweets: a witch hunt;
+  Through reckless actions: firing Director Comey and Assistant 
+Director McCabe; and
+  Through provocative statements: his personal attorney calling for an 
+end to the investigation.
+  The question, Mr. Speaker, is not what the President wants to do or 
+may do. The question is: Will Congress do what it must do, which is 
+protect the Mueller investigation?
+  A number of us have a bill that would do just that. Our bill would 
+require a three-judge panel to approve any dismissal of Mr. Mueller.
+  Mr. Speaker, no American is above the law, no Member of Congress is 
+above the law, and no member of the executive branch is above the law, 
+including President Trump.
+  Mr. Speaker, let the House vote on our bill. Make each one of us be 
+accountable to our constituents on the rule of law.
+  Will we vote to protect the Mueller investigation or will we 
+acquiesce to the President's threats and temper tantrums?
+  Mr. Speaker, let us vote.
+  The SPEAKER pro tempore. Members are reminded to refrain from 
+engaging in personalities toward the President.
+
+                          ____________________
+```

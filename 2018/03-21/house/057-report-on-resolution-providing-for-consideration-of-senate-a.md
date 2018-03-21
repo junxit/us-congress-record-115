@@ -1,0 +1,29 @@
+---
+granule: CRECB-2018-pt3-Pg4049-2
+date: 2018-03-21
+edition: CRECB
+section: HOUSE
+page: 4049
+---
+
+# REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF SENATE AMENDMENT TO H.R. 1625, TARGETED REWARDS FOR THE GLOBAL ERADICATION OF HUMAN TRAFFICKING; AND PROVIDING FOR PROCEEDINGS DURING THE PERIOD FROM MARCH 23, 2018, THROUGH APRIL 9, 2018
+
+```
+REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF SENATE AMENDMENT TO 
+    H.R. 1625, TARGETED REWARDS FOR THE GLOBAL ERADICATION OF HUMAN 
+TRAFFICKING; AND PROVIDING FOR PROCEEDINGS DURING THE PERIOD FROM MARCH 
+                    23, 2018, THROUGH APRIL 9, 2018
+
+  Mr. SESSIONS, from the Committee on Rules, submitted a privileged 
+report (Rept. No. 115-614) on the resolution (H. Res. 796) providing 
+for consideration of the Senate amendment to the bill (H.R. 1625) to 
+amend the State Department Basic Authorities Act of 1956 to include 
+severe forms of trafficking in persons within the definition of 
+transnational organized crime for purposes of the rewards program of 
+the Department of State, and for other purposes; and providing for 
+proceedings during the period from March 23, 2018, through April 9, 
+2018, which was referred to the House Calendar and ordered to be 
+printed.
+
+                          ____________________
+```
