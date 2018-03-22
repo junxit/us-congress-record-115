@@ -1,0 +1,33 @@
+---
+granule: CRECB-2018-pt4-Pg5278-6
+date: 2018-03-22
+edition: CRECB
+section: SENATE
+page: 5278
+---
+
+# ORDERS FOR MONDAY, MARCH 26, 2018, THROUGH MONDAY, APRIL 9, 2018
+
+```
+    ORDERS FOR MONDAY, MARCH 26, 2018, THROUGH MONDAY, APRIL 9, 2018
+
+  Mr. JOHNSON. Mr. President, I ask unanimous consent that when the 
+Senate completes its business today, it adjourn, to then convene for 
+pro forma sessions only, with no business being conducted, on the 
+following dates and times, and that following each pro forma session, 
+the Senate adjourn until the next pro forma session: Monday, March 26 
+at 11:30 a.m.; Thursday, March 29 at 3:45 p.m.; Monday, April 2 at 12 
+noon; Thursday, April 5 at 11:30 a.m. I further ask that when the 
+Senate adjourns on Thursday, April 5, it next convene at 3 p.m. on 
+Monday, April 9; and that following the prayer and pledge, the morning 
+hour be deemed expired, the Journal of proceedings be approved to date, 
+the time for the two leaders be reserved for their use later in the 
+day, and morning business be closed; further, that following leader 
+remarks, the Senate proceed to executive session and resume 
+consideration of the Boom nomination; finally, that notwithstanding the 
+provisions of rule XXII, the cloture motions filed during today's 
+session ripen at 5:30 p.m. on Monday, April 9.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

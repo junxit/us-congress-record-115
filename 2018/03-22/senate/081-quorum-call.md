@@ -1,0 +1,160 @@
+---
+granule: CRECB-2018-pt4-Pg5274
+date: 2018-03-22
+edition: CRECB
+section: SENATE
+page: 5274
+---
+
+# QUORUM CALL
+
+```
+                              QUORUM CALL
+
+  Mr. McCONNELL. I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll and the following 
+Senators entered the Chamber and answered to their names:
+
+                          [Quorum No. 1 Leg.]
+
+     Cornyn
+     Daines
+     Johnson
+     Johnson
+     King
+     Leahy
+     McConnell
+     Risch
+  The PRESIDING OFFICER. A quorum is not present.
+  The majority leader.
+  Mr. McCONNELL. Mr. President, I move to instruct the Sergeant at Arms 
+to request the presence of absent Senators, and I ask for the yeas and 
+nays.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There appears to be a sufficient second.
+  The question is on agreeing to the motion of the Senator from 
+Kentucky.
+  The clerk will call the roll.
+  The senior assistant legislative clerk called the roll.
+  Mr. CORNYN. The following Senators are necessarily absent: the 
+Senator from North Carolina (Mr. Burr), the Senator from Arizona (Mr. 
+McCain), and the Senator from Pennsylvania (Mr. Toomey).
+  The result was announced--yeas 91, nays 6, as follows:
+
+                      [Rollcall Vote No. 61 Leg.]
+
+                                YEAS--91
+
+     Baldwin
+     Barrasso
+     Bennet
+     Blumenthal
+     Blunt
+     Booker
+     Boozman
+     Brown
+     Cantwell
+     Capito
+     Cardin
+     Carper
+     Casey
+     Cochran
+     Collins
+     Coons
+     Cornyn
+     Cortez Masto
+     Crapo
+     Cruz
+     Daines
+     Donnelly
+     Duckworth
+     Durbin
+     Enzi
+     Ernst
+     Feinstein
+     Fischer
+     Flake
+     Gardner
+     Gillibrand
+     Graham
+     Grassley
+     Harris
+     Hassan
+     Hatch
+     Heinrich
+     Heitkamp
+     Heller
+     Hirono
+     Hoeven
+     Inhofe
+     Isakson
+     Johnson
+     Jones
+     Kaine
+     Kennedy
+     King
+     Klobuchar
+     Lankford
+     Leahy
+     Manchin
+     Markey
+     McCaskill
+     McConnell
+     Menendez
+     Merkley
+     Moran
+     Murkowski
+     Murphy
+     Murray
+     Nelson
+     Paul
+     Perdue
+     Peters
+     Portman
+     Reed
+     Risch
+     Roberts
+     Rounds
+     Sanders
+     Sasse
+     Schatz
+     Schumer
+     Scott
+     Shaheen
+     Shelby
+     Smith
+     Stabenow
+     Sullivan
+     Tester
+     Thune
+     Tillis
+     Udall
+     Van Hollen
+     Warner
+     Warren
+     Whitehouse
+     Wicker
+     Wyden
+     Young
+
+                                NAYS--6
+
+     Alexander
+     Cassidy
+     Corker
+     Cotton
+     Lee
+     Rubio
+
+                             NOT VOTING--3
+
+     Burr
+     McCain
+     Toomey
+  The motion was agreed to.
+  The PRESIDING OFFICER (Mr. Daines). A quorum is present.
+  The majority leader.
+
+                          ____________________
+```

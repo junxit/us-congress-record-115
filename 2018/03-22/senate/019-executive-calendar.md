@@ -1,0 +1,54 @@
+---
+granule: CRECB-2018-pt4-Pg5225-5
+date: 2018-03-22
+edition: CRECB
+section: SENATE
+page: 5225
+---
+
+# EXECUTIVE CALENDAR
+
+```
+                           EXECUTIVE CALENDAR
+
+  Mr. McCONNELL. Madam President, I ask unanimous consent that the 
+Senate proceed to the en bloc consideration of the following 
+nominations: Executive Calendar Nos. 616, 752, 753, 754, 755, 756, 759, 
+760, and 761.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Thereupon, the Senate proceeded to consider the nominations en bloc.
+  Mr. McCONNELL. Madam President, I ask unanimous consent that the 
+Senate vote on the nominations en bloc with no intervening action or 
+debate; that if confirmed, the motions to reconsider be considered made 
+and laid upon the table en bloc; that the President be immediately 
+notified of the Senate's action; that no further motions be in order; 
+and that any statements relating to the nominations be printed in the 
+Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The question is, Will the Senate advise and consent to the 
+nominations of Carlos Trujillo, of Florida, to be Permanent 
+Representative of the United States of America to the Organization of 
+American States, with the rank of Ambassador; Robert Frank Pence, of 
+Virginia, to be Ambassador Extraordinary and Plenipotentiary of the 
+United States of America to the Republic of Finland; Edward Charles 
+Prado, of Texas, to be Ambassador Extraordinary and Plenipotentiary of 
+the United States of America to the Argentine Republic; Trevor D. 
+Traina, of California, to be Ambassador Extraordinary and 
+Plenipotentiary of the United States of America to the Republic of 
+Austria; Erik Bethel, of Florida, to be United States Alternate 
+Executive Director of the International Bank for Reconstruction and 
+Development for a term of two years; Judy Lynn Shelton, of Virginia, to 
+be United States Director of the European Bank for Reconstruction and 
+Development; Kevin Edward Moley, of Arizona, to be an Assistant 
+Secretary of State (International Organization Affairs); Josephine 
+Olsen, of Maryland, to be Director of the Peace Corps; and Marie Royce, 
+of California, to be an Assistant Secretary of State (Educational and 
+Cultural Affairs)?
+  The nominations were confirmed en bloc.
+
+[[Page 5226]]
+
+
+
+                          ____________________
+```
