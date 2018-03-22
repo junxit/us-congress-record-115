@@ -1,0 +1,43 @@
+---
+granule: CREC-2018-03-22-pt1-PgH2032
+date: 2018-03-22
+edition: CREC
+section: HOUSE
+page: H2032
+citation: 164 Cong. Rec. H2032
+---
+
+# FUNDING ISSUES
+
+**Speaking:** Jackson Lee, Sheila (J000032) [D-TX]
+
+```
+                             FUNDING ISSUES
+
+  (Ms. JACKSON LEE asked and was given permission to address the House 
+for 1 minute.)
+  Ms. JACKSON LEE. Mr. Speaker, just a few minutes ago, we passed a 
+major omnibus appropriations bill, of which I had the privilege of 
+submitting over 30 requests. Frankly, I am thankful for the funding I 
+received on behalf of the 18th Congressional District of Texas. It is a 
+tradition that I pride myself in. I also take pride in the work of the 
+Appropriations Committee in working on behalf of the American people.
+  It is also important to take note of the fact that--as we have done 
+positive things, it is also important to note some issues that I have 
+concern with.
+  First of all, I want to acknowledge that there is no limit for the 
+funding for Planned Parenthood, which is part of my constituency, which 
+helps young women with their health. There is opioid funding and VA 
+funding. I am most happy with the childcare funding and for TIGER 
+grants.
+  But what we need more of, even though we had 450,000 new certificates 
+for the disabled, is Section 8 vouchers for seniors and families. We 
+need to be able to insist that the quality of housing is best.
+  As I finish, Mr. Speaker, let me just say that in the effort to stop 
+school gun violence, I am disappointed that there are no civil rights 
+protections to make sure we aren't pointing out Hispanics and Latinos 
+differently from other children, as well as no DACA relief for our 
+children.
+
+                          ____________________
+```

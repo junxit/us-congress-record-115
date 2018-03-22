@@ -1,0 +1,44 @@
+---
+granule: CREC-2018-03-22-pt1-PgS1945-2
+date: 2018-03-22
+edition: CREC
+section: SENATE
+page: S1945
+citation: 164 Cong. Rec. S1945
+---
+
+# TRIBUTE TO LILLIEMARIE GORE
+
+**Speaking:** Rubio, Marco (R000595) [R-FL]
+
+```
+                      TRIBUTE TO LILLIEMARIE GORE
+
+● Mr. RUBIO. Mr. President, today I recognize Lilliemarie Gore, 
+the Alachua County Teacher of the Year from Idylwild Elementary School 
+in Gainesville, FL.
+  When Lilliemarie was named Teacher of the Year, she thanked two of 
+her own teachers who played important roles in her life, Mrs. Jackson 
+and Mrs. Gloria Jean Merriex. Mrs. Jackson was her third-grade teacher 
+who inspired her to use education as a vehicle to escape the tough 
+Miami neighborhood where she grew up. Mrs. Merriex was a teacher 
+Lilliemarie worked with at Duval Elementary School who was known for 
+using rhymes, music, and other innovative techniques to teach math to 
+students.
+  While Lilliemarie learned about teaching concepts and theories in 
+college, she said the 4 years of mentoring by Gloria taught her the 
+fundamentals of teaching. Lilliemarie says teaching starts with having 
+a genuine love for students and believes that, when the children know 
+you love them, they are willing to jump through hoops to do whatever 
+needs to be done. She loves her kids with everything she has, and they 
+know she loves them.
+  Lilliemarie attended the University of Florida and earned degrees in 
+early elementary and special education. She is a fourth-grade teacher 
+at Idylwild Elementary School and has been an Alachua County Public 
+School teacher for 5 years.
+  I would like to extend my sincere thanks and appreciation to 
+Lilliemarie for all the fine work she has done and wish her continued 
+success in the years to come.●
+
+                          ____________________
+```

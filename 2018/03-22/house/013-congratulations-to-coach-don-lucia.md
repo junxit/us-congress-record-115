@@ -1,0 +1,42 @@
+---
+granule: CREC-2018-03-22-pt1-PgH1758-6
+date: 2018-03-22
+edition: CREC
+section: HOUSE
+page: H1758
+citation: 164 Cong. Rec. H1758
+---
+
+# CONGRATULATIONS TO COACH DON LUCIA
+
+**Speaking:** Emmer, Tom (E000294) [R-MN]
+
+```
+                   CONGRATULATIONS TO COACH DON LUCIA
+
+  (Mr. EMMER asked and was given permission to address the House for 1 
+minute.)
+  Mr. EMMER. Mr. Speaker, I rise today to recognize an outstanding 
+person and a friend.
+  Don Lucia started playing hockey on outdoor rinks in northern 
+Minnesota as a boy. After playing the game through high school and 
+college, he became one of the most successful college hockey coaches in 
+the country. Recently, Coach Lucia announced he will retire from 
+coaching the Minnesota Golden Gophers men's hockey team after 19 
+seasons.
+  During his tenure at Minnesota, Don's teams regularly finished at the 
+top of the WCHA and, more recently, won the Big Ten Conference 4 out of 
+the past 5 years. His teams also made the NCAA playoffs 13 times and 
+won two national titles.
+  As a player growing up in Grand Rapids, Minnesota, Don was a leader. 
+He was disciplined, and he made everyone around him better. As a coach, 
+he not only built winning teams, he developed young men.
+  Don is retiring as a true ambassador for the game. While he will no 
+longer be coaching our Minnesota Gophers, I hope Don continues to be a 
+leader for the game of hockey and for our State for years to come.
+  Don, thank you for leading our Gophers to victory time and time 
+again. Good luck to you; your wonderful wife, Joyce; and the rest of 
+the Lucia family as you start the next chapter.
+
+                          ____________________
+```
