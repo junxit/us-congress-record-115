@@ -1,0 +1,52 @@
+---
+granule: CRECB-2018-pt4-Pg5343-11
+date: 2018-04-09
+edition: CRECB
+section: SENATE
+page: 5343
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Mr. McCONNELL. Mr. President, on another matter, this week the Senate
+
+[[Page 5344]]
+
+will turn to one of its most important constitutional responsibilities, 
+the personnel business. We have a number of nominees to consider in the 
+next several days.
+  First is Claria Horn Boom, President Trump's pick to serve as a 
+Federal district judge for both the Eastern and Western Districts of 
+Kentucky. Through her work in both the public and private sectors, Ms. 
+Boom has distinguished herself as a problem-solver, a trusted adviser 
+to clients and her community.
+  Letters in support of her nomination share a theme: She has the 
+skills and experiences to excel as a district judge. ``High standards, 
+ample preparation, and a fears intellect''; ``unfailingly thoughtful, 
+gracious, and diligent''--these are just some of the ways Ms. Boom is 
+described by those she served and worked with in Kentucky. The 
+Judiciary Committee came to the same conclusion, advancing her 
+nomination on a voice vote.
+  Later today the full Senate will vote to advance this talented and 
+noncontroversial nominee, and then I hope we will be able to quickly 
+confirm her.
+  Then, in the coming days, we will consider several more judges and 
+important nominees for the Department of Labor, the EPA, and the 
+National Labor Relations Board. These and many other positions remain 
+vacant nearly a year and a half into the Trump administration.
+  Qualified nominees stand ready, but Senate Democrats are using the 
+procedural playbook to obstruct and delay. In many cases, for example, 
+they are insisting that the Senate exhaust postcloture time even on 
+unobjectionable district court nominees who have gone on to 
+overwhelming confirmation--for examples, Walter Counts, who was 
+confirmed 96 to 0, or Karen Gren Scholer, who was confirmed 95 to 0.
+  I will have more to say on these partisan tactics in the coming days. 
+For now, let me make one thing clear. The Senate's workweek will not 
+end--will not end--until all of these amply qualified nominees are 
+confirmed.
+
+                          ____________________
+```

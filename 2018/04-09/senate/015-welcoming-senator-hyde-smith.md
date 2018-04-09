@@ -1,0 +1,21 @@
+---
+granule: CRECB-2018-pt4-Pg5344-4
+date: 2018-04-09
+edition: CRECB
+section: SENATE
+page: 5344
+---
+
+# WELCOMING SENATOR HYDE-SMITH
+
+```
+                      WELCOMING SENATOR HYDE-SMITH
+
+  Mr. SCHUMER. Mr. President, first, let me welcome back my fellow 
+Senators after a productive State work period. Let me welcome our 
+newest Senator, Cindy Hyde-Smith, the junior Senator from Mississippi. 
+She is the first woman to represent the State of Mississippi, and I 
+welcome her warmly to this Chamber.
+
+                          ____________________
+```
