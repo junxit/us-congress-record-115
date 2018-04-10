@@ -1,0 +1,51 @@
+---
+granule: CREC-2018-04-10-pt1-PgS2034
+date: 2018-04-10
+edition: CREC
+section: SENATE
+page: S2034
+citation: 164 Cong. Rec. S2034
+---
+
+# TRIBUTE TO SCIPIO WHITE
+
+**Speaking:** Casey, Robert P., Jr. (C001070) [D-PA]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                        TRIBUTE TO SCIPIO WHITE
+
+● Mr. CASEY. Mr. President, I wish to recognize Scipio White for 
+his service to our Nation, the Commonwealth, and to the Monessen 
+community in Pennsylvania.
+  In 1941, Scipio entered the Army to defend our Nation during WWII. He 
+was recognized early on for his leadership skills and his ability to 
+interact with individuals of all backgrounds. Upon completing officer 
+training school, Scipio was commissioned lieutenant. He became one of 
+the first African Americans to serve as a field officer during WWII.
+  After the war concluded, Scipio continued his military career as an 
+Army Reservist, eventually securing the rank of major. He served as 
+branch president and vice president of his local Reserve Officers 
+Association and is also active with the Military Officers Association 
+of America.
+  Returning to Pennsylvania, Scipio continued his government service 
+with the Post Office for 41 years. During that time, he completed a 
+business degree from Douglas Business School in Monessen. Additionally, 
+he was a board member of the Mon Valley Community Health Center during 
+its inception and served on the board of the Washington County Postal 
+Credit Union.
+  Today Scipio's devotion to the community remains evident. He actively 
+works with the Monessen Clean Air Coalition to promote smoking 
+cessation and remains a long-term member of the NAACP. For more than 50 
+years, he has worked with the Mon Yough Lodge No. 79 and is a 32 
+Sublime Prince with the St. Cyprian Consistory No. 4 in Pittsburgh, PA.
+  I commend Scipio White for his life of service and leadership on 
+behalf of the Nation, the Commonwealth, and the residents of Monessen, 
+PA.●
+
+                          ____________________
+```

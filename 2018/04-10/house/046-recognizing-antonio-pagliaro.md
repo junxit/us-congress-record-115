@@ -1,0 +1,44 @@
+---
+granule: CREC-2018-04-10-pt1-PgH3085-3
+date: 2018-04-10
+edition: CREC
+section: HOUSE
+page: H3085
+citation: 164 Cong. Rec. H3085
+---
+
+# RECOGNIZING ANTONIO PAGLIARO
+
+**Speaking:** Tenney, Claudia (T000478) [R-NY]
+
+```
+                      RECOGNIZING ANTONIO PAGLIARO
+
+  (Ms. TENNEY asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TENNEY. Mr. Speaker, I rise today to honor Antonio Pagliaro. 
+Antonio recently lost his battle to cancer, leaving behind his wife, 
+Nicole, their children, Alexis, Antonio, and Kylie, as well as his 
+parents, Tony and Richetta, and his brothers, Peter and Michael 
+Pagliaro.
+  As a graduate of the T.R. Proctor High School class of 1999, Antonio 
+began his professional destiny and purpose in life to help people in 
+need by serving in the emergency medical services industry. His passion 
+was to provide critical help and comfort to those in need, especially 
+in his hometown in the city of Utica, New York.
+  Antonio was a paramedic supervisor with Kunkel Ambulance for 15 
+years. He was also a 10-year volunteer with the Schuyler Volunteer Fire 
+Department.
+  Antonio was a courageous public servant who served our community 
+selflessly. He put his life on the line every single day for the 
+betterment of all of us.
+  Along with being a dedicated public servant, Antonio was a passionate 
+cook, number one dance dad, a gardener, and a parishioner of the Church 
+of Our Lady of Lourdes, and so much more.
+  Mr. Speaker, please join me in recognizing Antonio Pagliaro, a true 
+hometown hero. Our community is lucky to have had such a selfless, 
+loving person as Antonio, and we wish his family prayers and positive 
+thoughts to the entire family from all of us and my colleagues.
+
+                          ____________________
+```

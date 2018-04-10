@@ -1,0 +1,43 @@
+---
+granule: CREC-2018-04-10-pt1-PgS2044
+date: 2018-04-10
+edition: CREC
+section: SENATE
+page: S2044
+citation: 164 Cong. Rec. S2044
+---
+
+# SENATE RESOLUTION 456--TO CONSTITUTE THE MAJORITY PARTY'S MEMBERSHIP ON CERTAIN COMMITTEES FOR THE ONE HUNDRED FIFTEENTH CONGRESS, OR UNTIL THEIR SUCCESSORS ARE CHOSEN
+
+**Measures:** S.Res. 456
+
+```
+SENATE RESOLUTION 456--TO CONSTITUTE THE MAJORITY PARTY'S MEMBERSHIP ON 
+  CERTAIN COMMITTEES FOR THE ONE HUNDRED FIFTEENTH CONGRESS, OR UNTIL 
+                      THEIR SUCCESSORS ARE CHOSEN
+
+  Mr. McCONNELL submitted the following resolution; which was 
+considered and agreed to:
+
+                              S. Res. 456
+
+       Resolved, That the following shall constitute the majority 
+     party's membership on the following committees for the One 
+     Hundred Fifteenth Congress, or until their successors are 
+     chosen:
+       Committee on Agriculture, Nutrition, and Forestry: Mr. 
+     Roberts, Mr. McConnell, Mr. Boozman, Mr. Hoeven, Mrs. Ernst, 
+     Mr. Grassley, Mr. Thune, Mr. Daines, Mr. Perdue, Mrs. 
+     Fischer, Mrs. Hyde-Smith.
+       Committee on Appropriations: Mr. Shelby (Chairman), Mr. 
+     McConnell, Mr. Alexander, Ms. Collins, Ms. Murkowski, Mr. 
+     Graham, Mr. Blunt, Mr. Moran, Mr. Hoeven, Mr. Boozman, Mrs. 
+     Capito, Mr. Lankford, Mr. Daines, Mr. Kennedy, Mr. Rubio, 
+     Mrs. Hyde-Smith.
+       Committee on Rules and Administration: Mr. Blunt 
+     (Chairman), Mr. McConnell, Mr. Alexander, Mr. Roberts, Mr. 
+     Shelby, Mr. Cruz, Mrs. Capito, Mr. Wicker, Mrs. Fischer, Mrs. 
+     Hyde-Smith.
+
+                          ____________________
+```
