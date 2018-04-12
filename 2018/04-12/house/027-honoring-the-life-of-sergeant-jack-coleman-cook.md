@@ -1,0 +1,41 @@
+---
+granule: CRECB-2018-pt5-Pg5610-2
+date: 2018-04-12
+edition: CRECB
+section: HOUSE
+page: 5610
+---
+
+# HONORING THE LIFE OF SERGEANT JACK COLEMAN COOK
+
+```
+            HONORING THE LIFE OF SERGEANT JACK COLEMAN COOK
+
+  (Mr. WESTERMAN asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. WESTERMAN. Mr. Speaker, I rise today to honor the life of 
+Sergeant Jack Coleman Cook of Hot Springs, Arkansas, for his heroic 
+actions in World War II. Sergeant Cook was a ball turret gunner on a B-
+17 Flying Fortress named the Challenger.
+  On February 3, 1945, the 384th Bomb Group participated in a mission 
+over Berlin. During the mission, the Challenger was hit by flak, 
+damaging multiple engines, gas tanks, and the fuselage, but left the 
+crew unharmed.
+  On the return journey home, the plane began losing altitude and 
+crash-landed in the frigid North Sea. The crewmembers abandoned the 
+aircraft and boarded two life rafts but became separated.
+  Navigator Edward Field, a crewmember who stayed in the water, began 
+to push his raft towards the other raft but became numb and said that 
+he could no longer hold on. Sergeant Cook got into the water so the 
+crew's navigator could get out of the cold sea and take his spot in the 
+raft. The sergeant then swam for 45 minutes until they reached the 
+second raft. Shortly afterward, air-sea rescue located the crew, but 
+Sergeant Cook had little life left in him, and he passed away on the 
+boat.
+  It is with great gratitude and respect that I honor Jack Coleman 
+Cook. Sergeant Cook is a true American hero. He selflessly gave his 
+life for his fellow man, and for this, we remember him more than 70 
+years later.
+
+                          ____________________
+```

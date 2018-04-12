@@ -1,0 +1,31 @@
+---
+granule: CRECB-2018-pt5-Pg5649-2
+date: 2018-04-12
+edition: CRECB
+section: HOUSE
+page: 5649
+---
+
+# CONGRATULATING THE UNIVERSITY OF CALIFORNIA AT SANTA CRUZ BANANA SLUGS
+
+```
+ CONGRATULATING THE UNIVERSITY OF CALIFORNIA AT SANTA CRUZ BANANA SLUGS
+
+  (Mr. PANETTA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PANETTA. Mr. Speaker, I rise today to congratulate the University 
+of California at Santa Cruz Banana Slugs, specifically, their rocket 
+team, the so-called Rocket Slugs, for not only being selected to 
+compete in NASA's elite Student Launch Week, but for medaling in the 
+Best Rocket Fair Display.
+  The annual competition in Huntsville, Alabama, allows students to 
+research and develop projects related to NASA's Space Launch System. 
+That is America's deep space exploration rocket that is built to return 
+astronauts to the Moon and possibly even send them to Mars.
+  Their work is a testament to UC Santa Cruz and team cocaptains Kent 
+Roberts and Zafar Rustamkulov. These students pushed the limits of 
+design and engineering, pushed themselves through trial and error, and 
+proved that they can push their dreams to the Moon and beyond.
+
+                          ____________________
+```
