@@ -1,0 +1,36 @@
+---
+granule: CREC-2018-04-12-pt1-PgS2129-2
+date: 2018-04-12
+edition: CREC
+section: SENATE
+page: S2129
+citation: 164 Cong. Rec. S2129
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate April 12, 2018:
+
+
+                             THE JUDICIARY
+
+       JOHN W. BROOMES, OF KANSAS, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE DISTRICT OF KANSAS.
+       REBECCA GRADY JENNINGS, OF KENTUCKY, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE WESTERN DISTRICT OF KENTUCKY.
+
+
+                          DEPARTMENT OF LABOR
+
+       PATRICK PIZZELLA, OF VIRGINIA, TO BE DEPUTY SECRETARY OF 
+     LABOR.
+
+
+                    ENVIRONMENTAL PROTECTION AGENCY
+
+       ANDREW WHEELER, OF VIRGINIA, TO BE DEPUTY ADMINISTRATOR OF 
+     THE ENVIRONMENTAL PROTECTION AGENCY.
+```

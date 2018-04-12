@@ -1,0 +1,42 @@
+---
+granule: CREC-2018-04-12-pt1-PgH3160
+date: 2018-04-12
+edition: CREC
+section: HOUSE
+page: H3160
+citation: 164 Cong. Rec. H3160
+---
+
+# OUTSTANDING ACHIEVEMENTS OF UNIVERSITY OF TEXAS AT AUSTIN MEN'S SWIMMING AND DIVING TEAM
+
+**Speaking:** Williams, Roger (W000816) [R-TX]
+
+```
+    OUTSTANDING ACHIEVEMENTS OF UNIVERSITY OF TEXAS AT AUSTIN MEN'S 
+                        SWIMMING AND DIVING TEAM
+
+  (Mr. WILLIAMS asked and was given permission to address the House for 
+1 minute.)
+  Mr. WILLIAMS. Mr. Speaker, today I would like to bring attention to 
+the outstanding achievements of the University of Texas at Austin men's 
+swimming and diving team. For the fourth consecutive year, this team 
+took home the NCAA title.
+  College athletes from around the country dream about competing at the 
+NCAA championships. As student-athletes, this could also mark the peak 
+of their athletic career.
+  In addition to these incredible athletes, I would like to 
+congratulate their coach, Eddie Reese. Coach Reese has the most wins in 
+this sport's history. After 40 seasons at the University of Texas, he 
+has trained athletes to win 14 national titles.
+  Coaches like this don't come around often, and I would like to thank 
+Coach Reese for his dedication to this great university.
+  I would also like to take this time to identify UT seniors on the 
+team: Jonathan Roberts, Brett Ringgold, and Joseph Schooling. As they 
+leave their college days behind, they will always remember this moment, 
+and they will remember this team.
+  Mr. Speaker, I would like to congratulate the University of Texas on 
+these impressive accomplishments and simply say: Hook `em.
+  In God we trust.
+
+                          ____________________
+```

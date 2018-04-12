@@ -1,0 +1,25 @@
+---
+granule: CREC-2018-04-12-pt1-PgH3192-2
+date: 2018-04-12
+edition: CREC
+section: HOUSE
+page: H3192
+citation: 164 Cong. Rec. H3192
+---
+
+# RECESS
+
+```
+                                 RECESS
+
+  The SPEAKER pro tempore. Pursuant to clause 12(a) of rule I, the 
+Chair
+
+[[Page H3193]]
+
+declares the House in recess subject to the call of the Chair.
+  Accordingly (at 4 o'clock and 42 minutes p.m.), the House stood in 
+recess.
+
+                          ____________________
+```
