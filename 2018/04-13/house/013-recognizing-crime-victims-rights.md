@@ -1,0 +1,36 @@
+---
+granule: CRECB-2018-pt5-Pg5699-2
+date: 2018-04-13
+edition: CRECB
+section: HOUSE
+page: 5699
+---
+
+# RECOGNIZING CRIME VICTIMS' RIGHTS
+
+```
+                   RECOGNIZING CRIME VICTIMS' RIGHTS
+
+  (Mr. CHABOT asked and was given permission to address the House for 1 
+minute.)
+  Mr. CHABOT. Mr. Speaker, this is National Crime Victims' Rights Week, 
+and back in 2004, I introduced the Crime Victims' Rights Act, which was 
+signed into law by President Bush as part of the Justice for All Act.
+  Under that landmark legislation, crime victims were finally awarded 
+criminal rights in Federal criminal cases, including the right to 
+protection, the right to timely notice not to be excluded and to be 
+heard at all public hearings, the right to confer with the prosecutor, 
+the right to restitution, the right to a speedy trial, and the right to 
+privacy.
+  Several years later, the GAO found that too many victims were not 
+aware of these important rights and that more needed to be done to 
+educate victims. You see, in civics class, we all learned about the 
+rights of the accused, but very little attention is given to the rights 
+of victims.
+  Mr. Speaker, as we commemorate National Crime Victims' Rights Week 
+this week, it is important that we make sure victims know what their 
+rights are under the law. It is the least we can do to show victims the 
+respect and dignity that they deserve.
+
+                          ____________________
+```
