@@ -1,0 +1,36 @@
+---
+granule: CREC-2018-04-13-pt1-PgH3214
+date: 2018-04-13
+edition: CREC
+section: HOUSE
+page: H3214
+citation: 164 Cong. Rec. H3214
+---
+
+# HONORING MILITARY CHILDREN
+
+**Speaking:** Foxx, Virginia (F000450) [R-NC]
+
+```
+                       HONORING MILITARY CHILDREN
+
+  (Ms. FOXX asked and was given permission to address the House for 1 
+minute.)
+  Ms. FOXX. Mr. Speaker, there is no question that the Nation's 
+warfighters are among the bravest and most selfless people in the 
+world. It is fitting that grateful Americans often find a way to thank 
+our servicemen and -women for their defense of our Nation.
+  It is also important, though, not to forget the great sacrifices 
+children of our servicemembers make as well.
+  April is the Month of the Military Child, and during this month, we 
+celebrate and honor the incredible children of our servicemembers.
+  Many military children serve as America's youngest ambassadors abroad 
+when their parents are stationed overseas. They may also go long 
+periods of time without the day-to-day parent interactions that many 
+civilian children enjoy, such as meals together and bedtime stories.
+  I salute the children who, alongside their parents, bear countless 
+sacrifices to protect our country's freedoms.
+  This month and every month, these children deserve our gratitude.
+
+                          ____________________
+```
