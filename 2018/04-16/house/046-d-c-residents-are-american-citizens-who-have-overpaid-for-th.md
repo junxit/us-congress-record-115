@@ -1,0 +1,37 @@
+---
+granule: CREC-2018-04-16-pt1-PgH3331-5
+date: 2018-04-16
+edition: CREC
+section: HOUSE
+page: H3331
+citation: 164 Cong. Rec. H3331
+---
+
+# D.C. RESIDENTS ARE AMERICAN CITIZENS WHO HAVE OVERPAID FOR THEIR CITIZENSHIP
+
+**Speaking:** Norton, Eleanor Holmes (N000147) [D-DC]
+
+```
+   D.C. RESIDENTS ARE AMERICAN CITIZENS WHO HAVE OVERPAID FOR THEIR 
+                              CITIZENSHIP
+
+  (Ms. NORTON asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. NORTON. Mr. Speaker, today, marking the signing of President 
+Lincoln's proclamation freeing slaves in the Nation's Capital, is a 
+local holiday in the District of Columbia. Many D.C. residents worked 
+anyway.
+  Activist groups in the District of Columbia, including DC Vote, 
+brought residents here, who got more Members to sign on to our D.C. 
+statehood bill to end taxation without representation for D.C. 
+residents, who are number one per capita in taxes paid to support the 
+Federal Government, but with no voting Representatives on this House 
+floor and no Senators at all.
+  Even more shameful, as this poster shows, D.C.'s war casualties have 
+often outnumbered those of the States, more than 10 States during the 
+Vietnam war, for example.
+  D.C. residents are American citizens who have overpaid for their 
+citizenship. It is time for Congress to pay back.
+
+                          ____________________
+```
