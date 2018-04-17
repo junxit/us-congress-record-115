@@ -1,0 +1,60 @@
+---
+granule: CREC-2018-04-17-pt1-PgH3349-3
+date: 2018-04-17
+edition: CREC
+section: HOUSE
+page: H3349
+citation: 164 Cong. Rec. H3349
+---
+
+# RECOGNIZING THE MIRACLE LEAGUE OF NORTHAMPTON TOWNSHIP
+
+**Speaking:** Fitzpatrick, Brian K. (F000466) [R-PA]
+
+```
+         RECOGNIZING THE MIRACLE LEAGUE OF NORTHAMPTON TOWNSHIP
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Pennsylvania (Mr. Fitzpatrick) for 5 minutes.
+  Mr. FITZPATRICK. Mr. Speaker, I rise today to recognize an 
+organization in my district that strives to empower individuals with 
+special needs as well as their families.
+  The Miracle League of Northampton Township fosters both social and 
+educational growth through sports and recreation. Along with buddy 
+programs and coaching opportunities, Miracle League offers those with 
+special needs the ability to participate in baseball, basketball, 
+bowling, and soccer leagues.
+  On May 5, this organization will be holding its first annual charity 
+wiffle ball tournament. The Miracle League of Northampton Township 
+Wiffle Ball Classic will take place at Miracle League Fields in 
+Churchville, and will feature a single elimination bracket along with 
+awards for best team name and best uniforms.
+
+[[Page H3350]]
+
+  I would like to recognize president Brian Damiani and vice president 
+Allan Corless, along with the executive directors, board members, and 
+volunteers, for the countless hours they put in to improve the lives of 
+those in Bucks County.
+
+
+  Recognizing Warwick Township for its Rank as One of Pennsylvania's 
+                             Safest Cities
+
+  Mr. FITZPATRICK. Mr. Speaker, we have no higher priority than working 
+to ensure the safety of the communities we represent. Working with law 
+enforcement and local officials is essential to meeting this 
+responsibility. I am proud to recognize Warwick Township in Bucks 
+County, Pennsylvania, for being ranked as one of our State's safest 
+cities.
+  In identifying Pennsylvania's safest cities, the statistics were 
+compiled from the FBI Uniform Crime Report. This information indicated 
+that Warwick Township was the 15th safest city in the State of 
+Pennsylvania. I would like to thank Judith Algeo, chairwoman of the 
+Warwick Township Board of Supervisors, and Police Chief Mark Goldberg 
+for their hard work in keeping our district a phenomenal place to live, 
+work, and raise a family. I look forward to continuing our mission 
+together.
+
+                          ____________________
+```

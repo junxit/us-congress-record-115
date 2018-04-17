@@ -1,0 +1,41 @@
+---
+granule: CREC-2018-04-17-pt1-PgH3382
+date: 2018-04-17
+edition: CREC
+section: HOUSE
+page: H3382
+citation: 164 Cong. Rec. H3382
+---
+
+# TRUMP ADMINISTRATION WEAKENS CLEAN AIR PROTECTIONS
+
+**Speaking:** McEachin, A. Donald (M001200) [D-VA]
+
+```
+           TRUMP ADMINISTRATION WEAKENS CLEAN AIR PROTECTIONS
+
+  (Mr. McEACHIN asked and was given permission to address the House for 
+1 minute.)
+  Mr. McEACHIN. Mr. Speaker, I am deeply concerned by the 
+administration's continued assault on essential regulations that 
+protect our health and our environment.
+  All Americans need, deserve, and have a right to breathe clean air. 
+Historically, we have upheld that right to reasonable, science-based 
+limits on pollution, but that tradition is under assault.
+  Last week, the administration directed the EPA to weaken the 
+standards for ambient air pollution.
+  By allowing for emissions trading, this directive will magnify 
+existing environmental injustices, enabling increased pollution in 
+communities that already live with dangerously high concentrations.
+  The order also softens public health mandates under the Clean Air 
+Act. It restricts what kind of scientific data regulators can use, and 
+it increases their workloads without providing new resources.
+  Mr. Speaker, if we ignore the best available science or if we starve 
+agencies of the resources they need to actually uphold commonsense 
+limits, then we are not protecting the American people.
+  Last week's directive was dangerous and a needless mistake. Like the 
+rest of this administration's dirty energy agenda, it needs to be 
+reversed.
+
+                          ____________________
+```

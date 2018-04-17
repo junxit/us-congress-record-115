@@ -1,0 +1,303 @@
+---
+granule: CREC-2018-04-17-pt1-PgH3371
+date: 2018-04-17
+edition: CREC
+section: HOUSE
+page: H3371
+citation: 164 Cong. Rec. H3371
+---
+
+# REQUIRING ELECTRONIC FILING OF ANNUAL RETURNS OF EXEMPT ORGANIZATIONS
+
+**Speaking:** Kelly, Mike (K000376) [R-PA], Lewis, John (L000287) [D-GA], Murphy, Stephanie N. (M001202) [D-FL]
+
+**Measures:** H.R. 5443
+
+```
+ REQUIRING ELECTRONIC FILING OF ANNUAL RETURNS OF EXEMPT ORGANIZATIONS
+
+  Mr. KELLY of Pennsylvania. Mr. Speaker, I move to suspend the rules 
+and pass the bill (H.R. 5443) to amend the Internal Revenue Code of 
+1986 to require electronic filing of the annual returns of exempt 
+organizations and provide for making such returns available for public 
+inspection, as amended.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                               H.R. 5443
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. MANDATORY ELECTRONIC FILING FOR ANNUAL RETURNS OF 
+                   EXEMPT ORGANIZATIONS.
+
+       (a) In General.--Section 6033 of the Internal Revenue Code 
+     of 1986 is amended by redesignating subsection (n) as 
+     subsection (o) and by inserting after subsection (m) the 
+     following new subsection:
+       ``(n) Mandatory Electronic Filing.--Any organization 
+     required to file a return under this section shall file such 
+     return in electronic form.''.
+       (b) Inspection of Electronically Filed Annual Returns.--
+     Section 6104(b) of such Code is amended by adding at the end 
+     the following: ``Any annual return required to be filed 
+     electronically under section 6033(n) shall be made available 
+     by the Secretary to the public in machine readable format.''.
+       (c) Effective Date.--
+       (1) In general.--Except as provided in paragraph (2), the 
+     amendments made by this section shall apply to returns filed 
+     for taxable years beginning after the date of the enactment 
+     of this Act.
+       (2) Transitional relief.--
+       (A) Small organizations.--
+       (i) In general.--In the case of any small organizations, or 
+     any other organizations for which the Secretary of the 
+     Treasury or the Secretary's delegate (hereafter referred to 
+     in this paragraph as the ``Secretary'') determines the 
+     application of the amendments made by subsection (a) would 
+     cause undue burden without a delay, the Secretary may delay 
+     the application of such amendments, but not later than 
+     taxable years beginning 2 years after the date of the 
+     enactment of this Act.
+       (ii) Small organization.--For purposes of clause (i), the 
+     term ``small organization'' means any organization--
+
+       (I) the gross receipts of which for the taxable year are 
+     less than $200,000, and
+       (II) the aggregate gross assets of which at the end of the 
+     taxable year are less than $500,000.
+
+       (B) Organizations filing form 990-T.--In the case of any 
+     organization described in section 511(a)(2) of the Internal 
+     Revenue Code of 1986 which is subject to the tax imposed by 
+     section 511(a)(1) of such Code on its unrelated business 
+     taxable income, or any organization required to file a return 
+     under section 6033 of such Code and include information under 
+     subsection (e) thereof, the Secretary may delay the 
+     application of the amendments made by this section, but not 
+     later than taxable years beginning 2 years after the date of 
+     the enactment of this Act.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Pennsylvania (Mr. Kelly) and the gentleman from Georgia (Mr. Lewis) 
+each will control 20 minutes.
+  The Chair recognizes the gentleman from Pennsylvania.
+
+
+                             General Leave
+
+  Mr. KELLY of Pennsylvania. Mr. Speaker, I ask unanimous consent that 
+all Members may have 5 legislative days within which to revise and 
+extend their remarks and to include extraneous material on H.R. 5443, 
+currently under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Pennsylvania?
+  There was no objection.
+  Mr. KELLY of Pennsylvania. Mr. Speaker, I yield myself such time as I 
+may consume.
+  Mr. Speaker, I rise today in strong support of H.R. 5443. This bill, 
+in short, would ensure that all nonprofits file their tax forms 
+electronically so that the charitable community can better assist those 
+in need.
+  First, I want to thank Congresswoman Stephanie Murphy today for 
+cosponsoring this important legislation with me.
+  This provision is identical to one that my colleague on the Ways and 
+Means Committee, Congressman Blumenauer, and I introduced in a larger 
+tax package, the CHARITY Act, along with Senators Thune and Casey on 
+the Senate Finance Committee in 2017.
+
+                              {time}  1430
+
+  Before I discuss this bill in greater detail, I want to look across 
+the room to my great friend, Mr.  John Lewis. It was in 2015 that Mr. 
+Lewis and I crossed the Edmund Pettus Bridge. It was at that time that 
+Mr. Lewis stopped and spent some time with my grandson George. And as 
+we were walking across the bridge, George, who was 8 at the time, said: 
+``Grandpa, we are actually going to do this. We are going to go across 
+the Edmund Pettus Bridge with Mr. Lewis.''
+  I said: ``That's right, George, we are.''
+  He said: ``Well, Grandpa, this is the 50th anniversary.''
+  I said: ``Yes, George, it is.''
+  He said: ``Well, can we come back for the 100th anniversary?''
+  I said: ``George, we will do that together. You and I will come 
+across the bridge at the 100th anniversary.''
+  He said: ``Grandpa, how old are you right now?''
+  I said: ``Well, George, I am 65.''
+  He said: ``Grandpa, it may be hard for you to get across that 
+bridge.''
+  I said: ``Georgie, don't worry. If I can't walk, you can push me 
+across.''
+  That was a great weekend for George. And for Mr. Lewis, I have always 
+felt he is such an iconic figure in this House for people who stood up 
+for civil rights. That weekend was one of the most gracious weekends 
+and best weekends with my son my grandson had. So I can't tell you how 
+much I appreciate being with you on the floor today.
+  When it comes to charity, the American people are truly unique. In 
+fact, Americans are the most generous in the world according to the new 
+Almanac of American Philanthropy. In a first-of-its-kind survey, the 
+almanac found that Americans out-donate Britain and Canada 2-to-1 and 
+nations like Italy and Germany 20-to-1. What is more, more than half of 
+almost every single income level in America donates to charity. That is 
+remarkable, and it makes me proud to be an American and proud of our 
+Nation's history of philanthropy.
+  In its earliest form, the word ``philanthropy'' comes from the Greek 
+term ``philanthropia,'' which simply meant ``love of mankind.'' The 
+meaning has evolved over time, but, from the earliest days of human 
+civilization, we have depended upon kindness directed towards strangers 
+and others. We define ``philanthropy'' today as the practice of 
+organized, systematic giving to improve the quality of human life 
+through the promotion of welfare and social change.
+  Throughout every age, American philanthropists have demonstrated the 
+power of giving to create great and meaningful change. In my own 
+congressional district in western Pennsylvania, we have many wonderful 
+organizations that demonstrate the power of giving each and every day. 
+In Erie, Pennsylvania, we have The Erie Community Foundation, the 
+United Way of Erie, and the Black Family Foundation.
+  As a businessman and leader in the energy sector, Pat Black and his 
+family started a small, private foundation in 1993. Here is one 
+individual who took it upon himself to create a charitable organization 
+to give back to his community. And we have many other good corporate 
+citizens in Erie, as well, such as Erie Insurance. More than half a 
+century ago, Erie Insurance's founder, H.O. Hirt, had a lifelong 
+concern for others who were less fortunate, and
+
+[[Page H3372]]
+
+today Erie Insurance and its employees follow Mr. Hirt's example and 
+continue this tradition of giving of food and clothing and other drives 
+that help out in the community.
+  And since it is tax filing week, all these charitable organizations 
+must file their tax forms, called 990s, which brings us back to why we 
+are here today on the floor considering H.R. 5443. Our bill would make 
+it mandatory that 990s be filed electronically going forward. 
+Electronic filing, or e-filing, is not only more efficient; it costs 
+taxpayers less and the IRS less to administer. This requirement will 
+boost transparency in the tax-exempt sector by requiring all nonprofits 
+to file their returns electronically.
+  Today, approximately 60 percent of all 990s are filed electronically, 
+but the remaining 40 percent are still paper filed and not released as 
+open data. In addition to requiring e-filing of the 990 form be 
+mandatory for tax-exempt organizations, the bill would make such 
+returns available to the public in a machine-readable format.
+  So why is this important? Better 990 information, when searchable and 
+available to the public, allows for better scrutiny and better 
+transparency. Jacob Harold, president of GuideStar, which collects and 
+disseminates information from nonprofits' returns, says: ``The more 
+easily people can access that data, the better.''
+  A readable, searchable format that will help improve efficiency and 
+accuracy and reduce fraud, e-filing has served as a highly effective 
+tool in exposing scam charities, and it will make it easier to catch 
+these few bad actors who are using tax donations for personal gain 
+only.
+  For example, in 2015, the Federal Trade Commission, the District of 
+Columbia, and all 50 States filed a lawsuit against four scam cancer 
+charities calling themselves the Cancer Fund. Their owners had used 
+over 95 percent of the $187 million in charitable donations for their 
+own personal benefit. This lawsuit took almost 4 years because of the 
+difficulty of analyzing thousands and thousands of pages of data that 
+were filed on paper.
+  Our bill will correct that. Hundreds of millions of dollars from 
+generous Americans were wasted because their donations were going to a 
+fraudster and not helping researchers to find a cure for cancer. To 
+take money away from cancer patients is just plain wrong and immoral. 
+Our bill wants to make sure this doesn't happen in the future.
+  Now, how would that happen? Changes could be brought sooner against 
+these scam charities, in less than 1 year instead of 4, if the return 
+information had been available electronically. There are countless 
+examples that prove that this can be the case. The State of Michigan is 
+a great model for just how valuable access to machine-readable data is. 
+To date, Michigan has shut down the most number of scam nonprofits out 
+of all 50 States. This is because of the Michigan attorney general's 
+ability to manipulate and analyze researchable data.
+
+  This bipartisan bill would help expose these shams nationally by 
+ensuring nonprofits are e-filing annual returns. Therefore, I urge my 
+colleagues on both sides to support this important good-government, 
+antifraud bill.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. LEWIS of Georgia. Mr. Speaker, I yield myself such time as I may 
+consume.
+  Mr. Speaker, let me just thank my friend and colleague from 
+Pennsylvania for those kind words. Say hello to your grandson George.
+  Mr. Speaker, I rise in strong support of H.R. 5443. Let me begin by 
+thanking the gentleman from Pennsylvania and the gentlewoman from 
+Florida for their work on this good and necessary bill.
+  Mr. Speaker, I hope all of our colleagues will support this simple 
+bill, and I reserve the balance of my time.
+  Mr. KELLY of Pennsylvania. Mr. Speaker, having no other speakers, I 
+reserve the balance of my time.
+  Mr. LEWIS of Georgia. Mr. Speaker, I yield 3 minutes to the 
+gentlewoman from Florida (Mrs. Murphy), the lead Democratic cosponsor.
+  Mrs. MURPHY of Florida. Mr. Speaker, I am proud to be the lead 
+Democrat on this bipartisan bill which would provide government 
+officials with the timely information they need to prevent and punish 
+fraud in connection with charitable solicitations and the use of 
+charitable assets.
+  I want to thank my colleague and colead from Pennsylvania, 
+Congressman  Mike Kelly, for his leadership on this issue. I also want 
+to thank the chairman, ranking member, and the members of the Ways and 
+Means Committee which unanimously approved this bill last week.
+  Our bill would require charities to annually file Internal Revenue 
+Service form 990, the form used by tax-exempt organizations, in 
+electronic as opposed to paper format. It would also require the IRS to 
+make these electronic filings available to the public in machine-
+readable format. Our legislation has been endorsed by the National 
+Association of State Charity Officials, or NASCO, which is an 
+association of State agencies that oversees charitable organizations.
+  The purpose of our bill is threefold:
+  First, it would help law enforcement agencies and government 
+regulators identify, shut down, and prosecute fraudulent charitable 
+organizations that use financial contributions for their personal 
+benefit rather than to help those in need.
+  Second, it would protect American taxpayers who make generous 
+donations to charitable organizations and deserve to feel a sense of 
+security that their hard-earned money is being used for its intended 
+purpose.
+  And third, it would help reduce the often excessive and overlapping 
+Federal and State filing requirements applicable to charitable 
+organizations, on which these organizations spend considerable time, 
+money, and resources complying every year. This would enable genuine 
+tax-exempt organizations to focus more on their charitable mission, 
+whether that is helping wounded warriors, sponsoring cancer research, 
+assisting victims of gun violence, or other notable causes.
+  I would note that, in its letter of support for this legislation, 
+NASCO states that having electronic data for all form 990 filers, as 
+this bill mandates, would ensure that the States have the ability to 
+identify and stop fraudulent activity that harms charities and donors 
+more quickly and effectively. NASCO further states that the bill could 
+result in returning to charitable organizations significant resources 
+that these organizations must currently devote to compliance with 
+unnecessary government filing requirements.
+  In closing, I respectfully ask my colleagues in this Chamber to 
+support the bill, and I urge my colleagues in the Senate to quickly 
+follow suit.
+  Mr. KELLY of Pennsylvania. Mr. Speaker, I reserve the balance of my 
+time.
+  Mr. LEWIS of Georgia. Mr. Speaker, I have no further speakers and am 
+prepared to close.
+  Mr. Speaker, I urge all of my colleagues to support this bill, and I 
+yield back the balance of my time.
+  Mr. KELLY of Pennsylvania. Mr. Speaker, in closing, I yield myself 
+such time as I may consume.
+  Yes, it is true, Americans are a charitable group. In fact, we are 
+the most generous people in the world. Our Nation's history of 
+philanthropy, charities, and loving people are the envy of the world. 
+In 2016 alone, Americans gave $390 billion, with 63 million Americans, 
+25 percent of the adult population, volunteering their time, their 
+talent, their energy, and their dollars to make a difference.
+  As a recent commentator noted, Americans have it in their DNA to be 
+philanthropic. Of all the countries, we are the most generous. Because 
+I know my colleagues have it in their DNA to support our Nation's 
+unique philanthropic history and charitable community, I urge them to 
+vote in favor of this important legislation.
+  Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Pennsylvania (Mr. Kelly) that the House suspend the 
+rules and pass the bill, H.R. 5443, as amended.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the bill, as amended, was passed.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

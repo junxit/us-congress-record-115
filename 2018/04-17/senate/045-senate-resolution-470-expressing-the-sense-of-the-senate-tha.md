@@ -1,0 +1,60 @@
+---
+granule: CREC-2018-04-17-pt1-PgS2222
+date: 2018-04-17
+edition: CREC
+section: SENATE
+page: S2222
+citation: 164 Cong. Rec. S2222
+---
+
+# SENATE RESOLUTION 470--EXPRESSING THE SENSE OF THE SENATE THAT ELECTRICITY MARKETS DO NOT APPROPRIATELY VALUE THE RELIABILITY AND RESILIENCE ATTRIBUTES OF BASELOAD POWER GENERATION SERVING THE BULK...
+
+**Measures:** S.Res. 470
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+    SENATE RESOLUTION 470--EXPRESSING THE SENSE OF THE SENATE THAT 
+  ELECTRICITY MARKETS DO NOT APPROPRIATELY VALUE THE RELIABILITY AND 
+  RESILIENCE ATTRIBUTES OF BASELOAD POWER GENERATION SERVING THE BULK 
+                              POWER SYSTEM
+
+  Mr. MANCHIN submitted the following resolution; which was referred to 
+the Committee on Energy and Natural Resources:
+
+                              S. Res. 470
+
+       Whereas the power generation resource mix of the United 
+     States is rapidly changing, presenting ongoing challenges to 
+     ensuring that baseload units remain operational and provide 
+     enhanced resilience and reliability to the power grid of the 
+     United States;
+       Whereas many baseload units are not appropriately valued 
+     for the resilience and reliability attributes those units 
+     provide to the power grid of the United States;
+       Whereas accelerated retirements of coal-fired and nuclear 
+     baseload power generation resources are among those 
+     challenges, including how those resources are needed--
+       (1) to provide dependable capacity to serve customers;
+       (2) to support essential grid services, such as voltage and 
+     frequency support and ramping capability;
+       (3) to offer high availability and reliability from 
+     significant on-site fuel storage; and
+       (4) to support integration of new generation resources; and
+       Whereas in Docket Numbers RM18-000-001 and AD18-7-001, and 
+     in other proceedings, the Federal Energy Regulatory 
+     Commission has compiled extensive evidence documenting the 
+     reliability and resilience attributes of all power generation 
+     resources: Now, therefore, be it
+       Resolved, That it is the sense of the Senate that the 
+     Federal Energy Regulatory Commission should take action to 
+     ensure that the electricity markets fully recognize the 
+     reliability and resilience benefits of coal-fired and nuclear 
+     baseload power generation resources serving the bulk power 
+     system.
+
+                          ____________________
+```
