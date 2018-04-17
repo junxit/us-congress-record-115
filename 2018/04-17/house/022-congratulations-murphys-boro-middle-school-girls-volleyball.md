@@ -1,0 +1,31 @@
+---
+granule: CRECB-2018-pt5-Pg5943-8
+date: 2018-04-17
+edition: CRECB
+section: HOUSE
+page: 5943
+---
+
+# CONGRATULATIONS MURPHYS BORO MIDDLE SCHOOL GIRLS VOLLEYBALL TEAM
+
+```
+                        CONGRATULATIONS MURPHYS
+                BORO MIDDLE SCHOOL GIRLS VOLLEYBALL TEAM
+
+  (Mr. BOST asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BOST. Mr. Speaker, today I proudly honor the Murphysboro Middle 
+School Blue Devils Girls volleyball team for winning the Class L State 
+Championship for the second straight year.
+  Along the way, the team also captured their eighth consecutive Junior 
+Southwest Egyptian Conference title. That win was also a career 
+milestone for Coach Mike Layne. It marked the 1,000th combined career 
+win while coaching volleyball for Murphysboro Community Unit School 
+District at both the middle school and high school levels.
+  I extend a heartfelt congratulations to the players, coaching staff, 
+school officials, family, and friends who supported these young ladies 
+on their incredible journey. Southern Illinois is proud of you.
+  Go, Blue Devils.
+
+                          ____________________
+```
