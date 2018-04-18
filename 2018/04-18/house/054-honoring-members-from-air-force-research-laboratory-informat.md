@@ -1,0 +1,47 @@
+---
+granule: CRECB-2018-pt5-Pg6105
+date: 2018-04-18
+edition: CRECB
+section: HOUSE
+page: 6105
+---
+
+# HONORING MEMBERS FROM AIR FORCE RESEARCH LABORATORY INFORMATION DIRECTORATE
+
+```
+    HONORING MEMBERS FROM AIR FORCE RESEARCH LABORATORY INFORMATION 
+                              DIRECTORATE
+
+  (Ms. TENNEY asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TENNEY. Mr. Speaker, I rise today to honor the members from the 
+Air Force Research Laboratory Information Directorate, otherwise known 
+as Rome Lab.
+  Rome Lab has been recognized by the Federal Laboratory Consortium for 
+its superiority in technology transfer work. Technology transfer work 
+is a process by which existing knowledge or capabilities developed 
+under Federal funding are used to fulfill public and private needs.
+  The winners of this year's FLC high-profile award are Ralph Kohler, 
+Frank Hoke, Sean Patten, Joseph Mancini, David Canestrare, Daniel 
+Carpenter, Joshua Sterling, Richard Newkirk, Sam Davis, and Mark 
+Linderman.
+  This group of brilliant minds created the Android Team Awareness Kit, 
+or ATAK. This is a profoundly useful software collaboration that runs 
+on an android mobile operating system. It can connect multiple people 
+on the go, giving them a common operation picture right on their 
+handheld phone. It currently has 40,000 Department of Defense users and 
+32,000 non-Federal users. The winners from Rome Lab created an easy 
+access portal that allows the government to provide ATAK to citizens, 
+enabling better communication and information sharing.
+  This technology transfer benefits Rome Lab, its mission, the 
+government, and all users. A great example of how ATAK was 
+extraordinarily beneficial was during the 2017 hurricanes. Because of 
+Rome Lab's work, civilian, State, and military teams were able to 
+communicate to rescue people and save lives.
+  Mr. Speaker, I would like to congratulate this group of brilliant 
+young people and thank them for continuing to make the Air Force 
+Research Lab, otherwise known as Rome Lab, a world leader in advanced 
+technology.
+
+                          ____________________
+```
