@@ -1,0 +1,37 @@
+---
+granule: CREC-2018-04-18-pt1-PgH3431
+date: 2018-04-18
+edition: CREC
+section: HOUSE
+page: H3431
+citation: 164 Cong. Rec. H3431
+---
+
+# RECOGNIZING THE PASSING OF FORMER FIRST LADY BARBARA BUSH
+
+**Speaking:** Arrington, Jodey C. (A000375) [R-TX]
+
+```
+       RECOGNIZING THE PASSING OF FORMER FIRST LADY BARBARA BUSH
+
+  (Mr. ARRINGTON asked and was given permission to address the House 
+for 1 minute.)
+  Mr. ARRINGTON. Mr. Speaker, today I rise to recognize the passing of 
+a very special person and the epitome of a First Lady, Barbara Pierce 
+Bush. As First Lady, Mrs. Bush was praised for bringing the power of 
+literacy to others, but America will remember her most for her fierce 
+love and commitment to her family.
+  Mrs. Bush embodied the best of America: strong, compassionate, and 
+spirited. She, like her husband, believed that public service is a 
+noble calling, and she stewarded that calling with class and grace.
+  Our country would not have been blessed with the principled 
+leadership of both our 41st and 43rd Presidents if it were not for the 
+strong character and devotion of Barbara Bush.
+  Her dedication to family values wasn't just a political talking 
+point; it was her life's mission, and now, her greatest legacy.
+  While I grieve with my dear friend, President George W. Bush, and his 
+family, I join them in celebrating a life well lived, and thanking God 
+with gracing us with Barbara Bush.
+
+                          ____________________
+```

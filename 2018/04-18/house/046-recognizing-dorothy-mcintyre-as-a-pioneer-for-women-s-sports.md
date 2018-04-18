@@ -1,0 +1,38 @@
+---
+granule: CREC-2018-04-18-pt1-PgH3430-2
+date: 2018-04-18
+edition: CREC
+section: HOUSE
+page: H3430
+citation: 164 Cong. Rec. H3430
+---
+
+# RECOGNIZING DOROTHY McINTYRE AS A PIONEER FOR WOMEN'S SPORTS
+
+**Speaking:** Paulsen, Erik (P000594) [R-MN]
+
+```
+      RECOGNIZING DOROTHY McINTYRE AS A PIONEER FOR WOMEN'S SPORTS
+
+  (Mr. PAULSEN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PAULSEN. Mr. Speaker, I rise to recognize a pioneer of women's 
+sports in Minnesota, Dorothy McIntyre, who was recently inducted in the 
+Minnesota High School Basketball Hall of Fame.
+  There are very few who have done more to advance Minnesota girls 
+sports than Eden Prairie coach and teacher, Dorothy McIntyre. Dorothy 
+arrived in Eden Prairie in 1959, with girls sports in Minnesota nearly 
+nonexistent. But Dorothy led a courageous group of like-minded 
+colleagues to push for change.
+  Progress was slow. Gymnastics was first, tennis next, and basketball 
+not until 1976. But Dorothy kept at it, and when she was told girls 
+must play basketball in the fall instead of the winter, her answer was 
+a firm: No, that's not fair. She got results, and today, girls play 
+basketball just like the boys do, and Dorothy McIntyre is a big reason 
+why.
+  Mr. Speaker, I want to congratulate Dorothy McIntyre on her well-
+deserved induction into the Minnesota High School Basketball Hall of 
+Fame.
+
+                          ____________________
+```

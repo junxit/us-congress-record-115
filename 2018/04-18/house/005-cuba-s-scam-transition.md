@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-04-18-pt1-PgH3399-4
+date: 2018-04-18
+edition: CREC
+section: HOUSE
+page: H3399
+citation: 164 Cong. Rec. H3399
+---
+
+# CUBA'S SCAM TRANSITION
+
+**Speaking:** Ros-Lehtinen, Ileana (R000435) [R-FL]
+
+```
+                         CUBA'S SCAM TRANSITION
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Florida (Ms. Ros-Lehtinen) for 5 minutes.
+  Ms. ROS-LEHTINEN. Mr. Speaker, today, many around the world might 
+herald what they call a transition of power in my native homeland of 
+Cuba, but that couldn't be further from the truth.
+  This sham transition is more smoke and mirrors--another ploy out of 
+the Castro playbook. The reality is that Raul Castro will continue to 
+maintain his grip on power. The reality is that the Cuban people will 
+be no closer to freedom today than they were yesterday--no closer to 
+democracy today than they were yesterday.
+  The reality is that the murderous regime in Cuba will continue to 
+oppress and will continue to abuse the people of Cuba.
+  We are not fooled, Mr. Speaker, and U.S. law dictates that we do not 
+recognize this so-called transition government or any successor 
+government until certain conditions are met, conditions such as: all 
+political prisoners be released; until free, fair, and transparent 
+elections monitored by international observers are held; and until the 
+Cuban people's human rights are respected.
+  Until then, and only then, Mr. Speaker, we must continue to oppose 
+this farce orchestrated by Castro and, instead, we must stand with the 
+people of Cuba in their fight for freedom, democracy, and human rights.
+
+                          ____________________
+```
