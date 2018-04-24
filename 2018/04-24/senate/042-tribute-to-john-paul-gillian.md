@@ -1,0 +1,30 @@
+---
+granule: CREC-2018-04-24-pt1-PgS2384-5
+date: 2018-04-24
+edition: CREC
+section: SENATE
+page: S2384
+citation: 164 Cong. Rec. S2384
+---
+
+# TRIBUTE TO JOHN PAUL GILLIAN
+
+**Speaking:** Rubio, Marco (R000595) [R-FL]
+
+```
+                      TRIBUTE TO JOHN PAUL GILLIAN
+
+● Mr. RUBIO. Mr. President, today I recognize John Paul Gillian, 
+a 2017 spring intern in my Jacksonville, FL, office, for all of the 
+hard work he has done for me, my staff, and the people of the State of 
+Florida.
+  John Paul is a student at the University of North Florida, where he 
+is pursuing his masters of science in management. He is a dedicated and 
+diligent worker who has been devoted to getting the most out of his 
+internship experience.
+  I would like to extend my sincere thanks and appreciation to John 
+Paul for all the fine work he has done and wish him continued success 
+in the years to come.●
+
+                          ____________________
+```

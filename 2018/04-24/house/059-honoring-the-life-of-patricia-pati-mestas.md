@@ -1,0 +1,36 @@
+---
+granule: CREC-2018-04-24-pt1-PgH3496-2
+date: 2018-04-24
+edition: CREC
+section: HOUSE
+page: H3496
+citation: 164 Cong. Rec. H3496
+---
+
+# HONORING THE LIFE OF PATRICIA "PATI" MESTAS
+
+**Speaking:** Kihuen, Ruben J. (K000390) [D-NV]
+
+```
+             HONORING THE LIFE OF PATRICIA ``PATI'' MESTAS
+
+  (Mr. KIHUEN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. KIHUEN. Mr. Speaker, today I rise to remember the life of 
+Patricia ``Pati'' Mestas.
+  Pati was a good mother to her three children, eight grandchildren, 
+and one great-grandchild.
+  Patricia was a retired gas station and convenience store worker who 
+loved country music and traveling. Patricia would go to almost every 
+country show within driving distance of her house. One of her favorite 
+artists was Jason Aldean, and she was excited to see him perform at the 
+Route 91 festival on October 1 in Las Vegas.
+  Patricia loved to laugh and smile. She had a fun-loving spirit and 
+was young at heart. Patricia is remembered for being outgoing, likable, 
+and being sensitive to other people's concerns and problems.
+  I would like to extend my condolences to Patricia Mestas' family and 
+friends. Please know that the city of Las Vegas, the State of Nevada, 
+and the whole country grieve with you.
+
+                          ____________________
+```

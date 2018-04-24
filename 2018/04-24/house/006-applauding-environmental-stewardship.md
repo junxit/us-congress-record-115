@@ -1,0 +1,37 @@
+---
+granule: CREC-2018-04-24-pt1-PgH3455-5
+date: 2018-04-24
+edition: CREC
+section: HOUSE
+page: H3455
+citation: 164 Cong. Rec. H3455
+---
+
+# APPLAUDING ENVIRONMENTAL STEWARDSHIP
+
+**Speaking:** Bordallo, Madeleine Z. (B001245) [D-GU]
+
+```
+                  APPLAUDING ENVIRONMENTAL STEWARDSHIP
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Guam (Ms. Bordallo) for 5 minutes.
+  Ms. BORDALLO. Mr. Speaker, I rise today to congratulate the crew of 
+the USS Frank Cable, a submarine tender homeported at Naval Base Guam.
+  The Frank Cable and her crew were selected for the 2018 Secretary of 
+the Navy's Environmental Award for large deck combatants in recognition 
+of the crew's efforts. The Frank Cable crew have worked diligently to 
+minimize waste aboard and helped to clean up local communities, both on 
+Guam and where they are deployed abroad. Caring for our island and 
+conserving Guam's natural resources are among my top priorities, and I 
+am immensely proud of the Frank Cable crew's achievement.
+  The Secretary of the Navy's award this year, plus a second award to 
+the USS Frank Cable, the 2017 Chief of Naval Operations Environmental 
+Excellence Award, are examples of the partnership between the U.S. 
+military and the people of Guam that we need.
+  I, again, applaud the USS Frank Cable crew on their awards, and I 
+hope that the military will continue to act as responsible stewards of 
+our island.
+
+                          ____________________
+```
