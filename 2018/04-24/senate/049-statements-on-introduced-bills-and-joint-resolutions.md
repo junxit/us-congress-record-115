@@ -1,0 +1,96 @@
+---
+granule: CRECB-2018-pt5-Pg6252
+date: 2018-04-24
+edition: CRECB
+section: SENATE
+page: 6252
+---
+
+# STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+```
+          STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+      By Mr. KAINE (for himself, Mr. Portman, Ms. Baldwin, and Mrs. 
+        Capito):
+  S. 2737. A bill to amend the Higher Education Act of 1965 to provide 
+for the preparation of career and technical education teachers; to the 
+Committee on Health, Education, Labor, and Pensions.
+  Mr. KAINE. Mr. President. Maintaining a talented workforce is 
+essential to cultivating a strong economy and positioning our Nation 
+for success in today's increasingly competitive global marketplace. 
+Opportunities for education, professional development, and the 
+acquisition of skills immediately translatable in the workplace will 
+help to ensure that our students and workers are equipped with the 
+skills required to succeed in the 21st century. Career and technical 
+education (CTE) programs play a vital role in increasing student 
+engagement, continuing our nation's economic competitiveness, and 
+building the skills of our country's workforce.
+  In recent years, there has been a resurgence of student interest in 
+career and technical education, but shortages in high-quality CTE 
+teachers have made it difficult for school districts to meet this 
+demand. While the Higher Education and Opportunity Act of 2008 provides 
+grants for teacher residency partnership programs to colleges and 
+universities who work with high-needs school districts to train 
+prospective teachers, no CTE-focused partnerships exist.
+  That is why I am introducing with my colleagues, Senator Baldwin, 
+Senator Portman and Senator Capito the Creating Quality Technical 
+Educators Act, which would amend the Higher Education and Opportunity 
+Act to create a CTE teacher-training grant partnership to equip 
+aspiring CTE teachers with real-world experience and credible skills to 
+apply in the classroom. This legislation would foster teacher training 
+partnerships between high-needs secondary schools and post-secondary 
+institutions to create a one-year residency initiative for teachers and 
+includes teacher mentorship for a minimum of two years. This period of 
+hands-on training and mentorship will only increase the ability of CTE 
+teachers to benefit their students through classroom instruction and 
+serve as a career model.
+  In addition to establishing CTE specific teacher-training grant 
+partnerships, this bill takes a proactive approach to recruiting and 
+training more high-quality CTE teachers. CTE teacher residencies would 
+target teacher candidates from a variety of backgrounds including 
+recent college graduates, veterans, mid-career professionals, and 
+currently licensed teachers with a need for technical skills training 
+who seek to transition into CTE fields.
+  As co-chair of the Senate CTE Caucus, I am proud to introduce this 
+commonsense, bipartisan legislation to recruit and train talented 
+teachers to meet the rising need for CTE. The Creating Quality 
+Technical Educators Act is an important step towards ensuring access to 
+high-quality CTE instruction, preparing teachers for success, and 
+maintaining the skill set of our Nation's workforce.
+                                 ______
+                                 
+      By Mr. CORNYN (for himself and Mr. Cruz):
+  S. 2734. A bill to designate the Federal building and United States 
+courthouse located at 1300 Victoria Street in Laredo, Texas, as the 
+``George P. Kazen Federal Building and United States Courthouse''; to 
+the Committee on Environment and Public Works.
+  Mr. CORNYN. Mr. President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 2734
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. GEORGE P. KAZEN FEDERAL BUILDING AND UNITED STATES 
+                   COURTHOUSE.
+
+       (a) Designation.--The Federal building and United States 
+     courthouse located at 1300 Victoria Street in Laredo, Texas, 
+     shall be known and designated as the ``George P.
+
+[[Page 6253]]
+
+     Kazen Federal Building and United States Courthouse''.
+       (b) References.--Any reference in a law, map, regulation, 
+     document, paper, or other record of the United States to the 
+     Federal building and United States courthouse referred to in 
+     subsection (a) shall be deemed to be a reference to the 
+     ``George P. Kazen Federal Building and United States 
+     Courthouse''.
+
+                          ____________________
+```
