@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-04-26-pt1-PgH3590-4
+date: 2018-04-26
+edition: CREC
+section: HOUSE
+page: H3590
+citation: 164 Cong. Rec. H3590
+---
+
+# KANSAS TEAMS REACH THE NATIONAL SCIENCE BOWL NATIONAL FINALS
+
+**Speaking:** Yoder, Kevin (Y000063) [R-KS]
+
+```
+      KANSAS TEAMS REACH THE NATIONAL SCIENCE BOWL NATIONAL FINALS
+
+  (Mr. YODER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. YODER. Mr. Speaker, I rise today to congratulate Blue Valley West 
+High School and Pleasant Ridge Middle School on winning their regional 
+competitions of the National Science Bowl.
+  Since 1991, the Department of Energy has been using the National 
+Science Bowl to encourage students from diverse backgrounds who excel 
+in science and mathematics to pursue careers in those areas. For our 
+Nation to remain the beacon of innovation and creation that it is 
+today, we must support and inspire our youth to experiment and explore 
+the world around them.
+  In January of this year, 9,000 high school students and 4,500 middle 
+school students passionate about science and mathematics began to 
+compete. The young people from my district worked hard and have found 
+themselves participating in the national finals. Starting today, these 
+two bright groups of young people will represent Kansas in the National 
+Science Bowl's national finals.
+  Mr. Speaker, I call upon all of us in this body to join me in wishing 
+Blue Valley West and Pleasant Ridge's team good luck in the National 
+Science Bowl's national finals.
+
+                          ____________________
+```

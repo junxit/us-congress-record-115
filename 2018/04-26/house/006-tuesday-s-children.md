@@ -1,0 +1,46 @@
+---
+granule: CREC-2018-04-26-pt1-PgH3578
+date: 2018-04-26
+edition: CREC
+section: HOUSE
+page: H3578
+citation: 164 Cong. Rec. H3578
+---
+
+# TUESDAY'S CHILDREN
+
+**Speaking:** Bacon, Don (B001298) [R-NE]
+
+```
+                           TUESDAY'S CHILDREN
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from Mr. 
+Nebraska (Mr. Bacon) for 5 minutes.
+  Mr. BACON. Mr. Speaker, I rise to recognize three amazing kids: 
+Arianna, Julius, and Kaydin, who join me today on the floor. All three 
+are taking part in Take Our Children to Work Today hosted by Tuesday's 
+Children. This is my second year participating in this wonderful event, 
+and both times it has brightened my day.
+  Tuesday's Children provides support to children whose parents passed 
+away in the military or due to terrorism. More than 15,000 individuals 
+directly impacted by the events of September 11 have been supported by 
+Tuesday's Children, and more than 6,000 individuals are currently 
+served by Tuesday's Children's First Responder Alliance program today.
+  In my 30 years in the Air Force, I was able to meet with the families 
+of loved ones who passed. I know how important organizations like 
+Tuesday's Children are for our Nation's youth.
+  Today, it is about kids like Arianna, Julius, and Kaydin. They are 
+shadowing me this morning and seeing what life is like in Congress. 
+Julius is 9 years old. He is from Maryland and enjoys robotics and 
+LEGOs. Kaydin, from Pennsylvania, is 10 years old, and is a big New 
+York Giants fan. I tried to make him a Chicago Bears fan, but I 
+couldn't do it. Finally, Arianna is from Maryland. She is 7 years old, 
+and loves to play tennis.
+  I hope they enjoy their time in Washington and remember this day as a 
+very special one, because they are special. I look forward to spending 
+more time with them this afternoon.
+  The SPEAKER pro tempore. The Chair will remind all Members to refrain 
+from references to guests on the floor.
+
+                          ____________________
+```

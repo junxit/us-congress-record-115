@@ -1,0 +1,36 @@
+---
+granule: CREC-2018-04-26-pt1-PgH3590
+date: 2018-04-26
+edition: CREC
+section: HOUSE
+page: H3590
+citation: 164 Cong. Rec. H3590
+---
+
+# HONORING CORPORAL EUGENE COLE
+
+**Speaking:** Poliquin, Bruce (P000611) [R-ME]
+
+```
+                     HONORING CORPORAL EUGENE COLE
+
+  (Mr. POLIQUIN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. POLIQUIN. Mr. Speaker, yesterday, my fellow Mainers woke up to 
+heartbreaking news: Corporal Eugene Cole, a deputy at Somerset County 
+Sheriff's Office in Norridgewock, was shot and killed in the line of 
+duty. This horrific act was the first killing of a police officer in 
+Maine in almost 30 years.
+  Every day, Mr. Speaker, for 13 years, Eugene Cole put on his uniform 
+and his equipment and set out to protect our families in Maine. Mr. 
+Cole served central Maine with honor and integrity and a relentless 
+sense of duty.
+  Mr. Speaker, Maine is one of the safest places in the country to live 
+and work and raise your kids, and that is because of heroes like Eugene 
+Cole. I am so grateful for his work and his sacrifice.
+  On behalf of all of my fellow Mainers, Mr. Speaker, I send our 
+deepest sympathies to the family of Eugene Cole. I will be praying for 
+them during this very, very difficult time.
+
+                          ____________________
+```

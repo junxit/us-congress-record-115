@@ -1,0 +1,43 @@
+---
+granule: CREC-2018-04-26-pt1-PgH3689-2
+date: 2018-04-26
+edition: CREC
+section: HOUSE
+page: H3689
+citation: 164 Cong. Rec. H3689
+---
+
+# CONGRATULATING THE DELAWARE ACADEMY HIGH SCHOOL GIRLS' VARSITY BASKETBALL TEAM
+
+**Speaking:** Tenney, Claudia (T000478) [R-NY]
+
+```
+    CONGRATULATING THE DELAWARE ACADEMY HIGH SCHOOL GIRLS' VARSITY 
+                            BASKETBALL TEAM
+
+  (Ms. TENNEY asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TENNEY. Mr. Speaker, I rise today to recognize, along with my 
+colleague Congressman  John Faso, an outstanding group of young women 
+from Delaware Academy in Delhi, New York. The Delaware Academy Girls' 
+Varsity Basketball team won this year's New York State Class D 
+Basketball Championship. It was an intense game with a last 3-point 
+shot from Logan Bruce that carried the team into overtime.
+  The game finally ended in the first overtime with Delaware defeating 
+Franklinville with a score of 54-51. This is Delaware Academy's first 
+basketball State title and the first State title in any of the women's 
+and girls' sports. The Delaware team, known as the Bulldogs, has 14 
+superior talented athletes:
+  First, the three-point shot, which was made by Logan Bruce, Olivia 
+Wakin, Kaitlyn Finch, Brenna Gioffe, Julia Burns, Aileen Nealis, Hannah 
+Baxter, Anna Post, Reagan Bracchy, Meredith Mable, Caroline Grace, 
+Cella Schnabel, Sophia Wakin, and eighth grader Sylvia Liddle.
+  Mr. Speaker, I just wanted to have my colleagues join me in 
+congratulating this outstanding, talented group of women and their 
+coaches: Todd Bruce, A.J. Mucciaro, and Tom Gliddon, on becoming New 
+York State champions for the first time.
+  As a former starting center for my high school girls' basketball 
+team, I am just so proud to say: Go, Bulldogs.
+
+                          ____________________
+```

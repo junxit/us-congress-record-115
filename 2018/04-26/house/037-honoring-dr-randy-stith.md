@@ -1,0 +1,45 @@
+---
+granule: CREC-2018-04-26-pt1-PgH3588-4
+date: 2018-04-26
+edition: CREC
+section: HOUSE
+page: H3588
+citation: 164 Cong. Rec. H3588
+---
+
+# HONORING DR. RANDY STITH
+
+**Speaking:** Coffman, Mike (C001077) [R-CO]
+
+```
+                        HONORING DR. RANDY STITH
+
+  (Mr. COFFMAN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. COFFMAN. Mr. Speaker, it is my honor today to recognize a truly 
+great citizen of Aurora, Colorado, Dr. Randy Stith.
+  As the executive director and CEO of Aurora Mental Health Center for 
+over 40 years, Randy has exemplified the qualities of a great Colorado 
+leader throughout his entire career. He has spent the last four decades 
+providing access to mental healthcare to those in the greater Aurora 
+area, often committing to 60-hour work weeks, while keeping up-to-date 
+in the behavioral healthcare field, which is constantly evolving.
+  Randy has been a true trailblazer in championing the expansion of 
+mental healthcare, as it has rapidly progressed as part of the 
+healthcare industry, especially over the past 50 years. He has served 
+his community valiantly through triumph and tragedy, most notably, 
+offering free counseling through the Aurora Mental Health Center to 
+anyone in the Aurora area who had been impacted by the 2012 theater 
+mass shooting.
+  Randy's commitment to serving his patients, as well as his community, 
+will be difficult to replace. However, I know that the entire Aurora 
+community takes great pride in knowing that we have civic leaders such 
+as Randy who are locally active.
+  Mr. Speaker, I would like to extend my sincere congratulations to Dr. 
+Randy Stith, and to the entire staff of the Aurora Mental Health 
+Center, for their tireless and unwavering commitment to offering 
+excellent mental healthcare services to the people of Aurora, Colorado, 
+over the last 40 years.
+
+                          ____________________
+```
