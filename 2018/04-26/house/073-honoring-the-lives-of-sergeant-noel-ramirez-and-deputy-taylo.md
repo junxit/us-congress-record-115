@@ -1,0 +1,65 @@
+---
+granule: CRECB-2018-pt5-Pg6643
+date: 2018-04-26
+edition: CRECB
+section: HOUSE
+page: 6643
+---
+
+# HONORING THE LIVES OF SERGEANT NOEL RAMIREZ AND DEPUTY TAYLOR LINDSEY
+
+```
+                              {time}  1945
+ HONORING THE LIVES OF SERGEANT NOEL RAMIREZ AND DEPUTY TAYLOR LINDSEY
+
+  The SPEAKER pro tempore (Ms. Tenney). Under the Speaker's announced 
+policy of January 3, 2017, the Chair recognizes the gentleman from 
+Florida (Mr. Yoho) for 30 minutes.
+  Mr. YOHO. Madam Speaker, I rise this evening with a saddened heart to 
+honor Sergeant Noel Ramirez and Deputy Taylor Lindsey of the Gilchrist 
+County Sheriff's Office, who tragically lost their lives in the line of 
+duty on April 19, 2018, in a senseless, evil, and cowardly act, with 
+complete disregard and respect for law enforcement officers and life 
+itself.
+  While I no longer represent Gilchrist County here in Congress, my 
+wife, Carolyn, and I operated two of our veterinary businesses there. 
+It is the epitome of an idyllic American town that espouses the values 
+of America, God, country, and family. Our thoughts are with the entire 
+community as we recover from this tragedy.
+  Sergeant Ramirez was born on June 30, 1988, in Brooklyn, New York. 
+After graduating high school in Puerto Rico with honors, he began his 
+career in law enforcement.
+  During his service to the people of Gilchrist County, he played an 
+active role in recruiting new members to the Gilchrist team to grow 
+what he liked to call ``the family'' in the Gilchrist County Sheriff's 
+Office.
+  He was a medalist in the First Responder Games in both basketball and 
+weight lifting, but more importantly than that, he was a loving and 
+dedicated father and husband.
+  He is survived by his wife, Gigi; their two children, Noel Lito and 
+Zoey; along with his parents and family.
+  Deputy Taylor Lindsey was born on June 30, 1992, in Gainesville, 
+Florida, and graduated from Gainesville High School. Deputy Lindsey 
+joined Gilchrist County Sheriff's Office in 2013, where he began his 
+lifelong dream to be a law enforcement officer.
+  From a young age, he wanted to be a law enforcement officer, and he 
+couldn't say ``patrol'' so he called it ``P-trol,'' and he went on to 
+fulfill that dream. He worked there for 3 years.
+  While quiet at first, he was quick to laugh, and those who worked 
+with him can tell you a favorite Taylor Lindsey story.
+  Deputy Lindsey is survived by his parents, his family, and his 
+girlfriend, Kristin Hite.
+  John 15:13 reminds us there is no greater love than to lay down one's 
+life for their friends. Both officers gave the ultimate sacrifice and 
+epitomized the meaning of service before self. Our lives and our 
+community, our State and, in fact, our Nation are better because of 
+their service.
+  Rest easy, gentlemen. We now have your watch.
+  Madam Speaker, I yield back the balance of my time.
+
+[[Page 6644]]
+
+
+
+                          ____________________
+```

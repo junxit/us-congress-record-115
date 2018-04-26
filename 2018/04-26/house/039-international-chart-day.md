@@ -1,0 +1,33 @@
+---
+granule: CRECB-2018-pt5-Pg6524-3
+date: 2018-04-26
+edition: CRECB
+section: HOUSE
+page: 6524
+---
+
+# INTERNATIONAL CHART DAY
+
+```
+                        INTERNATIONAL CHART DAY
+
+  (Mr. TAKANO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. TAKANO. Mr. Speaker, today I am introducing a resolution to 
+recognize April 26 as International Chart Day, a celebration of charts, 
+data visualization, and infographics of all types.
+  An American public that is better equipped to understand what goes in 
+a good chart will be better equipped to spot and discard fake news. In 
+news reporting and academia, the use of properly sourced and formatted 
+charts help explain complex issues. Charts help the brain discern 
+patterns and trends that large amounts of data often hide.
+  The goal of International Chart Day is to study the history of data 
+visualization, celebrate innovations in infographics, and encourage 
+wider adoption of their use across society. My colleagues and I in 
+Congress are prolific creators of charts, many of which are archived on 
+the excellent blog ``Floor Charts,'' curated by William Gray. If you 
+are interested in joining in on the celebration, please share your 
+favorite charts online and use #chartday.
+
+                          ____________________
+```
