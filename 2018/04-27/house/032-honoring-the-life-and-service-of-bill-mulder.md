@@ -1,0 +1,37 @@
+---
+granule: CRECB-2018-pt5-Pg6690-3
+date: 2018-04-27
+edition: CRECB
+section: HOUSE
+page: 6690
+---
+
+# HONORING THE LIFE AND SERVICE OF BILL MULDER
+
+```
+              HONORING THE LIFE AND SERVICE OF BILL MULDER
+
+  (Mr. ARRINGTON asked and was given permission to address the House 
+for 1 minute.)
+  Mr. ARRINGTON. Mr. Speaker, today I introduced legislation to honor 
+the life of a high school buddy of mine and a decorated Navy SEAL, Bill 
+Mulder. Bill was a true American hero who served our country with honor 
+and distinction.
+  Like many of our troops, Bill's greatest fight wasn't on the 
+battlefield; it was the struggle that often ensues from the mental, 
+emotional, and physical wear and tear from military service. On top of 
+that, people like Bill, who spend their entire careers pursuing 
+excellence as a warrior, often wrestle with life back as a civilian.
+  The Transition Assistance Program can help prepare folks like Bill 
+for the challenges and opportunities of transitioning to civilian life, 
+to create a new sense of purpose, to equip them with the tools to be 
+successful in the marketplace, leveraging their unique experiences and 
+skills from their time in the armed services.
+  Named in honor of Bill Mulder, my legislation works to strengthen and 
+improve this program. We owe it to Bill and every veteran to make the 
+transition from Active Duty to civilian life more seamless and 
+successful, which I believe this legislation does.
+  God bless the Mulder family. God bless our troops. God bless America.
+
+                          ____________________
+```
