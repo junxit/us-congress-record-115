@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-04-27-pt1-PgH3728-7
+date: 2018-04-27
+edition: CREC
+section: HOUSE
+page: H3728
+citation: 164 Cong. Rec. H3728
+---
+
+# RECOGNIZING TODD UNGERECHT
+
+**Speaking:** Newhouse, Dan (N000189) [R-WA]
+
+```
+                       RECOGNIZING TODD UNGERECHT
+
+  (Mr. NEWHOUSE asked and was given permission to address the House for 
+1 minute.)
+  Mr. NEWHOUSE. Mr. Speaker, I rise today to thank one of the House's 
+own and a great public servant. Todd Ungerecht is a proud son of Pasco, 
+Washington, and has given this Nation over 20 years of tireless public 
+service.
+  Prior to his most recent service with the House Natural Resources 
+Committee as deputy staff director to Chairman  Rob Bishop, Todd served 
+the United States Senate for Washington's former U.S. Senator Slade 
+Gorton, for the George W. Bush administration as an appointee with the 
+National Oceanic and Atmospheric Administration, and for former 
+chairman of the House Natural Resources Committee Doc Hastings.
+  A proud Gonzaga University undergraduate and law school graduate, 
+Todd is a man of family, of faith, and of public service. He represents 
+the quintessential staffer, working diligently behind the scenes, never 
+looking for credit, never seeking the limelight. Todd is a humble 
+public servant, who places the highest value on good public policy.
+  As Todd retires from the House, and his wife, Magda; and their two 
+children, Alexa and Evan, head west, we send them our sincere gratitude 
+and warmest wishes.
+
+                          ____________________
+```
