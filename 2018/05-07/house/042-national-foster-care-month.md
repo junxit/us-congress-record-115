@@ -1,0 +1,30 @@
+---
+granule: CRECB-2018-pt5-Pg6776-4
+date: 2018-05-07
+edition: CRECB
+section: HOUSE
+page: 6776
+---
+
+# NATIONAL FOSTER CARE MONTH
+
+```
+                       NATIONAL FOSTER CARE MONTH
+
+  (Mr. PAULSEN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PAULSEN. Mr. Speaker, as May is National Foster Care Month, we 
+need to remember that foster care families provide a vital service for 
+the young people whom they take in. And the need is great. In Minnesota 
+alone, more than 7,500 kids entered out-of-home placement, usually 
+because of parental drug abuse and neglect.
+  Foster parents are absolutely unsung heroes. They go to tremendous 
+lengths in navigating a very arduous process so that they can provide a 
+nurturing and a caring environment for a young person.
+  Mr. Speaker, I want to thank foster families for their dedication, as 
+well as the professionals and the workers who do go through the work of 
+placing young people in loving families' homes so that they can make a 
+meaningful difference in their lives.
+
+                          ____________________
+```
