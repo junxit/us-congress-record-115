@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-05-07-pt1-PgH3765-3
+date: 2018-05-07
+edition: CREC
+section: HOUSE
+page: H3765
+citation: 164 Cong. Rec. H3765
+---
+
+# URGING THE PRESIDENT NOT TO RENOUNCE THE IRAN NUCLEAR DEAL
+
+**Speaking:** Sherman, Brad (S000344) [D-CA]
+
+```
+       URGING THE PRESIDENT NOT TO RENOUNCE THE IRAN NUCLEAR DEAL
+
+  (Mr. SHERMAN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. SHERMAN. Mr. Speaker, having been briefed at every stage of the 
+negotiation of the Iran nuclear deal, I was able to come to this floor 
+just 2 hours after it was published and be the first to speak in 
+opposition to the Iran nuclear deal.
+  Today, I rise to urge the President not to renounce that deal. The 
+question is this: Do we want to liberate the Iranian Government or 
+sanction the Iranian Government? If we renounce the deal, then the 
+Iranian Government is free to remove the inspectors, to begin a program 
+of building an unlimited number of centrifuges, and can request the 
+return of the fissile material, several bombs' worth of fissile 
+material which, under the deal, they had transferred to Russia and 
+which Putin might choose to return.
+  If we renounce the deal, we do nothing to give ourselves additional 
+rights because, under the deal, we are free to sanction Iran in full 
+proportion to its nonnuclear evil. The Iranian Government is 
+responsible for hundreds of thousands of deaths in Syria and tens of 
+thousands of deaths in Yemen. That alone justifies every sanction every 
+Member of this body can come up with.
+  We can stay in the deal and sanction Iran.
+
+                          ____________________
+```

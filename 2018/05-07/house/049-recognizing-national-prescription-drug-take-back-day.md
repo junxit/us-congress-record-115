@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-05-07-pt1-PgH3765-2
+date: 2018-05-07
+edition: CREC
+section: HOUSE
+page: H3765
+citation: 164 Cong. Rec. H3765
+---
+
+# RECOGNIZING NATIONAL PRESCRIPTION DRUG TAKE BACK DAY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+          RECOGNIZING NATIONAL PRESCRIPTION DRUG TAKE BACK DAY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, National Prescription Drug 
+Take Back Day was last Saturday, the last Saturday in April. Today, 
+President Trump announced that nearly 1 million pounds of prescription 
+drugs were disposed of at sites across the country.
+  The Drug Enforcement Administration, in partnership with Federal, 
+State, local, and Tribal law enforcement, businesses, medical offices, 
+Federal agencies, and first responders hosted events to collect and 
+safely dispose of unneeded medication.
+  National Take Back Day happens twice a year, and each time, thousands 
+of pounds of prescription drugs are returned, helping to prevent 
+incidents of drug abuse and misuse across the Nation.
+  Mr. Speaker, unneeded or expired prescription medications are a 
+public safety issue. Results from the 2016 National Survey on Drug Use 
+and Health indicate that nearly 19 million Americans 12 years of age or 
+older abused or misused prescription drugs in the past year. According 
+to the CDC, most people who abuse prescription opioids get them for 
+free from a friend or relative.
+  We must continue our fight against the opioid epidemic, and the 
+biannual Take Back Days are an important one step in doing so.
+
+                          ____________________
+```
