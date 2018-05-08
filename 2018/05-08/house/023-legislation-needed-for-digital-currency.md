@@ -1,0 +1,36 @@
+---
+granule: CRECB-2018-pt5-Pg6812-5
+date: 2018-05-08
+edition: CRECB
+section: HOUSE
+page: 6812
+---
+
+# LEGISLATION NEEDED FOR DIGITAL CURRENCY
+
+```
+                LEGISLATION NEEDED FOR DIGITAL CURRENCY
+
+  (Mr. DAVIDSON asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. DAVIDSON. Mr. Speaker, I rise today to discuss digital currency, 
+particularly initial coin offerings.
+  These innovations have outpaced regulators and the courts. Now, 
+regulators and courts are beginning to weigh in.
+  Meeting with agency officials and industry leaders makes one thing 
+clear: Making the markets work in the United States of America requires 
+legislative certainty. Failure for Congress to act produces 
+uncertainty, and that will drive capital and innovation offshore.
+  Our task is to answer questions like: How are these tokens traded? 
+Are they securities or commodities? Who is the proper regulator? How do 
+we prevent fraud? These are just some of the questions that need 
+answers.
+  Congress needs to act by passing legislation that creates certainty 
+and turns the United States into a market maker. I intend to lead this 
+legislation for initial coin offerings to clarify the role of 
+regulators, protect consumers, address national security concerns, and 
+facilitate a pro-growth environment for businesses to raise capital 
+here in America.
+
+                          ____________________
+```
