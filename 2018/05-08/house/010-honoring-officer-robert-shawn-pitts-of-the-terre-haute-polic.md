@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-05-08-pt1-PgH3787
+date: 2018-05-08
+edition: CREC
+section: HOUSE
+page: H3787
+citation: 164 Cong. Rec. H3787
+---
+
+# HONORING OFFICER ROBERT SHAWN PITTS OF THE TERRE HAUTE POLICE DEPARTMENT
+
+**Speaking:** Bucshon, Larry (B001275) [R-IN]
+
+```
+     HONORING OFFICER ROBERT SHAWN PITTS OF THE TERRE HAUTE POLICE 
+                               DEPARTMENT
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Indiana (Mr. Bucshon) for 5 minutes.
+  Mr. BUCSHON. Mr. Speaker, it is with a heavy heart that I rise today 
+to honor the life and service of Officer Robert Shawn Pitts of Terre 
+Haute Police Department, who was killed in the line of duty on Friday, 
+May 4, 2018.
+  Officer Pitts was born in Vincennes, Indiana, and dedicated his life 
+to the security and protection of his community. He proudly served with 
+the Terre Haute Police Department for the past 16 years and with the 
+Sullivan Police Department for 6 years prior to joining the force in 
+Terre Haute. He was also a member of the Special Response Team and the 
+U.S. Marshals Task Force.
+  I want to extend my deepest sympathies and condolences to the family 
+and friends of Officer Pitts, especially his three children: Brooke, 
+Austin, and Dakota.
+  Law enforcement personnel across this country go to work every day to 
+serve and protect our communities. These brave men and women risk 
+everything to keep our cities and our families safe and secure. Events 
+like these are somber reminders of what heroes who stand on the thin 
+blue line and their families sacrifice on our behalf.
+
+                          ____________________
+```
