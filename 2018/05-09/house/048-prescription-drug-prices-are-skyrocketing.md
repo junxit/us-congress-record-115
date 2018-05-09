@@ -1,0 +1,34 @@
+---
+granule: CRECB-2018-pt5-Pg6968
+date: 2018-05-09
+edition: CRECB
+section: HOUSE
+page: 6968
+---
+
+# PRESCRIPTION DRUG PRICES ARE SKYROCKETING
+
+```
+               PRESCRIPTION DRUG PRICES ARE SKYROCKETING
+
+  (Ms. SCHAKOWSKY asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. SCHAKOWSKY. Mr. Speaker, the skyrocketing costs of prescription 
+drugs are forcing families to make impossible choices every day.
+  No one in America should have to decide between putting food on the 
+table and paying for the lifesaving medication their children need, but 
+pharmaceutical corporations will keep raising their prices for one 
+simple reason: because they can.
+  There are a number of things that we can do, and number one is 
+negotiate prescription drug prices under Medicare; number two, shed 
+light on the pharmaceutical corporations' drug pricing system; number 
+three, end patent system abuse by eliminating tactics that thwart 
+competition; number four, allow safe importation of prescription drugs 
+from other countries; and number five, ensure access to affordable 
+drugs through fair trade agreements.
+  Lukewarm pharma-friendly approaches just won't work. Failing to take 
+truly meaningful action could mean the difference between life and 
+death.
+
+                          ____________________
+```
