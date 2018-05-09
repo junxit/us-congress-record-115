@@ -1,0 +1,38 @@
+---
+granule: CREC-2018-05-09-pt1-PgH3869-3
+date: 2018-05-09
+edition: CREC
+section: HOUSE
+page: H3869
+citation: 164 Cong. Rec. H3869
+---
+
+# DISASTROUS IRAN NUCLEAR DEAL
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                      DISASTROUS IRAN NUCLEAR DEAL
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, I rise today to commend President Trump for 
+withdrawing the U.S. from the disastrous Iran nuclear deal.
+  Iran's pursuit of nuclear weapons--and ballistic missiles capable of 
+delivering them--is a serious threat to its neighbors in the Middle 
+East, as well as eventually the U.S. But the 2015 Iran nuclear deal, 
+hatched by John Kerry and the Obama administration, does little to curb 
+that pursuit.
+  The fact is, there aren't nearly strong enough measures in place to 
+actually hold Iran accountable for compliance with the deal. It is too 
+bad the Obama administration has already traded billions of U.S. and 
+foreign dollars in exchange for promises Iran clearly has no intention 
+of keeping. We can't get those dollars back either.
+  Of course, now Iran isn't even using this money for its economy, as 
+reported. Much of it is being funneled directly to active terrorist 
+organizations around the Middle East.
+  This deal was a danger from the start, and it lets Iran off the hook. 
+We must do better. We must negotiate better than has been done.
+
+                          ____________________
+```
