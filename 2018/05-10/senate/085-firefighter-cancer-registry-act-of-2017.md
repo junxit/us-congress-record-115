@@ -1,0 +1,208 @@
+---
+granule: CREC-2018-05-10-pt1-PgS2631-2
+date: 2018-05-10
+edition: CREC
+section: SENATE
+page: S2631
+citation: 164 Cong. Rec. S2631
+---
+
+# FIREFIGHTER CANCER REGISTRY ACT OF 2017
+
+**Speaking:** Portman, Rob (P000449) [R-OH]
+
+**Measures:** H.R. 931
+
+```
+                FIREFIGHTER CANCER REGISTRY ACT OF 2017
+
+  Mr. PORTMAN. Mr. President, I ask unanimous consent that the Health, 
+Education, Labor, and Pensions Committee be discharged from further 
+consideration of H.R. 931 and the Senate proceed to its immediate 
+consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the bill by title.
+  The legislative clerk read as follows:
+
+       A bill (H.R. 931) to require the Secretary of Health and 
+     Human Services to develop a voluntary registry to collect 
+     data on cancer incidence among firefighters.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. PORTMAN. Mr. President, I ask unanimous consent that the 
+Alexander amendment at the desk be agreed to, the bill, as amended, be 
+considered read a third time and passed, and the motion to reconsider 
+be considered made and laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment (No. 2242) was agreed to, as follows:
+
+  (Purpose: To require the Secretary of Health and Human Services to 
+develop a voluntary registry to collect data on cancer incidence among 
+                             firefighters)
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the Firefighter Cancer Registry 
+     Act of 2018.
+
+     SEC. 2. VOLUNTARY REGISTRY FOR FIREFIGHTER CANCER INCIDENCE.
+
+       (a) In General.--The Secretary of Health and Human Services 
+     (referred to in this section as the Secretary), acting 
+     through the Director of the Centers for Disease Control and 
+     Prevention and in coordination with other agencies as the 
+     Secretary determines appropriate, shall develop and maintain, 
+     directly or through a grant or cooperative agreement, a 
+     voluntary registry of firefighters (referred to in this 
+     section as the Firefighter Registry) to collect relevant 
+     health and occupational information of such firefighters for 
+     purposes of determining cancer incidence.
+       (b) Use of Firefighter Registry.--The Firefighter Registry 
+     may be used for the following purposes:
+       (1) To improve data collection and data coordination 
+     activities related to the nationwide monitoring of the 
+     incidence of cancer among firefighters.
+       (2) To collect, consolidate, and maintain, consistent with 
+     subsection (g), epidemiological information and analyses 
+     related to cancer incidence and trends among firefighters
+       (c) Relevant Data.--
+       (1) Data collection.--In carrying out the voluntary data 
+     collection for purposes of inclusion under the Firefighter 
+     Registry, the Secretary may collect the following:
+       (A) Information, as determined by the Secretary under 
+     subsection (d)(1), of volunteer, paid-on-call, and career 
+     firefighters, independent of cancer status or diagnosis.
+       (B) Individual risk factors and occupational history of 
+     firefighters.
+       (C) Information, if available, related to--
+       (i) basic demographic information, including--
+
+       (I) the age of the firefighter involved during the relevant 
+     dates of occupation as a firefighter; and
+       (II) the age of cancer diagnosis;
+
+       (ii) the status of the firefighter as either volunteer, 
+     paid-on-call, or career firefighter;
+       (iii) the total number of years of occupation as a 
+     firefighter and a detailing of additional employment 
+     experience, whether concurrent, before, or anytime 
+     thereafter;
+       (iv)(I) the approximate number of fire incidents attended, 
+     including information related to the type of fire incidents 
+     and the role of the firefighter in responding to the 
+     incident; or
+       (II) in the case of a firefighter for whom information on 
+     such number and type is unavailable, an estimate of such 
+     number and type based on the method developed under 
+     subsection (d)(1)(D); and
+       (v) other medical information and health history, including 
+     additional risk factors, as appropriate, and other 
+     information relevant to a cancer incidence study of 
+     firefighters.
+       (2) Information on diagnoses and treatment.--In carrying 
+     out paragraph (1), with respect to diagnoses and treatment of 
+     firefighters with cancer, the Secretary shall, as 
+     appropriate, enable the Firefighter Registry to 
+     electronically connect to State-based cancer registries, for 
+     a purpose described by clause (vi) or (vii) of section 
+     399B(c)(2)(D) of the Public Health Service Act (42 U.S.C. 
+     280e(c)(2)(D)), to obtain--
+       (A) date of diagnoses and source of information; and
+       (B) pathological data characterizing the cancer, including 
+     cancer site, state of disease (pursuant to Staging Guide), 
+     incidence, and type of treatment.
+       (d) Firefighter Registry Coordination Strategy.--
+       (1) Required strategy.--The Secretary shall, in 
+     consultation with the relevant stakeholders identified in 
+     subsection (e), including epidemiologists and pathologists, 
+     develop a strategy to coordinate data collection activities, 
+     including within existing State registries, for inclusion in 
+     the Firefighter Registry established under this Act. The 
+     strategy may include the following:
+       (A) Increasing awareness of the Firefighter Registry and 
+     encouraging participation among volunteer, paid-on-call, and 
+     career firefighters.
+       (B) Consideration of unique data collection needs that may 
+     arise to generate a statistically reliable representation of 
+     minority, female, and volunteer firefighters, including 
+     methods, as needed, to encourage participation from such 
+     populations.
+       (C) Information on how the Secretary will store data 
+     described in subsection (c)(1) and provide electronic access 
+     to relevant health information described in subsection 
+     (c)(2).
+       (D) Working in consultation with the experts described in 
+     subsection (e), a reliable and standardized method for 
+     estimating the number of fire incidents attended by a 
+     firefighter as well as the type of fire incident so attended 
+     in the case such firefighter is unable to provide such 
+     information.
+       (2) Report to congress.--The Secretary shall submit the 
+     strategy described in paragraph (1) to the Committee on 
+     Energy and Commerce of the House of Representatives and the 
+     Committee on Health, Education, Labor, and Pensions of the 
+     Senate not later than 30 days after the date of the 
+     completion of the strategy.
+       (3) Guidance for inclusion and maintenance of data on 
+     firefighters.--The Secretary shall develop, in consultation 
+     with the stakeholders identified in subsection (e), State 
+     health agencies, State departments of homeland security, and 
+     volunteer, paid-on-call, combination, and career firefighting 
+     agencies, a strategy for inclusion of firefighters in the 
+     registry that are representative of the general population of 
+     firefighters, that outlines the following:
+       (A) How new information about firefighters will be 
+     submitted to the Firefighter Registry for inclusion.
+       (B) How information about firefighters will be maintained 
+     and updated in the Firefighter Registry over time.
+       (C) A method for estimating the number of fire incidents 
+     attended by a firefighter as well as the type of fire 
+     incident so attended in the case such firefighter is unable 
+     to provide such information.
+       (D) Further information, as deemed necessary by the 
+     Secretary.
+       (e) Consultation and Report.--The Secretary shall consult 
+     with non-Federal experts on the Firefighter Registry 
+     established under this section, and shall submit to the 
+     Committee on Health, Education, Labor, and Pensions of the 
+     Senate and the Committee on Energy and Commerce of the House 
+     of Representatives a report that includes, as appropriate, 
+     information on goals achieved and improvements needed to 
+     strengthen the Firefighter Registry. Such non-Federal experts 
+     shall include the following:
+       (1) Public health experts with experience in developing and 
+     maintaining cancer registries.
+       (2) Epidemiologists with experience in studying cancer 
+     incidence.
+       (3) Clinicians with experience in diagnosing and treating 
+     cancer incidence.
+
+[[Page S2632]]
+
+       (4) Active and retired volunteer, paid-on-call, and career 
+     firefighters as well as relevant national fire and emergency 
+     response organizations.
+       (f) Research Availability.--Subject to subsection (g), the 
+     Secretary shall ensure that information and analysis in the 
+     Firefighter Registry are available, as appropriate, to the 
+     public, including researchers, firefighters, and national 
+     fire service organizations.
+       (g) Privacy.--In carrying out this Act, the Secretary shall 
+     ensure that information in and analysis of the Firefighter 
+     Registry are made available in a manner that, at a minimum, 
+     protects personal privacy to the extent required by 
+     applicable Federal and State privacy law.
+       (h) Authorization of Funds.--To carry out this section, 
+     there are authorized to be appropriated $2,500,000 for each 
+     of the fiscal years 2018 through 2022.
+
+  The amendment was ordered to be engrossed and the bill to be read a 
+third time.
+  The bill was read the third time.
+  The bill (H.R. 931), as amended, was passed.
+
+                          ____________________
+```
