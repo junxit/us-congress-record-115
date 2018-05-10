@@ -1,0 +1,51 @@
+---
+granule: CRECB-2018-pt6-Pg7034-2
+date: 2018-05-10
+edition: CRECB
+section: SENATE
+page: 7034
+---
+
+# SENATE RESOLUTION 505--RECOGNIZING THE ROLES AND CONTRIBUTIONS OF THE TEACHERS OF THE UNITED STATES IN BUILDING AND ENHANCING THE CIVIC, CULTURAL, AND ECONOMIC WELL-BEING OF THE UNITED STATES
+
+```
+ SENATE RESOLUTION 505--RECOGNIZING THE ROLES AND CONTRIBUTIONS OF THE 
+  TEACHERS OF THE UNITED STATES IN BUILDING AND ENHANCING THE CIVIC, 
+         CULTURAL, AND ECONOMIC WELL-BEING OF THE UNITED STATES
+
+  Ms. COLLINS (for herself, Mr. Brown, Mr. Boozman, Mr. Kennedy, Mr. 
+Toomey, Mr. Daines, Mr. King, Mrs. Murray, Mrs. Capito, Mr. Carper, Ms. 
+Hassan, Mr. Udall, Ms. Warren, Mr. Coons, Mrs. Feinstein, Ms. Baldwin, 
+Mr. Wyden, Mr. Booker, Mr. Kaine, Mr. Donnelly, Mr. Durbin, Ms. Hirono, 
+Mrs. Shaheen, Mr. Hoeven, Ms. Stabenow, Mr. Sanders, Mr. Blumenthal, 
+Mr. Jones, Ms. Cortez Masto, Mr. Murphy, Mr. Blunt, Mr. Hatch, Ms. 
+Duckworth, and Mrs. Hyde-Smith) submitted the following resolution; 
+which was considered and agreed to:
+
+                              S. Res. 505
+
+       Whereas education and knowledge are foundational to the 
+     current and future strength of the United States;
+       Whereas teachers and other education staff have earned and 
+     deserve the respect of their students and communities for the 
+     selfless dedication of the teachers and staff to community 
+     service and the futures of the children of the United States;
+       Whereas the purposes of National Teacher Appreciation Week, 
+     celebrated from May 7, 2018, through May 11, 2018, are--
+       (1) to raise public awareness of the unquantifiable 
+     contributions of teachers; and
+       (2) to promote greater respect and understanding for the 
+     teaching profession; and
+       Whereas students, schools, communities, and a number of 
+     organizations representing educators are hosting teacher 
+     appreciation events in recognition of National Teacher 
+     Appreciation Week: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) thanks the teachers of the United States; and
+       (2) promotes the profession of teaching by encouraging 
+     students, parents, school administrators, and public 
+     officials to participate in teacher appreciation events 
+     during National Teacher Appreciation Week.
+
+                          ____________________
+```

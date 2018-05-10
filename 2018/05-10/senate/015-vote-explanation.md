@@ -1,0 +1,26 @@
+---
+granule: CRECB-2018-pt6-Pg7019
+date: 2018-05-10
+edition: CRECB
+section: SENATE
+page: 7019
+---
+
+# VOTE EXPLANATION
+
+```
+                            VOTE EXPLANATION
+
+● Mr. BOOKER. Mr. President, I was necessarily absent for the 
+votes on the confirmation of Executive Calendar No. 690, the motion to 
+invoke cloture on Executive Calendar No. 729, and the motion to invoke 
+cloture on Executive Calendar No. 777.
+  On vote No. 89, had I been present, I would have voted nay on the 
+confirmation of Executive Calendar No. 690.
+  On vote No. 90, had I been present, I would have voted nay on the 
+motion to invoke cloture on Executive Calendar No. 729.
+  On vote No. 91, had I been present, I would have voted nay on the 
+motion to invoke cloture on Executive Calendar No. 777.●
+
+                          ____________________
+```
