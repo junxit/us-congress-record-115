@@ -1,0 +1,28 @@
+---
+granule: CRECB-2018-pt6-Pg7151-3
+date: 2018-05-15
+edition: CRECB
+section: SENATE
+page: 7151
+---
+
+# TRIBUTE TO MUHAMMAD BABAR KHOKHAR
+
+```
+                   TRIBUTE TO MUHAMMAD BABAR KHOKHAR
+
+● Mr. ROUNDS. Mr. President, today I recognize Muhammad Babar 
+Khokhar, an intern in my Washington, DC, office, for all the hard work 
+he has done on behalf of myself, my staff, and the State of South 
+Dakota.
+  Currently, Babar is attending the University of South Dakota in 
+Vermillion, SD, where he studies economics and psychology. He is a 
+dedicated and diligent worker who has been devoted to getting the most 
+out of his internship experience and who has been a true asset to the 
+office.
+  I extend my sincere thanks and appreciation to Babar for all of the 
+fine work he has done and wish him continued success in the years to 
+come.●
+
+                          ____________________
+```

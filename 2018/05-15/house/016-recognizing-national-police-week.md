@@ -1,0 +1,38 @@
+---
+granule: CRECB-2018-pt6-Pg7161-3
+date: 2018-05-15
+edition: CRECB
+section: HOUSE
+page: 7161
+---
+
+# RECOGNIZING NATIONAL POLICE WEEK
+
+```
+                    RECOGNIZING NATIONAL POLICE WEEK
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, I rise today to join so many of my 
+colleagues in recognizing National Police Week.
+  These days, it seems like our uniformed officers don't always receive 
+the respect and admiration they deserve, making this week all the more 
+important in my mind.
+  I am especially thankful for Officers David Bailey and Crystal 
+Griner, who, as everyone in this Chamber knows, saved many lives when 
+they took down an armed gunman at last year's baseball practice.
+  Our law enforcement officers now deal with this type of threat on a 
+daily basis, sometimes even from deranged individuals who specifically 
+want to kill cops. There were 135 officers killed in the line of duty 
+last year, but unlike me and you, they know the risks when they go to 
+work in the morning, and they accept them.
+  For these men and women who wear the badge each day and dedicate 
+their lives to making our communities a better place, it must often 
+feel like a thankless job.
+  Well, not today. I want every law enforcement officer around the 
+country to know that you are appreciated and you are admired. Thank you 
+for everything you do, and God bless you and keep you safe in your 
+duties.
+
+                          ____________________
+```

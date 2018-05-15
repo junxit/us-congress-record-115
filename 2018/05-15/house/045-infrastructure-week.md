@@ -1,0 +1,36 @@
+---
+granule: CRECB-2018-pt6-Pg7181
+date: 2018-05-15
+edition: CRECB
+section: HOUSE
+page: 7181
+---
+
+# INFRASTRUCTURE WEEK
+
+```
+                          INFRASTRUCTURE WEEK
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, this week is Infrastructure Week. With every 
+day that passes, the need for Federal infrastructure investment grows 
+more and more urgent. Robust and reliable infrastructure is the 
+foundation for economic success and security. But for too long, the 
+United States has underinvested in our infrastructure.
+  Today our bridges, our roads, our tunnels, our canals, and even our 
+dams are crumbling. It is so bad that the American Society of Civil 
+Engineers gives our Nation's infrastructure a grade of D. That is 
+really a shame.
+  All across this great country, our constituents are begging us to 
+rebuild America's infrastructure. Instead of that, the President has 
+put forth a plan that will sell off Main Street to Wall Street and his 
+rich friends.
+  Mr. Speaker, that is not going to work for the American people. My 
+colleagues and I have a trillion-dollar plan that will rebuild bridges 
+and roads. It would fix our airports and schools, and it would put 16 
+million people to work.
+  That is what the American people deserve.
+
+                          ____________________
+```
