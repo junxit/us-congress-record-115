@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-05-15-pt1-PgH3937-4
+date: 2018-05-15
+edition: CREC
+section: HOUSE
+page: H3937
+citation: 164 Cong. Rec. H3937
+---
+
+# IRONTON-LAWRENCE COUNTY MEMORIAL DAY PARADE
+
+**Speaking:** Johnson, Bill (J000292) [R-OH]
+
+```
+              IRONTON-LAWRENCE COUNTY MEMORIAL DAY PARADE
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from Ohio 
+(Mr. Johnson) for 5 minutes.
+  Mr. JOHNSON of Ohio. Mr. Speaker, I rise today to recognize the 
+Nation's oldest, continuously running Memorial Day parade, the Ironton-
+Lawrence County Memorial Day Parade.
+  In 1868, the Grand Army of the Republic established May 30 as 
+Decoration Day, later changed to Memorial Day, to commemorate soldiers 
+who died during the Civil War. It was in 1868 that Ironton held their 
+first parade, and 2018 marks 150 straight years of honoring America's 
+fallen heroes.
+  Ironton and Lawrence County have a long association with America's 
+military. Lawrence County was named for James Lawrence, a naval hero 
+who commanded the USS Chesapeake. It was Lawrence's dying command 
+during a naval conflict against the British that is still remembered 
+today: ``Don't give up the ship.''
+  The 40 members of the parade committee work year round to organize 
+the event, which has 12 separate divisions and draws tens of thousands 
+of visitors annually. I commend the committee and the people of 
+Lawrence County for their steadfast commitment to remembering and 
+honoring American heroes over the last 150 years.
+
+                          ____________________
+```
