@@ -1,0 +1,22 @@
+---
+granule: CREC-2018-05-16-pt1-PgH4139-3
+date: 2018-05-16
+edition: CREC
+section: HOUSE
+page: H4139
+citation: 164 Cong. Rec. H4139
+---
+
+# Constitutional Authority Statement for H.R. 5847
+
+**Measures:** H.R. 5847
+
+```
+            By Mr. CURBELO of Florida:
+        H.R. 5847.
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+        Article I, Section 8, Clause 1 of the United States 
+     Constitution, to ``provide for the common Defence and general 
+     Welfare of the United States.''
+```

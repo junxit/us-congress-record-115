@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-05-16-pt1-PgH3988
+date: 2018-05-16
+edition: CREC
+section: HOUSE
+page: H3988
+citation: 164 Cong. Rec. H3988
+---
+
+# FIXING AMERICA'S INFRASTRUCTURE
+
+**Speaking:** Kildee, Daniel T. (K000380) [D-MI]
+
+```
+                    FIXING AMERICA'S INFRASTRUCTURE
+
+  (Mr. KILDEE asked and was given permission to address the House for 1 
+minute.)
+  Mr. KILDEE. Mr. Speaker, Americans depend on good roads and bridges 
+to get to work every day and to take care of their families. Good 
+infrastructure drives our economy.
+  Americans depend on water systems to provide clean and safe drinkable 
+water. But in this country, we have failed to make the necessary 
+investments in water infrastructure, in roads and bridges, in essential 
+infrastructure that is important to drive our economy.
+  I will work with anyone on any side of the question on both sides of 
+the aisle to make sure that we invest in America's infrastructure. It 
+is what we need to do to grow our economy, but, unfortunately, what the 
+President has suggested really puts the burden on State and local 
+governments, communities like the ones I represent. My own hometown of 
+Flint, for example, if they had the money to put into their water 
+system to prevent the disaster that occurred, they long ago would have 
+done this. We need--our communities need a strong Federal partner.
+  And the Democrats, we offer A Better Deal. We have a plan to rebuild 
+America's infrastructure. This is what the Congress ought to be doing. 
+We ought not wait for the President to offer his suggestion. We should 
+do the work ourselves. It is long overdue.
+
+                          ____________________
+```

@@ -1,0 +1,42 @@
+---
+granule: CREC-2018-05-16-pt1-PgH3988-4
+date: 2018-05-16
+edition: CREC
+section: HOUSE
+page: H3988
+citation: 164 Cong. Rec. H3988
+---
+
+# AMBASSADOR HALEY SPEAKS AT U.N. SECURITY COUNCIL
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+            AMBASSADOR HALEY SPEAKS AT U.N. SECURITY COUNCIL
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, yesterday, at an emergency 
+session of the U.N. Security Council, Ambassador Nikki Haley spoke 
+truthfully about the horrific Hamas terrorist attacks in Gaza over many 
+years by tunnel and firebombs using human shields financed by Iran.
+  Ambassador Haley explained, as our President said: ``The location of 
+our Embassy has no bearing on the specific boundaries of Israeli 
+sovereignty in Jerusalem or the resolution of contested borders. . . . 
+It does not undermine the prospects for peace in any way.''
+  ``But let's remember that the Hamas terrorist organization has been 
+inciting violence for years, long before the United States decided to 
+move our Embassy,'' Ambassador Haley said. ``This is what is 
+endangering the people of Gaza. Make no mistake: Hamas is pleased with 
+the results of yesterday.''
+  The real story I saw in The Jerusalem Post is ``Promises Made, 
+Promises Kept,'' not the fake news of Hamas sympathizers.
+  In addition, last night, at the Willard, I was grateful to attend the 
+International Republican Institute dinner led by President Daniel 
+Twining where Ambassador Nikki Haley was honored with Secretary James 
+Mattis to receive the Freedom Award.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism.
+
+                          ____________________
+```
