@@ -1,0 +1,37 @@
+---
+granule: CRECB-2018-pt6-Pg7273-8
+date: 2018-05-16
+edition: CRECB
+section: HOUSE
+page: 7273
+---
+
+# RECOGNIZING THE 64TH ANNIVERSARY OF BROWN V. BOARD OF EDUCATION
+
+```
+    RECOGNIZING THE 64TH ANNIVERSARY OF BROWN V. BOARD OF EDUCATION
+
+  (Ms. FOXX asked and was given permission to address the House for 1 
+minute.)
+  Ms. FOXX. Mr. Speaker, I am honored to stand before you to recognize 
+the 64th anniversary of the Supreme Court's landmark decision in Brown 
+v. Board of Education. Because of the relentless courage of Linda 
+Brown, her parents, and civil rights leaders, the abhorrent 
+segregationist policy of
+
+[[Page 7274]]
+
+``separate but equal'' education came to an end.
+  As a result, millions of children were afforded the educational 
+opportunities they deserve and their rightful shot at a successful 
+life.
+  Mr. Speaker, as an educator, as a lifelong learner, as chair of the 
+Committee on Education and the Workforce, I believe with all my heart 
+that education is the key to life, liberty, and the pursuit of 
+happiness.
+  Sixty-four years ago, the end of legal segregation in public schools 
+recognized that inherent value as well. I honor the courage of those 
+students who brought about that change.
+
+                          ____________________
+```
