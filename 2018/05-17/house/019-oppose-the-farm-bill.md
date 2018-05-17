@@ -1,0 +1,41 @@
+---
+granule: CREC-2018-05-17-pt1-PgH4147-2
+date: 2018-05-17
+edition: CREC
+section: HOUSE
+page: H4147
+citation: 164 Cong. Rec. H4147
+---
+
+# OPPOSE THE FARM BILL
+
+**Speaking:** Gallego, Ruben (G000574) [D-AZ]
+
+```
+                          OPPOSE THE FARM BILL
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Arizona (Mr. Gallego) for 5 minutes.
+  Mr. GALLEGO. Mr. Speaker, I was a free lunch kid growing up. I was 
+the young man that brought his ID card to the lunch lady and she looked 
+on the back for the yellow sticker and I received free breakfasts and 
+free lunches.
+  I know what it is like to come from a home with a lot of love but not 
+a lot of money. I can tell you for a fact that kids with backgrounds 
+like me cannot succeed in the classroom if they are worried about the 
+next meal.
+  That is why this GOP farm bill is so reprehensible. Republicans are 
+proposing SNAP cuts that will kick a quarter-of-a-million students off 
+of the free lunch program.
+  That is right, Mr. Speaker. They have just given massive tax cuts to 
+millionaires and billionaires, but now, to save money, they are trying 
+to pass a bill that could cause poor kids across this country to go 
+hungry.
+  This legislation is a direct attack on my constituents. It is a 
+direct attack on the poor. One in four families in my district alone 
+counts on SNAP to put food on the table.
+  They deserve better. Our country deserves better. I urge my 
+colleagues to oppose this shameful legislation.
+
+                          ____________________
+```
