@@ -1,0 +1,58 @@
+---
+granule: CRECB-2018-pt6-Pg7493-4
+date: 2018-05-17
+edition: CRECB
+section: HOUSE
+page: 7493
+---
+
+# RECOGNIZING DYLAN RHEKER AS MACOMB COUNTY VOLUNTEER OF THE YEAR
+
+```
+    RECOGNIZING DYLAN RHEKER AS MACOMB COUNTY VOLUNTEER OF THE YEAR
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Michigan (Mr. Mitchell) for 5 minutes.
+  Mr. MITCHELL. Mr. Speaker, I rise today to recognize recently named 
+Macomb County Volunteer of the Year, eighth-grader Dylan Rheker.
+  Dylan, age 14, volunteers at the Village of East Harbor senior living 
+facility, at Francis A. Higgins Elementary School, at the Anna Mae 
+Burdi Early Childhood Center, as well as Selfridge Air National Guard 
+Base and the Roseville Community Schools.
+  However, what is also impressive, in addition to Dylan's giving 
+spirit, is his perseverance. You see, Dylan was born with 
+neurofibromatosis, a condition which causes tumors to form in his 
+brain, spinal cord, and nerves. Dylan was also diagnosed with cancer 
+and has been undergoing chemotherapy for the past 4 years.
+  None of this deters the straight-A student as he helps people across 
+the 10th Congressional District. In fact, Dylan recently set a school 
+volunteer hour record, with 236 hours of volunteer service last year. 
+When asked about his volunteerism, Dylan responds that he is ``happy to 
+help'' and ``always here if someone needs help.''
+  Dylan is an outstanding young man, and I am extremely proud of all 
+the work he does in our district to make the community a better place 
+to live and work. I wish him the best of luck in the future, and I hope 
+all of you will as well.
+
+
+   Recognizing Carla Villalvazo as Winner of 2018 Congressional Art 
+                              Competition
+
+  Mr. MITCHELL. Mr. Speaker, I rise today to recognize Carla 
+Villalvazo, a high school student from Eisenhower High School in Shelby 
+Township, Michigan. Carla is the winner of the 2018 Congressional Art 
+Competition for my district. Her artwork titled ``Forget Me Not'' is a 
+watercolor painting which will hang in the Cannon tunnel of the Capitol 
+for the next year.
+  Importantly, it is not only wonderful artwork, it talks about the 
+struggle the family has with a family member with Alzheimer's. It is 
+great artwork, but it also touches my heart and, I think, many others.
+  I also recognize second-place finisher Stefanie Frontera, also from 
+Eisenhower High School, and third-place finisher Christina Berels from 
+Cardinal Mooney High School. These students all submitted wonderful 
+pieces of art. The second- and third-place winners will hang in my 
+office.
+  I thank them all for their submission.
+
+                          ____________________
+```
