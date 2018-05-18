@@ -1,0 +1,43 @@
+---
+granule: CREC-2018-05-18-pt1-PgH4234-3
+date: 2018-05-18
+edition: CREC
+section: HOUSE
+page: H4234
+citation: 164 Cong. Rec. H4234
+---
+
+# SUPPORTING THE PARAMUS, NEW JERSEY, COMMUNITY
+
+**Speaking:** Gottheimer, Josh (G000583) [D-NJ]
+
+```
+             SUPPORTING THE PARAMUS, NEW JERSEY, COMMUNITY
+
+  (Mr. GOTTHEIMER asked and was given permission to address the House 
+for 1 minute.)
+  Mr. GOTTHEIMER. Mr. Speaker, I rise today for the Paramus community 
+and those who lost their lives in the Route 80 bus accident in Mt. 
+Olive, New Jersey, and to all those who were injured. My heart breaks 
+for the 38 fifth grade students and seven adults involved in 
+yesterday's horrific bus accident.
+  On a day when students from East Brook Middle School should have been 
+enjoying their class trip, instead, they experienced every parent's 
+worst nightmare. As a father, I am praying for every parent, child, 
+teacher, friend, and administrator; and I know I will be hugging my 
+kids extra tight this evening.
+  I join the Paramus community as they come together to support all 
+those affected in this tragedy, especially the family of the student 
+who lost their life and the family of Jennifer Williamson, the fifth 
+grade social studies teacher chaperoning the trip, who lost her life.
+  May God rest their souls.
+  Savannah Clark, an East Brook Middle School sixth grader, remembered 
+her teacher saying: She made things really, really fun for us kids, but 
+now she can't anymore.
+  Mrs. Williamson, your care for our community will never be forgotten.
+  I also want to thank the first responders, doctors, and nurses who 
+responded so quickly to help students, care for the victims, and 
+investigate how such a horrible tragedy could ever have happened.
+
+                          ____________________
+```

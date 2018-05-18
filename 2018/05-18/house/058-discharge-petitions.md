@@ -1,0 +1,50 @@
+---
+granule: CREC-2018-05-18-pt1-PgH4243-5
+date: 2018-05-18
+edition: CREC
+section: HOUSE
+page: H4243
+citation: 164 Cong. Rec. H4243
+---
+
+# DISCHARGE PETITIONS
+
+**Measures:** H.Res. 873
+
+```
+                          DISCHARGE PETITIONS
+
+  Under clause 2 of rule XV, the following discharge petition was 
+filed:
+
+       Petition 11, May 17, 2018, by Mr. MICHAEL F. DOYLE of 
+     Pennsylvania on House Resolution 873, was signed by the 
+     following Members: Mr. Michael F. Doyle of Pennsylvania, Mr. 
+     McNerney, Mr. Yarmuth, Ms. Eshoo, Mr. Capuano, Mr. Thompson 
+     of California, Mr. Pallone, Mr. Khanna, Ms. Blunt Rochester, 
+     Mrs. Dingell, Mr. Courtney, Mr. Neal, Mr. Kind, Ms. Kuster of 
+     New Hampshire, Mr. McGovern, Ms. Bonamici, Mr. Sires, Mr. 
+     Lewis of Georgia, Mr. Larsen of Washington, Mr. Cleaver, Mr. 
+     Raskin, Mr. Payne, Ms. DeGette, Mr. Loebsack, Ms. Eddie 
+     Bernice Johnson of Texas, Ms. Hanabusa, Ms. Brownley of 
+     California, Mr. Kennedy, Ms. Schakowsky, Ms. Esty of 
+     Connecticut, Mr. Connolly, Mr. Huffman, Mr. Levin, Ms. 
+     Sanchez, Ms. Lee, Mr. Sean Patrick Maloney of New York, Mrs. 
+     Demings, Mrs. Lowey, Mr. DeSaulnier, Mr. Crowley, Mr. Beyer, 
+     Mr. Veasey, Mr. Welch, Mr. Sarbanes, Mr. Price of North 
+     Carolina, Ms. DeLauro, Ms. Roybal-Allard, Ms. Clarke of New 
+     York, Ms. Michelle Lujan Grisham of New Mexico, Ms. Jackson 
+     Lee, Mr. Meeks, Mr. Rush, Ms. Titus, Mrs. Carolyn B. Maloney 
+     of New York, Mr. Doggett, Mr. Bishop of Georgia, Ms. Adams, 
+     Mr. Nadler, Mr. Engel, Ms. McCollum, Ms. Clark of 
+     Massachusetts, Ms. Lofgren, Mr. Carson of Indiana, Ms. 
+     Jayapal, Mr. Peters, Mr. Keating, Ms. Bass, Ms. Matsui, Mr. 
+     Langevin, Ms. Shea-Porter, Mr. Ruppersberger, Ms. Gabbard, 
+     Ms. DelBene, Ms. Castor of Florida, Mr. Smith of Washington, 
+     Mr. Cooper, Mr. Foster, Mr. Pocan, Mrs. Davis of California, 
+     Mr. Moulton, Mr. Cohen, Mr. Hastings, Mr. Gallego, Mr. 
+     Kildee, Mr. Crist, Mr. Panetta, Ms. Maxine Waters of 
+     California, Mr. Jeffries, Mr. Takano, and Mr. Blumenauer.
+
+                          ____________________
+```
