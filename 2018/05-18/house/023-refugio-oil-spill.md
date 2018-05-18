@@ -1,0 +1,33 @@
+---
+granule: CRECB-2018-pt6-Pg7601-4
+date: 2018-05-18
+edition: CRECB
+section: HOUSE
+page: 7601
+---
+
+# REFUGIO OIL SPILL
+
+```
+                           REFUGIO OIL SPILL
+
+  (Mr. CARBAJAL asked and was given permission to address the House for 
+1 minute.)
+  Mr. CARBAJAL. Mr. Speaker, this week marks 3 years since the Refugio/
+Plains pipeline failure spilled more than 100,000 gallons of crude oil 
+along the Gaviota coast in my district. Black oil slick coated our 
+beaches and marine life, costing over $96 million to clean up and 
+hurting our local economy.
+  That spill occurred 3 years after Congress unanimously passed the 
+Pipeline Safety Act of 2011. This law directed PHMSA to update key 
+pipeline safety standards, requiring the installation of automatic and 
+remote control shutoff valves, including leak detection technology.
+  However, nearly 7 years later, 20 of the pipeline safety directives 
+in that legislation have not been enacted. During the Plains oil spill, 
+it took operators over 2 hours to find the source of the leak.
+  Yesterday I joined Senator Feinstein, directing the agency to answer 
+why these requirements have not been implemented to date to ensure we 
+are improving pipeline safety.
+
+                          ____________________
+```
