@@ -1,0 +1,45 @@
+---
+granule: CREC-2018-05-21-pt1-PgS2783-2
+date: 2018-05-21
+edition: CREC
+section: SENATE
+page: S2783
+citation: 164 Cong. Rec. S2783
+---
+
+# Santa Fe High School Shooting (Executive Session)
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+```
+                     Santa Fe High School Shooting
+
+  Mr. SCHUMER. Mr. President, on Friday morning there was yet another 
+shooting in a school in America. Another community was torn apart by 
+senseless violence. It was another week when parents must bury their 
+children. We are still learning the tragic details of what happened in 
+Santa Fe, but the basic reality in America remains unchanged: Far too 
+many people are dying from gun violence.
+  What we need now more than ever is real, substantive debate on gun 
+violence in America--a real debate about universal background checks, a 
+real debate about protective orders, and a real
+
+[[Page S2784]]
+
+debate on regulating assault weapons, which are often the weapon of 
+choice in the most deadly mass shootings.
+  In the wake of Parkland, it looked like President Trump would finally 
+get religion on this issue. He promised a serious debate on gun 
+violence, but as soon as the NRA and their special interest cronies 
+closed ranks around him, he backed off. That seems to be the pattern of 
+this administration. The President says something one day, and then 
+some powerful interest says: Don't do it, and he backs right off. That 
+is not the kind of strength he wishes to show, and he sure hasn't shown 
+it on this issue.
+  After this most recent tragedy in Santa Fe, we have heard no new 
+calls for commonsense gun safety from the White House, but this Chamber 
+can still act. I implore my friends across the aisle to take up this 
+debate. We owe it to the people of Santa Fe, TX, to the people of 
+Parkland, FL, and to every other community that lives at the mercy of 
+the gaping loopholes in our gun laws.
+```
