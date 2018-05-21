@@ -1,0 +1,22 @@
+---
+granule: CRECB-2018-pt6-Pg7628-2
+date: 2018-05-21
+edition: CRECB
+section: SENATE
+page: 7628
+---
+
+# VOTE EXPLANATION
+
+```
+                            VOTE EXPLANATION
+
+● Mr. TESTER. Mr. President, I was absent when the Senate voted 
+on the motion to invoke cloture on Executive Calendar No. 608.
+  On this vote, had I been present, I would have voted nay on the 
+motion to invoke cloture on Executive Calendar No. 608.●
+  (At the request of Mr. Durbin, the following statement was ordered to 
+be printed in the Record.)
+
+                          ____________________
+```

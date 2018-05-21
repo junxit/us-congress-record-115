@@ -1,0 +1,44 @@
+---
+granule: CRECB-2018-pt6-Pg7667-3
+date: 2018-05-21
+edition: CRECB
+section: HOUSE
+page: 7667
+---
+
+# FINDING A COMPREHENSIVE AND COMPASSIONATE SOLUTION TO THE OPIOID CRISIS
+
+```
+FINDING A COMPREHENSIVE AND COMPASSIONATE SOLUTION TO THE OPIOID CRISIS
+
+  (Ms. TENNEY asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TENNEY. Mr. Speaker, I rise today to recognize my bipartisan 
+bill, the Expanding Oversight of Opioid Prescribing and Payment Act of 
+2018, which passed unanimously in the House Ways and Means Committee 
+last week.
+  As a member of the bipartisan Heroin Task Force, I am committed to 
+finding a comprehensive and compassionate solution to reverse the tide 
+of the growing opioid addiction plaguing our communities and families.
+  With 115 people dying each day--and 635 in my own district in 2016 
+alone--from an opioid overdose, we must find ways to prevent this abuse 
+from happening in the first place.
+  My bipartisan bill requires the Medicare Payment Advisory Commission 
+to evaluate and report on adverse incentives that lead to the 
+overprescription of opioids and underutilization of nonopioid 
+alternatives for postsurgery recovery and the treatment of chronic 
+pain.
+  This is commonsense legislation that will enable Congress to identify 
+and eliminate perverse incentives that are fueling the opioid epidemic, 
+the epidemic that is destroying our families and our communities.
+  I have personally known individuals in the 22nd District whose lives 
+were taken too early because of this scourge.
+  This bipartisan bill is a step in the right direction to helping our 
+families and communities combat this crisis that is tearing families 
+apart.
+  Mr. Speaker, I want to thank my bipartisan cosponsors, Representative 
+Suzan DelBene and Representative David McKinley, for joining me in this 
+important legislation.
+
+                          ____________________
+```
