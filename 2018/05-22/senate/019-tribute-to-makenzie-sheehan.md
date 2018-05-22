@@ -1,0 +1,33 @@
+---
+granule: CRECB-2018-pt6-Pg7723-4
+date: 2018-05-22
+edition: CRECB
+section: SENATE
+page: 7723
+---
+
+# TRIBUTE TO MaKENZIE SHEEHAN
+
+```
+                      TRIBUTE TO MaKENZIE SHEEHAN
+
+● Ms. HASSAN. Madam President, I am proud to recognize second 
+grader MaKenzie Sheehan of Monroe, NH, as the May Granite Stater of the 
+Month for her bravery and quick thinking that helped save her family 
+when their house caught on fire recently.
+  On the night of the fire, MaKenzie woke to a crash in her bedroom, 
+and when she saw a wall of fire, she quickly acted to wake her sister. 
+Remembering from her fire education at school that the door would be 
+hot, she knew not to touch it and began screaming for help. Her cries 
+alerted the rest of the family, and they were able to make it out just 
+in time.
+  Her family is very proud and grateful for MaKenzie's grace under 
+pressure and considers her their hero.
+  I am honored to recognize MaKenzie as the May Granite Stater of the 
+Month. MaKenzie represents the strength of character that defines the 
+Granite State, and her actions are an excellent reminder that, no 
+matter our age, it is critical that we are equipped with the knowledge 
+of what to do in case of an emergency.●
+
+                          ____________________
+```
