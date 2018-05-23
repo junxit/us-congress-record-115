@@ -1,0 +1,33 @@
+---
+granule: CRECB-2018-pt6-Pg8104-6
+date: 2018-05-23
+edition: CRECB
+section: HOUSE
+page: 8104
+---
+
+# MODERNIZATION OF F-22 FIGHTER WING
+
+```
+                   MODERNIZATION OF F-22 FIGHTER WING
+
+  (Mr. DUNN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. DUNN. Mr. Speaker, I rise today in support of my amendment to the 
+National Defense Authorization Act, which will accelerate the 
+modernization of the F-22 fighter wing at Tyndall Air Force Base. This 
+is one of only three F-22 training wings in the Air Force.
+  We have the most highly trained and dedicated military in the world. 
+But if we are not giving them the resources to maintain their planes 
+and training them in the most realistic environments possible, we are 
+doing them a disservice. Over the last year, we have begun to correct 
+that problem and rebuild our military and invest in our servicemembers.
+  Modernizing the training wing of F-22s at Tyndall Air Force Base is 
+another step in that process and is essential to the safety and 
+security of the airmen we ask to achieve air superiority over 
+battlefields all around the globe.
+  We are giving certainty to our warfighters with this NDAA, and I urge 
+all of my colleagues to support this important legislation.
+
+                          ____________________
+```

@@ -1,0 +1,35 @@
+---
+granule: CRECB-2018-pt6-Pg8106-4
+date: 2018-05-23
+edition: CRECB
+section: HOUSE
+page: 8106
+---
+
+# DEMOCRACY REFORM
+
+```
+                            DEMOCRACY REFORM
+
+  (Ms. SCHAKOWSKY asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. SCHAKOWSKY. Mr. Speaker, too many Americans feel that Washington 
+is out of touch with their priorities. They feel that too few people 
+have too much influence. Americans want the culture of corruption 
+cultivated by rich lobbyists and massive corporations to end.
+  Look no further than Big Pharma, the pharmaceutical companies. Since 
+1998, they have spent $4 billion in lobbying and campaign 
+contributions. They employ 1,400 lobbyists, three lobbyists for every 
+Member. No wonder the system seems rigged against commonsense solutions 
+to lower drug prices.
+  Americans are getting a raw deal when big money controls politics. 
+Democrats offer A Better Deal for our democracy: a bold, comprehensive 
+program to bolster our Nation's ethics laws, overhaul our campaign 
+finance system, and create more transparency and accessibility.
+  Americans deserve a government that works for them. They deserve A 
+Better Deal.
+  I want to acknowledge Mimi Quin, with me today as part of Foster 
+Youth Shadow Day.
+
+                          ____________________
+```
