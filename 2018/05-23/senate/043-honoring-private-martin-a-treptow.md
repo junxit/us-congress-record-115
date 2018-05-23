@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-05-23-pt1-PgS2872-3
+date: 2018-05-23
+edition: CREC
+section: SENATE
+page: S2872
+citation: 164 Cong. Rec. S2872
+---
+
+# HONORING PRIVATE MARTIN A. TREPTOW
+
+**Speaking:** Ernst, Joni (E000295) [R-IA]
+
+```
+                   HONORING PRIVATE MARTIN A. TREPTOW
+
+  Mrs. ERNST. Mr. President, today I wish to honor Martin A. Treptow 
+who bravely served as a private in the U.S. Army during the First World 
+War.
+  Martin enlisted in the Iowa National Guard in 1917 while working as a 
+barber in Cherokee, IA, and was soon stationed in France as part of the 
+168th Infantry of the 42nd Division, the famed Rainbow Division. During 
+the assault on Hill 212 on La Croix Rouge Farm, Martin courageously 
+volunteered to deliver an important message to another platoon, despite 
+heavy enemy fire. Martin successfully completed his mission but paid 
+the ultimate sacrifice in doing so.
+  As his belongings were being prepared to send home to his family and 
+friends, Martin's diary was found. His diary included an entry entitled 
+``My Pledge,'' and Martin had written: ``America must win this war. 
+Therefore, I will work, I will save, I will ensure, I will fight 
+cheerfully and do my utmost, as if the issue of the whole struggle 
+depended on me alone.''
+  I ask my colleagues to join me as I proudly recognize Martin A. 
+Treptow, whose heroic actions and inspiring words epitomize the duty 
+and sacrifice of all the brave men and women who serve and have served 
+the United States in defense of our freedom.
+
+                          ____________________
+```

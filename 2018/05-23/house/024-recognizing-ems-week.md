@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-05-23-pt1-PgH4590-7
+date: 2018-05-23
+edition: CREC
+section: HOUSE
+page: H4590
+citation: 164 Cong. Rec. H4590
+---
+
+# RECOGNIZING EMS WEEK
+
+**Speaking:** Green, Gene (G000410) [D-TX]
+
+```
+                          RECOGNIZING EMS WEEK
+
+  (Mr. GENE GREEN of Texas asked and was given permission to address 
+the House for 1 minute.)
+  Mr. GENE GREEN of Texas. Mr. Speaker, I rise to honor all the 
+dedicated EMS workers, especially in Houston County and Harris County, 
+Texas, who served our community with distinction during Hurricane 
+Harvey last August. This week is EMS Recognition Week across our 
+country.
+  Nobody becomes an emergency medical responder, emergency medical 
+technician, or paramedic to get rich. It is hard work, physically 
+strenuous and stressful, and can involve life-or-death situations in 
+certain circumstances.
+  This was the case during Hurricane Harvey, a historic storm that 
+dropped over 50 inches of rain over Houston and southeast Texas.
+  While we honor the hard work and dedication of our EMS workers during 
+EMS Week, we must make sure our emergency medical service workers are 
+paid a fair, middle class wage and benefits, and are protected from 
+worker fatigue so that they can deliver high-quality emergency care 
+when it is most needed.
+  I also wish to recognize the hundreds of EMS workers who traveled 
+from all over the country to help the people of Houston and southeast 
+Texas during our time of need.
+
+                          ____________________
+```

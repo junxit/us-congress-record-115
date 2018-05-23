@@ -1,0 +1,50 @@
+---
+granule: CREC-2018-05-23-pt1-PgH4592
+date: 2018-05-23
+edition: CREC
+section: HOUSE
+page: H4592
+citation: 164 Cong. Rec. H4592
+---
+
+# NATIONAL FOSTER CARE MONTH
+
+**Speaking:** Bass, Karen (B001270) [D-CA]
+
+```
+                       NATIONAL FOSTER CARE MONTH
+
+  (Ms. BASS asked and was given permission to address the House for 1 
+minute.)
+  Ms. BASS. Mr. Speaker, May marks National Foster Care Month, a time 
+for our country to come together to acknowledge the half million people 
+in our child welfare system.
+  No one knows the child welfare system like the foster youth who have 
+grown up in the system, and no one can raise their voices like foster 
+youth voices.
+  Today, the Congressional Caucus on Foster Youth and the National 
+Foster Youth Institute have brought together more than 100 young people 
+from every corner of the country here, to Washington, D.C., to shadow 
+their Members of Congress.
+  The young people here today have traveled thousands of miles to share 
+their stories, their challenges with abuse, trafficking, 
+overmedication, or homelessness, but in addition, to share their 
+successes with education accomplishments, mentorship, adoption, family 
+unification, and community activism.
+  With me here today, from Los Angeles, is Megan Simon. She is 24 years 
+old, and she was placed in foster care when she was only 1 year old. 
+She was raised by her grandparents, and she has two other siblings who 
+were involved in the system. She is actively involved in the National 
+Foster Youth Institute Leadership Corps, where she attends meetings 
+every Thursday night. She is an advocate and someone who wants to use 
+her pain and her experience to make changes in the child welfare 
+system.
+  She is a student at Los Angeles Trade Tech College, and she says that 
+she is a leader, she is a survivor, and she is a winner, not because 
+she wins every battle, but because she never stops fighting.
+  Mr. Speaker, too often the government--us--forgets our children. I 
+hope that today's Shadow Day continues our fight to reverse that 
+course.
+
+                          ____________________
+```

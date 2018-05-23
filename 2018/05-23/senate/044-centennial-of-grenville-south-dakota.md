@@ -1,0 +1,43 @@
+---
+granule: CREC-2018-05-23-pt1-PgS2872-4
+date: 2018-05-23
+edition: CREC
+section: SENATE
+page: S2872
+citation: 164 Cong. Rec. S2872
+---
+
+# CENTENNIAL OF GRENVILLE, SOUTH DAKOTA
+
+**Speaking:** Thune, John (T000250) [R-SD]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                 CENTENNIAL OF GRENVILLE, SOUTH DAKOTA
+
+● Mr. THUNE. Mr. President, today I recognize Grenville, SD. The 
+town of Grenville will be celebrating its centennial on June 8 through 
+June 10, 2018. Grenville will host centennial events which include a 
+parade, street dances, a softball tournament, raffles, a pig roast, 
+children events, and much more.
+  Grenville, located in Day County, was given the christened name of 
+Zielona Gora, meaning ``green hills,'' which is an accurate description 
+of the area's beautiful sloping hills and majestic landscape. Since its 
+founding 100 years ago, the community of Grenville remains resilient in 
+upholding South Dakota values. Today the robust traditions passed down 
+by determined settlers continue to endure throughout the Grenville 
+community.
+  I offer my congratulations to the citizens of Grenville on their 
+centennial celebration and wish them continued prosperity in the years 
+to come.●
+
+[[Page S2873]]
+
+  
+
+                          ____________________
+```
