@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-05-24-pt1-PgH4724-2
+date: 2018-05-24
+edition: CREC
+section: HOUSE
+page: H4724
+citation: 164 Cong. Rec. H4724
+---
+
+# ANNUAL ROLLING THUNDER MOTORCYCLE RIDE
+
+**Speaking:** Rothfus, Keith J. (R000598) [R-PA]
+
+```
+                 ANNUAL ROLLING THUNDER MOTORCYCLE RIDE
+
+  (Mr. ROTHFUS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. ROTHFUS. Mr. Speaker, this weekend, the Nation sets aside time to 
+remember those who gave all for our country.
+  Thousands will travel to Washington, D.C., for the annual Rolling 
+Thunder motorcycle ride to remember and honor the fallen, and millions 
+across the country will participate in parades or gather around 
+monuments and parks to recall a loved one or a neighbor who never came 
+home. There will be the playing of ``Taps'' and heartfelt and silent 
+whispers of: I miss you; I wish I could see you; and thank you.
+  Memorial Day is truly a national holiday in that it is a day that 
+politics are avoided, and given some of the debates we have been having 
+and what you see on TV, that is not a bad thing.
+  When you visit Arlington Cemetery or any of the national cemeteries 
+across the country, including the National Cemetery of the Alleghenies, 
+not far from my district, the gravestones don't mark one's party 
+affiliation. Rather, the simplicity of the stones remind us that they 
+were Americans, they served, and that they are remembered.
+  May God grant eternal rest to those who gave the ultimate sacrifice 
+to our country, and may He bless the families of the fallen with His 
+tender mercies.
+
+                          ____________________
+```

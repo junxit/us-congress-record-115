@@ -1,0 +1,41 @@
+---
+granule: CREC-2018-05-24-pt1-PgH4697-7
+date: 2018-05-24
+edition: CREC
+section: HOUSE
+page: H4697
+citation: 164 Cong. Rec. H4697
+---
+
+# CONGRATULATING KAREN McGINNIS
+
+**Speaking:** Newhouse, Dan (N000189) [R-WA]
+
+```
+                     CONGRATULATING KAREN McGINNIS
+
+  (Mr. NEWHOUSE asked and was given permission to address the House for 
+1 minute.)
+  Mr. NEWHOUSE. Mr. Speaker, I rise to recognize and congratulate Karen 
+McGinnis on her retirement.
+  For the past 20 years, Karen has served as the director for what is 
+known as the Hazardous Materials Management and Emergency Response 
+Federal Training Center, or HAMMER, which is in my district at the 
+Hanford Site in Richland.
+  I have personally visited and can truly say HAMMER is a one-of-a-kind 
+facility. I have witnessed the hands-on training they provide to 
+Federal employees, like Hanford workers and emergency responders who 
+are deployed throughout our Nation. The services they provide to the 
+Tri-Cities community and the country are essential.
+  Karen has worked to strengthen HAMMER's partnerships with Federal and 
+State agencies, Tribes, safety professionals, and community leaders. 
+She focuses on worker health and preparedness, and she has a passion 
+for employee safety. Her leadership has made HAMMER one of the premier 
+training centers in the world. As director, Karen has facilitated the 
+training that makes it possible for the Federal Government to fulfill 
+its obligation to clean up the Hanford Site.
+  I thank Karen for her dedication to HAMMER, and I wish her the best 
+in her retirement.
+
+                          ____________________
+```
