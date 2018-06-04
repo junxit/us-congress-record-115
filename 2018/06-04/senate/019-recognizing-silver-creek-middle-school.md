@@ -1,0 +1,47 @@
+---
+granule: CRECB-2018-pt6-Pg8372-3
+date: 2018-06-04
+edition: CRECB
+section: SENATE
+page: 8372
+---
+
+# RECOGNIZING SILVER CREEK MIDDLE SCHOOL
+
+```
+                 RECOGNIZING SILVER CREEK MIDDLE SCHOOL
+
+● Mr. VAN HOLLEN. Mr. President, I rise to celebrate the 
+dedication of Silver Creek Middle School, SCMS, in Kensington, MD as it 
+completes its inaugural year. SCMS opened on September 5, 2017, for 550 
+students in sixth and seventh grade.
+  Students from Chevy Chase Elementary, North Chevy Chase Elementary, 
+and Rock Creek Forest Elementary now attend SCMS. In recognition of the 
+combination of students from three different elementary schools, SCMS 
+dedicated its inaugural year to community building and has worked hard 
+to create a strong sense of unity and common purpose.
+  Before the 2017-18 school year began, SCMS organized three community 
+summer socials at parents' residences. More than 200 parents 
+participated in these events and helped cultivate a supportive network 
+before their students had even arrived at school. In addition, SCMS 
+students and parents have organized two cleanups of nearby Silver 
+Creek, for which the school is named. Students, teachers, and parents 
+collaborated in these efforts to protect our environment.
+  In addition to community building, SCMS focuses on a global and 
+holistic
+
+[[Page 8373]]
+
+education. SCMS is an International Baccalaureate, IB, school with a 
+Middle Years Programme. This program allows students to engage across 
+cultures and subject areas to develop their self-understanding and a 
+sense of their relationships to others and our society.
+  I am proud that Silver Creek Middle School is committed to a quality 
+education and a collaborative educational environment for all of its 
+students. I commend the dedicated faculty and staff at SCMS for all 
+they do to help each of their students achieve his or her full 
+potential. The Silver Creek Middle School community has my best wishes 
+for a productive learning experience for many years to come.●
+
+                          ____________________
+```
