@@ -1,0 +1,40 @@
+---
+granule: CRECB-2018-pt6-Pg8431-5
+date: 2018-06-05
+edition: CRECB
+section: HOUSE
+page: 8431
+---
+
+# DEFENDING OUR COAST
+
+```
+                          DEFENDING OUR COAST
+
+  (Mr. McEACHIN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McEACHIN. Mr. Speaker, the American people deserve policies that 
+will protect our planet, keep loved ones healthy, and preserve access 
+to clean air, water, and land for future generations.
+  Lately, there has been a relentless assault on the environmental 
+policies that were crafted to protect us, including the commonsense 
+prohibition of offshore drilling in the Atlantic. Despite the Defense 
+Department stating that offshore drilling may impede and hamper 
+military readiness activities, the American people were told that our 
+oceans were open for exploitation.
+  Mr. Speaker, this is unacceptable. That is why, today, I introduced 
+the bipartisan Defend Our Coast Act with my friend, Congressman Walter 
+Jones of North Carolina. The Defend Our Coast Act will prohibit the 
+Department of the Interior from issuing leases for the exploration, 
+development, or production of oil and gas on the Outer Continental 
+Shelf in the mid-Atlantic.
+  Prior tragedies such as Deepwater Horizon's oil spill proved that 
+drilling accidents can be dangerous, expensive, and life-threatening. 
+Mr. Speaker, I urge you to bring the Defend Our Coast Act up for a 
+vote. Offshore drilling negatively impacts our coastal communities. It 
+is not worth the risk.
+  Let us commit ourselves to leaving the Earth a healthier and safer 
+place for future generations.
+
+                          ____________________
+```

@@ -1,0 +1,41 @@
+---
+granule: CRECB-2018-pt6-Pg8431-6
+date: 2018-06-05
+edition: CRECB
+section: HOUSE
+page: 8431
+---
+
+# RECOGNIZING CASS COUNTY SHERIFF'S DEPUTIES
+
+```
+               RECOGNIZING CASS COUNTY SHERIFF'S DEPUTIES
+
+  (Mr. CRAMER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. CRAMER. Mr. Speaker, every community has peace officers who put 
+their lives on the line every day to protect their communities, and we 
+don't say thank you nearly often enough.
+  Today I rise to recognize four very special school resource deputies 
+of the Cass County Sheriff's Office who have
+
+[[Page 8432]]
+
+been given the Model Agency Award, which is the top honor that is given 
+by the National Association of School Resource Officers.
+  This award recognizes the work of law enforcement officers who 
+promote safer schools and safer children, and they singled out the Cass 
+County program as ``a shining example of the school resource officers 
+program.''
+  The deputies work with students at Kindred, Maple Valley, Central 
+Cass, Northern Cass, and Mapleton Elementary Schools. Supervised by 
+Sergeant Tim Briggeman and under the command of Captain Jesse Jahner, 
+the deputies are Jason Scott, Joe Crawford, Chris Potter, and Dan 
+Hermann. Cass County Sheriff Paul Laney calls these officers the ``best 
+of the best.''
+  On behalf of all North Dakotans, I congratulate them and thank 
+Sheriff Laney and his entire staff for the high bar of excellence they 
+deliver in serving all the citizens of Cass County.
+
+                          ____________________
+```

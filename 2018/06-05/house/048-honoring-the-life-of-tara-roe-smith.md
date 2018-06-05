@@ -1,0 +1,39 @@
+---
+granule: CRECB-2018-pt6-Pg8432
+date: 2018-06-05
+edition: CRECB
+section: HOUSE
+page: 8432
+---
+
+# HONORING THE LIFE OF TARA ROE SMITH
+
+```
+                              {time}  1930
+                  HONORING THE LIFE OF TARA ROE SMITH
+
+  (Mr. KIHUEN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. KIHUEN. Mr. Speaker, today I rise to remember the life of Tara 
+Roe Smith. Tara attended the Route 91 festival in Las Vegas on October 
+1. She lived in Okotoks, Alberta, Canada, where she was a wonderful 
+mother to her two kids, Lennon and Louis, and was a loving wife to her 
+husband Zach.
+  Tara was a hard worker who modeled with Sophia Models International, 
+worked as an educational assistant with children with autism, and was 
+about to be promoted to be a manager at a restaurant where she was a 
+waitress.
+  Tara was very active and loved dancing, swimming, and being at her 
+favorite summer spot, Clear Lake. Going to the Route 91 festival was an 
+annual tradition for Tara and her husband. They would be there every 
+year to celebrate their anniversary.
+  Tara was dedicated to her community, and if she had survived, her 
+husband has no doubt that she would have done everything she could to 
+help those who were victims of the Las Vegas shooting.
+  She was a very caring spirit who greeted everyone with a friendly 
+face. I would like to extend my condolences to Tara Roe Smith's family 
+and friends. Please know that the city of Las Vegas, the State of 
+Nevada, and the whole country grieve with you.
+
+                          ____________________
+```
