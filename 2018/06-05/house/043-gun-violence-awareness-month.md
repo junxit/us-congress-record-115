@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-06-05-pt1-PgH4762-3
+date: 2018-06-05
+edition: CREC
+section: HOUSE
+page: H4762
+citation: 164 Cong. Rec. H4762
+---
+
+# GUN VIOLENCE AWARENESS MONTH
+
+**Speaking:** Langevin, James R. (L000559) [D-RI]
+
+```
+                      GUN VIOLENCE AWARENESS MONTH
+
+  (Mr. LANGEVIN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LANGEVIN. Mr. Speaker, I rise to recognize National Gun Violence 
+Awareness Month and the 33,000 American lives lost each year to gun 
+violence.
+  These tragedies are preventable, Mr. Speaker, and it is truly 
+shameful that Congress has yet to take meaningful action to address 
+this epidemic. Even more appalling is the fact that 1,300 of these 
+deaths are children, young lives cut short by meaningless and avoidable 
+violence.
+  Last month I introduced the Child Gun Access Prevention Act, which 
+would prevent children from accessing guns by holding gun owners 
+responsible when they leave their firearms unlocked.
+  Millions of children live in homes with unsecured guns, Mr. Speaker, 
+and they are at an increased risk of unintentional shootings and youth 
+suicides. We have also seen the devastation caused when a child takes a 
+parent's gun to school with the intention of causing harm. A child 
+should never access a gun unsupervised.
+  Mr. Speaker, I urge my colleagues to support this commonsense 
+legislation. We absolutely must do more to protect our children from 
+gun violence.
+
+                          ____________________
+```

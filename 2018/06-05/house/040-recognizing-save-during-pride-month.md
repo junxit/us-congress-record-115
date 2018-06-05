@@ -1,0 +1,43 @@
+---
+granule: CREC-2018-06-05-pt1-PgH4761-4
+date: 2018-06-05
+edition: CREC
+section: HOUSE
+page: H4761
+citation: 164 Cong. Rec. H4761
+---
+
+# RECOGNIZING SAVE DURING PRIDE MONTH
+
+**Speaking:** Ros-Lehtinen, Ileana (R000435) [R-FL]
+
+```
+                  RECOGNIZING SAVE DURING PRIDE MONTH
+
+  (Ms. ROS-LEHTINEN asked and was given permission to address the House
+
+[[Page H4762]]
+
+for 1 minute and to revise and extend her remarks.)
+  Ms. ROS-LEHTINEN. Mr. Speaker, as we celebrate Pride Month, I would 
+like to congratulate SAVE, S-A-V-E, an organization in my congressional 
+district that works around the clock to promote, protect, and defend 
+LGBTQ equality.
+  For many years, I have been proud to partner with SAVE to create 
+much-needed public understanding of gender identity and, hence, foster 
+an even more inclusive south Florida community.
+  This Friday, June 8, this wonderful organization will host its 25th 
+anniversary gala, where it will honor the 2018 equality champions: 
+Miami Beach Police Chief Daniel Oates and the head of business 
+operations of our very own Miami Heat, Eric Woolworth.
+  It is because of groups like SAVE, champions like Daniel and Eric, 
+and committed individuals throughout our communities that we will 
+guarantee that our American values of freedom and opportunity are 
+shared by all.
+  So, thank you, Daniel and Eric; and thank you to my pal and SAVE's 
+Executive Director, Tony Lima, and to the entire SAVE team for all that 
+you do to promote LGBTQ inclusion and make our slice of paradise in 
+south Florida an even better place in which to live.
+
+                          ____________________
+```

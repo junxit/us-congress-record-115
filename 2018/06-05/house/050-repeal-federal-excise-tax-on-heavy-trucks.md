@@ -1,0 +1,43 @@
+---
+granule: CREC-2018-06-05-pt1-PgH4763-4
+date: 2018-06-05
+edition: CREC
+section: HOUSE
+page: H4763
+citation: 164 Cong. Rec. H4763
+---
+
+# REPEAL FEDERAL EXCISE TAX ON HEAVY TRUCKS
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+**Measures:** H.R. 2946
+
+```
+               REPEAL FEDERAL EXCISE TAX ON HEAVY TRUCKS
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, I rise today to speak on behalf of a bill I 
+have introduced, H.R. 2946, which would repeal the burdensome 12 
+percent Federal excise tax on heavy trucks, known as the FET.
+  It was first created to help fund World War I--that is right, World 
+War I, 100 years ago. The antiquated FET is the highest excise tax 
+levied by the Federal Government today. The financial and regulatory 
+burdens created by the FET hurts truck retailers, drivers, and 
+businesses across the country. It depresses the market for newer heavy-
+duty trucks, which are cleaner, more efficient, and everybody in 
+government seems to be clamoring for them to be replaced for those 
+reasons.
+  A repeal of this outdated legislation would seek to promote the use 
+of more modern trucks on our roads--again, something government seems 
+to want and demand. By incorporating this repeal effort into any future 
+infrastructure funding measure, Congress can rebuild our Nation's 
+crumbling road system while ensuring our commercial truck fleet is both 
+cleaner and safer.
+  I urge my colleagues to support inclusion of this bipartisan bill and 
+repeal the FET, which only hampers economic growth and discontinues 
+truck replacement, which is what everybody seems to want.
+
+                          ____________________
+```
