@@ -1,0 +1,43 @@
+---
+granule: CREC-2018-06-06-pt1-PgH4847
+date: 2018-06-06
+edition: CREC
+section: HOUSE
+page: H4847
+citation: 164 Cong. Rec. H4847
+---
+
+# BARRY FAILE NAMED THE 2018 SHERIFF OF THE YEAR
+
+**Speaking:** Norman, Ralph (N000190) [R-SC]
+
+```
+             BARRY FAILE NAMED THE 2018 SHERIFF OF THE YEAR
+
+  (Mr. NORMAN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. NORMAN. Mr. Speaker, it is my honor and privilege to announce to 
+the 115th session of Congress that Lancaster County Sheriff Barry Faile 
+was named the 2018 Sheriff of the Year by the South Carolina Sheriffs 
+Association. This honor was bestowed on Sheriff Faile by his peers 
+representing 46 counties.
+  He began his career in law enforcement 29 years ago where he began as 
+a patrol deputy in 1989 and moved through the ranks of every department 
+until 2009 when he was elected sheriff.
+  Under the leadership of Sheriff Faile, the accomplishments include: 
+national accreditation of his office; implementation of body cameras; 
+Neighborhood Crime Watch programs grown from 12 neighborhoods to 37 in 
+2 years; and creation of the first Crowd Control Unit in 2017.
+  In 2011, Sheriff Faile led the agency through a gang investigation 
+resulting in one of the first grand jury indictments by the State 
+Attorney's office of 15 local gang members, along with the arrest of 
+local members of the Hells Angels as part of a statewide crackdown.
+  His commitment to the local Lancaster community includes serving as a 
+board member of Springs Memorial Hospital, the Rotary Breakfast Club, 
+and the USC Lancaster Educational Foundation.
+  He is currently the president of the South Carolina Sheriffs 
+Association. Sheriff Faile is only the third person in our area to win 
+this prestigious award.
+
+                          ____________________
+```

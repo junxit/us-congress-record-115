@@ -1,0 +1,42 @@
+---
+granule: CREC-2018-06-06-pt1-PgH4783-5
+date: 2018-06-06
+edition: CREC
+section: HOUSE
+page: H4783
+citation: 164 Cong. Rec. H4783
+---
+
+# HONORING MAJOR GENERAL JEFFREY BANNISTER
+
+**Speaking:** Stefanik, Elise M. (S001196) [R-NY]
+
+```
+                HONORING MAJOR GENERAL JEFFREY BANNISTER
+
+  (Ms. STEFANIK asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. STEFANIK. Mr. Speaker, I rise today to honor an exceptional 
+patriot and military leader, Major General Jeffrey Bannister, who 
+recently passed away.
+  General Bannister served as the 10th Mountain Division commander and 
+senior commander at Fort Drum in my district.
+  I am proud to have gotten to know General Bannister and his family 
+during my first term in office, when we worked closely together to 
+successfully prevent devastating personnel cuts from taking place at 
+Fort Drum.
+  Whenever I visited Fort Drum, Major General Bannister was always a 
+wonderful host. It was clear he commanded the greatest respect from the 
+men and women stationed on post, and I know his greatest interest was 
+their well-being.
+  I remember running into Jeff with his family at the Cream Cheese 
+Festival in Lowville after he returned from a recent deployment. He was 
+casually wearing his baseball cap and eating at a picnic table with his 
+wife, and they both gave me a warm hug.
+  He was truly dedicated to our country and our community.
+  The hearts of our entire Fort Drum community go out to the family of 
+Major General Bannister, his wife Trese and his daughter Lindsey during 
+this difficult time.
+
+                          ____________________
+```
