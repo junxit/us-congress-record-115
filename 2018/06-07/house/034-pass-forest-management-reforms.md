@@ -1,0 +1,38 @@
+---
+granule: CREC-2018-06-07-pt1-PgH4859-4
+date: 2018-06-07
+edition: CREC
+section: HOUSE
+page: H4859
+citation: 164 Cong. Rec. H4859
+---
+
+# PASS FOREST MANAGEMENT REFORMS
+
+**Speaking:** Gianforte, Greg (G000584) [R-MT]
+
+```
+                              {time}  1215
+                     PASS FOREST MANAGEMENT REFORMS
+
+  (Mr. GIANFORTE asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. GIANFORTE. Mr. Speaker, I rise today urging the Senate to take up 
+the forest reforms that this Chamber passed more than 7 months ago.
+  Last year, wildfires burned more than 1.2 million acres in Montana, 
+an area the size of the State of Delaware. I met with the firefighters 
+on the ground and saw the devastation. I heard from families anxious 
+about the dangerous air quality impacting their kids. I listened to the 
+hardworking Montanans worried that their livelihoods would go up in 
+flames.
+  Montana survived last year's devastating fire season. Our communities 
+pulled together, helping neighbor to neighbor, just as Montanans do.
+  The bad news is that forecasters project another severe fire season 
+this year. We need to start managing our forests again. While there has 
+been some progress, more work remains to improve the health of our 
+forests and reduce the severity of wildfires.
+  I call on the Senate to end the obstruction and pass forest 
+management reforms. Montanans need them to act.
+
+                          ____________________
+```

@@ -1,0 +1,36 @@
+---
+granule: CREC-2018-06-07-pt1-PgH4859-2
+date: 2018-06-07
+edition: CREC
+section: HOUSE
+page: H4859
+citation: 164 Cong. Rec. H4859
+---
+
+# NATIONAL DEBT IS A SECURITY THREAT
+
+**Speaking:** Biggs, Andy (B001302) [R-AZ]
+
+```
+                   NATIONAL DEBT IS A SECURITY THREAT
+
+  (Mr. BIGGS asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BIGGS. Mr. Speaker, last September, America's national debt 
+topped $20 trillion for the first time in history.
+  Almost 3 months ago, the debt exceeded $21 trillion, and we have an 
+annual structural deficit in the hundreds of billions of dollars.
+  Mr. Speaker, the United States faces no greater menace than our 
+inability to eliminate our debt and balance our budget. Our 
+grandchildren will pay the price for our dereliction of duty and our 
+seniors will soon see Social Security and Medicare funds depleted.
+  This internal, bipartisan recklessness endangers all Americans.
+  It is past time for us to become serious about balancing our budget 
+and making significant cuts to Federal spending. If we do not change 
+our course, we will one day see the crash of the American economy and 
+the demise of a super power.
+  Mr. Speaker, let's change our course before our debt reaches $22 
+trillion. The time for conversation is over. The time to act is now.
+
+                          ____________________
+```

@@ -1,0 +1,52 @@
+---
+granule: CREC-2018-06-07-pt1-PgH4861-5
+date: 2018-06-07
+edition: CREC
+section: HOUSE
+page: H4861
+citation: 164 Cong. Rec. H4861
+---
+
+# RELEASE FUNDS TO THE U.S. VIRGIN ISLANDS
+
+**Speaking:** Plaskett, Stacey E. (P000610) [D-VI]
+
+```
+                RELEASE FUNDS TO THE U.S. VIRGIN ISLANDS
+
+  (Ms. PLASKETT asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+
+[[Page H4862]]
+
+  
+
+  Ms. PLASKETT. Mr. Speaker, last year's natural disasters in the U.S. 
+Virgin Islands have left thousands of properties damaged and destroyed. 
+The vast majority of those homes, businesses, and critical 
+infrastructure have yet to be repaired.
+  It is imperative that any funds authorized and intended to be 
+allocated for the Virgin Islands be released to the territory 
+immediately.
+  While the Federal funding does not include the full amount or all of 
+the requests of the Virgin Islands, it will help substantially in the 
+rebuilding efforts to create better housing opportunities, to help 
+build a resilient utility system, burying lines, creating microgrids, 
+and implementing renewables in our energy portfolio.
+  Due to the tenuous position of the U.S. territories, the U.S. Virgin 
+Islands has been unable to pay contractors up front for critical 
+repairs. We don't have the millions to pay up front and seek 
+reimbursement from the government.
+  Treasury and its Secretary has been unwilling to lend us or loan us, 
+under reasonable terms, the money that Congress allocated for us to be 
+loaned.
+  I am requesting that the Federal Emergency Management Agency expedite 
+the release of the funds to the Sheltering and Temporary Essential 
+Power pilot program immediately so that project contractors and 
+subcontractors may be paid as soon as possible and recovery efforts 
+continue.
+  Mr. Speaker, when contractors lay off workers, our economy falters. 
+And as hurricane season is beginning, this needs to be done now.
+
+                          ____________________
+```

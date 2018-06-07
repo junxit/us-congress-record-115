@@ -1,0 +1,44 @@
+---
+granule: CREC-2018-06-07-pt1-PgH4860-2
+date: 2018-06-07
+edition: CREC
+section: HOUSE
+page: H4860
+citation: 164 Cong. Rec. H4860
+---
+
+# CONGRATULATING THE 2018 NAIA NATIONAL CHAMPION SOUTHEASTERN UNIVERSITY MEN'S BASEBALL TEAM
+
+**Speaking:** Ross, Dennis A. (R000593) [R-FL]
+
+```
+CONGRATULATING THE 2018 NAIA NATIONAL CHAMPION SOUTHEASTERN UNIVERSITY 
+                          MEN'S BASEBALL TEAM
+
+  (Mr. ROSS asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ROSS. Mr. Speaker, Southeastern University is a Christian liberal 
+arts college located in my hometown of Lakeland, Florida. The 
+university is known for its commitment to providing students with a 
+Spirit-empowered, Christ-centered education through integration of 
+faith, learning, and service.
+  Today, I rise to recognize a recent proud accomplishment for 
+Southeastern University. Last Thursday, May 31, 2018, the Southeastern 
+University Fire men's baseball team defeated Freed-Hardeman University 
+to win the National Association of Intercollegiate Athletics World 
+Series.
+  On their road to victory, the team also defeated four former national 
+champions and had three of their players selected to join the 2018 All-
+American team: Johnathan Bermudez, Dan Valerio, and Jordan Scott.
+  The national championship is the first NAIA title by a Fire team 
+since joining the association in the fall of 2009. I am both proud and 
+inspired by this young team and their head coach, Adrian Dinkel, for 
+the determination, commitment, and teamwork they have demonstrated on 
+their road to victory.
+  Southeastern University is a tremendous educational institution, led 
+by Dr. Kent Ingle, and this win is a terrific achievement not only for 
+the school, but also for our local community.
+  Go Fire.
+
+                          ____________________
+```
