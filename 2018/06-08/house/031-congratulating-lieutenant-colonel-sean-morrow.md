@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-06-08-pt1-PgH5005-3
+date: 2018-06-08
+edition: CREC
+section: HOUSE
+page: H5005
+citation: 164 Cong. Rec. H5005
+---
+
+# CONGRATULATING LIEUTENANT COLONEL SEAN MORROW
+
+**Speaking:** Roskam, Peter J. (R000580) [R-IL]
+
+```
+             CONGRATULATING LIEUTENANT COLONEL SEAN MORROW
+
+  (Mr. ROSKAM asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ROSKAM. Mr. Speaker, I would like to congratulate Lieutenant 
+Colonel Sean Morrow, a constituent of the Sixth District of Illinois.
+  On June 19, Sean will be taking command of the United Nations 
+Security Battalion in the Joint Security Area of the Demilitarized Zone 
+on the Korean Peninsula. This unit is the most forward-deployed on the 
+peninsula and stands on the front lines of freedom 24 hours a day, 7 
+days a week, facing the North Korean People's Army eye to eye in 
+defense of democracy and our way of life.
+  As the son of a Korean war company commander myself, I am honored 
+that my constituent is taking the helm of this command at such a 
+crucial time. Sean is a warrior-scholar. A Ph.D. candidate in 
+international relations at the University of Chicago, he is committed 
+to protecting the United States on the battlefield but also rigorously 
+studying the pressing national security challenges we face and their 
+solutions. He has dedicated his life and his career to keeping our 
+Nation safe.
+  Mr. Speaker, I wish Sean, his wife Meghan, and their three children 
+God's very best, and I thank him for his service.
+
+                          ____________________
+```
