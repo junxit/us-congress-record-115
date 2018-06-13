@@ -1,0 +1,45 @@
+---
+granule: CREC-2018-06-13-pt1-PgH5139-6
+date: 2018-06-13
+edition: CREC
+section: HOUSE
+page: H5139
+citation: 164 Cong. Rec. H5139
+---
+
+# THE IMPORTANCE OF C-SPAN
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                        THE IMPORTANCE OF C-SPAN
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, recently, I was invited by a young friend,
+
+[[Page H5140]]
+
+Tyler Nissen, at the Palermo Middle School in Palermo, California, to 
+come address their class, the class belonging to Mr. Seth Davis.
+  I spoke to the students about the importance of individual civic 
+engagement in our Republic and all things in Congress.
+  That is when it hit me: How does the public stay in touch with what 
+we are doing here if they can't be in the gallery or visit Washington, 
+D.C.? It really occurs that C-SPAN is an important aspect for people to 
+be in touch, that network whose entire purpose is to allow those 
+watching at home to be able to do so, to be involved in what goes on in 
+the inner workings of this town and this process in Congress.
+  In the grand scheme of our whole country, it is actually fairly new, 
+having begun in 1979. Today, nearly anyone can tune in or go online, on 
+an internet connection, and be a part of the debate, thanks to the 
+camera coverage we have in this room as well as in our committees.
+  As a nonprofit, unedited, and uninterrupted channel for all things 
+Congress, even the Presidential inauguration or State of the Union 
+Address, C-SPAN is an integral part of our Republic. I hope more people 
+will partake of that great tool like the students are at Palermo Middle 
+School--and Tyler Nissen and his classmates--to be in touch with what 
+goes on in their government.
+
+                          ____________________
+```

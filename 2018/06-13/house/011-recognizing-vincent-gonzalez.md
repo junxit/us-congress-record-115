@@ -1,0 +1,58 @@
+---
+granule: CREC-2018-06-13-pt1-PgH5100-2
+date: 2018-06-13
+edition: CREC
+section: HOUSE
+page: H5100
+citation: 164 Cong. Rec. H5100
+---
+
+# RECOGNIZING VINCENT GONZALEZ
+
+**Speaking:** Fitzpatrick, Brian K. (F000466) [R-PA]
+
+```
+                      RECOGNIZING VINCENT GONZALEZ
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Pennsylvania (Mr. Fitzpatrick) for 5 minutes.
+  Mr. FITZPATRICK. Mr. Speaker, I rise today to recognize a member of 
+our community in Bucks County, Pennsylvania, who was recently honored 
+as a Red Cross hero.
+  Last New Year's Eve, Vincent Gonzalez of Levittown sprang into action 
+following a serious accident in which an impaired driver crashed his 
+vehicle into the home of his neighbors Jim and Mary Albright.
+  Vincent provided immediate assistance to Jim, who was seriously 
+injured and was bleeding heavily from a sustained head wound.
+  For the rest of that night, Vincent comforted Mary, who had to face 
+the devastating reality of an injured husband, a damaged home, and the 
+death of the family's beloved yellow lab because of this horrific 
+incident.
+  Today, Jim, who is fully recovered, refers to Vincent as his and 
+Mary's ``guardian angel.'' I would like to honor Vincent for his quick 
+thinking and selfless actions. I encourage all of my constituents to 
+follow his lead and to look out for each other in times of crisis.
+
+
+                       Recognizing Logan Killeen
+
+  Mr. FITZPATRICK. Mr. Speaker, I am proud to recognize a heroic young 
+man who is already teaching our community in Bucks County, 
+Pennsylvania, the values of respect and compassion.
+  Logan Killeen of Fairless Hills was born with Treacher Collins 
+syndrome, a rare disorder which affects facial bones and structure. 
+Recently, Logan has undergone several surgeries to alleviate his 
+condition, and he often wears a headband to assist with his hearing.
+  In the fall, Logan will be starting kindergarten at Oxford Valley 
+Elementary School. That school recently held an assembly in his honor 
+to teach fellow students that, even though Logan may look different 
+than they do, he is just like them.
+  I commend Logan for his bravery, and I also commend Oxford Valley 
+Elementary School as well. I want to commend both for their willingness 
+to spread kindness to their peers and to our community.
+  I would also like to recognize Logan's parents, Matt and Nicole 
+Killeen, for raising such a fine young man and for all that they do for 
+individuals facing this challenge.
+
+                          ____________________
+```

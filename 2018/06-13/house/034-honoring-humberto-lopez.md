@@ -1,0 +1,37 @@
+---
+granule: CREC-2018-06-13-pt1-PgH5106-4
+date: 2018-06-13
+edition: CREC
+section: HOUSE
+page: H5106
+citation: 164 Cong. Rec. H5106
+---
+
+# HONORING HUMBERTO LOPEZ
+
+**Speaking:** Biggs, Andy (B001302) [R-AZ]
+
+```
+                        HONORING HUMBERTO LOPEZ
+
+  (Mr. BIGGS asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BIGGS. Mr. Speaker, I rise today to honor and congratulate my 
+friend, Humberto Lopez, for receiving the Arizona Lodging & Tourism 
+Association's Hotelier of the Year Award this past May.
+  Humberto Lopez rose from humble roots and is the true definition of 
+the American Dream. He provided for his family as a young boy after his 
+father passed away, worked diligently in college at the University of 
+Arizona, and became a CPA.
+  In 1975, he founded HSL Properties, Inc. and Arizona's tourism 
+industry owes him its thanks for bringing excellence in hospitality and 
+service to the outstanding hotels he manages.
+  More importantly though, Humberto Lopez created the H.S. Lopez Family 
+Foundation, which works to improve the quality of life for communities 
+and families across southern Arizona through education, health, and 
+welfare. Humberto Lopez's work to provide for Arizona and those in need 
+is a testament to the success of the American Dream and the character 
+we need in our citizens.
+
+                          ____________________
+```
