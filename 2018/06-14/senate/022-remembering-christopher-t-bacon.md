@@ -1,0 +1,45 @@
+---
+granule: CREC-2018-06-14-pt1-PgS3949-3
+date: 2018-06-14
+edition: CREC
+section: SENATE
+page: S3949
+citation: 164 Cong. Rec. S3949
+---
+
+# REMEMBERING CHRISTOPHER T. BACON
+
+**Speaking:** Heitkamp, Heidi (H001069) [D-ND]
+
+```
+                    REMEMBERING CHRISTOPHER T. BACON
+
+● Ms. HEITKAMP. Mr. President, I was deeply saddened to learn of 
+the loss last week of Christopher T. Bacon, a beloved husband, father, 
+resident of my State of North Dakota, and an agent with the Customs and 
+Border Protection, CBP, Office of Intelligence.
+  Chris was a wonderful person. His career and service make it clear 
+that he was a man who was guided by strong values and commitment to 
+service. Through his actions, he embodied our Nation's tradition of 
+serving others, dedicating his energy to protecting families all across 
+our Nation.
+  He was born in San Antonio, TX, and traveled all over our Nation and 
+world. He started his service in the Army and joined CBP in 1995 as a 
+border patrol agent. He advanced through the ranks during his 22 years 
+with the agency. His final posting was as an intelligence collection 
+operations manager, stationed at the National Air Security Operations 
+Center in Grand Forks, ND.
+  Our Nation, my State, and his family were all fortunate to have him 
+in our midst. He raised a great family and will always be remembered by 
+his colleagues, friends, and neighbors. Through his courage, skill, and 
+commitment, he has left his community and Nation a better and safer 
+place for all who follow.
+  My heart goes out to his wife, Rhonda, and his children, Kristen, 
+Christopher, Jr., Jake, and Jasmine, in this time of grief. On behalf 
+of my own family and the State of North Dakota, I extend my sincere 
+condolences to Chris's family, friends, and colleagues. I pray that all 
+who knew him can find comfort in their memories of Chris and the 
+positive impact he had on so many lives.●
+
+                          ____________________
+```

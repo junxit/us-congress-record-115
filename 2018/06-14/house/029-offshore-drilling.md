@@ -1,0 +1,41 @@
+---
+granule: CREC-2018-06-14-pt1-PgH5162-4
+date: 2018-06-14
+edition: CREC
+section: HOUSE
+page: H5162
+citation: 164 Cong. Rec. H5162
+---
+
+# OFFSHORE DRILLING
+
+**Speaking:** Pallone, Frank (P000034) [D-NJ]
+
+```
+                           OFFSHORE DRILLING
+
+  (Mr. PALLONE asked and was given permission to address the House for 
+1 minute.)
+  Mr. PALLONE. Mr. Speaker, House Republicans have taken their 
+appalling assault on New Jersey to new lows: The Natural Resources 
+Committee is considering legislation that would penalize States like 
+New Jersey, where Governor Murphy and our people have had the courage 
+and foresight to block drilling in State waters.
+  What House Republicans don't realize is that New Jerseyans will never 
+be blackmailed into accepting drilling miles away from our $38 billion-
+a-year tourism industry. We know the damage that the BP oil spill did 
+to communities on the Gulf Coast, and we will stop at nothing to 
+prevent it off New Jersey's waters.
+  The Trump administration offered the largest offshore drilling plan 
+we have ever seen last year, but even the President understands the 
+true dangers of drilling. We know this because he excluded drilling off 
+Florida waters at the request of his political allies there.
+  Republicans understand the risk of offshore drilling, yet they are 
+all too happy to subject coastal communities throughout our country to 
+the risk.
+  So much, Mr. Speaker, for State rights.
+  Mr. Speaker, New Jerseyans have a long memory, and we will never 
+forget this assault on our economy and our way of life.
+
+                          ____________________
+```

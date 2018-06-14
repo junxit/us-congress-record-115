@@ -1,0 +1,33 @@
+---
+granule: CREC-2018-06-14-pt1-PgS3948-3
+date: 2018-06-14
+edition: CREC
+section: SENATE
+page: S3948
+citation: 164 Cong. Rec. S3948
+---
+
+# VOTE EXPLANATION
+
+**Speaking:** Duckworth, Tammy (D000622) [D-IL]
+
+**Measures:** H.R. 5515
+
+```
+                            VOTE EXPLANATION
+
+● Ms. DUCKWORTH. Mr. President, I was necessarily absent for 
+vote No. 124 on the motion to invoke cloture on amendment No. 2282, as 
+modified, to H.R. 5515, the National Defense Authorization Act for 
+Fiscal Year 2019. On vote No. 124, had I been present, I would have 
+voted yea on the motion to invoke cloture.
+  Mr. President, I was also necessarily absent for vote No. 125 on 
+amendment No. 2885. On vote No. 125, had I been present, I would have 
+voted yea on amendment No. 2885.
+  Mr. President, I was also necessarily absent for vote No. 126 on the 
+motion to invoke cloture on H.R. 5515, as amended. On vote No. 126, had 
+I been present, I would have voted yea on the motion to invoke cloture 
+on H.R. 5515, as amended.●
+
+                          ____________________
+```

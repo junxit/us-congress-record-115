@@ -1,0 +1,50 @@
+---
+granule: CREC-2018-06-14-pt1-PgH5158-2
+date: 2018-06-14
+edition: CREC
+section: HOUSE
+page: H5158
+citation: 164 Cong. Rec. H5158
+---
+
+# ADDRESSING THE OPIOID CRISIS
+
+**Speaking:** Jenkins, Evan H. (J000297) [R-WV]
+
+```
+                      ADDRESSING THE OPIOID CRISIS
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from West 
+Virginia (Mr. Jenkins) for 5 minutes.
+  Mr. JENKINS of West Virginia. Mr. Speaker, the opioid crisis touches 
+nearly every family in West Virginia, with too many lives lost to the 
+disease of addiction. It is an issue I hear about every day.
+  As the opioid epidemic forces increasing numbers of children into 
+foster care, we see more and more grandparents being left to raise 
+their grandchildren. These grandparents face the task of caring for 
+young children while navigating a complex child welfare system.
+
+                              {time}  1030
+
+  Many have little support and are also coping even with their adult 
+child's addiction.
+  We must make it easier for grandparents who love and care for their 
+grandchildren to navigate the system. Bills like the Assisting States' 
+Implementation of Plans of Safe Care Act aim to make it easier for 
+families to gain custody of kids who have been removed from their 
+parents' care due to drug abuse. Allowing these family members to 
+provide critical emotional support and stability to kids who have had 
+their worlds turned upside down seems like common sense.
+  Once in a stable home, support is still needed. Many of these 
+grandparents never thought they would be raising another young child. 
+The Supporting Grandparents Raising Grandchildren Act would provide 
+them with information and resources to help them meet the needs of the 
+children that they are caring for.
+  The opioid crisis cannot be solved overnight, but we must keep 
+fighting. We must enable families to come together to do what families 
+do best, and that is help one another. We need to support those who are 
+unexpectedly caring for young children and provide them with the 
+support they need to raise healthy and happy kids.
+
+                          ____________________
+```

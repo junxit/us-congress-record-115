@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-06-14-pt1-PgH5188
+date: 2018-06-14
+edition: CREC
+section: HOUSE
+page: H5188
+citation: 164 Cong. Rec. H5188
+---
+
+# INFLATED GAS PRICES
+
+**Speaking:** Cicilline, David N. (C001084) [D-RI]
+
+```
+                          INFLATED GAS PRICES
+
+  (Mr. CICILLINE asked and was given permission to address the House 
+for 1 minute.)
+  Mr. CICILLINE. Mr. Speaker, in my home State of Rhode Island and all 
+across America, people are working harder than ever just to get by. 
+Wages are flat and costs continue to rise. In fact, just last month, 
+gas prices hit a 3-year high. It is obscene. Working people have been 
+getting ripped off at the pump for years.
+  One of the biggest reasons is that countries in OPEC and other 
+foreign oil cartels work together to inflate the cost of gas. Some 
+folks think there is nothing we can do about this.
+  That is why, last month, along with Congressman  Steve Chabot, I 
+introduced the No Oil Producing and Exporting Cartels Act, or NOPEC 
+Act. This is a commonsense bill that will help bring down the cost of 
+gas by making members of OPEC and other foreign oil cartels subject to 
+U.S. antitrust laws and preventing them from price gouging. It 
+prohibits those same companies from withholding their supply of oil in 
+order to raise prices.
+  Earlier this week, our bill was approved by the House Judiciary 
+Committee. I look forward to this bill coming to the floor and its 
+swift passage. It is long past time that we deliver some much-needed 
+relief to working people in this country.
+
+                          ____________________
+```
