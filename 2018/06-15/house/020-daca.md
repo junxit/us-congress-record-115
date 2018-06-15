@@ -1,0 +1,38 @@
+---
+granule: CREC-2018-06-15-pt1-PgH5222-3
+date: 2018-06-15
+edition: CREC
+section: HOUSE
+page: H5222
+citation: 164 Cong. Rec. H5222
+---
+
+# DACA
+
+**Speaking:** Gabbard, Tulsi (G000571) [D-HI]
+
+```
+                                  DACA
+
+  (Ms. GABBARD asked and was given permission to address the House for 
+1 minute.)
+  Ms. GABBARD. Mr. Speaker, 6 years ago today, DACA provided a shining 
+light for hundreds of thousands of young Dreamers from all across this 
+country to come out from the shadows and live freely without fear in a 
+nation that for many has been the only home they have ever known.
+  These are people who were brought here as young children through no 
+choice of their own, but no longer. Now, since DACA was rescinded, 
+their status and future hang in limbo with great uncertainty. Their 
+futures and dreams are put on hold as those fears of being ripped from 
+their families and deported to strange, foreign countries has reentered 
+their lives.
+  We cannot afford to wait another day. The vast majority of Americans 
+support Congress passing a final solution, a permanent solution, for 
+these Dreamers. The majority of Congress supports finding a permanent 
+solution for these Dreamers.
+  Let's stand together, work for the good of the people in this 
+country, and pass a solution for these young people all across the 
+country.
+
+                          ____________________
+```
