@@ -1,0 +1,46 @@
+---
+granule: CREC-2018-06-19-pt1-PgH5273-3
+date: 2018-06-19
+edition: CREC
+section: HOUSE
+page: H5273
+citation: 164 Cong. Rec. H5273
+---
+
+# NATIONAL PTSD AWARENESS MONTH
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                     NATIONAL PTSD AWARENESS MONTH
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, during the month of June, 
+we raise awareness for those suffering from post-traumatic stress 
+disorder.
+  After a trauma or a life-threatening event, it is common to have 
+reactions, such as upsetting memories, increased jumpiness, or trouble 
+sleeping. If these reactions do not go away or if they get worse, you 
+might suffer from PTSD.
+  There are organizations and resources that can help both individuals 
+and professionals discover ways to identify and to manage PTSD symptoms 
+and explore effective treatments.
+  PTSD is especially prevalent for those who have served in the 
+military, affecting nearly 30 percent of Vietnam veterans and up to 20 
+percent of veterans who served during the global war on terror.
+  A nonservicemember may be exposed to a single trauma--for example, a 
+car accident--that can also cause PTSD.
+  Mr. Speaker, before I came to Congress, I worked as a rehabilitation 
+therapist, and I have seen incredible strides that people with injuries 
+can make with access to appropriate rehabilitation.
+  I applaud all of the organizations that raise awareness about this 
+important issue during June. There is help and support for those who 
+have PTSD.
+
+[[Page H5274]]
+
+  
+
+                          ____________________
+```

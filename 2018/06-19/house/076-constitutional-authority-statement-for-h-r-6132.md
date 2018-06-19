@@ -1,0 +1,21 @@
+---
+granule: CREC-2018-06-19-pt1-PgH5285-2
+date: 2018-06-19
+edition: CREC
+section: HOUSE
+page: H5285
+citation: 164 Cong. Rec. H5285
+---
+
+# Constitutional Authority Statement for H.R. 6132
+
+**Measures:** H.R. 6132
+
+```
+            By Ms. BORDALLO:
+        H.R. 6132.
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article 1, Section 8, Clause 18; and Article IV, Section 3, 
+     Clause 2.
+```

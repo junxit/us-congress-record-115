@@ -1,0 +1,36 @@
+---
+granule: CREC-2018-06-19-pt1-PgS4032-2
+date: 2018-06-19
+edition: CREC
+section: SENATE
+page: S4032
+citation: 164 Cong. Rec. S4032
+---
+
+# VOTE EXPLANATION
+
+**Speaking:** Duckworth, Tammy (D000622) [D-IL]
+
+**Measures:** H.R. 5515, H.R. 5895
+
+```
+                            VOTE EXPLANATION
+
+● Ms. DUCKWORTH. Mr. President, I was necessarily absent for 
+vote No. 127 on the motion to waive a budget point of order with 
+respect to H.R. 5515, the National Defense Authorization Act for Fiscal 
+Year 2019. On vote No. 127, had I been present, I would have voted yea.
+  Mr. President, I was also necessarily absent for vote No. 128 on 
+passage of H.R. 5515, the National Defense Authorization Act for Fiscal 
+Year 2019, as amended. On vote No. 128, had I been present, I would 
+have voted yea on passage of H.R. 5515, as amended.
+  Mr. President, I was also necessarily absent for vote No. 129 on the 
+motion to invoke cloture on the motion to proceed to H.R. 5895, the 
+Energy and Water, Legislative Branch, and Military Construction and 
+Veterans Affairs Appropriations Act, 2019. On vote No. 129, had I been 
+present, I would have voted yea.●
+  (At the request of Ms. Harris, the following statement was ordered to 
+be printed in the Record.)
+
+                          ____________________
+```
