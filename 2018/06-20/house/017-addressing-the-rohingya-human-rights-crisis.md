@@ -1,0 +1,35 @@
+---
+granule: CRECB-2018-pt8-Pg10376-5
+date: 2018-06-20
+edition: CRECB
+section: HOUSE
+page: 10376
+---
+
+# ADDRESSING THE ROHINGYA HUMAN RIGHTS CRISIS
+
+```
+              ADDRESSING THE ROHINGYA HUMAN RIGHTS CRISIS
+
+  (Mr. HULTGREN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. HULTGREN. Mr. Speaker, I rise on World Refugee Day to draw 
+attention to the plight of the Rohingya people in Myanmar.
+  Since October 2016, the Burmese military has targeted the Rohingya 
+people with what the State Department has described as ethnic 
+cleansing. Through interviews in refugee camps and other fact-finding 
+missions, the U.N. Office of High Commissioner for Human Rights and 
+multiple NGOs have documented a systematic campaign of mass rape, 
+extrajudicial killings of young babies and children, brutal beatings, 
+burning of entire villages, and other serious human rights violations.
+  Mr. Speaker, 7,000 Rohingya were killed in the first month of the 
+violence, while an estimated 700,000 have fled to Bangladesh. At the 
+Tom Lantos Human Rights Commission, we have worked to bring attention 
+to the sickening discrimination and mistreatment of the Rohingya.
+  The oncoming monsoon season in Bangladesh will cause more 
+difficulties for the Rohingya refugees. Congress must hold the Burmese 
+military accountable for their actions and provide the necessary aid 
+needed to meet this crisis.
+
+                          ____________________
+```

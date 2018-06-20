@@ -1,0 +1,47 @@
+---
+granule: CRECB-2018-pt8-Pg10433-6
+date: 2018-06-20
+edition: CRECB
+section: HOUSE
+page: 10433
+---
+
+# STOP THE BARBARIC TACTICS
+
+```
+                       STOP THE BARBARIC TACTICS
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute.)
+  Ms. KAPTUR. Mr. Speaker, last night, Ohio was subjected to another 
+Trump administration ICE worker raid involving rounding up 146 workers 
+at
+
+[[Page 10434]]
+
+meat processing plants in Salem, Canton, and Massillon, Ohio, making 
+Ohio among the top States in the union where these workers have been 
+poached.
+  Again, Detroit-based ICE agents swooped into Ohio, fully armed, to 
+round up dozens of workers who toil in one of the least attractive jobs 
+in our Nation, cold, bloody, slippery, and, yes, dangerous, hard jobs 
+in the meat processing industry, jobs U.S. citizens don't want.
+  My message to President Trump: Stop the barbaric tactics. Stop 
+breaking up working families.
+  If we don't fix this system, these agricultural jobs will be 
+offshored, and we will be importing even more of our food. Let us set 
+up a dependable system to regularize the hiring of workers. Heartland 
+States like Ohio are capable of creating a level playing field for 
+businesses and workers from our country and abroad.
+  To take the crime out of seeking employment in the Americas requires 
+amending NAFTA and CAFTA by updating those accords to address 
+continental employment standards.
+  The President campaigned on reforming NAFTA. Well, Mr. President, we 
+are making you an offer you shouldn't refuse. Show our workers and our 
+companies some respect. We will meet you at any time, at any place to 
+broker a better deal for Ohio and heartland workers.
+  The SPEAKER pro tempore (Mr. Hollingsworth). Members are reminded to 
+direct their remarks to the Chair.
+
+                          ____________________
+```

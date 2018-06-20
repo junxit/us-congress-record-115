@@ -1,0 +1,38 @@
+---
+granule: CRECB-2018-pt8-Pg10433
+date: 2018-06-20
+edition: CRECB
+section: HOUSE
+page: 10433
+---
+
+# PAKISTAN IS NO ALLY OF THE USA
+
+```
+                        PAKISTAN IS NO ALLY OF 
+                                THE USA
+
+  (Mr. POE of Texas asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. POE of Texas. Mr. Speaker, yesterday, Lieutenant General Austin 
+Miller, the nominee to lead our forces in Afghanistan, testified before 
+the Senate that the biggest obstacle to success in Afghanistan is 
+Pakistan.
+  He echoes the same frustrations the President expressed earlier this 
+year and what others in this Chamber, including myself, have said for 
+years, that Pakistan is providing safe havens for terrorists and 
+playing both sides. Terrorist leaders even arrogantly make public 
+appearances in Pakistan, with the knowledge of the government.
+  When we take action against terrorists in Pakistan, Pakistan 
+officials typically condemn us, rather than take steps to improve 
+counterterrorism efforts.
+  President Trump and the incoming commander for U.S. forces in 
+Afghanistan hold a realistic view of Pakistan. Pakistan is the problem 
+with success in Afghanistan.
+  There should be no American money sent to Pakistan until they stop 
+their treacherous ways. Otherwise, the 17-year-old war in Afghanistan 
+may never end.
+  And that is just the way it is.
+
+                          ____________________
+```
