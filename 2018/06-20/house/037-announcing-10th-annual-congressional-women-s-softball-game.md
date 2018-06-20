@@ -1,0 +1,72 @@
+---
+granule: CREC-2018-06-20-pt1-PgH5345
+date: 2018-06-20
+edition: CREC
+section: HOUSE
+page: H5345
+citation: 164 Cong. Rec. H5345
+---
+
+# ANNOUNCING 10TH ANNUAL CONGRESSIONAL WOMEN'S SOFTBALL GAME
+
+**Speaking:** Roby, Martha (R000591) [R-AL], Wasserman Schultz, Debbie (W000797) [D-FL]
+
+```
+       ANNOUNCING 10TH ANNUAL CONGRESSIONAL WOMEN'S SOFTBALL GAME
+
+  (Mrs. ROBY asked and was given permission to address the House for 1 
+minute.)
+  Mrs. ROBY. Mr. Speaker, I yield such time as she may consume to the 
+gentlewoman from Florida (Ms. Wasserman Schultz).
+  Ms. WASSERMAN SCHULTZ. Mr. Speaker, I thank the gentlewoman for 
+yielding.
+  Mr. Speaker, I am thrilled to be able to join my sisters on Team 
+Congress for the 10th annual Congressional Women's Softball Game 
+tonight. Many of you know that our game started in 2009, after our 
+former colleague, Congresswoman Jo Ann Emerson, and I came together and 
+hatched a plan that--unlike the men, whom we love and respect and cheer 
+on in the baseball game--women, being the more collegial sex, would 
+come together and play on a bipartisan team against the common enemy: 
+the press corps.
+  Those of you who were here will remember that we lost our minds in 
+the first year and actually thought that we might be able to take on 
+our political staff at the DNC, the RNC, the NRCC, the DCCC, and other 
+assorted alphabet political organizations, and it didn't go so well. So 
+the next year, we thought better of it and came together to take on the 
+press corps.
+  Through those years, we have had a hearty record where the Members 
+have won three of the nine contests that we have engaged in. But most 
+importantly, we have always played for the Young Survival Coalition to 
+raise awareness and put a spotlight on the millions of young women who 
+are under 40 years old who are diagnosed with breast cancer every year.
+  Many of you know that I am a breast cancer survivor now of 10 years. 
+I am very thrilled to be able to stand in front of you. Back then, I 
+told you that I was so fearful of not being able to see the special 
+events in my children's lives: their bar and bat mitzvahs, their high 
+school graduations. I have been to all three of their bar and bat 
+mitzvahs, two high school graduations, and one more to go in a few 
+years.
+
+[[Page H5346]]
+
+  We want to make sure that young women all across this country pay 
+attention to their breast health and know what is normal for them so 
+they know when something feels different.
+  I am proud to tell you that, this year, we will have reached a 
+milestone where we have raised $1.4 million for the Young Survival 
+Coalition.
+  So, my sisters, come out and join us tonight at the Watkins 
+Recreation Center, 420 Twelfth Street SE, at 7 p.m.
+  Mrs. ROBY. Mr. Speaker, reclaiming my time, I just want to say that 
+each of the gentlewomen here all play for an individual who is a 
+survivor or a fighter.
+  I have a colleague who I have served on the city council with in 
+Montgomery, Alabama, for 7 years whose 18-year-old daughter, Courtney, 
+was recently diagnosed with leukemia. So I want all of my colleagues to 
+know that these are the faces and the individuals whom we are playing 
+for on the field tonight. I hope that each of my colleagues will come 
+out.
+  Go, Congress. Beat the press.
+
+                          ____________________
+```

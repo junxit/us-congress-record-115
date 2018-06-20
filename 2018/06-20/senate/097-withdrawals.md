@@ -1,0 +1,28 @@
+---
+granule: CREC-2018-06-20-pt1-PgS4311
+date: 2018-06-20
+edition: CREC
+section: SENATE
+page: S4311
+citation: 164 Cong. Rec. S4311
+---
+
+# WITHDRAWALS
+
+```
+                              WITHDRAWALS
+
+  Executive Message transmitted by the President to the Senate on June 
+20, 2018 withdrawing from further Senate consideration the following 
+nominations:
+
+       KIMBERLY A. REED, OF WEST VIRGINIA, TO BE FIRST VICE 
+     PRESIDENT OF THE EXPORT-IMPORT BANK OF THE UNITED STATES FOR 
+     A TERM EXPIRING JANUARY 20, 2021, VICE WANDA FELTON, 
+     RESIGNED, WHICH WAS SENT TO THE SENATE ON OCTOBER 3, 2017.
+       FOREIGN SERVICE NOMINATION OF JEFFREY D. TILTON, WHICH WAS 
+     SENT TO THE SENATE ON MARCH 12, 2018.
+       RONNY LYNN JACKSON, OF TEXAS, TO BE SECRETARY OF VETERANS 
+     AFFAIRS, VICE DAVID J. SHULKIN, WHICH WAS SENT TO THE SENATE 
+     ON APRIL 16, 2018.
+```

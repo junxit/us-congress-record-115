@@ -1,0 +1,41 @@
+---
+granule: CREC-2018-06-20-pt1-PgH5293-6
+date: 2018-06-20
+edition: CREC
+section: HOUSE
+page: H5293
+citation: 164 Cong. Rec. H5293
+---
+
+# FAMILY SEPARATION
+
+**Speaking:** Schneider, Bradley Scott (S001190) [D-IL]
+
+```
+                           FAMILY SEPARATION
+
+  (Mr. SCHNEIDER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SCHNEIDER. Mr. Speaker, the Trump administration's abhorrent 
+immigration policy that is tearing families apart and separating 
+children from their parents is a shameful betrayal of our values. It 
+needs to end immediately.
+  Americans of all political stripes are contacting our office, 
+heartbroken and outraged by the images and stories of the treatment of 
+these vulnerable young people by our Nation.
+  The President and his Attorney General have created this crisis. The 
+President has the power to immediately stop this cruelty, but so far, 
+Mr. Speaker, he refuses to do so. That is why today I am proud to join 
+more than 190 colleagues introducing legislation to stop this inhumane 
+treatment of children at our border.
+  The Keep Families Together Act prohibits the Department of Homeland 
+Security from separating children from their parents, except in 
+extraordinary circumstances. The bill also limits criminal prosecution 
+of asylum seekers fleeing persecution, increases child welfare 
+training, and creates a policy preference for family reunification.
+  I urge my fellow Members of Congress to join us on this bill. Let's 
+fix this stain on the character of our Nation and swiftly end this 
+policy.
+
+                          ____________________
+```

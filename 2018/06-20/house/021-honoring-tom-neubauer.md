@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-06-20-pt1-PgH5293-7
+date: 2018-06-20
+edition: CREC
+section: HOUSE
+page: H5293
+citation: 164 Cong. Rec. H5293
+---
+
+# HONORING TOM NEUBAUER
+
+**Speaking:** Dunn, Neal P. (D000628) [R-FL]
+
+```
+                         HONORING TOM NEUBAUER
+
+  (Mr. DUNN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. DUNN. Mr. Speaker, I rise today to honor Tom Neubauer, the 
+recipient of the 2018 Defense Community Leadership Award.
+  Tom is a highly respected leader of the defense community in Florida 
+and a personal friend of mine back in Bay County, which is my home.
+  Tom has been the leading communicator between our military and 
+civilian communities for as long as I can remember. He was instrumental 
+in bringing the MQ-9 Reaper Wing to Tyndall Air Force Base and worked 
+tirelessly to support and protect the Military Mission Line.
+  Both Tom and his wife, Margaret, are Air Force brats. Their love for 
+our soldiers, sailors, and airmen shines through in all that they do. 
+Tom has been building better relations and a
+
+[[Page H5294]]
+
+tighter sense of community between military and civilian communities 
+not only in Bay County, but throughout Florida and the Nation.
+  Mr. Speaker, please join me in congratulating Tom Neubauer on 
+receiving this prestigious award and thanking him for his work for 
+military communities throughout this country.
+
+                          ____________________
+```
