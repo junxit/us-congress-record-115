@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-06-21-pt1-PgH5369-4
+date: 2018-06-21
+edition: CREC
+section: HOUSE
+page: H5369
+citation: 164 Cong. Rec. H5369
+---
+
+# FARM BILL
+
+**Speaking:** Blunt Rochester, Lisa (B001303) [D-DE]
+
+```
+                               FARM BILL
+
+  (Ms. BLUNT ROCHESTER asked and was given permission to address the 
+House for 1 minute.)
+  Ms. BLUNT ROCHESTER. Mr. Speaker, I rise today to urge my colleagues 
+to again vote against the partisan GOP farm bill.
+  Mr. Speaker, I traveled across my State and heard countless stories 
+from Delawareans of all backgrounds: farmers, emergency food providers, 
+and working families. I want to share one story.
+  During Kids Day at the Lewes Farmers Market, every child who attended 
+with a SNAP participant was given $5 in tokens to spend on fresh fruits 
+and vegetables. One boy, clutching his tokens, asked: ``Is this enough 
+to buy a peach?'' The organizers told the boy it was enough to buy a 
+whole basket. He looked up and said: ``Good, because I have never 
+tasted a peach.''
+  That is what the farm bill is about. It is about connecting people 
+from farm to fork.
+  This bill is too important for one party to go it alone. I hope my 
+colleagues will vote again against this bill so that we can get back to 
+truly working on a bipartisan farm bill that strengthens the rural 
+economy, our farm safety net, and ensures that all children have the 
+opportunity to taste a peach.
+
+                          ____________________
+```
