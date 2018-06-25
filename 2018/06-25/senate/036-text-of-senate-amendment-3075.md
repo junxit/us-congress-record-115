@@ -1,0 +1,138 @@
+---
+granule: CREC-2018-06-25-pt1-PgS4373
+date: 2018-06-25
+edition: CREC
+section: SENATE
+page: S4373
+citation: 164 Cong. Rec. S4373
+---
+
+# Text of Senate Amendment 3075
+
+**Speaking:** Sanders, Bernard (S000033) [I-VT]
+
+```
+  SA 3075. Mr. SANDERS submitted an amendment intended to be proposed 
+by him to the bill H.R. 2, to provide for the reform and continuation 
+of agricultural and other programs of the Department of Agriculture 
+through fiscal year 2023, and for other purposes; which was ordered to 
+lie on the table; as follows:
+
+       After section 4112, insert the following:
+
+     SEC. 4113. PARTICIPATION OF PUERTO RICO AND AMERICAN SAMOA IN 
+                   SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM.
+
+       (a) In General.--
+       (1) Definitions.--Section 3 of the Food and Nutrition Act 
+     of 2008 (7 U.S.C. 2012) is amended--
+       (A) in subsection (r), by inserting ``the Commonwealth of 
+     Puerto Rico, American Samoa,'' after ``Guam,''; and
+       (B) in subsection (u)(3), by inserting ``the Commonwealth 
+     of Puerto Rico, American Samoa,'' after ``Guam,''.
+       (2) Eligible households.--Section 5 of the Food and 
+     Nutrition Act of 2008 (7 U.S.C. 2014) is amended--
+       (A) in subsection (b), in the first sentence, by inserting 
+     ``the Commonwealth of Puerto Rico, American Samoa,'' after 
+     ``Guam,'';
+       (B) in subsection (c)(1), by striking ``and Guam,'' and 
+     inserting ``Guam, the Commonwealth of Puerto Rico, and 
+     American Samoa,''; and
+       (C) in subsection (e)--
+       (i) in paragraph (1)(A), by inserting ``the Commonwealth of 
+     Puerto Rico, American Samoa,'' after ``Hawaii,'' each place 
+     it appears; and
+       (ii) in paragraph (6)(B), by inserting ``the Commonwealth 
+     of Puerto Rico, American Samoa,'' after ``Guam,''.
+       (3) Effective date.--
+       (A) In general.--The amendments made by this subsection 
+     shall be effective with respect to the Commonwealth of Puerto 
+     Rico or American Samoa, as applicable, on the date described 
+     in subparagraph (B) if the Secretary submits to Congress a 
+     certification under subsection (f)(3) of section 19 of the 
+     Food and Nutrition Act of 2008 (7 U.S.C. 2028).
+       (B) Date described.--The date referred to in subparagraph 
+     (A) is, with respect to the Commonwealth of Puerto Rico or 
+     American Samoa, the date established by the Commonwealth of 
+     Puerto Rico or American Samoa, respectively, in the 
+     applicable plan of operation submitted to the Secretary under 
+     subsection (f)(1)(A) of section 19 of the Food and Nutrition 
+     Act of 2008 (7 U.S.C. 2028).
+       (b) Transition of Puerto Rico and American Samoa to 
+     Supplemental Nutrition Assistance Program.--Section 19 of the 
+     Food and Nutrition Act of 2008 (7 U.S.C. 2028) is amended by 
+     adding at the end the following:
+       ``(f) Transition of Puerto Rico and American Samoa to 
+     Supplemental Nutrition Assistance Program.--
+       ``(1) Submission of plan by puerto rico and american 
+     samoa.--
+       ``(A) Submission and review of plan of operation.--If a 
+     State agency is designated by a governmental entity and 
+     submits to the Secretary a request to participate in the 
+     supplemental nutrition assistance program and a plan of 
+     operation under section 11 (including a date on which the 
+     governmental entity will begin to participate in the 
+     supplemental nutrition assistance program), the Secretary 
+     shall determine whether that governmental entity and State 
+     agency satisfy the requirements that would apply under this 
+     Act for approval of that plan if the governmental entity were 
+     1 of the several States.
+       ``(B) Determination by secretary.--
+       ``(i) Approval.--The Secretary shall approve a plan of 
+     operation under subparagraph (A) if the governmental entity 
+     and State agency satisfy the requirements described in that 
+     subparagraph.
+       ``(ii) Disapproval.--If the Secretary does not approve a 
+     plan of operation under subparagraph (A), the Secretary shall 
+     provide to the governmental entity a statement that describes 
+     each requirement that is not satisfied by the plan.
+       ``(2) Approval of retail food stores.--If the Secretary 
+     approves a plan of operation under paragraph (1)(B)(i), the 
+     Secretary shall accept from retail food stores located in the 
+     applicable governmental entity applications under section 9 
+     for approval to participate in the supplemental nutrition 
+     assistance program.
+       ``(3) Submission of certification to congress.--The 
+     Secretary shall submit to Congress a certification that a 
+     governmental entity qualifies to participate in the 
+     supplemental nutrition assistance program as if the 
+     governmental entity were a State if the Secretary--
+       ``(A) approves the plan of operation under paragraph 
+     (1)(B)(i); and
+       ``(B) approves the applications under paragraph (2) of a 
+     number of retail food stores located in the governmental 
+     entity requesting to participate in the supplemental 
+     nutrition assistance program that would be sufficient to 
+     satisfy the requirements of this Act if the governmental 
+     entity were 1 of the several States.
+       ``(4) Cash benefits provided in puerto rico.--As part of a 
+     plan of operation submitted under paragraph (1)(A), the 
+     Commonwealth of Puerto Rico may submit to the Secretary a 
+     request to provide benefits under the supplemental nutrition 
+     assistance program in the form of cash.
+       ``(5) Family market program in puerto rico.--As part of a 
+     plan of operation submitted under paragraph (1)(A), 
+     notwithstanding subsection (g), the Secretary shall allow the 
+     Commonwealth of Puerto Rico to continue to carry out, under 
+     the supplemental nutrition assistance program, the Family 
+     Market Program established under this section.
+       ``(6) Authorization of appropriations.--There are 
+     authorized to be appropriated to the Secretary to carry out 
+     this subsection and the amendments made by section 2 of the 
+     Agriculture Improvement Act of 2018 such sums as are 
+     necessary for fiscal year 2019, to remain available until 
+     expended.
+       ``(g) Termination of Effectiveness.--
+       ``(1) In general.--Subsections (a) through (e) shall cease 
+     to be effective with respect to the Commonwealth of Puerto 
+     Rico or American Samoa, as applicable, on the date described 
+     in paragraph (2) if the Secretary submits to Congress a 
+     certification under subsection (f)(3).
+       ``(2) Date described.--The date referred to in paragraph 
+     (1) is, with respect to the Commonwealth of Puerto Rico or 
+     American Samoa, the date established by the Commonwealth of 
+     Puerto Rico or American Samoa, respectively, in the 
+     applicable plan of operation submitted to the Secretary under 
+     subsection (f)(1)(A).''.
+                                 ______
+```
