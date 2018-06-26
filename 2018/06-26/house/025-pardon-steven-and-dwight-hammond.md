@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-06-26-pt1-PgH5666-7
+date: 2018-06-26
+edition: CREC
+section: HOUSE
+page: H5666
+citation: 164 Cong. Rec. H5666
+---
+
+# PARDON STEVEN AND DWIGHT HAMMOND
+
+**Speaking:** Walden, Greg (W000791) [R-OR]
+
+```
+                    PARDON STEVEN AND DWIGHT HAMMOND
+
+  (Mr. WALDEN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. WALDEN. Mr. Speaker, today I rise to raise an issue that would 
+``shock the conscience.'' Those are not my words. Those are the words 
+of a distinguished Federal judge when he refused to sentence two 
+ranchers in my district to 5 years in prison. Judge Hogan looked at the 
+case and he said: That is not right. It would ``shock the conscience.''
+  This Friday, the younger of those two ranchers will mark his fourth 
+year in prison for starting a fire--by the way, fire on the range, high 
+desert, is a management tool. They were using it for that purpose. They 
+were tried. They were convicted. They never should have been sentenced 
+to this.
+  The Obama administration came back and resentenced them to 5 years 
+for 139 acres. We burn hundreds of thousands of acres every year. The 
+government starts fires that burn onto private land. Nothing seems to 
+happen.
+  It is time for the President to review this situation and to grant a 
+pardon to Steven and Dwight Hammond, pull them back together with their 
+families. They have served long enough.
+  This is an issue that shocks the conscience. It is time for real 
+justice, and President Trump can administer that.
+
+                          ____________________
+```
