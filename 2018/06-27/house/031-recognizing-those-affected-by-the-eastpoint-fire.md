@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-06-27-pt1-PgH5758-4
+date: 2018-06-27
+edition: CREC
+section: HOUSE
+page: H5758
+citation: 164 Cong. Rec. H5758
+---
+
+# RECOGNIZING THOSE AFFECTED BY THE EASTPOINT FIRE
+
+**Speaking:** Dunn, Neal P. (D000628) [R-FL]
+
+```
+            RECOGNIZING THOSE AFFECTED BY THE EASTPOINT FIRE
+
+  (Mr. DUNN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. DUNN. Mr. Speaker, I rise today to recognize the hardworking 
+people of Eastpoint, Florida, who lost their homes, their belongings, 
+and even their livelihoods to a devastating fire this week.
+  This past weekend a fire broke out in Franklin County, which 
+destroyed more than 40 homes and almost 1,000 acres. My heart goes out 
+to those whose lives have been forever changed by this horrible and 
+unexpected wildfire. My office stands ready to assist them in any way 
+we can.
+  Thank you to all of our first responders, volunteer firefighters, and 
+local law enforcement for your heroic efforts in containing this blaze. 
+Your quick actions saved many lives.
+  Thank you also to Franklin County Sheriff, A. J. ``Tony'' Smith, 
+Franklin County Emergency Management Director Pam Brownell, local 
+community leaders, the Salvation Army, and the American Red Cross, all 
+of whom stepped up and provided aid and comfort to those who need it 
+the most.
+  Mr. Speaker, please join me in praying for the victims and their 
+families during this time of loss.
+
+                          ____________________
+```

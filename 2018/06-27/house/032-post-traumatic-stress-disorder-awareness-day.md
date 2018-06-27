@@ -1,0 +1,36 @@
+---
+granule: CREC-2018-06-27-pt1-PgH5758-5
+date: 2018-06-27
+edition: CREC
+section: HOUSE
+page: H5758
+citation: 164 Cong. Rec. H5758
+---
+
+# POST-TRAUMATIC STRESS DISORDER AWARENESS DAY
+
+**Speaking:** Suozzi, Thomas R. (S001201) [D-NY]
+
+**Measures:** H.R. 2736
+
+```
+              POST-TRAUMATIC STRESS DISORDER AWARENESS DAY
+
+  Mr. SUOZZI asked and was given permission to address the House for 1 
+minute.)
+  Mr. SUOZZI. Mr. Speaker, 20 veterans commit suicide in the United 
+States every day. This is not only a crisis; it is a national shame.
+  Today, June 27, is Post-Traumatic Stress Disorder Awareness Day. We 
+need to come together as Democrats and Republicans to help those 
+suffering from PTSD.
+  Too many veterans suffering alone in the dark are not eligible for VA 
+benefits, or are unable to navigate the VA bureaucracy.
+  I am proud to have introduced the bipartisan Mental Health Services 
+for All Veterans Act, H.R. 2736, which would provide every member of 
+the military mental health services, whether Active Duty, Reserve, or 
+National Guard, even if they were less-than-honorably discharged.
+  Mental health, PTSD, 20 suicides a day--this crisis in a community of 
+heroes must be addressed.
+
+                          ____________________
+```
