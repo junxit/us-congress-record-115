@@ -1,0 +1,24 @@
+---
+granule: CRECB-2018-pt9-Pg11819-2
+date: 2018-07-10
+edition: CRECB
+section: HOUSE
+page: 11819
+---
+
+# MORNING-HOUR DEBATE
+
+```
+                          MORNING-HOUR DEBATE
+
+  The SPEAKER pro tempore. Pursuant to the order of the House of 
+January 8, 2018, the Chair will now recognize Members from lists 
+submitted by the majority and minority leaders for morning-hour debate.
+  The Chair will alternate recognition between the parties. All time 
+shall be equally allocated between the parties, and in no event shall 
+debate continue beyond 1:50 p.m. Each Member, other than the majority 
+and minority leaders and the minority whip, shall be limited to 5 
+minutes.
+
+                          ____________________
+```
