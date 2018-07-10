@@ -1,0 +1,21 @@
+---
+granule: CREC-2018-07-10-pt1-PgH5995-7
+date: 2018-07-10
+edition: CREC
+section: HOUSE
+page: H5995
+citation: 164 Cong. Rec. H5995
+---
+
+# AFTER RECESS
+
+```
+                              {time}  1430
+                              AFTER RECESS
+
+  The recess having expired, the House was called to order by the 
+Speaker pro tempore (Mr. Banks of Indiana) at 2 o'clock and 30 minutes 
+p.m.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-07-10-pt1-PgS4880
+date: 2018-07-10
+edition: CREC
+section: SENATE
+page: S4880
+citation: 164 Cong. Rec. S4880
+---
+
+# AUTHORITY FOR COMMITTEES TO MEET
+
+**Speaking:** Cruz, Ted (C001098) [R-TX]
+
+```
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+  Mr. CRUZ. Mr. President, I have 2 requests for committees to meet 
+during today's session of the Senate. They have the approval of the 
+Majority and Minority leaders.
+  Pursuant to rule XXVI, paragraph 5(a), of the Standing Rules of the 
+Senate, the following committees are authorized to meet during today's 
+session of the Senate:
+
+
+                     Committee on Foreign Relations
+
+  The Committee on Foreign Relations is authorized to meet during the 
+session of the Senate on Tuesday, July 10, 2018, at 2:15 p.m., to 
+conduct a hearing.
+
+
+                     Committee on Veterans' Affairs
+
+  The Committee on Veterans' Affairs is authorized to meet during the 
+session of the Senate on Tuesday, July 10, 2018, during votes, to 
+conduct a hearing on the nomination of Robert L. Wilkie, of North 
+Carolina, to be Secretary of Veterans Affairs.
+
+                          ____________________
+```

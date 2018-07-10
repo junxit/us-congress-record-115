@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-07-10-pt1-PgH6032-6
+date: 2018-07-10
+edition: CREC
+section: HOUSE
+page: H6032
+citation: 164 Cong. Rec. H6032
+---
+
+# HONORING THE LIFE OF LAURA SHIPP
+
+**Speaking:** Kihuen, Ruben J. (K000390) [D-NV]
+
+```
+                    HONORING THE LIFE OF LAURA SHIPP
+
+  (Mr. KIHUEN asked and was given permission to address the House for 1
+
+[[Page H6033]]
+
+minute and to revise and extend his remarks.)
+  Mr. KIHUEN. Mr. Speaker, today I rise to remember the life of Laura 
+Shipp.
+  Laura attended the Route 91 festival in Las Vegas on October 1.
+  Laura was a single mother to her son, Corey, who is a Marine Corps 
+reservist.
+  Laura and her son had a strong relationship, and she had even moved 
+from California to Las Vegas so she could be closer to him.
+  Laura loved the Los Angeles Dodgers and country music. She was 
+protective of those that she loved and had a big heart.
+  Laura is remembered as being a smart woman who would always make sure 
+to buy her son and nephew a toy or a snack, even when she didn't have a 
+lot of money.
+  Mr. Speaker, I would like to extend my condolences to Laura Shipp's 
+family and friends. Please know that the city of Las Vegas, the State 
+of Nevada, and the whole country grieve with you.
+
+                          ____________________
+```
