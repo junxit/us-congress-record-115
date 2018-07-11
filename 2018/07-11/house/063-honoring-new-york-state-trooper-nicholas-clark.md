@@ -1,0 +1,37 @@
+---
+granule: CRECB-2018-pt9-Pg11986-2
+date: 2018-07-11
+edition: CRECB
+section: HOUSE
+page: 11986
+---
+
+# HONORING NEW YORK STATE TROOPER NICHOLAS CLARK
+
+```
+             HONORING NEW YORK STATE TROOPER NICHOLAS CLARK
+
+  (Mr. REED asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. REED. Mr. Speaker, I rise today to honor and remember the life of 
+New York State Trooper Nicholas Clark. A lifelong resident of Steuben 
+County and a star football player from my alma mater, Alfred 
+University, Nick Clark honorably served his community and the State of 
+New York as a New York State trooper. Since 2015, he has protected the 
+people that he called his friends and neighbors.
+  Trooper Clark put his life on the line every day to serve his 
+community. In the early morning of Monday, July 2, 2018, Trooper Clark 
+responded to a call in the town of Erwin and was shot and killed in the 
+line of duty.
+  Mr. Speaker, he is truly a hero for his actions and the sacrifices he 
+made for all of us. Trooper Clark will be missed by the communities 
+that he served and the lives that he touched. Together we stand with 
+his family and friends as they mourn.
+  I thank him for his service to our community and for his bravery. I 
+pray he rests in peace.
+  Mr. Speaker, I ask this legislative body to pause its deliberations 
+and join me in remembering and honoring the 29-year life of Trooper 
+Nicholas Clark.
+
+                          ____________________
+```

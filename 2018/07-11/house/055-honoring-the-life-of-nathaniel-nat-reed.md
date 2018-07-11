@@ -1,0 +1,35 @@
+---
+granule: CRECB-2018-pt9-Pg11984-3
+date: 2018-07-11
+edition: CRECB
+section: HOUSE
+page: 11984
+---
+
+# HONORING THE LIFE OF NATHANIEL "NAT" REED
+
+```
+              HONORING THE LIFE OF NATHANIEL ``NAT'' REED
+
+  (Mr. THOMAS J. ROONEY of Florida asked and was given permission to 
+address the House for 1 minute.)
+  Mr. THOMAS J. ROONEY of Florida. Mr. Speaker, I rise today to honor 
+the life of Nathaniel ``Nat'' Reed of Jupiter Island, a Florida 
+environmental icon who died today at the age of 84.
+  Mr. Reed loved nature and the Florida environment and devoted most of 
+his life to fighting for Florida's natural wonders like the Everglades. 
+My finest memory of him will be hunting quail near Hobe Sound.
+  As an aide to former Governor Claude Kirk, Mr. Reed successfully 
+stopped the construction of an airport in the Florida Everglades 
+because the construction would have meant devastation to the Everglades 
+and Big Cypress Swamp.
+  Mr. Reed appreciated wildlife and was also one of the authors of the 
+Endangered Species Act, which protects many animals, including several 
+in Florida. He later ended up founding 1000 Friends of Florida, to 
+preserve special places in our State.
+  Nat Reed is an institution in the State of Florida, and he was a 
+wonderful mentor to me. Our State lost a real leader and a friend to 
+many, and he will be greatly missed.
+
+                          ____________________
+```

@@ -1,0 +1,33 @@
+---
+granule: CRECB-2018-pt9-Pg11985
+date: 2018-07-11
+edition: CRECB
+section: HOUSE
+page: 11985
+---
+
+# NATO
+
+```
+                                  NATO
+
+  (Mr. COHEN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. COHEN. Mr. Speaker, today, the House passed a resolution which I 
+authored with the help of the Committee on Foreign Affairs of which Ed 
+Royce is the chairman supporting NATO and the NATO countries that are 
+endangered by Russian aggression, particularly Estonia, Lithuania, 
+Latvia, and the Baltic area. The Balkan countries also have been 
+threatened, including Montenegro, Georgia, Moldova, and Ukraine.
+  The resolution speaks of our support of the sanctions against Russia. 
+And the sanctions should remain until Crimea is returned to Ukraine and 
+the Donbas no longer has war. Then we continue to support the Baltics 
+who have their airspace invaded by Russian aggression.
+  I am pleased that Speaker Ryan allowed this resolution to come to the 
+floor and was passed by voice vote unanimous consent as the Senate had 
+passed a similar resolution 97-2. The House and the Senate stand 
+together in support of NATO and our allies in Eastern, Central, and 
+Western Europe.
+
+                          ____________________
+```
