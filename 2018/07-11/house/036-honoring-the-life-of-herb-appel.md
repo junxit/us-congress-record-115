@@ -1,0 +1,37 @@
+---
+granule: CREC-2018-07-11-pt1-PgH6052
+date: 2018-07-11
+edition: CREC
+section: HOUSE
+page: H6052
+citation: 164 Cong. Rec. H6052
+---
+
+# HONORING THE LIFE OF HERB APPEL
+
+**Speaking:** Olson, Pete (O000168) [R-TX]
+
+```
+                              {time}  1215
+                    HONORING THE LIFE OF HERB APPEL
+
+  (Mr. OLSON asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. OLSON. Mr. Speaker, the heart and soul of Fort Bend County in my 
+hometown of Sugar Land is in great pain today. Herb Appel put on his 
+angel wings and joined our Lord yesterday. We are the most diverse 
+county in America, and the best place to start a family, raise a 
+family, and start a business because of Herb Appel.
+  Herb was a long-time CEO of the Fort Bend Economic Development 
+Corporation. During his tenure, Schlumberger moved their North American 
+headquarters to Sugar Land, Smart Financial Center opened, and Texas 
+Instruments stayed in Fort Bend County, moving from Stafford to Sugar 
+Land. The list goes on and on and on.
+  Herb was called home on a cruise he took with his wife, Emelia, and 
+most of his five kids, sixteen grandkids, and two great grandkids. He 
+was at sea with a sea of love around him.
+  When Herb met God yesterday, God said: Well done, good and faithful 
+servant. God bless Herb Appel.
+
+                          ____________________
+```

@@ -1,0 +1,37 @@
+---
+granule: CREC-2018-07-11-pt1-PgH6101
+date: 2018-07-11
+edition: CREC
+section: HOUSE
+page: H6101
+citation: 164 Cong. Rec. H6101
+---
+
+# NATO
+
+**Speaking:** Boyle, Brendan F. (B001296) [D-PA]
+
+```
+                                  NATO
+
+  (Mr. BRENDAN F. BOYLE of Pennsylvania asked and was given permission 
+to address the House for 1 minute and to revise and extend his 
+remarks.)
+  Mr. BRENDAN F. BOYLE of Pennsylvania. Mr. Speaker, for nearly 70 
+years now, the United States has led the Western alliance standing up 
+to first the Soviet Union and then Russia within the organization known 
+as NATO.
+  Whether the President of the United States was Democrat or 
+Republican, Truman, Kennedy, Reagan, Bush, Obama, it made no 
+difference. Standing up and supporting our Western European allies, 
+standing up and supporting NATO was an absolute given and, frankly, not 
+even a partisan issue. Yet under this President and this 
+administration, we now have, for the first time ever in the post-World 
+War II era, a real question about American commitment to NATO and to 
+the Western alliance.
+  Mr. Speaker, I urge the Trump administration to follow the bipartisan 
+lead of the House Foreign Affairs Committee to support NATO and support 
+our Western allies. It has underpinned peace for 70 years.
+
+                          ____________________
+```

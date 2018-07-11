@@ -1,0 +1,35 @@
+---
+granule: CREC-2018-07-11-pt1-PgH6051-4
+date: 2018-07-11
+edition: CREC
+section: HOUSE
+page: H6051
+citation: 164 Cong. Rec. H6051
+---
+
+# PENSIONS
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+                                PENSIONS
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Mr. Speaker, many Americans have worked hard 
+their entire lives paying into pension programs with the promise that, 
+after a career of hard labor, they would have a secure transition into 
+retirement.
+  Our multiemployer pension plans, of which there are 114, covering 1.3 
+million workers, are severely underfunded and in trouble. The Butch 
+Lewis Act is an important step in responsibly securing the pensions 
+that millions of American workers have earned throughout their years of 
+hard work.
+  We must ensure that the pensions that American union workers have 
+earned over a lifetime of work are protected well into the future. This 
+Congress needs to take action now to ensure the promise of those who 
+were promised after years of contributions to have a pension in their 
+retirement years.
+
+                          ____________________
+```
