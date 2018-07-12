@@ -1,0 +1,34 @@
+---
+granule: CRECB-2018-pt9-Pg12026-2
+date: 2018-07-12
+edition: CRECB
+section: SENATE
+page: 12026
+---
+
+# TRIBUTE TO BETSEY HEDRICK
+
+```
+                       TRIBUTE TO BETSEY HEDRICK
+
+● Mr. DAINES. Mr. President, this week I have the honor of 
+recognizing Betsey Hedrick of Dawson County for her contribution to the 
+community through Betsey's Badlands Catering.
+  Betsey was born and raised in Bozeman. After graduating from high 
+school, she attended culinary school in Portland, which led her to work 
+at a local country club and eventually run a steakhouse back in 
+Bozeman. She and her husband, Phil, moved to Glendive 14 years ago, had 
+their son Sam, and shortly after, she opened Betsey's Badlands 
+Catering.
+  Fixing food has always been Betsey's passion. Her favorite part about 
+cooking is not what she is cooking or who she is cooking for; it is the 
+impact that food has on people. No matter people's backgrounds or 
+history, food brings them together. She loves being a part of something 
+that brings joy to people's lives, and that is why she continues to do 
+it daily.
+  I congratulate Betsey on her significant contributions to Glendive 
+and the greater Dawson County. I look forward to seeing her business 
+grow and trying some of her famous seasonal dishes soon.●
+
+                          ____________________
+```

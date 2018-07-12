@@ -1,0 +1,39 @@
+---
+granule: CRECB-2018-pt9-Pg12044
+date: 2018-07-12
+edition: CRECB
+section: HOUSE
+page: 12044
+---
+
+# THE NEXT SUPREME COURT JUSTICE
+
+```
+                     THE NEXT SUPREME COURT JUSTICE
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, President Donald Trump has 
+made an excellent selection of Judge Brett Kavanaugh for the Supreme 
+Court. The Aiken Standard lead editorial today is correct: ``Brett 
+Kavanaugh the Right Choice for Court.''
+  ``A judge's job is to interpret the law, not to make the law or make 
+policy,'' writes Judge Brett Kavanaugh. The judge will apply the law as 
+written and enforce the text, structure, and original understanding of 
+the Constitution.
+  Judge Brett Kavanaugh's credentials are impeccable. He served on the 
+U.S. Court of Appeals for the District of Columbia for 12 years. He has 
+authored more than 300 opinions.
+  A graduate of Yale College and Yale Law School, Judge Kavanaugh has 
+clerked on the Supreme Court under Justice Anthony Kennedy and on the 
+Third and Ninth Circuit Court of Appeals. He has taught at Yale, 
+Harvard, and Georgetown.
+  Judge Kavanaugh has devoted his life to public service, and the 
+Senate should confirm him quickly, as America, he, and his family 
+deserves. The biased media will fail again as it smears the judge, 
+making up more fake news and destroying its own credibility.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism.
+
+                          ____________________
+```
