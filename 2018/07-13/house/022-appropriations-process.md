@@ -1,0 +1,38 @@
+---
+granule: CREC-2018-07-13-pt1-PgH6192-2
+date: 2018-07-13
+edition: CREC
+section: HOUSE
+page: H6192
+citation: 164 Cong. Rec. H6192
+---
+
+# APPROPRIATIONS PROCESS
+
+**Speaking:** Mooney, Alexander X. (M001195) [R-WV]
+
+```
+                         APPROPRIATIONS PROCESS
+
+  (Mr. MOONEY of West Virginia asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. MOONEY of West Virginia. Madam Speaker, I am pleased to commend 
+the House Appropriations Committee for passing 11 of the 12 
+appropriations bills out of committee. All the bills except Homeland 
+Security have passed committee.
+  Here on the House floor we have passed four of those appropriations 
+bills. The Senate has passed three. This is what we call regular order, 
+and it is very important to the political process that every Member of 
+Congress in this Chamber and the Senate have a chance to offer 
+amendments, be heard, and speak. Both parties have agreed to this.
+  We need to get all the bills through the House and appoint the 
+conference committees. Those conference committees are where you 
+reconcile the differences. We have fallen away from this here in this 
+Chamber in the past few years. It is about time we got back to the 
+regular appropriations process.
+  I want to keep the positive momentum going and commend us for passing 
+those bills. Let's get that Defense bill passed and fund our troops the 
+way that the American people deserve.
+
+                          ____________________
+```
