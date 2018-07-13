@@ -1,0 +1,31 @@
+---
+granule: CRECB-2018-pt9-Pg12125-4
+date: 2018-07-13
+edition: CRECB
+section: HOUSE
+page: 12125
+---
+
+# COMMENDING THE JUSTICE DEPARTMENT
+
+```
+                   COMMENDING THE JUSTICE DEPARTMENT
+
+  (Mr. COHEN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. COHEN. Madam Speaker, I want to commend our United States 
+Department of Justice for reopening the Emmet Till murder case.
+  Emmet Till was a young man who was brutally murdered in Mississippi 
+in 1955. The case that was brought to trial in Mississippi charged two 
+White men who were identified by a Black one, one of Mr. Till's 14-
+year-old relatives. The all-White jury found them not guilty. Both men, 
+looking back afterwards, said they did it, and nothing happened.
+  There have been lots of investigations about this, lots of reports, 
+and the Justice Department has seized some ``new evidence'' to reopen 
+the case. I commend our Justice Department.
+  While justice delayed is justice denied, justice, whenever it can be 
+found in these civil rights cases, is appropriate and proper.
+  I thank the Department of Justice.
+
+                          ____________________
+```

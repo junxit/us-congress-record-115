@@ -1,0 +1,42 @@
+---
+granule: CRECB-2018-pt9-Pg12125-5
+date: 2018-07-13
+edition: CRECB
+section: HOUSE
+page: 12125
+---
+
+# ORANGE COUNTY LIBRARY SYSTEM--NATIONAL MEDAL FOR MUSEUM AND LIBRARY SERVICE
+
+```
+  ORANGE COUNTY LIBRARY SYSTEM--NATIONAL MEDAL FOR MUSEUM AND LIBRARY 
+                                SERVICE
+
+  (Mr. SOTO asked and was given permission to address the House for 1 
+minute.)
+  Mr. SOTO. Madam Speaker, on behalf of our central Florida community, 
+I am proud to recognize the Orange County Library System for being the 
+recipient of the Nation's 2018 National Medal for Museum and Library 
+Service.
+  The Orange County Library System was selected from 29 national 
+finalists to receive this prestigious medal. This is the highest honor 
+given to libraries that make exceptional contributions to their 
+communities through dynamic programming and services. It is a 
+tremendous win for our community.
+  Orange County Library is bringing positive change to central Florida, 
+and they are specifically being recognized for their work providing 
+access to STEM education for children living in underserved 
+communities, providing ESOL classes for adults and families, and their 
+commitment to providing access to high-quality educational tools for 
+children in Orange County's public school system.
+  I would like to recognize Mary Anne Hodel, Orange County Library 
+System Library director and CEO, and Lisa Franchina, president of the 
+library board of trustees, for their leadership and inspirational work; 
+Erin Sullivan, Orange County Library System's public relations 
+administrator, for taking the initiative of recognizing the great work 
+of OCLS; and all the dedicated staff and volunteers of the library for 
+their work in helping residents of central Florida to foster personal 
+growth and development.
+
+                          ____________________
+```

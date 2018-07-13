@@ -1,0 +1,33 @@
+---
+granule: CRECB-2018-pt9-Pg12125-2
+date: 2018-07-13
+edition: CRECB
+section: HOUSE
+page: 12125
+---
+
+# REMEMBERING THE LIFE OF RANDY WILSON
+
+```
+                  REMEMBERING THE LIFE OF RANDY WILSON
+
+  (Mr. O'HALLERAN asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. O'HALLERAN. Madam Speaker, I rise today to honor Randy Wilson, 
+the managing editor of the Arizona Daily Sun, who passed away 
+unexpectedly last week.
+  Randy's love for his job was evident, and he was a shining example of 
+journalistic integrity and fairness. His life went far beyond producing 
+a fine newspaper that serves thousands of Arizonans. He was also fully 
+committed to giving back to his community.
+  In addition to leading the annual New Year's Day Polar Plunge and the 
+Flagstaff Four on the Fourth race, he was active in his church, 
+explored northern Arizona's trails and parks, and played a major role 
+in the Daily Sun's citizen and organization of the year initiatives.
+  Randy's legacy will live on, thanks to his enduring commitment to his 
+community, his State, and his paper. My heart goes out to his wife, 
+Lindsay; his daughter, Caroline; his fellow journalists; and his loved 
+ones.
+
+                          ____________________
+```

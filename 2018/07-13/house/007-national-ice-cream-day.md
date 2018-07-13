@@ -1,0 +1,37 @@
+---
+granule: CRECB-2018-pt9-Pg12109-9
+date: 2018-07-13
+edition: CRECB
+section: HOUSE
+page: 12109
+---
+
+# NATIONAL ICE CREAM DAY
+
+```
+                         NATIONAL ICE CREAM DAY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, Sunday is National Ice 
+Cream Day. In 1984, President Ronald Reagan issued a proclamation 
+designating the third Sunday in July as National Ice Cream Day in the 
+United States.
+  The sweet treat holds a special place in the hearts and refrigerators 
+of many Americans. In fact, almost 90 percent of Americans have ice 
+cream in their refrigerator as I speak.
+  The Commonwealth of Pennsylvania produces 10.8 billion pounds of milk 
+annually, and 10 percent of our Nation's milk supply goes to the 
+production of ice cream.
+  In the Fifth District, the Penn State Berkey Creamery has been 
+researching dairy and producing ice cream for more than 150 years. They 
+were the first collegiate institution in the United States to offer 
+lessons on making ice cream; and in 1978, two men by the name of Ben 
+Cohen and Jerry Greenfield took one of their courses and later went on 
+to launch their company, Ben & Jerry's.
+  Mr. Speaker, I congratulate Penn State for being an industry leader, 
+and in honor of National Ice Cream Day, I hope all Americans will 
+celebrate with a scoop on Sunday.
+
+                          ____________________
+```
