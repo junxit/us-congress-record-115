@@ -1,0 +1,34 @@
+---
+granule: CRECB-2018-pt9-Pg12200-2
+date: 2018-07-16
+edition: CRECB
+section: HOUSE
+page: 12200
+---
+
+# TAX REFORM
+
+```
+                               TAX REFORM
+
+  (Mr. NORMAN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. NORMAN. Mr. Speaker, I rise today in recognition of the great 
+news that the Tax Cuts and Jobs Act continues to deliver for the people 
+and small businesses of the Fifth District of South Carolina.
+  It has been almost 7 months since tax reform, and our economy is 
+booming. People have a renewed hope and sense of security in their 
+futures again.
+  Firsthand, I see small businesses in my district expanding and 
+creating more jobs. New hires are at the highest level in 17 years. 
+Small-business optimism is the highest in decades. Consumer confidence 
+is at its highest in 2 decades.
+  I have directly heard from families who are seeing more hard-earned 
+dollars remaining in their pockets. Because of our pro-growth policies, 
+our economy, our families, and our businesses in my district and across 
+the Nation will have strong futures.
+  Thanks to tax reform, South Carolinians and Americans are better off 
+now.
+
+                          ____________________
+```
