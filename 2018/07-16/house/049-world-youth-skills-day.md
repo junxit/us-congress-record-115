@@ -1,0 +1,42 @@
+---
+granule: CREC-2018-07-16-pt1-PgH6244-3
+date: 2018-07-16
+edition: CREC
+section: HOUSE
+page: H6244
+citation: 164 Cong. Rec. H6244
+---
+
+# WORLD YOUTH SKILLS DAY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                         WORLD YOUTH SKILLS DAY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, Sunday was World Youth 
+Skills Day. The United Nations General Assembly started this initiative 
+to raise awareness about the importance of investing in youth skills 
+development.
+  Young people are almost three times more likely to be unemployed than 
+adults. Young people around the world are exposed to lower-quality 
+jobs, greater labor market inequalities, and a longer school-to-work 
+transition period.
+  That is why I am pleased the House unanimously approved my 
+Strengthening Career and Technical Education for the 21st Century Act 
+last year, and it has seen action in the Senate as well.
+  Too often, we have seen students pushed down the college-for-all 
+pathway that just doesn't work for some students. CTE has established 
+itself as a path that many students choose in pursuit of industry 
+certification and hands-on skills they can use right out of high 
+school, in skill-based education programs, or in college.
+  By modernizing the Federal investment in CTE programs, we will be 
+able to connect more educators with industry stakeholders and close the 
+skills gap.
+  CTE is an important part of youth skills development, not only in the 
+United States, but in nations around the world.
+
+                          ____________________
+```
