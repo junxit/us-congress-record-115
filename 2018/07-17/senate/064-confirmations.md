@@ -1,0 +1,30 @@
+---
+granule: CREC-2018-07-17-pt1-PgS5026-3
+date: 2018-07-17
+edition: CREC
+section: SENATE
+page: S5026
+citation: 164 Cong. Rec. S5026
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate July 17, 2018:
+
+
+                         FEDERAL RESERVE SYSTEM
+
+       RANDAL QUARLES, OF COLORADO, TO BE A MEMBER OF THE BOARD OF 
+     GOVERNORS OF THE FEDERAL RESERVE SYSTEM FOR A TERM OF 
+     FOURTEEN YEARS FROM FEBRUARY 1, 2018.
+
+
+                        DEPARTMENT OF EDUCATION
+
+       JAMES BLEW, OF CALIFORNIA, TO BE ASSISTANT SECRETARY FOR 
+     PLANNING, EVALUATION, AND POLICY DEVELOPMENT, DEPARTMENT OF 
+     EDUCATION.
+```
