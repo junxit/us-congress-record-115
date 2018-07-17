@@ -1,0 +1,94 @@
+---
+granule: CRECB-2018-pt9-Pg12283-4
+date: 2018-07-17
+edition: CRECB
+section: HOUSE
+page: 12283
+---
+
+# RECOGNIZING PENNSYLVANIA'S FIFTH DISTRICT INDUSTRIES ON MADE IN AMERICA DAY
+
+```
+RECOGNIZING PENNSYLVANIA'S FIFTH DISTRICT INDUSTRIES ON MADE IN AMERICA 
+                                  DAY
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Pennsylvania (Mr. Thompson) for 5 minutes.
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today on Made in 
+America Day to speak about American craftsmanship, specifically in the 
+Commonwealth of Pennsylvania.
+  American entrepreneurs, workers, farmers, and innovators have built 
+this country and drive our economy. They are the heart of this Nation, 
+and they ensure that the Made in the USA label means quality and value, 
+which is something we treasure.
+  Pennsylvania has a rich history of being a manufacturing leader, 
+especially our storied Pennsylvania steel. The Commonwealth has been an 
+important cog in the wheel of this country's Industrial Revolution, 
+thanks to industries like iron, coal, and lumber, in addition to steel. 
+Our Pennsylvania farmers have fed, and continue to feed, generations of 
+Americans, providing safe, nutritious food for all our neighbors.
+
+[[Page 12284]]
+
+  This rich history continues today. The Pennsylvania Fifth 
+Congressional District is home to numerous producers that have made 
+vital contributions to our prosperity. They have employed American 
+workers, produced American products, and grown American crops. From 
+heritage companies to newer, rising stars, we have a wide cross-section 
+of products produced in Pennsylvania's Fifth Congressional District.
+  Brookville Equipment Corporation in Jefferson County is the leading 
+manufacturer of diesel locomotive engines, street trolleys, and mining 
+machinery. Brookville's mass transit resume includes fully refurbishing 
+streetcars for cities including New Orleans, Philadelphia, and San 
+Francisco.
+  Since 1889, W.R. Case & Sons Cutlery Company has been fashioning 
+handcrafted pocketknives and sporting knives in McKean County, 
+Pennsylvania.
+  Zippo Manufacturing Company, makers of the world-famous Zippo 
+windproof lighter, owns Case Knives today. Zippo is another family-
+owned business based in Bradford, McKean County, since 1936.
+  Clarion Industries has two divisions in Clarion County: Clarion 
+Boards, which produces high-quality fiberboard used to manufacture 
+products such as laminate flooring, furniture, fixtures, cabinetry, and 
+moldings; and Clarion Laminates, the only Made in the USA laminate 
+flooring manufacturer of its kind.
+  Emporium Powdered Metal, Inc. in Cameron County is a powdered metal 
+manufacturer staffed with more than 120 years of combined experience.
+  Welch's in Erie County is particularly known for its grape juices, 
+jams, and jellies made from dark Concord grapes and its white Niagara 
+grape juice.
+  Clearfield Machine Company has been producing custom machining since 
+1868 in Clearfield County.
+  Since 1830, the Woolrich name has stood for the best in sportswear 
+for men and women, and it continues to make outerwear that combines 
+comfort and function in Woolrich, Pennsylvania, in Clinton County.
+  Major leaguers have been swinging our fine Pennsylvania hardwoods, 
+thanks to Jefferson County's BWP Bats. BWP's slogan is ``Built With 
+Pride.''
+  Huntingdon County's Bonney Forge has a state-of-the-art forge 
+facility capable of manufacturing our entire line of forged steel 
+fitting and forged steel valve products since 1875.
+  Diamond Back Truck Covers is a company two Penn State students 
+started in their garage in 2003. They made heavy-duty, utility-oriented 
+diamond plate aluminum truck bed covers for pickup trucks in 
+Philipsburg, Pennsylvania, in Centre County.
+  Domtar Paper Company in Elk County is the largest integrated producer 
+of uncoated free-sheet paper in North America and the second largest in 
+the world, based on production capacity.
+  Pull-A-Pump in Potter County manufactures portable pump pulling 
+machines for those in need of water well technology, with a unique dual 
+traction belt design that is second to none.
+  Whirley Industries Incorporated in Warren County designs, develops, 
+and produces products for the food and beverage industry.
+  Centre County also boasts many new rising stars in high-tech 
+industries, including KCF Technologies, a dynamic technology company 
+that develops and commercializes products for industry and the 
+military.
+  Mr. Speaker, this is just a sample of the manufacturers who employ 
+our friends and neighbors in Pennsylvania's Fifth Congressional 
+District. These companies and many others produce quality, American-
+made products, and we cannot be more proud to celebrate them during 
+Made in America Week.
+
+                          ____________________
+```
