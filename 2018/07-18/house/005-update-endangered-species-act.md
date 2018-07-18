@@ -1,0 +1,80 @@
+---
+granule: CREC-2018-07-18-pt1-PgH6467-4
+date: 2018-07-18
+edition: CREC
+section: HOUSE
+page: H6467
+citation: 164 Cong. Rec. H6467
+---
+
+# UPDATE ENDANGERED SPECIES ACT
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                     UPDATE ENDANGERED SPECIES ACT
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Pennsylvania (Mr. Thompson) for 5 minutes.
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, when the Endangered 
+Species Act was signed into law in 1973, its goal was simple: safeguard 
+endangered species and assist in the recovery of their population.
+  Until last week, no recent attempts have been made to reform this 
+essential piece of legislation. Over the past several years, the 
+Congressional Western Caucus has been working together to determine 
+what parts of the Endangered Species Act are broken and to develop 
+solutions to repair this law.
+  The Endangered Species Act is in dire need of modernization and 
+reform, which is why, last week, the Western Caucus, which I am proud 
+to belong to, rolled out some solutions; among them is to address the 
+broken litigation process that incentivizes litigation for profit at 
+the expense of the taxpayer, address the lack of clear listing and 
+delisting criteria, addressed the lack of transparency in Endangered 
+Species Act decisionmaking and data collection, consider the needs of 
+States more seriously, and address the unnecessary impediments to 
+economic development and land management that affect endangered 
+species.
+  Mr. Speaker, as far as statutes that require costly litigation, the 
+Endangered Species Act was the third most expensive for the Department 
+of Agriculture and the most expensive for the Department of the 
+Interior.
+  Endangered Species Act litigation cost the Department of Agriculture 
+and the Federal taxpayers $1.63 million from 2000 to 2010. It cost the 
+Department of the Interior $22 million from 2000 to 2010, all at the 
+expense of the taxpayer. These frivolous lawsuits have severe 
+consequences on local economies.
+  Additionally, the absence of State consultation weakens the overall 
+data that can be used to justify the Endangered Species Act listings 
+and recovery plans, a complete lack of transparency. State and local 
+expertise is needed to strengthen and streamline the Endangered Species 
+Act listing and delisting process.
+  I am happy to say that these issues are addressed in some of the 
+bills that were introduced last week. I proudly cosponsored a number of 
+the bills that will make progress on this front, including the LOCAL 
+Act, which was introduced by my colleague Scott Tipton. This bill would 
+set up new incentives and opportunities for voluntary conservation by 
+establishing a private party conservation grants program and a habitat 
+conservation planning loan program for State and local governments. 
+These programs will save the taxpayers money while boosting 
+conservation.
+  Mr. Speaker, we know that the majority of the recent species that 
+have been delisted happened not as a result of the Endangered Species 
+Act or the Fish and Wildlife Service, but through voluntary 
+conservation with the leadership of the Department of Agriculture.
+  The LAMP Act, introduced by my colleague Congressman  Don Young, 
+permits the Secretary of the Interior to enter into cooperative 
+management agreements with States, local governments, Tribes, and other 
+non-Federal persons in order to better manage species and improve 
+habitat conservation. The bill also empowers States with robust species 
+conservation programs already in place to take the lead in managing and 
+preserving such species when meeting certain qualifying conditions.
+  Mr. Speaker, these are just two examples of great pieces of 
+legislation that have been introduced in the House to upgrade, 
+modernize, and bring into the 21st century the Endangered Species Act.
+  The Endangered Species Act is in dire need of modernization, and I am 
+eager to work with my colleagues to address these needs and reform this 
+outdated law. I urge my colleagues to examine these commonsense bills, 
+look at the facts behind them, and cosponsor them today.
+
+                          ____________________
+```
