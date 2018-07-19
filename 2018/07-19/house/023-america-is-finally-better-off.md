@@ -1,0 +1,41 @@
+---
+granule: CREC-2018-07-19-pt1-PgH6577-5
+date: 2018-07-19
+edition: CREC
+section: HOUSE
+page: H6577
+citation: 164 Cong. Rec. H6577
+---
+
+# AMERICA IS FINALLY BETTER OFF
+
+**Speaking:** Rutherford, John H. (R000609) [R-FL]
+
+```
+                     AMERICA IS FINALLY BETTER OFF
+
+  (Mr. RUTHERFORD asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. RUTHERFORD. Mr. Speaker, I rise today because, after years of 
+struggling to get ahead, America is finally better off. America is 
+stronger at home and abroad, with a booming economy, safer communities, 
+and a revived military.
+  Thanks to the historic tax reform, unemployment is at an all-time 
+low; job openings are at record highs; paychecks are increasing; wages 
+are rising; and small businesses are expanding. I hear it from people 
+in Florida all the time: My constituents are better off.
+  Mr. Speaker, I represent Florida's Fourth Congressional District, 
+which is home to many military families; and I am proud to say that we 
+have begun to rebuild our military and support our men and women in 
+uniform. We have passed legislation giving our troops the largest pay 
+increase in almost 9 years, and investing $144 billion in upgrading and 
+maintaining our military facilities. Our military men and women are 
+better off.
+  The work that we have done and continue to do is creating a better 
+way for the people of northeast Florida and for all Americans. Although 
+there is much more to do, the economy is soaring, and Republican 
+policies are helping to improve people's lives, making it easier for 
+families to get ahead with a renewed sense of confidence.
+
+                          ____________________
+```

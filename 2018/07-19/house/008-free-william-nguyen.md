@@ -1,0 +1,38 @@
+---
+granule: CREC-2018-07-19-pt1-PgH6561-7
+date: 2018-07-19
+edition: CREC
+section: HOUSE
+page: H6561
+citation: 164 Cong. Rec. H6561
+---
+
+# FREE WILLIAM NGUYEN
+
+**Speaking:** Gomez, Jimmy (G000585) [D-CA]
+
+```
+                          FREE WILLIAM NGUYEN
+
+  (Mr. GOMEZ asked and was given permission to address the House for 1 
+minute.)
+  Mr. GOMEZ. Mr. Speaker, William Nguyen is a 32-year-old from my 
+district. His graduation from graduate school was last week, but he 
+missed it because he was jailed while vacationing in Vietnam, 
+imprisoned after taking part in a peaceful demonstration.
+  I am here to stand up for my constituent and ask that he be treated 
+humanely. This young man is a son, brother, and a friend to many. I see 
+his passion for justice in the millennials I represent. Will is part of 
+a generation that cares deeply about the world beyond our borders. They 
+are advocates for the most vulnerable, voices for the voiceless, and 
+now William needs our voices. He needs our collective resolve to help 
+him through this difficult time.
+  Will's case has unified Democrats and Republicans to work together on 
+his behalf. For weeks, we have done everything to build diplomatic 
+efforts needed to bring him home. Today, I am asking all Americans, 
+regardless of their politics, to join us in supporting the Nguyen 
+family. Keep them in your thoughts, in your hearts, and in your 
+prayers.
+
+                          ____________________
+```

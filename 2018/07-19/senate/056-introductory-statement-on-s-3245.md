@@ -1,0 +1,92 @@
+---
+granule: CREC-2018-07-19-pt1-PgS5109-2
+date: 2018-07-19
+edition: CREC
+section: SENATE
+page: S5109
+citation: 164 Cong. Rec. S5109
+---
+
+# Introductory Statement on S. 3245
+
+**Speaking:** Cornyn, John (C001056) [R-TX]
+
+**Measures:** S. 3245
+
+```
+      By Mr. CORNYN (for himself and Mr. Cruz):
+  S. 3245. A bill to require the Secretary of Agriculture to transfer 
+certain National Forest System land in the State of Texas; to the 
+Committee on Energy and Natural Resources.
+  Mr. CORNYN. Mr. President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 3245
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Lake Fannin Conveyance 
+     Act''.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act:
+       (1) County.--The term ``County'' means the Fannin County, 
+     Texas.
+       (2) Map.--The term ``map'' means the map entitled ``Lake 
+     Fannin Conveyance'' and dated November 21, 2013.
+       (3) National forest system land.--The term ``National 
+     Forest System land'' means the approximately 2,025 acres of 
+     National Forest System land generally depicted on the map.
+       (4) Secretary.--The term ``Secretary'' means the Secretary 
+     of Agriculture, acting through the Chief of the Forest 
+     Service.
+
+     SEC. 3. CONVEYANCE OF LAND AND IMPROVEMENTS.
+
+       (a) In General.--Subject to the requirements of this 
+     section, if the County submits to the Secretary a written 
+     request for conveyance of the National Forest System land not 
+     later than 180 days after the date of enactment of this Act, 
+     the Secretary shall convey to the County all right, title, 
+     and interest of the United States in and to the National 
+     Forest System land.
+       (b) Map.--
+       (1) Availability of map.--The map shall be kept on file and 
+     available for public inspection in the appropriate office of 
+     the Forest Service.
+       (2) Correction of errors.--The Secretary may correct minor 
+     errors in the map.
+       (c) Terms and Conditions.--The conveyance under subsection 
+     (a) shall be--
+       (1) subject to valid existing rights;
+       (2) made without consideration;
+       (3) made by quitclaim deed; and
+       (4) subject to any other terms and conditions the Secretary 
+     determines appropriate to protect the interests of the United 
+     States.
+       (d) Use.--As a condition of the conveyance under subsection 
+     (a), the County shall agree to manage the land conveyed under 
+     that subsection for a public purpose.
+       (e) Costs.--As a condition of the conveyance under 
+     subsection (a), the County shall pay for all costs associated 
+     with the conveyance, including the costs of--
+       (1) the survey required under subsection (f); and
+       (2) any environmental analysis and resource surveys 
+     required under Federal law.
+       (f) Survey.--
+       (1) In general.--The actual acreage and legal description 
+     of the National Forest System land to be conveyed under 
+     subsection (a) shall be determined by a survey satisfactory 
+     to the Secretary.
+       (2) Cadastral surveys.--The Secretary may perform and 
+     approve any cadastral surveys required to be conducted as 
+     part of a survey under paragraph (1).
+
+                          ____________________
+```

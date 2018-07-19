@@ -1,0 +1,41 @@
+---
+granule: CREC-2018-07-19-pt1-PgH6562-3
+date: 2018-07-19
+edition: CREC
+section: HOUSE
+page: H6562
+citation: 164 Cong. Rec. H6562
+---
+
+# ENDING HARASSMENT IN THE WORKPLACE
+
+**Speaking:** Blunt Rochester, Lisa (B001303) [D-DE]
+
+```
+                   ENDING HARASSMENT IN THE WORKPLACE
+
+  (Ms. BLUNT ROCHESTER asked and was given permission to address the 
+House for 1 minute.)
+  Ms. BLUNT ROCHESTER. Mr. Speaker, I rise today to support the 
+bipartisan, bicameral EMPOWER Act.
+  The goal of this consequential legislation is simple: create safe 
+workplaces and a society where everyone can thrive.
+  We all have the right to work in a safe environment, but over the 
+past months we have heard stories of individuals from all walks of 
+life. We have seen how widespread harassment is, and the culture of 
+silence. In fact, according to the EEOC, it is estimated that 90 
+percent of harassment incidents never get reported. That is why we need 
+this bill.
+  The EMPOWER Act outlines what sexual harassment is, creates systems 
+that foster accountability, and removes the fear of retaliation that 
+keeps so many victims from coming forward. By removing that fear of 
+reporting, eradicating deceptive nondisclosure agreements, and 
+increasing transparency, we are taking meaningful steps to make our 
+workplaces harassment-free and creating a culture of respect throughout 
+society.
+  From Harvey Weinstein to factory floors to Time's Up and the #MeToo 
+movement, we are going from a moment to a movement to action. I ask 
+that my colleagues join me in supporting this bill.
+
+                          ____________________
+```
