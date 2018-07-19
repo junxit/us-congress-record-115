@@ -1,0 +1,37 @@
+---
+granule: CRECB-2018-pt9-Pg12703-3
+date: 2018-07-19
+edition: CRECB
+section: HOUSE
+page: 12703
+---
+
+# DOCKUM DRUGSTORE SIT-IN ANNIVERSARY
+
+```
+                  DOCKUM DRUGSTORE SIT-IN ANNIVERSARY
+
+  (Mr. ESTES of Kansas asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. ESTES of Kansas. Mr. Speaker, I rise today to recognize the 60th 
+anniversary of the beginning of the Dockum Drugstore sit-in.
+  In 1958, 20-year-old Ron Walters and his cousin, Carol Parks-Hahn, 
+were inspired by a California campus restaurant sit-in, the Little Rock 
+Nine, and the Montgomery bus boycott. Bravely seeking to challenge the 
+status quo of segregation in Wichita, they planned a sit-in at a 
+downtown drugstore with a lunch counter for White customers only.
+  On July 19, 10 students walked into the Dockum Drugstore and sat 
+down. They were described as well dressed and polite, and sought only 
+to be served a soft drink at the counter.
+  For 3 weeks, the students entered the drugstore every day, boldly 
+sitting through cursing, questioning, and even threats. Finally, on 
+August 11, the store manager declared: ``Serve them. I'm losing too 
+much money.''
+  Following their success, similar efforts became a hallmark of the 
+civil rights movement. And today, on this 60th anniversary, their 
+actions continue to inspire.
+  Mr. Speaker, I am grateful these young men and women took action to 
+end segregation in their community.
+
+                          ____________________
+```
