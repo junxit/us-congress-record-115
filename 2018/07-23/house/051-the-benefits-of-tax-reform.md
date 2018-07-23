@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-07-23-pt1-PgH6634-2
+date: 2018-07-23
+edition: CREC
+section: HOUSE
+page: H6634
+citation: 164 Cong. Rec. H6634
+---
+
+# THE BENEFITS OF TAX REFORM
+
+**Speaking:** Wenstrup, Brad R. (W000815) [R-OH]
+
+```
+                       THE BENEFITS OF TAX REFORM
+
+  (Mr. WENSTRUP asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. WENSTRUP. Mr. Speaker, I rise today to share the benefits of tax 
+reform.
+  Earlier this year, President Trump visited the Sheffer Corporation, a 
+small manufacturing company in my district that pledged $1,000 bonuses 
+to all 126 of its employees as a result of the Tax Cuts and Jobs Act.
+  During the President's visit to Cincinnati, he invited Sheffer 
+employees on stage to talk about their plans for their new bonuses.
+  A mom in the audience said she is using her bonus as spare cash for 
+when she sends her children off to college this year. As any parent of 
+a college student knows, the expenses add up and every dollar makes a 
+difference.
+  The President also invited a young man to the stage to speak. He 
+wants to start a family, and said that this money will go towards a 
+home to raise his children.
+  While the recent law is an enormous step forward, we must and will 
+continue to move forward to implement smart policies that give 
+Americans the freedom to compete, innovate, and seize the opportunity 
+to carve out a better future for themselves and their families.
+
+                          ____________________
+```

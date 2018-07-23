@@ -1,0 +1,34 @@
+---
+granule: CREC-2018-07-23-pt1-PgH6637-4
+date: 2018-07-23
+edition: CREC
+section: HOUSE
+page: H6637
+citation: 164 Cong. Rec. H6637
+---
+
+# CELEBRATING LIEUTENANT TIMOTHY COREY
+
+**Speaking:** Tenney, Claudia (T000478) [R-NY]
+
+```
+                  CELEBRATING LIEUTENANT TIMOTHY COREY
+
+  (Ms. TENNEY asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TENNEY. Mr. Speaker, sometimes we don't even realize that we are 
+surrounded by heroes. Today I rise to celebrate the courageous actions 
+of a Yorkville resident, Lieutenant Timothy Corey from my district. He 
+was recently honored with the New York State Senate Liberty Medal, one 
+of the highest civilian honors in New York State.
+  While on vacation in North Myrtle Beach, Lieutenant Corey discovered 
+a young boy stuck in an outdoor pool intake pipe. In an instant, he 
+jumped into the water and rescued the young man and for 8 minutes 
+breathed air into the drowning boy, ultimately saving his life. The 
+young boy was released from the hospital just 6 days later.
+  The bravery displayed by Lieutenant Corey often goes unrecognized, 
+so, Mr. Speaker, it is my distinct honor to now recognize Lieutenant 
+Timothy Corey as a true hero in our community.
+
+                          ____________________
+```

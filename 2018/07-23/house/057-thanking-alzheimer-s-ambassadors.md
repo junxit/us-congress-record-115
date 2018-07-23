@@ -1,0 +1,42 @@
+---
+granule: CREC-2018-07-23-pt1-PgH6635-2
+date: 2018-07-23
+edition: CREC
+section: HOUSE
+page: H6635
+citation: 164 Cong. Rec. H6635
+---
+
+# THANKING ALZHEIMER'S AMBASSADORS
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                    THANKING ALZHEIMER'S AMBASSADORS
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, earlier today I met with 
+Christie Glick in my Bellefonte office. Christie is an Alzheimer's 
+ambassador in my district, and through the Alzheimer's Ambassador 
+Program, people like Christie work throughout the country to connect 
+with Members of Congress and share their personal experiences with 
+Alzheimer's disease.
+  Alzheimer's is the sixth leading cause of death in the United States, 
+and it has reached crisis proportions. There is no effective treatment, 
+no means of prevention, and no method of slowing the progression of 
+this disease. Sadly, one in three seniors will die with the disease.
+  According to the Centers for Disease Control and Prevention, 5 
+million Americans were living with Alzheimer's disease in the year 
+2013. That number is expected to almost triple to 14 million by the 
+year 2050.
+  Mr. Speaker, Alzheimer's not only has a devastating impact on those 
+who are diagnosed with the disease, but also their caregivers and loved 
+ones. My own mom, Mary Thompson, lived with Alzheimer's for 10 years 
+until it took her life.
+  Mr. Speaker, I thank Christie and all of the Alzheimer's ambassadors 
+for the important work that they do to raise awareness about 
+Alzheimer's disease and to never stop searching for a cure.
+
+                          ____________________
+```

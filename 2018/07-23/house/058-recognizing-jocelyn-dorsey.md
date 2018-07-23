@@ -1,0 +1,36 @@
+---
+granule: CREC-2018-07-23-pt1-PgH6635-3
+date: 2018-07-23
+edition: CREC
+section: HOUSE
+page: H6635
+citation: 164 Cong. Rec. H6635
+---
+
+# RECOGNIZING JOCELYN DORSEY
+
+**Speaking:** Johnson, Henry C. "Hank" (J000288) [D-GA]
+
+```
+                       RECOGNIZING JOCELYN DORSEY
+
+  (Mr. JOHNSON of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. JOHNSON of Georgia. Mr. Speaker, I rise today to recognize the 
+historic retirement of broadcast pioneer and Atlanta, Georgia, 
+treasure, Jocelyn Dorsey. She is really a national treasure.
+  Jocelyn's list of achievements and accolades are too long for me to 
+recite here, but needless to say, her groundbreaking 40-plus-year 
+career has served as an inspiration to so many, and she has been a role 
+model to so many of us, not just African Americans, but all Americans, 
+all Georgians.
+  So we tip our hats to her and wish her the best in her retirement. I 
+understand that long-distance motorcycle trips may very well be in her 
+future.
+  I hope that she will keep us abreast of her exploits in the future. 
+We will miss her but know that she will always be in our hearts, and we 
+will always look forward to hearing about her life as she proceeds on.
+  So I congratulate Jocelyn Dorsey for a job well done.
+
+                          ____________________
+```
