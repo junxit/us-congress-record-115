@@ -1,0 +1,43 @@
+---
+granule: CRECB-2018-pt10-Pg12841-12
+date: 2018-07-23
+edition: CRECB
+section: HOUSE
+page: 12841
+---
+
+# COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+```
+               COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+  The SPEAKER pro tempore laid before the House the following 
+communication from the Clerk of the House of Representatives:
+
+
+[[Page 12842]]
+
+
+                                              Office of the Clerk,
+
+
+                                     House of Representatives,
+
+                                    Washington, DC, July 20, 2018.
+     Hon. Paul D. Ryan,
+     The Speaker, House of Representatives,
+     Washington, DC.
+       Dear Mr. Speaker: Pursuant to the permission granted in 
+     Clause 2(h) of Rule II of the Rules of the U.S. House of 
+     Representatives, I have the honor to transmit a sealed 
+     envelope received from the White House on July 20, 2018 at 
+     12:25 p.m., said to contain a message from the President 
+     regarding the continuation of the national emergency with 
+     respect to transnational criminal organizations.
+       With best wishes, I am
+           Sincerely,
+                                                 Robert F. Reeves,
+     Deputy Clerk of the House.
+
+                          ____________________
+```
