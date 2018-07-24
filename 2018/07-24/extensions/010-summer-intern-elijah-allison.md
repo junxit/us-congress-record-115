@@ -1,0 +1,43 @@
+---
+granule: CREC-2018-07-24-pt1-PgE1052-5
+date: 2018-07-24
+edition: CREC
+section: EXTENSIONS
+page: E1052
+citation: 164 Cong. Rec. E1052
+---
+
+# SUMMER INTERN ELIJAH ALLISON
+
+**Speaking:** Buck, Ken (B001297) [R-CO]
+
+```
+                      SUMMER INTERN ELIJAH ALLISON
+
+                                 ______
+                                 
+
+                             HON. KEN BUCK
+
+                              of colorado
+
+                    in the house of representatives
+
+                         Tuesday, July 24, 2018
+
+  Mr. BUCK. Mr. Speaker, I rise today to recognize Elijah Allison for 
+his hard work and dedication to the people of Colorado's Fourth 
+District as an intern in my Washington, D.C. office for the summer of 
+2018.
+   The work of this young man has been exemplary, and I know he has a 
+bright future. He served as a tour guide, interacted with constituents, 
+and learned a great deal about our nation's legislative process. I was 
+glad to be able to offer this educational opportunity, and look forward 
+to seeing him build his career in public service.
+   Elijah plans to continue working in public service after this 
+internship. I wish him the best as he pursues his career path. Mr. 
+Speaker, it is an honor to recognize Elijah Allison for his service the 
+last several months to the people of Colorado's 4th District.
+
+                          ____________________
+```

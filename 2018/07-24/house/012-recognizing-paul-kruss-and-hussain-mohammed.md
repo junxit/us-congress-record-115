@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-07-24-pt1-PgH7092
+date: 2018-07-24
+edition: CREC
+section: HOUSE
+page: H7092
+citation: 164 Cong. Rec. H7092
+---
+
+# RECOGNIZING PAUL KRUSS AND HUSSAIN MOHAMMED
+
+**Speaking:** Ros-Lehtinen, Ileana (R000435) [R-FL]
+
+```
+              RECOGNIZING PAUL KRUSS AND HUSSAIN MOHAMMED
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Florida (Ms. Ros-Lehtinen) for 5 minutes.
+  Ms. ROS-LEHTINEN. Mr. Speaker, today I rise to congratulate Paul 
+Kruss and Hussain Mohammed on their recent recognition by Boys Town 
+Jerusalem.
+  Paul and Mo are the proprietors of Mo's Bagels and Deli located in 
+beautiful south Florida. Although some may know these two for serving 
+up some of the best bagels and lox in Aventura, many know them for 
+their world-class philanthropy and community involvement.
+  Most recently, Paul and Mo have joined forces to support Boys Town 
+Jerusalem, a phenomenal academic institution transforming the lives of 
+disadvantaged boys into productive members of Israeli society.
+  Whether it be involvement in local causes at home or ensuring success 
+for the next generations abroad, Paul and Mo's dedication and 
+commitment to helping those who need it the most is unwavering. Paul 
+Kruss and Hussain Mohammed are champions of noble causes, champions for 
+Israel, and champions for our south Florida community.
+  Mr. Speaker, I am so proud of the work accomplished by Paul and by 
+Mo, and I congratulate them on this much-deserved recognition by Boys 
+Town Jerusalem.
+  Mazel tov, amigos.
+
+                          ____________________
+```
