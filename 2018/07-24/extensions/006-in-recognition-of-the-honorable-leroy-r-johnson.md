@@ -1,0 +1,101 @@
+---
+granule: CRECB-2018-pt10-Pg13511-5
+date: 2018-07-24
+edition: CRECB
+section: EXTENSIONS
+page: 13511
+---
+
+# IN RECOGNITION OF THE HONORABLE LEROY R. JOHNSON
+
+```
+            IN RECOGNITION OF THE HONORABLE LEROY R. JOHNSON
+
+                                 ______
+                                 
+
+                      HON. SANFORD D. BISHOP, JR.
+
+                               of georgia
+
+                    in the house of representatives
+
+                         Tuesday, July 24, 2018
+
+  Mr. BISHOP of Georgia. Mr. Speaker, I rise today to recognize and 
+commend a prominent attorney, exemplary civil rights leader, former 
+Georgia State Senator, mentor to many, and a man whose life has truly 
+impacted the world, the Honorable Leroy Reginald Johnson. Senator 
+Johnson will be celebrating his 90th birthday with family and friends 
+on July 28, 2018 at the Georgian Terrace Hotel in Atlanta, Georgia.
+  Leroy Reginald Johnson was born on July 28, 1928 in Atlanta, Georgia. 
+He graduated from Booker T. Washington High School in 1945. He went on 
+to earn a bachelor's degree from Morehouse College in 1949 and a 
+master's degree from Atlanta University (now Clark Atlanta University) 
+in 1951. From 1950 to 1954, Senator Johnson taught social science in 
+the Atlanta school system. He then enrolled in law school at North 
+Carolina Central University, earning his law degree in 1957.
+  Following his graduation from law school, Fulton County hired him as 
+a criminal investigator, the first African American to be hired by the 
+solicitor general's office (now the District Attorney's office). As the 
+Civil Rights Movement ramped up, he became involved in demonstrations 
+and protests. When Black college students conducted mass sit-ins at 
+Rich's Department Store lunch counters in October 1960, he was present 
+as one of the several community leaders advising the students, who 
+included Julian Bond.
+  In 1962, he was elected to the Georgia State Senate, making him the 
+first African American to be elected to the Georgia General Assembly 
+since the end of the Reconstruction era. He was also the first African 
+American elected to public office in the Southeast United States that 
+year. In the beginning, Senator Johnson faced many obstacles due to 
+segregation but rose above the adversity, becoming an influential 
+lawmaker and attaining the position of Chairman of the Judiciary 
+Committee.
+  All the while, Senator Johnson maintained a successful law practice. 
+He was the driving force in getting the legendary Muhammad Ali's boxing 
+license reinstated in 1970. Ali had been stripped of his boxing license 
+in the prime of his career due to his opposition to the Vietnam War. 
+After big cities across the country refused to host a match in which 
+Ali would participate, Senator Johnson offered Atlanta as a location 
+where the fight could take place. Senator Johnson fought behind the 
+scenes to get state and local officials to agree so that ultimately, 
+Muhammad Ali could fight inside the ring in a match that would lead the 
+way for Ali to eventually reclaim the heavyweight crown.
+  Over the years, Senator Johnson received many awards and accolades 
+for his legal, political, and civic work. In 1996, his portrait was 
+hung on the third floor of the State Capitol near the Senate chamber 
+where he served for twelve years. In 2000, the Georgia State Senate 
+passed a resolution renaming a portion of Fulton Industrial Boulevard 
+as Leroy Johnson-Fulton Industrial Boulevard. In 2016, he was awarded 
+the Lifetime Achievement Award by the State Bar of Georgia and the 
+Chief Justice's Commission on Professionalism for his untiring 
+commitment to volunteer participation in the community throughout his 
+legal career. Senator Johnson has accomplished much in his life but 
+none of this would be possible without the love and support of his 
+wife, Cleopatra, and son, Michael Vince.
+  On a personal note, I have had the great pleasure of knowing Senator 
+Johnson since high school in 1964 when he spoke in Montgomery, Alabama 
+at the Alabama State Association of Student Councils' meeting where I 
+was presiding as State Student Council President. He was a schoolmate 
+of Dr. Martin Luther King, Jr. at Washington High School and at 
+Morehouse College. Like Dr. King he was influenced greatly by Dr. 
+Benjamin E. Mays to use his life to make a difference for humanity. I 
+was inspired by this successful lawyer and public official and was 
+motivated to emulate his career path. I attended Morehouse College, 
+became a civil rights lawyer, and twelve
+
+[[Page 13512]]
+
+years after meeting him, I was elected to the Georgia State House and 
+14 years later to the State Senate and in 1992 to the U.S. Congress. I 
+have truly been blessed by Senator Johnson's friendship, counsel, and 
+mentorship throughout the years.
+  Mr. Speaker, I ask my colleagues in the House to join my wife Vivian 
+and me, along with the people of the state of Georgia, in recognizing 
+and commending former State Senator Leroy Johnson for his outstanding 
+professional achievements and service. Moreover, we extend our best 
+wishes to him as he, his family, and friends celebrate his 90th 
+birthday.
+
+                          ____________________
+```

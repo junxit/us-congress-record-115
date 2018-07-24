@@ -1,0 +1,34 @@
+---
+granule: CRECB-2018-pt10-Pg13445-2
+date: 2018-07-24
+edition: CRECB
+section: HOUSE
+page: 13445
+---
+
+# GIVING AMERICANS MORE CHOICES ON HEALTHCARE EXPENSE SAVINGS
+
+```
+                              {time}  1215
+      GIVING AMERICANS MORE CHOICES ON HEALTHCARE EXPENSE SAVINGS
+
+  (Mrs. WAGNER asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Mrs. WAGNER. Mr. Speaker, I rise today in support of giving Americans 
+more choices when deciding how to save for healthcare expenses.
+  The legislation we are voting on this week will increase the number 
+of Americans who are eligible to contribute to tax-free health savings 
+accounts and expand the use of HSAs to cover direct primary care and 
+over-the-counter medicines.
+  HSAs make it easier for people to take a proactive approach to their 
+own healthcare. It is time to give Americans more access and more 
+choice and affordability when spending their hard-earned paychecks.
+  Our legislation will also reduce premiums, roll back burdensome 
+ObamaCare regulations, and give Americans more options and control when 
+dealing with personal issues of healthcare.
+  I look forward to casting my vote for all Missouri, especially those 
+in Missouri's Second Congressional District. They deserve the freedom 
+to do what is best for their families.
+
+                          ____________________
+```
