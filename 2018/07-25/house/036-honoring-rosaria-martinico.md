@@ -1,0 +1,36 @@
+---
+granule: CREC-2018-07-25-pt1-PgH7170-7
+date: 2018-07-25
+edition: CREC
+section: HOUSE
+page: H7170
+citation: 164 Cong. Rec. H7170
+---
+
+# HONORING ROSARIA MARTINICO
+
+**Speaking:** Bishop, Mike (B001293) [R-MI]
+
+```
+                       HONORING ROSARIA MARTINICO
+
+  (Mr. BISHOP of Michigan asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. BISHOP of Michigan. Mr. Speaker, I rise today to honor a 
+remarkable constituent from Rochester Hills, Michigan, Rosaria ``Sara'' 
+Martinico.
+  She joined so many other brave women to help the war efforts during 
+World War II as one of the original Rosie the Riveters. She served the 
+country by working on B-17 bombers for a good portion of the war.
+  Last Sunday, Mrs. Martinico reached a milestone. Born in 1910, during 
+the William Howard Taft Presidency, she celebrated her 108th birthday 
+in Rochester Hills alongside her 2 daughters, 8 grandkids, 18 great-
+grandkids, and 12 great-great-grandchildren. That is five generations 
+of family.
+  Mr. Speaker, I am privileged to represent such an outstanding and 
+honorable person, and I would like to wish Mrs. Martinico a very happy 
+108th birthday and thank her for her outstanding service as the 
+original Rosie the Riveter.
+
+                          ____________________
+```

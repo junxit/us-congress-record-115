@@ -1,0 +1,178 @@
+---
+granule: CREC-2018-07-25-pt2-PgS5378-2
+date: 2018-07-25
+edition: CREC
+section: SENATE
+page: S5378
+citation: 164 Cong. Rec. S5378
+---
+
+# Text of Senate Amendment 3549
+
+**Speaking:** Young, Todd (Y000064) [R-IN]
+
+```
+  SA 3549. Mr. YOUNG (for himself, Mr. Van Hollen, and Mr. Blunt) 
+submitted an amendment intended to be proposed to amendment SA 3399 
+proposed by Mr. Shelby to the bill H.R. 6147, making appropriations for 
+the Department of the Interior, environment, and related agencies for 
+the fiscal year ending September 30, 2019, and for other purposes; 
+which was ordered to lie on the table; as follows:
+       At the appropriate place in division D, insert the 
+     following:
+       Sec. __. (a) In this section--
+       (1) the terms ``families'' and ``public housing agency'' 
+     have the meanings given those terms in section 3(b) of the 
+     United States Housing Act of 1937 (42 U.S.C. 1437a(b));
+       (2) the term ``housing choice voucher assistance'' means 
+     voucher assistance provided under section 8(o) of the United 
+     States Housing Act of 1937 (42 U.S.C. 1437f(o));
+       (3) the term ``Plan'' means a Regional Housing Mobility 
+     Plan submitted under subsection (d); and
+       (4) the term ``Secretary'' means the Secretary of Housing 
+     and Urban Development.
+       (b) The Secretary may carry out a mobility demonstration 
+     program to enable public housing agencies to administer 
+     housing choice voucher assistance in a manner designed to 
+     encourage families receiving that assistance to move to 
+     lower-poverty areas and expand access to opportunity areas.
+       (c)(1) The Secretary shall establish requirements for 
+     public housing agencies to participate in the demonstration 
+     program under this section, which shall provide that the 
+     following public housing agencies may participate:
+       (A) Public housing agencies that together--
+       (i) serve areas with high concentrations of families 
+     receiving housing choice voucher assistance in poor, low-
+     opportunity neighborhoods; and
+       (ii) have an adequate number of moderately priced rental 
+     units in higher-opportunity areas.
+       (B) Planned consortia or partial consortia of public 
+     housing agencies that--
+       (i) include not less than 1 public housing agency with a 
+     high-performing Family Self-Sufficiency program carried out 
+     under section 23 of the United States Housing Act of 1937 (42 
+     U.S.C. 1437u); and
+       (ii) will enable participating families to continue in the 
+     Family Self-Sufficiency program if the family relocates to 
+     the jurisdiction served by any other public housing agency of 
+     the consortium.
+       (C) Planned consortia or partial consortia of public 
+     housing agencies that--
+       (i) serve jurisdictions within a single region;
+       (ii) include not less than 1 small public housing agency; 
+     and
+       (iii) will consolidate mobility-focused operations.
+       (D) Such other public housing agencies as the Secretary 
+     considers appropriate.
+       (2) The Secretary shall establish competitive selection 
+     criteria for public housing agencies eligible under paragraph 
+     (1) to participate in the demonstration program under this 
+     section.
+       (3) The Secretary may require public housing agencies 
+     participating in the demonstration program under this section 
+     to use a randomized selection process to select among the 
+     families eligible to receive assistance under the 
+     demonstration program.
+       (d) The Secretary shall require each public housing agency 
+     applying to participate in the demonstration program under 
+     this section to submit a Regional Housing Mobility Plan, 
+     which shall--
+       (1) identify the public housing agencies that will 
+     participate under the Plan and the number of vouchers each 
+     participating public housing agency will make available out 
+     of their existing programs in connection with the 
+     demonstration;
+       (2) identify any community-based organizations, nonprofit 
+     organizations, businesses, and other entities that will 
+     participate under the Plan and describe the commitments for 
+     the participation made by each such entity;
+       (3) identify any waivers or alternative requirements 
+     requested for the execution of the Plan;
+       (4) identify any specific actions that the public housing 
+     agencies and other entities will undertake to accomplish the 
+     goals of the demonstration program, which shall include a 
+     comprehensive approach to enable a successful transition to 
+     opportunity areas and may include counseling and continued 
+     support for families;
+       (5) specify the criteria that the public housing agencies 
+     would use to identify opportunity areas under the Plan;
+       (6) provide for the establishment of priority and 
+     preferences for families receiving assistance under the 
+     demonstration program, including a preference for families 
+     with young children, as such term is defined by the 
+     Secretary, based on regional housing needs and priorities; 
+     and
+       (7) comply with any other requirements established by the 
+     Secretary.
+       (e)(1) Each public housing agency participating in the 
+     demonstration program under this section may use 
+     administrative fees under section 8(q) of the United States 
+     Housing Act of 1937 (42 U.S.C. 1437f(q)), any administrative 
+     fee reserves of the public housing agency, and funding from 
+     private entities to provide mobility-related services in 
+     connection with the demonstration program, including services 
+     such as counseling, portability coordination, landlord 
+     outreach, security deposits, and administrative activities 
+     associated with establishing and operating regional mobility 
+     programs.
+       (2) Each public housing agency participating in the 
+     demonstration program under this section may use housing 
+     assistance payment contract funds under section 8(o) of the 
+     United States Housing Act of 1937 (42 U.S.C. 1437f(o)) for 
+     security deposits if necessary to enable families to lease 
+     units with housing choice voucher assistance in designated 
+     opportunity areas.
+       (f)(1) To allow for public housing agencies to implement 
+     and administer the Plan of the
+
+[[Page S5379]]
+
+     public housing agency under the demonstration program under 
+     this section, the Secretary may waive or specify alternative 
+     requirements for the following provisions of the United 
+     States Housing Act of 1937 (42 U.S.C. 1437 et seq.):
+       (A) Paragraphs (7)(A) and (13)(E)(i) of section 8(o) (42 
+     U.S.C. 1437f(o)) (relating to the term of a lease and 
+     mobility requirements).
+       (B) Section 8(o)(13)(C)(i) (42 U.S.C. 1437f(o)(13)(C)(i)) 
+     (relating to the public housing agency plan).
+       (C) Section 8(r)(2) (42 U.S.C. 1437f(r)(2)) (relating to 
+     the responsibility of a public housing agency to administer 
+     portable assistance).
+       (2) The Secretary shall provide additional authority for 
+     public housing agencies in a selected region to form a 
+     consortium that has a single housing assistance payment 
+     contract, or to enter into a partial consortium to operate 
+     all or portions of the Plan, including public housing 
+     agencies participating in the Moving To Work demonstration 
+     program established under section 204 of the Departments of 
+     Veterans Affairs and Housing and Urban Development, and 
+     Independent Agencies Appropriations Act, 1996 (Public Law 
+     104-134; 110 Stat. 1321-281).
+       (3) Any waiver or alternative requirements pursuant to this 
+     subsection shall not take effect before the date that is 10 
+     days after the date on which the date on which the Secretary 
+     publishes a notice of the waiver or alternative requirement 
+     in the Federal Register.
+       (g) The Secretary may implement the demonstration program 
+     under this section, including the terms, procedures, 
+     requirements, and conditions of the demonstration, by notice.
+       (h)(1) Not later than 5 years after the implementation of 
+     the regional housing mobility programs by public housing 
+     agencies participating in the demonstration program under 
+     this section, the Secretary shall submit to Congress and 
+     publish in the Federal Register a report evaluating the 
+     effectiveness of the strategies pursued under the 
+     demonstration program, subject to the availability of funding 
+     to conduct the evaluation.
+       (2) The Secretary shall--
+       (A) through internet websites and other means, disseminate 
+     interim findings relating to the demonstration program under 
+     this section as they become available; and
+       (B) if promising strategies are identified through the 
+     findings described in subparagraph (A), notify Congress of 
+     the amount of funds that would be required to expand the 
+     testing of these strategies in additional types of public 
+     housing agencies and housing markets.
+                                 ______
+```
