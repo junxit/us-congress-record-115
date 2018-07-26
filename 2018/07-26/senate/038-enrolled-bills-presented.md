@@ -1,0 +1,31 @@
+---
+granule: CREC-2018-07-26-pt1-PgS5421-3
+date: 2018-07-26
+edition: CREC
+section: SENATE
+page: S5421
+citation: 164 Cong. Rec. S5421
+---
+
+# ENROLLED BILLS PRESENTED
+
+**Measures:** S. 2245, S. 2850
+
+```
+                        ENROLLED BILLS PRESENTED
+
+  The Secretary of the Senate reported that on today, July 26, 2018, 
+she had presented to the President of the United States the following 
+enrolled bills:
+
+       S. 2245. An act to include New Zealand in the list of 
+     foreign states whose nationals are eligible for admission 
+     into the United States as E-1 and E-2 nonimmigrants if United 
+     States nationals are treated similarly by the Government of 
+     New Zealand.
+       S. 2850. An act to amend the White Mountain Apache Tribe 
+     Water Rights Quantification Act of 2010 to clarify the use of 
+     amounts in the WMAT Settlement Fund.
+
+                          ____________________
+```
