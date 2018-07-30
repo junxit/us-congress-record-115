@@ -1,0 +1,28 @@
+---
+granule: CREC-2018-07-30-pt1-PgS5452-6
+date: 2018-07-30
+edition: CREC
+section: SENATE
+page: S5452
+citation: 164 Cong. Rec. S5452
+---
+
+# TRIBUTE TO SIENNA OTTINGER
+
+**Speaking:** Rubio, Marco (R000595) [R-FL]
+
+```
+                       TRIBUTE TO SIENNA OTTINGER
+
+● Mr. RUBIO. Mr. President, today I recognize Sienna Ottinger, a 
+2018 summer intern in my Orlando office, for all of the hard work she 
+has done for me, my staff, and the people of the State of Florida.
+  Sienna is an incoming student at the University of Mississippi. She 
+is a dedicated and diligent worker who has been devoted to getting the 
+most out of her internship experience.
+  I would like to extend my sincere thanks and appreciation to Sienna 
+Ottinger for all the fine work she has done and wish her continued 
+success in the years to come.●
+
+                          ____________________
+```

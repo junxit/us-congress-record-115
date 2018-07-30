@@ -1,0 +1,73 @@
+---
+granule: CREC-2018-07-30-pt1-PgS5459
+date: 2018-07-30
+edition: CREC
+section: SENATE
+page: S5459
+citation: 164 Cong. Rec. S5459
+---
+
+# SENATE RESOLUTION 599--DESIGNATING SEPTEMBER 25, 2018, AS "NATIONAL LOBSTER DAY"
+
+**Measures:** S.Res. 599
+
+```
+ SENATE RESOLUTION 599--DESIGNATING SEPTEMBER 25, 2018, AS ``NATIONAL 
+                             LOBSTER DAY''
+
+  Mr. KING (for himself, Ms. Collins, Mr. Blumenthal, Mr. Murphy, Mr. 
+Reed, Ms. Hassan, Mr. Markey, Mr. Whitehouse, and Mrs. Shaheen) 
+submitted the following resolution; which was considered and agreed to:
+
+                              S. Res. 599
+
+       Whereas American lobster is consistently among the most 
+     valuable species landed in the United States;
+       Whereas lobstering has served as an economic engine and 
+     family tradition in the United States for centuries;
+       Whereas thousands of families in the United States make 
+     their livelihoods from catching, processing, or serving 
+     lobsters;
+       Whereas the lobster industry employs people of all ages, 
+     and many harvesters begin fishing as children and stay in the 
+     industry for their entire working lives;
+       Whereas historical lore notes that lobster likely joined 
+     turkey on the table at the very first Thanksgiving feast in 
+     1621, and it continues to be a mainstay during many other 
+     holiday traditions;
+       Whereas responsible resource management practices beginning 
+     in the 1600s have created one of the most sustainable 
+     fisheries in the world;
+       Whereas, throughout history, United States presidents have 
+     served lobster at their inaugural celebrations and state 
+     dinners with international leaders;
+       Whereas lobster is an excellent, versatile source of lean 
+     protein that is low in saturated fat and high in vitamin B12;
+       Whereas the peak of the lobstering season in the United 
+     States occurs in the late summer;
+       Whereas the growing reputation of the American lobster as a 
+     unique, high-quality, and healthy food has increased its 
+     consumption and driven demand internationally;
+       Whereas the Unicode Consortium added a lobster to its 
+     latest emoji set in recognition of the popularity of the 
+     species around the world;
+       Whereas countless people in the United States enjoy lobster 
+     rolls to celebrate summer, from beaches to backyards and fine 
+     dining restaurants to lobster shacks;
+       Whereas lobster inspires festivals from Maine to 
+     California, where people come together to celebrate their 
+     love for the crustacean;
+       Whereas many people in the United States continue to enjoy 
+     steamed lobster with drawn butter; and
+       Whereas the number of recipes incorporating lobster is 
+     growing with chefs across the United States incorporating the 
+     protein in new and creative ways from lobster dumplings to 
+     lobster grilled cheese: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates September 25, 2018, as ``National Lobster 
+     Day''; and
+       (2) encourages the people of the United States to observe 
+     the day with appropriate ceremonies and activities.
+
+                          ____________________
+```
