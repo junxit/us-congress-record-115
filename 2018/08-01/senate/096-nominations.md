@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-08-01-pt1-PgS5590-4
+date: 2018-08-01
+edition: CREC
+section: SENATE
+page: S5590
+citation: 164 Cong. Rec. S5590
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                   EXECUTIVE OFFICE OF THE PRESIDENT
+
+        KELVIN DROEGEMEIER, OF OKLAHOMA, TO BE DIRECTOR OF THE 
+     OFFICE OF SCIENCE AND TECHNOLOGY POLICY, VICE JOHN P. 
+     HOLDREN.
+
+
+                      DEPARTMENT OF TRANSPORTATION
+
+        JOEL SZABAT, OF MARYLAND, TO BE AN ASSISTANT SECRETARY OF 
+     TRANSPORTATION, VICE SUSAN L. KURLAND, RESIGNED.
+
+
+                          DEPARTMENT OF STATE
+
+        CAROL Z. PEREZ, OF VIRGINIA, A CAREER MEMBER OF THE SENIOR 
+     FOREIGN SERVICE, CLASS OF MINISTER-COUNSELOR, TO BE DIRECTOR 
+     GENERAL OF THE FOREIGN SERVICE, VICE ARNOLD A. CHACON, 
+     RESIGNED.
+
+                          ____________________
+```
