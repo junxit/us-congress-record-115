@@ -1,0 +1,70 @@
+---
+granule: CREC-2018-08-15-pt1-PgS5659
+date: 2018-08-15
+edition: CREC
+section: SENATE
+page: S5659
+citation: 164 Cong. Rec. S5659
+---
+
+# Text of Senate Amendment 3696
+
+**Speaking:** Cotton, Tom (C001095) [R-AR]
+
+```
+  SA 3696. Mr. COTTON submitted an amendment intended to be proposed by 
+him to the bill S. 3045, to amend title 31, United States Code, to 
+establish a safe harbor with respect to keep open letters; which was 
+referred to the Committee on Banking, Housing, and Urban Affairs; as 
+follows:
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Cooperate with Law 
+     Enforcement Agencies and Watch Act of 2018''.
+
+     SEC. 2. SAFE HARBOR WITH RESPECT TO KEEP OPEN LETTERS.
+
+       (a) In General.--Subchapter II of chapter 53 of title 31, 
+     United States Code, is amended by adding at the end the 
+     following:
+
+     ``Sec. 5333. Safe harbor with respect to keep open letters
+
+       ``(a) In General.--With respect to a customer account or 
+     customer transaction of a financial institution, if a 
+     Federal, State, Tribal, or local law enforcement agency 
+     requests, in writing, the financial institution to keep such 
+     account or transaction open--
+       ``(1) the financial institution shall not be liable under 
+     this subchapter for maintaining such account or transaction 
+     consistent with the parameters of the request; and
+       ``(2) no Federal or State department or agency may take any 
+     adverse supervisory action under this subchapter with respect 
+     to the financial institution for maintaining such account or 
+     transaction consistent with the parameters of the request.
+       ``(b) Rule of Construction.--Nothing in this section may be 
+     construed--
+       ``(1) from preventing a Federal or State department or 
+     agency from verifying the validity of a written request 
+     described under subsection (a) with the Federal, State, 
+     Tribal, or local law enforcement agency making the written 
+     request; or
+       ``(2) to relieve a financial institution from complying 
+     with any reporting requirements, including the reporting of 
+     suspicious transactions under section 5318(g).
+       ``(c) Letter Termination Date.--For purposes of this 
+     section, any written request described under subsection (a) 
+     shall include a termination date after which such request 
+     shall no longer apply.''.
+       (b) Clerical Amendment.--The table of contents for 
+     subchapter II of chapter 53 of title 31, United States Code, 
+     is amended by inserting after the item relating to section 
+     5332 the following:
+
+``5333. Safe harbor with respect to keep open letters.''.
+                                 ______
+```
