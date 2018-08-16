@@ -1,0 +1,82 @@
+---
+granule: CREC-2018-08-16-pt1-PgS5694-2
+date: 2018-08-16
+edition: CREC
+section: SENATE
+page: S5694
+citation: 164 Cong. Rec. S5694
+---
+
+# Introductory Statement on S. 3354
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+**Measures:** S. 3354
+
+```
+      By Mr. GRASSLEY (for himself, Mrs. Feinstein, Mr. Hatch, Ms. 
+        Klobuchar, and Mr. Portman):
+  S. 3354. A bill to amend the Missing Children's Assistance Act, and 
+for other purposes; to the Committee on the Judiciary.
+  Mr. GRASSLEY. Mr. President, today I am introducing a bill to update 
+and extend the Missing Children's Assistance Act. Senators Feinstein, 
+Hatch, Klobuchar, and Portman have joined as original cosponsors, and I 
+thank these colleagues for their support. I also want to thank 
+Congressman Brett Guthrie and the chairman of the House Education 
+Committee, Virginia Foxx, for championing a related companion measure 
+in the other chamber.
+  The purpose of this bipartisan bill, entitled the Missing Children's 
+Assistance Act of 2018, is to ensure the continued availability of 
+federal resources for the work of missing children's organizations such 
+as the National Center for Missing and Exploited Children. Since its 
+inception in 1984, the National Center has served as the official 
+national resource center and clearinghouse on missing and exploited 
+children. The National Center works in partnership with State child 
+protective services agencies to help locate children who go missing 
+from foster care. It also works in partnership with families, schools, 
+corporate and nonprofit entities, the FBI, the Marshals Service, and 
+the Secret Service, as well as other federal state and local entities, 
+to prevent child abductions and facilitate the recovery of children who 
+may become victims of sex trafficking. Each year, thousands of children 
+run away or go missing in the United States, which is why this work is 
+so important.
+  The names Johnny Gosch, Eugene Martin and Jetseta Gage, for example, 
+still bring heartbreak to all Iowans. Johnny Gosch was a 12-year-old 
+paperboy delivering newspapers in West Des Moines, Iowa, when he 
+disappeared in 1982. Two years later, 13-year-old Eugene Martin 
+disappeared in Des Moines, Iowa--also while delivering newspapers. And 
+10-year-old Jetseta Gage was kidnapped, raped, and murdered by a 
+convicted sex offender in rural Johnson County, Iowa in 2005. Theirs 
+are not isolated cases. Too many other children across the country have 
+had to cope with the physical and emotional trauma of being abducted, 
+trafficked or sexually exploited.
+  Under the legislation that I have proposed, the Justice Department 
+will continue to play an important role in implementing the Missing 
+Children's Assistance Act. Through its Office of Juvenile Justice and 
+Delinquency Prevention, the Department will continue to annually award 
+grants to the National Center and other nonprofit organizations to 
+further their important work of preventing and responding to offenses 
+committed against vulnerable children. Extending this authorized 
+funding at $40 million annually for five more years, as proposed in 
+this bill, will ensure that the Office can continue to support these 
+nonprofit organizations in their important efforts in public-private 
+partnerships with families, private entities, and federal, state, 
+local, and international law enforcement agencies.
+  The bipartisan legislation I have sponsored also includes several 
+important updates to the Missing Children's Act, which Congress last 
+reauthorized in 2013. Some of these reforms already are included in 
+another bipartisan bill, known as the Trafficking Victims Protection 
+Reauthorization Act, which I sponsored and the Senate passed last year. 
+Other changes would help increase public awareness of methods to 
+prevent abductions and support the recovery of missing children.
+  The activities authorized by the Missing Children's Assistance Act 
+will expire on September 30th unless Congress acts quickly to adopt a 
+reauthorization measure. As a parent, as a grandparent, I call on my 
+colleagues to join me in supporting the prompt passage of this bill.
+
+[[Page S5695]]
+
+  
+
+                          ____________________
+```

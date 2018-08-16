@@ -1,0 +1,28 @@
+---
+granule: CREC-2018-08-16-pt1-PgS5704-2
+date: 2018-08-16
+edition: CREC
+section: SENATE
+page: S5704
+citation: 164 Cong. Rec. S5704
+---
+
+# WITHDRAWALS
+
+```
+                              WITHDRAWALS
+
+  Executive Message transmitted by the President to the Senate on 
+August 16, 2018 withdrawing from further Senate consideration the 
+following nominations:
+
+       ANDREW M. GELLERT, OF NEW JERSEY, TO BE AMBASSADOR 
+     EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED STATES OF 
+     AMERICA TO THE REPUBLIC OF CHILE, WHICH WAS SENT TO THE 
+     SENATE ON JANUARY 8, 2018.
+       SUSAN A. THORNTON, OF MAINE, A CAREER MEMBER OF THE SENIOR 
+     FOREIGN SERVICE, CLASS OF MINISTER-COUNSELOR, TO BE AN 
+     ASSISTANT SECRETARY OF STATE (EAST ASIAN AND PACIFIC 
+     AFFAIRS), VICE DANIEL R. RUSSEL, WHICH WAS SENT TO THE SENATE 
+     ON JANUARY 8, 2018.
+```

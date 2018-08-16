@@ -1,0 +1,29 @@
+---
+granule: CREC-2018-08-16-pt1-PgS5689-3
+date: 2018-08-16
+edition: CREC
+section: SENATE
+page: S5689
+citation: 164 Cong. Rec. S5689
+---
+
+# VOTE EXPLANATION
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+```
+                            VOTE EXPLANATION
+
+● Mr. DURBIN. Mr. President, I was necessarily absent for vote 
+No. 183 on confirmation of the nomination of A. Marvin Quattlebaum, 
+Jr., to be a U.S. circuit judge for the Fourth Circuit. Had I been 
+present, I would have voted yea on confirmation of the nomination, as I 
+did in the Judiciary Committee.
+  Further, I was necessarily absent for vote Nos. 184 and 185, relative 
+to the nomination of Julius Ness Richardson to be a U.S. circuit judge 
+for the Fourth Circuit. Had I been present, I would have voted yea on 
+the motion to invoke cloture and yea on confirmation of the nomination, 
+as I did in the Judiciary Committee.●
+
+                          ____________________
+```
