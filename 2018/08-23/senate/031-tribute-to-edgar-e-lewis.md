@@ -1,0 +1,43 @@
+---
+granule: CREC-2018-08-23-pt1-PgS5912-2
+date: 2018-08-23
+edition: CREC
+section: SENATE
+page: S5912
+citation: 164 Cong. Rec. S5912
+---
+
+# TRIBUTE TO EDGAR E. LEWIS
+
+**Speaking:** Daines, Steve (D000618) [R-MT]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                       TRIBUTE TO EDGAR E. LEWIS
+
+● Mr. DAINES. Mr. President, this week I have the honor of 
+recognizing Edgar E. Lewis of Golden Valley County for his 
+contributions and impact to the Golden Valley community.
+  Edgar is a lifelong Montanan. Born on his family ranch in Lavina, he 
+is the youngest of seven kids. Edgar began running the ranch at a young 
+age after his older brothers went off to fight in World War II. It 
+would take Edgar and his father 5 days to move their cattle to the 
+summer grazing range. These trips made Edgar fall in love with ranching 
+and are what made him become a lifelong rancher.
+  Edgar's heart for his country and community is clear in the ways he 
+has served. Edgar served his country during the Korean war. After the 
+war, he settled down and bought his current ranch, just north of the 
+Snowy Mountains. He served on the board of directors on the Montana 
+Livestock Ag Credit from 1986-1998. Edgar also served as the Golden 
+Valley commissioner from 1989-2002.
+  At 86, Edgar encapsulates the Montana cowboy spirit that brings so 
+much character to our great State. I thank Edgar for giving back to his 
+community and for continuing the tradition of the Montana 
+cowboy.●
+
+                          ____________________
+```
