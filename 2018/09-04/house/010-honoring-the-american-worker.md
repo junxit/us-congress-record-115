@@ -1,0 +1,38 @@
+---
+granule: CREC-2018-09-04-pt1-PgH7784
+date: 2018-09-04
+edition: CREC
+section: HOUSE
+page: H7784
+citation: 164 Cong. Rec. H7784
+---
+
+# HONORING THE AMERICAN WORKER
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                      HONORING THE AMERICAN WORKER
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to honor the 
+American worker. Yesterday, our Nation observed Labor Day, which was 
+established in the late 19th century as a way to honor the workers who 
+contribute to the wealth and prosperity of this great Nation.
+  The Commonwealth of Pennsylvania was one of the first eight States in 
+the Union to recognize the holiday in the late 1880s.
+  In 1894, President Grover Cleveland declared Labor Day a Federal 
+holiday. While many today consider Labor Day a time to celebrate the 
+end of summer and beginning of fall, it is more than just a three-day 
+weekend. Labor Day honors the American worker and the power of work. It 
+highlights that through hard work, risk, discipline, and opportunity, 
+we can all achieve the American Dream.
+  And more Americans will join the workforce thanks to my bill that was 
+signed into law this summer that increases funding for career and 
+technical education programs. This law will work to restore rungs on 
+the ladder of opportunity for every American regardless of age or 
+background, and that is something we can all celebrate.
+
+                          ____________________
+```
