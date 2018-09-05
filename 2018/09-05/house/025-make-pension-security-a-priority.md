@@ -1,0 +1,45 @@
+---
+granule: CREC-2018-09-05-pt1-PgH7833-6
+date: 2018-09-05
+edition: CREC
+section: HOUSE
+page: H7833
+citation: 164 Cong. Rec. H7833
+---
+
+# MAKE PENSION SECURITY A PRIORITY
+
+**Speaking:** Kildee, Daniel T. (K000380) [D-MI]
+
+```
+                    MAKE PENSION SECURITY A PRIORITY
+
+  (Mr. KILDEE asked and was given permission to address the House for 1 
+minute.)
+  Mr. KILDEE. Mr. Speaker, every American who works hard and plays by 
+the rules should be able to retire in dignity, supported by the pension 
+that they have earned.
+  Instead of protecting these hardworking Americans, this Republican-
+led Congress prioritized tax cuts for the biggest corporations and the 
+wealthiest Americans. Now some of the largest pension plans for workers 
+are on the verge of collapse; 1.5 million Americans, including 43,000 
+in my home State of Michigan, are at risk.
+  These workers have earned their pensions. They worked a lifetime 
+contributing to them, and now they are having the rug pulled out from 
+under them?
+  Patricia from Michigan is one of those retirees. Here is what she 
+told my office: ``I was a single mother raising one child. I thought 
+putting money into the pension was my security. Now you want to take it 
+away. I was never on welfare--I worked. If I lose my pension, I will 
+not be able to pay for the basics: utilities, taxes, car insurance, 
+food.''
+  So unless Congress steps up, pensions for Americans like Patricia 
+will be cut. Let's vote on bipartisan legislation that I cosponsored, 
+the Butch Lewis Act, which addresses this pension crisis. This 
+legislation ensures that multiemployer pension plans remain solvent and 
+continue providing retirees and workers with the retirement benefits 
+that they have earned. It is long past time to take up this 
+legislation.
+
+                          ____________________
+```

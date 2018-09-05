@@ -1,0 +1,41 @@
+---
+granule: CREC-2018-09-05-pt1-PgH7833-7
+date: 2018-09-05
+edition: CREC
+section: HOUSE
+page: H7833
+citation: 164 Cong. Rec. H7833
+---
+
+# TIME TO STRATEGICALLY ENGAGE WITH TRADE PARTNERS
+
+**Speaking:** Schneider, Bradley Scott (S001190) [D-IL]
+
+```
+            TIME TO STRATEGICALLY ENGAGE WITH TRADE PARTNERS
+
+  (Mr. SCHNEIDER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SCHNEIDER. Mr. Speaker, President Trump's erratic trade policies, 
+including abrupt tweets on new tariffs or exemptions, are hurting 
+American workers and making it harder for American businesses to 
+compete.
+  Last week, I had the opportunity to visit eight businesses in my 
+district to better understand the impact of these tariffs. While each 
+business was distinct, all shared a common message: Tariffs are 
+creating uncertainty, raising the cost of doing business, and making it 
+harder to hire and expand.
+  These concerns were true across the businesses I visited, from a 
+large manufacturer in Wheeling that saw a 30 percent to 40 percent 
+increase in the price of domestic steel, to an educational toy and game 
+company in Vernon Hills that had to redesign upcoming products.
+  We certainly must hold bad actors who take advantage of trade rules 
+to account, but President Trump's tariffs on our allies are not working 
+for the American people. It is time, instead, to strategically engage 
+with our trade partners; end the misguided trade wars; and, instead, 
+enact sensible, enforceable trade agreements that support American 
+workers, American businesses, American intellectual property, and our 
+environment.
+
+                          ____________________
+```
