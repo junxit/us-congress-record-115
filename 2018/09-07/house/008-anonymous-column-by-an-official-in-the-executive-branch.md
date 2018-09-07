@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-09-07-pt1-PgH7923-7
+date: 2018-09-07
+edition: CREC
+section: HOUSE
+page: H7923
+citation: 164 Cong. Rec. H7923
+---
+
+# ANONYMOUS COLUMN BY AN OFFICIAL IN THE EXECUTIVE BRANCH
+
+**Speaking:** McClintock, Tom (M001177) [R-CA]
+
+```
+        ANONYMOUS COLUMN BY AN OFFICIAL IN THE EXECUTIVE BRANCH
+
+  (Mr. McCLINTOCK asked and was given permission to address the House 
+for 1 minute.)
+  Mr. McCLINTOCK. Mr. Speaker, a republic can survive only as long as 
+all political sides abide by our elections, respect our institutions, 
+and obey our Constitution.
+  The anonymous column by an official in the executive branch, who 
+bragged of deliberately thwarting the will of the people as expressed 
+through the Presidential election, expresses a sentiment that is 
+absolutely toxic to our form of government.
+  He cites no constitutional breach to thwart the lawful decisions of a 
+legitimately elected President but only his self-righteous disdain for 
+the man and his policies.
+  Well, he doesn't get to make that decision. Nobody elected him. 
+Congress, the courts, and the American people at the ballot box can 
+check the President, but an unelected zealot within the government 
+cannot.
+  What I find most alarming is the applause for this sentiment that we 
+hear from the far left. We should recognize it for what it is: a direct 
+attack on the most fundamental principle that holds us together as a 
+free people.
+
+                          ____________________
+```
