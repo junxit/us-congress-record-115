@@ -1,0 +1,46 @@
+---
+granule: CREC-2018-09-13-pt1-PgH8180
+date: 2018-09-13
+edition: CREC
+section: HOUSE
+page: H8180
+citation: 164 Cong. Rec. H8180
+---
+
+# 17TH ANNIVERSARY OF THE 2001 AUMF
+
+**Speaking:** Lee, Barbara (L000551) [D-CA]
+
+**Measures:** H.R. 1229
+
+```
+                   17TH ANNIVERSARY OF THE 2001 AUMF
+
+  (Ms. LEE asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. LEE. Mr. Speaker, tomorrow marks the 17th year since Congress 
+passed the 2001 AUMF, which has become a blank check for endless war. I 
+would like to read part of the speech I delivered on September 14, 
+2001, because these words remain true and relevant today.
+  I said: ``Mr. Speaker, I rise really with a very heavy heart, one 
+that is filled with sorrow for the families and the loved ones who were 
+killed and injured this week.
+  ``September 11 changed the world. Our deepest fears now haunt us. Yet 
+I am convinced that military action will not prevent further acts of 
+international terrorism against the United States.
+  ``This resolution will pass, although we all know that the President 
+can wage a war, even without it. However difficult this vote may be, 
+some of us must urge the use of restraint. Some of us must say, let us 
+step back for a moment. Let us just pause for a minute and think 
+through the implications of our actions today, so that this does not 
+spiral out of control.
+  ``I have agonized over this vote, but I came to grips with it today. 
+I came to grips with opposing this resolution during the very painful, 
+yet very beautiful memorial service. As a member of the clergy so 
+eloquently said, as we act, let us not become the evil that we 
+deplore.''
+  Now, 17 years later, I am asking my colleagues to join me in 
+repealing this overly-broad resolution by cosponsoring H.R. 1229.
+
+                          ____________________
+```
