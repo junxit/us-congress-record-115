@@ -1,0 +1,29 @@
+---
+granule: CREC-2018-09-25-pt1-PgH8839
+date: 2018-09-25
+edition: CREC
+section: HOUSE
+page: H8839
+citation: 164 Cong. Rec. H8839
+---
+
+# PERMISSION FOR MEMBER TO BE CONSIDERED AS FIRST SPONSOR OF H.R. 2327
+
+**Speaking:** Stivers, Steve (S001187) [R-OH]
+
+**Measures:** H.R. 2327
+
+```
+  PERMISSION FOR MEMBER TO BE CONSIDERED AS FIRST SPONSOR OF H.R. 2327
+
+  Mr. STIVERS. Mr. Speaker, I ask unanimous consent that I may 
+hereafter be considered to be the first sponsor of H.R. 2327, a bill 
+originally introduced by Representative Ron DeSantis of Florida, for 
+the purposes of adding cosponsors and requesting reprintings pursuant 
+to clause 7 of rule XII.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Ohio?
+  There was no objection.
+
+                          ____________________
+```
