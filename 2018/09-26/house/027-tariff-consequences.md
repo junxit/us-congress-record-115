@@ -1,0 +1,41 @@
+---
+granule: CREC-2018-09-26-pt1-PgH8895-4
+date: 2018-09-26
+edition: CREC
+section: HOUSE
+page: H8895
+citation: 164 Cong. Rec. H8895
+---
+
+# TARIFF CONSEQUENCES
+
+**Speaking:** Schneider, Bradley Scott (S001190) [D-IL]
+
+```
+                          TARIFF CONSEQUENCES
+
+  (Mr. SCHNEIDER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SCHNEIDER. Mr. Speaker, I have spoken before about how businesses 
+in my district, large and small, are suffering under the President's 
+tariffs that are raising costs and increasing uncertainty.
+  But the damage of the Trump administration's trade policy goes beyond 
+the business community. Here is one example. This week, I learned a 
+public middle school in my district has to dip into its contingency 
+funds to cover the $2 million in unbudgeted cost increases for its new 
+addition and remodeling project, caused by President Trump's tariffs.
+  Let me repeat that. This school or, more precisely, local taxpayers 
+now face $2 million in additional costs, not for new classrooms, but 
+rather to cover the extra costs of the President's trade war.
+  I have also heard from seniors in my district worried about tariffs 
+accelerating the cost of prescription drugs, including insulin, 
+antidepressants, MRI machines, artificial joints, and pacemakers, to 
+name just a few.
+  Put simply, President Trump's tariffs are not working for the 
+American people. It is time to instead end the misguided trade war and 
+enact sensible, enforceable trade policies that support American 
+workers, American businesses, American intellectual property, and our 
+environment.
+
+                          ____________________
+```

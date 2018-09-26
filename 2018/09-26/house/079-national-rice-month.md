@@ -1,0 +1,33 @@
+---
+granule: CREC-2018-09-26-pt1-PgH9082
+date: 2018-09-26
+edition: CREC
+section: HOUSE
+page: H9082
+citation: 164 Cong. Rec. H9082
+---
+
+# NATIONAL RICE MONTH
+
+```
+                          NATIONAL RICE MONTH
+
+  (Mr. HIGGINS asked and was given permission to address the House for 
+1 minute.)
+  Mr. HIGGINS. Mr. Speaker, this week, I joined rice farmers in 
+Crowley, Louisiana, the rice capital of the world, to recognize 
+National Rice Month.
+  With more rice mills per square mile than anywhere else in America, 
+the small town of Crowley was a fitting place to celebrate the 
+beginning of the harvest for American-grown rice. Rice is a part of our 
+Southern culture and is a major agricultural commodity for Louisiana.
+  There are more than 400,000 rice acres in Louisiana, generating over 
+$700 million in economic output each year, supporting many thousands of 
+Louisiana jobs. Rice farmers and farm families are solid Americans, and 
+south Louisiana would not be what it is without rice.
+  Mr. Speaker, I am proud to be a strong advocate of American rice, and 
+I commend the nearly 125,000 Americans who work to provide this 
+quality, nutritious crop to our Nation and the world.
+
+                          ____________________
+```

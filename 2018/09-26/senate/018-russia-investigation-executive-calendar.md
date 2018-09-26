@@ -1,0 +1,121 @@
+---
+granule: CREC-2018-09-26-pt1-PgS6320
+date: 2018-09-26
+edition: CREC
+section: SENATE
+page: S6320
+citation: 164 Cong. Rec. S6320
+---
+
+# Russia Investigation (Executive Calendar)
+
+**Speaking:** Casey, Robert P., Jr. (C001070) [D-PA]
+
+```
+                          Russia Investigation
+
+  Mr. CASEY. Madam President, I rise today to urge the Senate to pass 
+the Special Counsel Independence and Integrity Act. This is a bill that 
+not many Americans have heard about yet, but it is a critically 
+important bill for the Senate to pass and very important for the 
+country. This bill will preserve the Justice Department's independent 
+investigation into Russia's interference in the 2016 Presidential 
+election.
+  Since this weekend, there have been reports that the President may 
+fire Deputy Attorney General Rod Rosenstein from his position at the 
+Department of Justice. This would be a gross abuse of power--a line 
+that we cannot allow to be crossed without consequence. Mr. Rosenstein 
+has a long career in public service and law enforcement. He initially 
+joined the Department of Justice nearly 30 years ago through the 
+Attorney General's Honors Program and rose through the ranks, serving 
+as a Trial Attorney, as a Principal Deputy Assistant Attorney General 
+for the Tax Division, and as a U.S. Attorney in Maryland for over a 
+decade--a critically important job in our justice system.
+  As Deputy Attorney General, Mr. Rosenstein has overseen the Russia 
+investigation led by Special Counsel Robert Mueller, which has secured 
+indictments or guilty pleas from 32 people and 3 companies, including 
+Russian individuals and companies, as well as former Trump campaign 
+manager Paul Manafort, deputy campaign manager Rick Gates, and other 
+campaign advisers, including George Papadopoulos and Michael Flynn. 
+Earlier this month, Mr. Manafort pleaded guilty to ``conspiracy against 
+the United States.''
+  Mr. Rosenstein has played an integral role in ensuring that the 
+Mueller investigation can continue without interference. Unfortunately, 
+this work and Mr. Rosenstein's long and distinguished service at the 
+Department of Justice could come to an end if he is fired by the 
+President.
+  From day one, President Trump has systematically worked to obstruct 
+Special Counsel Mueller's investigation into Russia's attack on our 
+Nation. He has attempted to fire, to demand loyalty of, and to 
+interfere with any official with oversight of this matter. By way of 
+example, this is a President who fired the Director of the FBI and 
+later admitted in a television interview that he had done so with the 
+Russia investigation in mind. This is a President who has repeatedly 
+attacked the very Attorney General he nominated, suggesting that the 
+Department of Justice should do his political bidding. This is a 
+President who has impugned the impartiality and the motives of judges 
+who have ruled against his policies. This is a President who has 
+continued to call the Mueller investigation a ``witch-hunt'' despite 
+the fact that it has already produced dozens of indictments and guilty 
+pleas.
+  In short, this is a President who believes the Department of Justice 
+owes a duty of loyalty to him and him alone. Our Justice Department 
+officials have a duty to serve the American people and only the 
+American people. They swear to uphold the Constitution, not to 
+genuflect to this President or any President.
+  Deputy Attorney General Rosenstein has upheld his duty to the country 
+and our Constitution. If the President fires him, it will be yet 
+another blatant attempt to derail the Mueller investigation, and it 
+could very well be successful.
+  Rod Rosenstein supervises the Russia investigation, overseeing the 
+work of Special Counsel Mueller and his team. He receives status 
+reports, establishes the investigation's budget, and, according to 
+special counsel regulations, has the power to ``determine whether the 
+investigation should continue.'' He therefore plays an integral role in 
+ensuring that the independent investigation can continue to seek 
+answers on Russia's interference in the 2016 election.
+  If Mr. Rosenstein were fired, it could compromise the Mueller 
+investigation in ways the public can see and in ways we may never know 
+through warrants that are never approved or resources that are diverted 
+to other projects. This would be a decision by the President that would 
+put us into unchartered waters. It is therefore more important than 
+ever that Congress step up and exercise the oversight that the American 
+people expect from us and I would say especially here in the Senate.
+  Since President Trump entered office, the Republican majority has not 
+discharged its duty to act as an independent check on the executive 
+branch and on the President himself. The majority would not be able to 
+abdicate its responsibility any longer if Rosenstein were to be fired.
+  Congress has a solemn obligation to act immediately--immediately--to 
+protect Special Counsel Mueller's investigation and prevent any more 
+interference from this administration. Senators in both parties have a 
+duty to the American people to step up as a coequal branch of 
+government and ensure that the special counsel's independent 
+investigation remains just that--independent.
+  For public officials and institutions with nothing to hide, an 
+investigation which is independent is not a ``witch-hunt''; it is an 
+opportunity for vindication, a chance to prove that our institutions 
+and the individuals who serve them are truly worthy of the public's 
+trust.
+  At a time when the American people's confidence in our institution is 
+low--very low--and when suspicion of wrongdoing is high, it is all the 
+more important that the 2016 election activities of Russia, as well as 
+the Trump campaign, be open for review. As the voice of the American 
+people, we in the Senate must ensure that the investigation both 
+continues and remains, in fact, independent.
+  The legislation to protect the Mueller investigation, the Special 
+Counsel Independence and Integrity Act, is ready for a vote by the full 
+Senate at any time if the majority leader would permit us to do that. 
+It is a bipartisan bill that has been approved by a bipartisan majority 
+of the Judiciary Committee. There is no excuse not to pass this 
+legislation immediately. Day by day, each time the President attacks 
+Robert Mueller or Rod Rosenstein or the rule of law, we are presented 
+with more evidence of why this legislation is needed. That is why I 
+have again come to the floor to urge Leader McConnell to bring up this 
+bill for a vote. It is far past time to put country over party.
+  We must not forget that the special counsel is investigating an 
+attack on our democracy by a foreign adversary. As a matter of national 
+security, the American people deserve answers about what happened 
+during the 2016 election. We cannot allow anyone, including the 
+President, to interfere with the investigation and prevent the American 
+people from getting those answers to very important questions.
+```

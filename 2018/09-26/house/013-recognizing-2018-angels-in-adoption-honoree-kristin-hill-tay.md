@@ -1,0 +1,46 @@
+---
+granule: CREC-2018-09-26-pt1-PgH8892-3
+date: 2018-09-26
+edition: CREC
+section: HOUSE
+page: H8892
+citation: 164 Cong. Rec. H8892
+---
+
+# RECOGNIZING 2018 ANGELS IN ADOPTION HONOREE KRISTIN HILL TAYLOR
+
+**Speaking:** Comer, James (C001108) [R-KY]
+
+```
+    RECOGNIZING 2018 ANGELS IN ADOPTION HONOREE KRISTIN HILL TAYLOR
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Kentucky (Mr. Comer) for 5 minutes.
+  Mr. COMER. Mr. Speaker, I rise today to recognize Kristin Hill 
+Taylor, who recently received recognition as a 2018 Angels in Adoption 
+Honoree and whom I am honored to have with me in the gallery today. 
+This is the second time I have had the privilege of nominating a 
+deserving individual for their outstanding work in the adoption 
+community.
+  Kristin is a resident of Murray, Kentucky, along with her husband, 
+Greg, and their three children they adopted as newborns--Cate in 2007, 
+Ben in 2009, and Rachel in 2015.
+  A compassionate adoptive mother, Kristin is an advocate for the 
+adoption community and has created a great platform for sharing stories 
+about adoption, family, and faith on her blog, kristinhilltaylor.com. 
+She also self-published her family's story in a book entitled: ``Peace 
+in the Process: How Adoption Built My Faith & My Family.''
+  Kristin's advocacy and platform for story sharing have helped grow 
+and empower many members of the adoption community both near and far. 
+We have an active adoption and foster community in the district of 
+Kentucky which I represent, and I am proud to recognize adoptive 
+families and individuals like Kristin who pave the way for countless 
+folks in the adoption community.
+  On behalf of the First District of Kentucky, I congratulate Kristin 
+on all she does for children in need of loving homes and for families 
+who want to grow through the adoption process.
+  The SPEAKER pro tempore. Members are reminded to refrain from 
+references to occupants of the gallery.
+
+                          ____________________
+```
