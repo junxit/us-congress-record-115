@@ -1,0 +1,50 @@
+---
+granule: CREC-2018-09-27-pt1-PgH9097-2
+date: 2018-09-27
+edition: CREC
+section: HOUSE
+page: H9097
+citation: 164 Cong. Rec. H9097
+---
+
+# RECOGNIZING THE SALVATION ARMY OF GREATER CHATTANOOGA
+
+**Speaking:** Fleischmann, Charles J. "Chuck" (F000459) [R-TN]
+
+```
+         RECOGNIZING THE SALVATION ARMY OF GREATER CHATTANOOGA
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from
+
+[[Page H9098]]
+
+Tennessee (Mr. Fleischmann) for 5 minutes.
+  Mr. FLEISCHMANN. Mr. Speaker, I rise today to recognize the Salvation 
+Army of Greater Chattanooga as they celebrate their 125th anniversary. 
+This exceptional organization has been an integral part of the Hamilton 
+County community, helping those in need with compassion and uplifting 
+them during the most trying of times.
+  The Salvation Army of Chattanooga opened its doors on March 16, 1893. 
+Never pausing in their service to the community, the Salvation Army 
+continued operations through World War I, the Great Depression, and 
+World War II. For 125 years, members of the Salvation Army have worked 
+to feed, clothe, and empower the great people of Tennessee's Third 
+District.
+  On a number of occasions, I can reflect on many fond memories with 
+the Salvation Army. During the holiday season, I have had the honor of 
+being kettle co-chairman with my wonderful wife of 32 years, Brenda--
+today we are celebrating our 32nd wedding anniversary--to serve this 
+outstanding organization and its wonderful people. As a matter of fact, 
+my wonderful wife, Brenda, serves on the board of directors with 
+several outstanding Chattanoogans.
+  Regardless of the time of year, whenever I spend time at the 
+Salvation Army on McCallie Avenue, I witness Tennesseans coming 
+together to provide help, hope, and healing to one another. That is the 
+embodiment of the great Volunteer spirit.
+  Mr. Speaker, I would like to congratulate the Salvation Army of 
+Greater Chattanooga on 125 years of service. I am sure they will 
+continue to do the most good for residents of Hamilton and surrounding 
+counties for many years to come.
+
+                          ____________________
+```
