@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-09-28-pt1-PgH9396
+date: 2018-09-28
+edition: CREC
+section: HOUSE
+page: H9396
+citation: 164 Cong. Rec. H9396
+---
+
+# YWCA
+
+**Speaking:** Chu, Judy (C001080) [D-CA]
+
+```
+                              {time}  1300
+                                  YWCA
+
+  (Ms. JUDY CHU of California asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Ms. JUDY CHU of California. Mr. Speaker, I rise today to congratulate 
+the YWCA USA as they celebrate their 160th anniversary.
+  With a mission that is dedicated to eliminating racism, empowering 
+women, and promoting peace, justice, freedom, and dignity for all, the 
+YWCA is exactly the kind of organization we need today. It provides 
+leadership development programs for young women in topics ranging from 
+economic empowerment to engaging young girls in STEM fields.
+  From its humble beginnings, the YWCA now operates 1,300 program sites 
+across 47 States and the District of Columbia, serving over 2 million 
+women, girls, and their families. It has been at the forefront of 
+social progress, from civil rights to voting rights, to equal pay, to 
+healthcare reform.
+  It is currently the largest network of providers to help victims of 
+domestic violence or sexual assault. In my district, the YWCA in San 
+Gabriel Valley serves nearly 4,000 people, annually, through its 
+domestic violence program called WINGS.
+  Mr. Speaker, I thank the YWCA for 160 years of great work.
+
+                          ____________________
+```

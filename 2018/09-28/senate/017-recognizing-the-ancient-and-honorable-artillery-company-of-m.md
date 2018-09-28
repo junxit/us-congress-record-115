@@ -1,0 +1,52 @@
+---
+granule: CREC-2018-09-28-pt1-PgS6383
+date: 2018-09-28
+edition: CREC
+section: SENATE
+page: S6383
+citation: 164 Cong. Rec. S6383
+---
+
+# RECOGNIZING THE ANCIENT AND HONORABLE ARTILLERY COMPANY OF MASSACHUSETTS
+
+**Speaking:** Markey, Edward J. (M000133) [D-MA]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+      RECOGNIZING THE ANCIENT AND HONORABLE ARTILLERY COMPANY OF 
+                             MASSACHUSETTS
+
+● Mr. MARKEY. Mr. President, today I would like to honor the 
+Ancient and Honorable Artillery Company of Massachusetts--the oldest 
+chartered military organization in the Western Hemisphere--on its 381st 
+Fall Field Day Tour of Duty. Its charter was signed in 1638 by John 
+Winthrop, then-Governor of the Massachusetts Bay Colony. The Ancient 
+and Honorables continue to serve the Commonwealth as a vital part of 
+its militia, subject to the direction of the adjutant general of the 
+Massachusetts National Guard.
+  Although the Ancient and Honorables have long served as the honor 
+guard for the Governor of the Commonwealth, they continue to play an 
+integral role in the State's civic rituals. Among their 
+responsibilities, they participate in the inaugurals of State 
+constitutional officers, the annual State of the Commonwealth address, 
+and the yearly celebration of the Constitution of the United States 
+from the historic State house in the heart of old Boston, but most 
+importantly, they stand ready to assist in times of peril or emergency.
+  May the Ancient and Honorable Artillery Company of Massachusetts long 
+continue its role in fostering, supporting, and preserving the civic 
+life of the city of Boston, the Commonwealth of Massachusetts, and the 
+United States of America. The Ancients serve as world ambassadors of 
+the United States, where, on their Fall Field Day Tour of Duty, they 
+pay their respects to fallen soldiers of all nations who have paid the 
+ultimate sacrifice in defense of freedom.
+  Today I would like to recognize the Ancient and Honorable Artillery 
+Company of Massachusetts for their civic responsibilities, patriotic 
+duties, and community service. May they continue their proud traditions 
+for many years to come.●
+
+                          ____________________
+```
