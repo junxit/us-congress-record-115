@@ -1,0 +1,118 @@
+---
+granule: CREC-2018-10-01-pt1-PgS6414-3
+date: 2018-10-01
+edition: CREC
+section: SENATE
+page: S6414
+citation: 164 Cong. Rec. S6414
+---
+
+# SENATE RESOLUTION 663--RECOGNIZING THE 40TH ANNIVERSARY OF THE FIRST DELIVERY OF THE SIKORSKY UH-60 BLACK HAWK HELICOPTER TO THE ARMY
+
+**Measures:** S.Res. 663
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+ SENATE RESOLUTION 663--RECOGNIZING THE 40TH ANNIVERSARY OF THE FIRST 
+    DELIVERY OF THE SIKORSKY UH-60 BLACK HAWK HELICOPTER TO THE ARMY
+
+  Mr. BLUMENTHAL (for himself, Mr. Murphy, Ms. Warren, and Mr. Nelson) 
+submitted the following resolution; which was referred to the Committee 
+on Armed Services:
+
+                              S. Res. 663
+
+       Whereas, on March 5, 1923, Sikorsky was founded by aircraft 
+     engineer Igor Sikorsky, an immigrant to the United States who 
+     was born in Kiev, Ukraine;
+       Whereas, in 1955, Sikorsky opened its doors in Stratford, 
+     Connecticut;
+       Whereas the UH-60 Black Hawk helicopter was designed to be 
+     the primary medium-lift helicopter for the Army, with 
+     revolutionary design features for combat helicopters, 
+     including--
+       (1) the ability to absorb high-impact velocities by means 
+     of--
+        (A) a self-sealing fuel system;
+        (B) crash-resistant stroking crew seats; and
+        (C) high energy-absorbing landing gear;
+       (2) low detectability;
+       (3) highly capable nap-of-the-earth flight;
+       (4) tolerance to small arms fire up to medium-caliber 
+     projectiles;
+       (5) hardened flight controls; and
+       (6) redundant avionics and hydraulic systems;
+       Whereas the primary mission of the UH-60 Black Hawk 
+     helicopter is as a troop carrier and a logistical support 
+     aircraft for air assault missions, but the aircraft may be 
+     outfitted to execute medical and casualty evacuation, search 
+     and rescue, command and control, armed escort, electronic 
+     warfare, external lift, firefighting, and executive transport 
+     or VIP missions;
+       Whereas, on October 31, 1978, the first production UH-60 
+     Black Hawk helicopter was delivered to the Army, and 2018 
+     marks the 40th anniversary of that historic event;
+       Whereas, beginning in 1976 and ending in 1989, the UH-60A 
+     model Black Hawk was in uninterrupted production;
+       Whereas the UH-60A model Black Hawk was replaced at the end 
+     of the 1980s by the more powerful UH-60L model Black Hawk, 
+     which was replaced by the even more advanced UH-60M model 
+     Black Hawk in 2007;
+       Whereas, since 1978, Sikorsky has delivered more than 2,300 
+     UH-60 Black Hawk helicopters to the Army, making the UH-60 
+     Black Hawk helicopter the backbone of Army aviation;
+
+[[Page S6415]]
+
+       Whereas, as of April 2018, more than 4,000 H-60 Black Hawk 
+     helicopters of all models are in service worldwide in all 
+     branches of the Armed Forces and the armed forces of 28 other 
+     countries;
+       Whereas, as of April 2018, UH-60 Black Hawk helicopters 
+     have flown nearly 10,000,000 flight hours, more than 
+     2,000,000 of which have been in combat;
+       Whereas the 1,000th UH-60M model Black Hawk helicopter will 
+     be delivered in October 2018, which highlights the importance 
+     that warfighters of the United States place in this venerable 
+     aircraft;
+       Whereas, for 40 years since 1978, the remarkable UH-60 
+     Black Hawk helicopter has--
+       (1) fought its way in and out of countless combat zones to 
+     deliver and extract troops;
+       (2) saved thousands of lives as a medical or casualty 
+     evacuation platform;
+       (3) provided critical supplies to troops;
+       (4) delivered emergency supplies during natural disasters 
+     and humanitarian crises; and
+       (5) performed as an aerial firefighter and border 
+     patroller;
+       Whereas approximately 4,000 workers in the United States 
+     support the UH-60 Black Hawk helicopter program, including in 
+     roles of final assembly, paint, engineering, finance, program 
+     management, and contracts;
+       Whereas the UH-60 Black Hawk helicopter program has 
+     significant presence throughout the United States, including 
+     in the States of Alabama, Alaska, California, Connecticut, 
+     Georgia, Kentucky, New York, North Carolina, Texas, and 
+     Virginia and;
+       Whereas Sikorsky is committed to the modernization and 
+     sustainment of the UH-60 Black Hawk helicopter program since 
+     the Army plans to operate the UH-60M Black Hawk helicopter 
+     into the 2070s: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes the 40th anniversary of the first delivery 
+     of the Sikorsky UH-60 Black Hawk helicopter to the Army;
+       (2) commends Sikorsky for its commitment to--
+       (A) developing premier rotorcraft such as the UH-60 Black 
+     Hawk helicopter; and
+       (B) the modernization and sustainment of the UH-60 Black 
+     Hawk helicopter into the 2070s; and
+       (3) pledges robust and continued congressional support for 
+     the UH-60 Black Hawk helicopter.
+
+                          ____________________
+```
