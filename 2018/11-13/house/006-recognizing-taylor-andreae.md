@@ -1,0 +1,42 @@
+---
+granule: CREC-2018-11-13-pt1-PgH9473-6
+date: 2018-11-13
+edition: CREC
+section: HOUSE
+page: H9473
+citation: 164 Cong. Rec. H9473
+---
+
+# RECOGNIZING TAYLOR ANDREAE
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                       RECOGNIZING TAYLOR ANDREAE
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, it is with sincere 
+gratitude and appreciation that I have the opportunity to recognize 
+Taylor Andreae, former deputy chief of staff for South Carolina's 
+Second Congressional District. I will always appreciate Taylor for his 
+years of service on behalf of the people of South Carolina.
+  Taylor is a graduate of Wake Forest University and is a recent 
+graduate of the United States Army War College, where he received a 
+master's degree in strategic studies and national security policy 
+studies.
+  Taylor worked on a wide array of issues, specializing in armed 
+services, national security, and foreign affairs. Beginning as a 
+military legislative assistant in 2014, it has been an honor to work 
+with such a dedicated public servant who began his service with Senator 
+Lindsey Graham.
+  Taylor will continue his service as chief of staff for Representative 
+ Mike Gallagher. I know his parents, Jane and Chip, are grateful for 
+his success, as both have been congressional staff members, with Chip 
+being former chief of staff for Senator Richard Lugar from Indiana.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism. Our prayers for the 
+victims of the wildfires in California.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-11-13-pt1-PgH9508-2
+date: 2018-11-13
+edition: CREC
+section: HOUSE
+page: H9508
+citation: 164 Cong. Rec. H9508
+---
+
+# HONORING SERGEANT VINCENT PANTOZZI
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                   HONORING SERGEANT VINCENT PANTOZZI
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, I rise today to honor the late Vincent 
+Pantozzi of Jersey City, New Jersey, on the occasion of the 100th 
+anniversary of the end of World War I, which was Sunday.
+  Just 2 months after the United States entered World War I, and only 5 
+years after Mr. Pantozzi immigrated to the United States, he enlisted 
+in the Army. Sergeant Pantozzi served in many pivotal battles in 
+France. He was shot in the knee on June 15, 1918, and then gassed 8 
+days later.
+  Sergeant Pantozzi spent 3 weeks in a field hospital, recovered, and 
+returned to his post.
+  He was awarded the Purple Heart and many other commendations for his 
+service.
+  In 1919, Sergeant Pantozzi was honorably discharged from the United 
+States Army. The next day, he became a U.S. citizen.
+  Mr. Pantozzi passed away on October 7, 1976, at the age of 82.
+  I ask my colleagues to join me in honor of Sergeant Vincent Pantozzi 
+of Jersey City, New Jersey, an exceptionally dedicated man whose 
+service to our country deserves this recognition.
+
+                          ____________________
+```
