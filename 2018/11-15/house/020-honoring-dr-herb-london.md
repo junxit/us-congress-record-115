@@ -1,0 +1,43 @@
+---
+granule: CREC-2018-11-15-pt1-PgH9535
+date: 2018-11-15
+edition: CREC
+section: HOUSE
+page: H9535
+citation: 164 Cong. Rec. H9535
+---
+
+# HONORING DR. HERB LONDON
+
+**Speaking:** Rothfus, Keith J. (R000598) [R-PA]
+
+```
+                        HONORING DR. HERB LONDON
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Pennsylvania (Mr. Rothfus) for 5 minutes.
+  Mr. ROTHFUS. Mr. Speaker, our Nation lost an intellectual giant and 
+visionary leader this past Saturday, November 10, 2018.
+  Dr. Herbert London was a legendary conservative author, scholar, 
+commentator, and defender of freedom. He was a scholar's scholar and a 
+gentleman's gentleman.
+  A New Yorker of great stature, Herb grew up playing basketball and 
+led his high school team to a city championship. After completing his 
+studies at Columbia University, Herb's hoop-playing skills caught the 
+eye of the Syracuse Nationals; however, an injury blocked his athletic 
+career.
+  Herb went on to earn a Ph.D. from New York University and later 
+served as the dean of NYU's Gallatin division. From running for 
+political office to leading the Hudson Institute to founding the London 
+Center for Policy Research, Dr. London was the definition of a 
+renaissance man and a true patriot, committed to bringing about a 
+stronger, more principled Nation.
+  A 6'5'' tower of humility, integrity, and vision, Herb will be sorely 
+missed, and his legacy will forever be enshrined in the hearts and 
+minds of many.
+  My prayers are with the London family as they heal from this 
+tremendous loss.
+  May he rest in peace.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-11-15-pt1-PgH9537
+date: 2018-11-15
+edition: CREC
+section: HOUSE
+page: H9537
+citation: 164 Cong. Rec. H9537
+---
+
+# RECOGNIZING JOHN ECK, SR.
+
+**Speaking:** LaHood, Darin (L000585) [R-IL]
+
+```
+                       RECOGNIZING JOHN ECK, SR.
+
+  (Mr. LaHOOD asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. LaHOOD. Mr. Speaker, I rise today to recognize John Eck, Sr., of 
+Springfield, Illinois, on being named the 2018 First Citizen by the 
+State Journal-Register newspaper.
+  Each year, the State Journal-Register recognizes a community leader 
+as the First Citizen who is committed to helping our Springfield 
+community prosper, and they chose a phenomenal leader for 2018.
+  Upon retirement 13 years ago, Mr. Eck's commitment to philanthropic 
+endeavors has surged throughout Springfield and central Illinois. Most 
+notably, Mr. Eck was instrumental in helping to raise money to save the 
+financially struggling St. Patrick Catholic School, which was set to 
+close on its 100th anniversary.
+  In addition, John has served on numerous local boards, including the 
+St. John's Hospital Foundation, the Boys and Girls Clubs of Central 
+Illinois, the United Way, and the American Business Club.
+  Throughout John's career, he has never been afraid to step up and do 
+what is right to support the greater Springfield community, and it 
+doesn't appear he plans on stopping now.
+  Mr. Speaker, I thank John for his relentless commitment to helping 
+others, and I congratulate him on a well-deserved award.
+
+                          ____________________
+```
