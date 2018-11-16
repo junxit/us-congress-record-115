@@ -1,0 +1,33 @@
+---
+granule: CREC-2018-11-16-pt1-PgH9552
+date: 2018-11-16
+edition: CREC
+section: HOUSE
+page: H9552
+citation: 164 Cong. Rec. H9552
+---
+
+# EXTEND THE NATIONAL FLOOD INSURANCE PROGRAM
+
+**Speaking:** Crist, Charlie (C001111) [D-FL]
+
+```
+              EXTEND THE NATIONAL FLOOD INSURANCE PROGRAM
+
+  (Mr. CRIST asked and was given permission to address the House for 1 
+minute.)
+  Mr. CRIST. Mr. Speaker, I rise today urging action to extend the 
+National Flood Insurance Program.
+  If Congress fails to reauthorize the NFIP by November 30, millions of 
+homeowners will be unable to obtain or renew their flood coverage; 
+housing markets will grind to a halt; and families will be left at risk 
+of financial ruin should a flood occur.
+  Congress must put this uncertainty to rest. Policyholders need 
+stability. Our housing markets need stability. American families also 
+need stability.
+  I urge my colleagues to bring to the floor, and to pass, the 
+reauthorization of the National Flood Insurance Program as soon as 
+possible.
+
+                          ____________________
+```
