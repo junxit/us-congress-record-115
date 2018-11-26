@@ -1,0 +1,106 @@
+---
+granule: CREC-2018-11-26-pt1-PgS7077
+date: 2018-11-26
+edition: CREC
+section: SENATE
+page: S7077
+citation: 164 Cong. Rec. S7077
+---
+
+# Farewell to the Senate (Executive Session)
+
+**Speaking:** Nelson, Bill (N000032) [D-FL], Isakson, Johnny (I000055) [R-GA]
+
+```
+                         Farewell to the Senate
+
+  Mr. NELSON. Madam President, I intend to be giving a number of 
+speeches over the course of the next couple of weeks to comment on 
+various matters on which I have had the privilege of working.
+  I want to say, with regard to the election, that things turned out a 
+little differently than Grace and I had expected, but let me say that I 
+have been very, very blessed. That is because I have had the privilege 
+of serving the people of Florida and our country for most of my life, 
+and I don't think anyone could have been more honored by having a 
+lifetime of public service. I was not victorious in this race, but I 
+still wish to strongly reaffirm the cause for which we fought: A public 
+office is a public trust.
+  First, I want to say thanks to all who have rallied to our cause, 
+both here in the Senate and in Florida. You knocked on the doors, you 
+walked the precincts, you made the phone calls, and you contributed 
+your time and your resources. With an optimistic heart, I wish to say 
+something else: We may have been heavily outspent, but we were never 
+outworked.
+  To all Floridians, I say to you this, whether you voted for me or for 
+my opponent or you didn't vote at all: I ask that you never give up 
+this fight. A public office is a public trust, and there are a lot of 
+other things that fall under that category of public trust.
+  You must fight to protect the fundamental right to healthcare and 
+against any attempt to roll back our progress on things like 
+preexisting conditions. Most everybody has a preexisting condition. If 
+it is not required that an insurance company cover you, then either 
+your rate is prohibitively high or else you don't get coverage at all. 
+Out of the 20 million people in the State of Florida, 8 million people 
+have a preexisting condition.
+  You must continue the fight to preserve the natural wonders of our 
+State, from the Everglades to the pine forests and to the beaches and 
+the offshore waters. Say no to drilling off our coast--not one rig off 
+of our coastline--not only for the sake of our environment but for the 
+sake of our tourism economy and for the sake of the largest military 
+testing and training area for the U.S. military in the world right off 
+of our coast.
+  As a country, we need to continue to launch rockets and to explore 
+the heavens. I have seen the blue brilliance of the Earth from the edge 
+of the heavens, and I will fight on to save this planet, our homes, and 
+our cities from the spreading plague of greenhouse gases that infect 
+our atmosphere, play havoc with our weather, and risk the planet our 
+children and grandchildren will inherit.
+  Every single one of us needs to keep fighting to strengthen Social 
+Security and Medicare for the generations that are yet to come. It is 
+your Medicare. It is your Social Security. You pay into these programs. 
+They belong to you and not to the politicians who are plotting to rob 
+you of your retirement.
+  I will continue to fight on and on for the inalienable human rights 
+that are the soul and glory of the American experiment: civil rights, 
+women's rights, LGBT rights, and the sacred right to vote. We must end 
+all forms of voter suppression, make it easier for Americans to vote, 
+and honor the ideal that we are governed by the majority and not by 
+minority rule.
+  There are great decisions ahead that will shape the course and 
+character of America in the 21st century. Yes, I will continue to 
+fight--and to fight hard--for what is right. I will also encourage 
+others to seek common ground with their colleagues and the other side 
+of the aisle. Inevitably, at times that effort will fall short, but we 
+have to try. We have to move beyond a politics that aims not just to 
+defeat but to destroy, where truth is treated as disposable, where 
+falsehoods abound and the free press is assaulted as the enemy of the 
+people.
+  Whether an institution such as this Congress will be effective in the 
+future depends on whether the people who make up this institution can 
+get along, where we retreat from the tribalism that has captured 
+American politics and where men and women of good will can come 
+together. As the Good Book says, ``come now, and let us reason 
+together.''
+  There has been a gathering darkness in our politics in recent years. 
+My hope today can be found in the words of John F. Kennedy, who said 
+civility ``can guide us through that darkness to a safe and sane 
+future.''
+  Thank you all for the privilege of a lifetime of public service. God 
+bless you, and God bless our country.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Georgia.
+  Mr. ISAKSON. Madam President, I wish to address the Senator before he 
+leaves.
+  I represent the great State of Georgia, which is north of the great 
+State of Florida. I have had the pleasure of serving with this Senator 
+for a long time in a lot of capacities. He has made a huge contribution 
+to his State and to his country. We worked together on a lot of other 
+interests, like the Prayer Breakfast in the Senate and many other 
+things like that.
+  I want to commend the Senator for his speech, commend him for his 
+remarks, and commend him for his lovely wife, amazing Grace, whom I 
+love very much. I thank the Senator very much for his service to the 
+people of the State of Florida and the United States of America. May 
+God bless him.
+  The PRESIDING OFFICER. The Senator from Tennessee.
+```

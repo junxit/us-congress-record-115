@@ -1,0 +1,96 @@
+---
+granule: CREC-2018-11-26-pt1-PgS7090
+date: 2018-11-26
+edition: CREC
+section: SENATE
+page: S7090
+citation: 164 Cong. Rec. S7090
+---
+
+# SENATE RESOLUTION 704--EXPRESSING SUPPORT FOR THE GOALS OF NATIONAL ADOPTION DAY AND NATIONAL ADOPTION MONTH BY PROMOTING NATIONAL AWARENESS OF ADOPTION AND THE CHILDREN AWAITING FAMILIES...
+
+**Measures:** S.Res. 704
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+  SENATE RESOLUTION 704--EXPRESSING SUPPORT FOR THE GOALS OF NATIONAL 
+    ADOPTION DAY AND NATIONAL ADOPTION MONTH BY PROMOTING NATIONAL 
+ AWARENESS OF ADOPTION AND THE CHILDREN AWAITING FAMILIES, CELEBRATING 
+CHILDREN AND FAMILIES INVOLVED IN ADOPTION, AND ENCOURAGING THE PEOPLE 
+ OF THE UNITED STATES TO SECURE SAFETY, PERMANENCY, AND WELL-BEING FOR 
+                              ALL CHILDREN
+
+  Mr. BLUNT (for himself, Ms. Klobuchar, Mr. Tillis, Mr. Enzi, Mr. 
+Grassley, Mr. Risch, Mr. Lankford, Mr. Inhofe, Mr. Roberts, Mr. Scott, 
+Mr. Van Hollen, Mr. Jones, Ms. Hassan, Ms. Baldwin, Mr. Manchin, Mrs. 
+Feinstein, Mr. Bennet, Mr. Brown, Mr. Booker, Ms. Smith, Mr. King, Mr. 
+Casey, Ms. Hirono, Mr. Markey, Mr. Daines, Mr. Rubio, Mr. Boozman, and 
+Mrs. Murray) submitted the following resolution; which was considered 
+and agreed to:
+
+                              S. Res. 704
+
+       Whereas there are millions of unparented children in the 
+     world, including 437,465 children in the foster care system 
+     in the United States, approximately 117,794 of whom are 
+     waiting for families to adopt them;
+       Whereas 64 percent of the children in foster care in the 
+     United States are age 10 or younger;
+       Whereas the average length of time a child spends in foster 
+     care is approximately 20 months;
+       Whereas, for many foster children, the wait for a loving 
+     family in which the children are nurtured, comforted, and 
+     protected seems endless;
+       Whereas, in 2016, 20,532 youth ``aged out'' of foster care 
+     by reaching adulthood without being placed in a permanent 
+     home;
+       Whereas, every day, loving and nurturing families are 
+     strengthened and expanded when committed and dedicated 
+     individuals make an important difference in the life of a 
+     child through adoption;
+       Whereas, while nearly a quarter of individuals in the 
+     United States have considered adoption, a majority of 
+     individuals in the United States have misperceptions about 
+     the process of adopting children from foster care and the 
+     children who are eligible for adoption;
+       Whereas 46 percent of individuals in the United States 
+     believe that children enter the foster care system because of 
+     juvenile delinquency, when in reality the vast majority of 
+     children who have entered the foster care system were victims 
+     of neglect, abandonment, or abuse;
+       Whereas 39 percent of individuals in the United States 
+     believe that foster care adoption is expensive, when in 
+     reality there is no substantial cost for adopting from foster 
+     care and financial support is available to adoptive parents 
+     after an adoption is finalized;
+       Whereas family reunification, kinship care, and domestic 
+     and intercountry adoption promote permanency and stability to 
+     a far greater degree than long-term institutionalization or 
+     long-term, often disrupted, foster care;
+       Whereas November is National Adoption Month, and National 
+     Adoption Day occurs in November;
+       Whereas National Adoption Day is a collective national 
+     effort to find permanent, loving families for children in the 
+     foster care system;
+       Whereas, since the first National Adoption Day in 2000, 
+     more than 70,000 children have joined permanent families on 
+     National Adoption Day; and
+       Whereas the President traditionally issues an annual 
+     proclamation to declare the month of November as National 
+     Adoption Month, and National Adoption Day is on November 17, 
+     2018: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) supports the goals and ideals of National Adoption Day 
+     and National Adoption Month;
+       (2) recognizes that every child should have a permanent and 
+     loving family; and
+       (3) encourages the people of the United States to consider 
+     adoption during the month of November and throughout the 
+     year.
+
+                          ____________________
+```
