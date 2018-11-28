@@ -1,0 +1,39 @@
+---
+granule: CREC-2018-11-28-pt1-PgH9671-2
+date: 2018-11-28
+edition: CREC
+section: HOUSE
+page: H9671
+citation: 164 Cong. Rec. H9671
+---
+
+# SCOTT McLEAN/PATHWAY TO FREEDOM
+
+**Speaking:** Hill, J. French (H001072) [R-AR]
+
+```
+                    SCOTT McLEAN/PATHWAY TO FREEDOM
+
+  (Mr. HILL asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. HILL. Mr. Speaker, I rise today to recognize Scott McLean, the 
+founder and executive director of Pathway to Freedom, for being awarded 
+the 2018 Marie Interfaith Civic Leadership Award. This award is given 
+annually to recognize citizens whose work addresses important community 
+issues in Arkansas.
+  Scott created the Pathway to Freedom program in 2011 with the goal of 
+changing prison culture and breaking the cycle of recidivism in our 
+State. The program provides educational, values-based prerelease 
+services to prisoners, while also preparing inmates to reintegrate into 
+society and return to being a productive citizen.
+  Pathway to Freedom seeks to transform prisoners' lives with an 18-
+month prerelease residential program through a contract with the 
+Arkansas Department of Corrections. It also provides, importantly, 12 
+months of mentoring and support once our prisoners shift back to 
+society.
+  I extend a hand of gratitude and congratulations to my good friend 
+Scott and the entire Pathway to Freedom program for their selfless and 
+worthwhile investment in our citizens and our State's future.
+
+                          ____________________
+```
