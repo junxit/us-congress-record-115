@@ -1,0 +1,43 @@
+---
+granule: CREC-2018-11-29-pt1-PgH9703-3
+date: 2018-11-29
+edition: CREC
+section: HOUSE
+page: H9703
+citation: 164 Cong. Rec. H9703
+---
+
+# RECOGNIZING MAYOR HARVEY SKOOG
+
+**Speaking:** Gosar, Paul A. (G000565) [R-AZ]
+
+```
+                     RECOGNIZING MAYOR HARVEY SKOOG
+
+  (Mr. GOSAR asked and was given permission to address the House for 1 
+minute.)
+  Mr. GOSAR. Mr. Speaker, I rise today to recognize Mayor Harvey Skoog 
+of Prescott Valley, Arizona, who will be retiring next month after a 
+long career of public service. Mayor Skoog has served the community of 
+Prescott Valley for almost three decades on the city council, 19 years 
+of which he served as mayor.
+  Along with his many years of public service, Skoog is known for his 
+pride and appreciation for his family. He moved with his family from 
+the Valley of the Sun to Prescott Valley in 1982. He and Edna, his wife 
+of 60 years, have 9 children, 61 grandchildren, and 43 great 
+grandchildren.
+  During his time as mayor, he has received many honors, including 
+serving on the League of Arizona Cities and Towns executive board and 
+as the chairman of the Greater Arizona Mayors Association. He was also 
+appointed by Governor Jan Brewer to the Homeland Security Senior 
+Advisory Committee for the State of Arizona.
+  Outside of public service, Mayor Skoog has been a successful small-
+business owner, developing three accounting practices in the Prescott 
+Valley area.
+  Mayor Skoog has been a shining example of a true public servant and 
+an outstanding friend to me and my staff over my years in Congress. I 
+wish him well in his retirement and thank him for his service to the 
+Prescott Valley and the entire State of Arizona.
+
+                          ____________________
+```

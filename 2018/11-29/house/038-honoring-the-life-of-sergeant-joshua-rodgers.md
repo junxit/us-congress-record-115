@@ -1,0 +1,46 @@
+---
+granule: CREC-2018-11-29-pt1-PgH9702-6
+date: 2018-11-29
+edition: CREC
+section: HOUSE
+page: H9702
+citation: 164 Cong. Rec. H9702
+---
+
+# HONORING THE LIFE OF SERGEANT JOSHUA RODGERS
+
+**Speaking:** LaHood, Darin (L000585) [R-IL]
+
+```
+                              {time}  1230
+              HONORING THE LIFE OF SERGEANT JOSHUA RODGERS
+
+  (Mr. LaHOOD asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. LaHOOD. Mr. Speaker, on April 27, 2017, U.S. Army Sergeant Joshua 
+Rodgers gave the ultimate sacrifice for our country during a raid on an 
+ISIS headquarters in eastern Afghanistan.
+  Despite being just 22 years old, Sergeant Rodgers, a member of the 
+U.S. Army Rangers Special Operations unit, had quickly become a 
+decorated hero, earning numerous awards and medals, including the 
+Bronze Star with Valor and Purple Heart.
+
+[[Page H9703]]
+
+  Today, the House will consider my legislation renaming a post office 
+in the name of Sergeant Rodgers. With this legislation, we worked 
+closely with the U.S. Postal Service; local State Representative Dan 
+Brady; and Joshua's mother, Vonda Coulter Rodgers. This is a way to pay 
+tribute to Sergeant Rodgers by renaming the post office in his hometown 
+of Bloomington-Normal, Illinois.
+  This legislation has the backing and bipartisan support of the entire 
+Illinois delegation. We hope that the renaming of this post office will 
+forever remind the Bloomington-Normal community of their hometown hero 
+and Joshua's commitment to serving our country.
+  While we can never fully repay Sergeant Rodgers and his family for 
+the sacrifices he made, renaming the post office in his honor is a 
+small way to thank him for his service and dedication to protecting 
+America, the greatest country in the world.
+
+                          ____________________
+```
