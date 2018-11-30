@@ -1,0 +1,47 @@
+---
+granule: CREC-2018-11-30-pt1-PgH9748-5
+date: 2018-11-30
+edition: CREC
+section: HOUSE
+page: H9748
+citation: 164 Cong. Rec. H9748
+---
+
+# RECOGNIZING DR. ABRAHAM LIEBERMAN
+
+**Speaking:** Gosar, Paul A. (G000565) [R-AZ]
+
+```
+                   RECOGNIZING DR. ABRAHAM LIEBERMAN
+
+  (Mr. GOSAR asked and was given permission to address the House for 1 
+minute.)
+  Mr. GOSAR. Mr. Speaker, I rise to honor Dr. Abraham Lieberman, who 
+just recently announced his retirement. Dr. Lieberman has been a 
+practicing neurologist for over 50 years, working at the Barrow 
+Neurological Institute in Phoenix, Arizona, for much of his career.
+  Dr. Lieberman dedicated his life to the treatment and eradication of 
+Parkinson's disease, treating over 40,000 patients, including Muhammad 
+Ali. He wrote six books on Parkinson's, including ``100 Questions & 
+Answers About Parkinson's Disease,'' the best-selling book on that 
+disease.
+  His work has done an immeasurable amount of good in furthering the 
+treatment of Parkinson's and to help create a much greater quality of 
+life for those who have the dreaded disease.
+  I am pleased that the Barrow Institute has created a way that people 
+can honor Dr. Lieberman by setting up the Lieberman Legacy Fund so 
+individuals can donate money towards Parkinson's research and 
+treatment.
+  I wish Dr. Lieberman a long and happy retirement with his wife of 50 
+years, Ina, his 4 children, and 10 grandchildren.
+  Dr. Lieberman's pursuit to conquer Parkinson's has endeared him to 
+his patients, with his personalized touch to each and every one of 
+them. He has become an iconic pillar of excellence in medicine.
+  Your patients are so grateful. Thank you, Dr. Lieberman.
+
+[[Page H9749]]
+
+  
+
+                          ____________________
+```
