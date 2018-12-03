@@ -1,0 +1,52 @@
+---
+granule: CREC-2018-12-03-pt1-PgS7255
+date: 2018-12-03
+edition: CREC
+section: SENATE
+page: S7255
+citation: 164 Cong. Rec. S7255
+---
+
+# TRIBUTE TO LIEUTENANT COMMANDER KERRY S. JACKSON
+
+**Speaking:** Hyde-Smith, Cindy (H001079) [R-MS]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+            TRIBUTE TO LIEUTENANT COMMANDER KERRY S. JACKSON
+
+● Mrs. HYDE-SMITH. Madam President, I would like to call 
+attention to U.S. Navy LCDR Kerry S. Jackson, who is retiring December 
+7, 2018, after 26 years of honorable service to our country. He 
+enlisted in 1988, completed Navy SEAL Training in 1989, and received 
+his commission as a naval officer in 2003. As a SEAL, he completed 
+eight deployments and a broad scope of high-risk missions across the 
+globe.
+  From 2015 to 2018, Lieutenant Commander Jackson served as executive 
+officer of the Naval Small Craft Instructional and Applied Technical 
+Training School, NAVSCIATTS, located at Stennis Space Center in Hancock 
+County, MS. NAVSCIATTS trains students from partner nations around the 
+world in small craft and riverine operations. Under his leadership, 
+foreign military students are better prepared to fight both state and 
+nonstate adversaries by employing advanced riverine combat, navigation, 
+and other technical skills developed at NAVSCIATTS. Lieutenant 
+Commander Jackson's leadership of this program created and fostered 
+critical diplomatic relationships with partner nations around the 
+world.
+  During the course of his military career, he has been awarded three 
+Joint Service Commendation Medals, seven Navy and Marine Corps 
+Commendation Medals, one Army Commendation Medal, two Joint Service 
+Achievement Medals, five Navy and Marine Corps Achievement Medals, the 
+Combat Action Ribbon, and various other personal, unit, and campaign 
+awards.
+  I commend Lieutenant Commander Jackson for his 26 years of faithful 
+service to our Nation, extend my deepest gratitude to him and his 
+entire family, and wish him the best during his transition to civilian 
+life.●
+
+                          ____________________
+```
