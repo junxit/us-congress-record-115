@@ -1,0 +1,66 @@
+---
+granule: CREC-2018-12-11-pt1-PgS7437
+date: 2018-12-11
+edition: CREC
+section: SENATE
+page: S7437
+citation: 164 Cong. Rec. S7437
+---
+
+# SENATE RESOLUTION 722--DESIGNATING OCTOBER 26, 2018, AS "DAY OF THE DEPLOYED"
+
+**Measures:** S.Res. 722
+
+```
+ SENATE RESOLUTION 722--DESIGNATING OCTOBER 26, 2018, AS ``DAY OF THE 
+                               DEPLOYED''
+
+  Mr. HOEVEN (for himself, Ms. Heitkamp, Mr. Tester, Ms. Warren, and 
+Mr. Peters) submitted the following resolution; which was considered 
+and agreed to:
+
+                              S. Res. 722
+
+       Whereas more than 2,100,000 individuals serve as members of 
+     the Armed Forces of the United States;
+       Whereas several hundred thousand members of the Armed 
+     Forces rotate each year through deployments to more than 150 
+     countries in every region of the world;
+       Whereas several million members of the Armed Forces have 
+     deployed to the area of operations of the United States 
+     Central Command since the September 11, 2001, terrorist 
+     attacks;
+       Whereas the United States is kept strong and free by the 
+     loyal military personnel from the total force (the regular 
+     components, the National Guard, and the Reserves), who 
+     protect the precious heritage of the United States through 
+     their declarations and actions;
+       Whereas members of the Armed Forces serving at home and 
+     abroad have courageously answered the call to duty to defend 
+     the ideals of the United States and to preserve peace and 
+     freedom around the world;
+       Whereas the United States remains committed to easing the 
+     transition from deployment abroad to service at home for 
+     members of the Armed Forces and the families of the members;
+       Whereas members of the Armed Forces personify the virtues 
+     of patriotism, service, duty, courage, and sacrifice;
+       Whereas the families of members of the Armed Forces make 
+     important and significant sacrifices for the United States; 
+     and
+       Whereas the Senate designated October 26 as ``Day of the 
+     Deployed'' in 2011, 2012, 2013, 2014, 2015, 2016, and 2017: 
+     Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates October 26, 2018, as ``Day of the 
+     Deployed'';
+       (2) honors the deployed members of the Armed Forces of the 
+     United States and the families of the members;
+       (3) calls on the people of the United States to reflect on 
+     the service of those members of the Armed Forces, wherever 
+     the members serve, past, present, and future; and
+       (4) encourages the people of the United States to observe 
+     the Day of the Deployed with appropriate ceremonies and 
+     activities.
+
+                          ____________________
+```
