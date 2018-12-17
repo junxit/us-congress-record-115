@@ -1,0 +1,21 @@
+---
+granule: CREC-2018-12-17-pt1-PgH10269-12
+date: 2018-12-17
+edition: CREC
+section: HOUSE
+page: H10269
+citation: 164 Cong. Rec. H10269
+---
+
+# Constitutional Authority Statement for H.R. 7324
+
+**Measures:** H.R. 7324
+
+```
+           By Mr. KELLY of Pennsylvania:
+       H.R. 7324.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       The Congress enacts this bill pursuant to Article I Section 
+     8 of the United States Constitution.
+```
