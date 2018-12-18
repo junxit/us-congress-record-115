@@ -1,0 +1,86 @@
+---
+granule: CREC-2018-12-18-pt1-PgS7820-2
+date: 2018-12-18
+edition: CREC
+section: SENATE
+page: S7820
+citation: 164 Cong. Rec. S7820
+---
+
+# EFFECTIVE PROSECUTION OF POSSESSION OF BIOLOGICAL TOXINS AND AGENTS ACT OF 2018
+
+**Speaking:** Boozman, John (B001236) [R-AR]
+
+**Measures:** S. 2
+
+```
+EFFECTIVE PROSECUTION OF POSSESSION OF BIOLOGICAL TOXINS AND AGENTS ACT 
+                                OF 2018
+
+  Mr. BOOZMAN. Mr. President, I ask unanimous consent that the 
+Committee on the Judiciary be discharged from further consideration of 
+S. 2 and the Senate proceed to its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The senior assistant legislative clerk read as follows:
+
+       A bill (S. 2) to amend section 175b of title 18, United 
+     States Code, to correct a scrivener's error.
+
+  The PRESIDING OFFICER. Is there objection to proceeding to the 
+measure?
+
+[[Page S7821]]
+
+  There being no objection, the committee was discharged, and the 
+Senate proceeded to consider the bill.
+  Mr. BOOZMAN. I ask unanimous consent that the bill be considered read 
+a third time and passed and that the motion to reconsider be considered 
+made and laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill (S. 2) was ordered to be engrossed for a third reading, was 
+read the third time, and passed, as follows:
+
+                                  S. 2
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Effective Prosecution of 
+     Possession of Biological Toxins and Agents Act of 2018''.
+
+     SEC. 2. PROHIBITION ON THE POSSESSION OF BIOLOGICAL TOXINS 
+                   AND AGENTS.
+
+       Section 175b of title 18, United States Code, is amended--
+       (1) in subsection (a)--
+       (A) by striking ``(a)(1) No restricted'' and all that 
+     follows through the end of paragraph (1) and inserting the 
+     following:
+       ``(a) Offense.--
+       ``(1) In general.--It shall be unlawful for a restricted 
+     person to--
+       ``(A) ship, transport, or possess in or affecting 
+     interstate or foreign commerce any biological agent or toxin 
+     described in paragraph (2); or
+       ``(B) receive any biological agent or toxin described in 
+     paragraph (2) that has been shipped or transported in 
+     interstate or foreign commerce.
+       ``(2) Agents and toxins covered.--A biological agent or 
+     toxin described in this paragraph is a biological agent or 
+     toxin that--
+       ``(A) is listed as a non-overlap or overlap select 
+     biological agent or toxin under part 73 of title 42, Code of 
+     Federal Regulations, pursuant to section 351A of the Public 
+     Health Service Act (42 U.S.C. 262a); and
+       ``(B) is not excluded or exempted under part 73 of title 
+     42, Code of Federal Regulations.''; and
+       (B) by striking ``(2) Whoever'' and inserting ``(3) 
+     Penalty.--Whoever'' and adjusting the margin accordingly; and
+       (2) in subsection (d), in the matter preceding paragraph 
+     (1), by inserting ``Definitions.--'' before ``In this 
+     section:''.
+
+                          ____________________
+```
