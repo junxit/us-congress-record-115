@@ -1,0 +1,44 @@
+---
+granule: CREC-2018-12-19-pt1-PgH10322
+date: 2018-12-19
+edition: CREC
+section: HOUSE
+page: H10322
+citation: 164 Cong. Rec. H10322
+---
+
+# IN MEMORY OF SERVICEMEMBERS WHO PERISHED DURING THE U.S. MARINE CORPS TRAINING EXERCISE ON DECEMBER 5, 2018
+
+**Speaking:** Hastings, Alcee L. (H000324) [D-FL]
+
+```
+ IN MEMORY OF SERVICEMEMBERS WHO PERISHED DURING THE U.S. MARINE CORPS 
+                 TRAINING EXERCISE ON DECEMBER 5, 2018
+
+  (Mr. HASTINGS asked and was given permission to address the House for 
+1 minute.)
+  Mr. HASTINGS. Mr. Speaker, it is with profound sadness that I rise 
+today with my colleagues who have helped organize this, particularly my 
+colleague Congressman Rutherford, to pay tribute to the servicemembers 
+who tragically perished on December 5 during a training exercise off 
+the coast of Japan:
+  Lieutenant Colonel Kevin Herrmann of New Bern, North Carolina;
+  Major James M. Brophy of Staatsburg, New York;
+  Captain Jahmar Resilard of Miramar, Florida, who was raised in my 
+district and whose mother I have spoken with;
+  Staff Sergeant Maximo Flores of Surprise, Arizona;
+  Corporal Daniel Baker of Tremont, Illinois; and,
+  Corporal William Ross of Hendersonville, Tennessee.
+  These decorated marines served our Nation with distinction. Listing 
+their achievements does little to pay adequate tribute to their 
+bravery, courage, and dedication to our country.
+  On behalf of my colleagues, I express our heartfelt condolences to 
+the families of these honorable servicemembers, their friends, and 
+their colleagues in the United States Marine Corps. Our Nation grieves 
+with you, and we pray that you find comfort during these extremely 
+difficult times.
+  Mr. Speaker, I request that the House of Representatives observe a 
+moment of silence in memory of these American heroes.
+
+                          ____________________
+```

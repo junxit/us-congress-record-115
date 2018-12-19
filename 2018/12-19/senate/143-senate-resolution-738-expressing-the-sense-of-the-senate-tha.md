@@ -1,0 +1,57 @@
+---
+granule: CREC-2018-12-19-pt1-PgS7933-2
+date: 2018-12-19
+edition: CREC
+section: SENATE
+page: S7933
+citation: 164 Cong. Rec. S7933
+---
+
+# SENATE RESOLUTION 738--EXPRESSING THE SENSE OF THE SENATE THAT THE UNITED STATES SHOULD CONTINUE ITS LIMITED MILITARY ACTIVITIES WITHIN SYRIA AND THAT ENDING SUCH ACTIVITIES AT THIS TIME WOULD...
+
+**Measures:** S.Res. 738
+
+```
+  SENATE RESOLUTION 738--EXPRESSING THE SENSE OF THE SENATE THAT THE 
+ UNITED STATES SHOULD CONTINUE ITS LIMITED MILITARY ACTIVITIES WITHIN 
+SYRIA AND THAT ENDING SUCH ACTIVITIES AT THIS TIME WOULD EMBOLDEN ISIS, 
+ BASHAR AL-ASSAD, IRAN, AND RUSSIA AND PUT OUR KURDISH ALLIES IN GREAT 
+                                JEOPARDY
+
+  Mr. GRAHAM (for himself, Mrs. Shaheen, Mr. Cotton, Mrs. Ernst, Mr. 
+Rubio, Mr. King, Mr. Corker, and Mr. Reed) submitted the following 
+resolution; which was referred to the Committee on Foreign Relations:
+
+                              S. Res. 738
+
+       Whereas ISIS has been dealt a serious blow in Iraq and 
+     Syria and is substantially damaged but not yet defeated;
+       Whereas the United States has a limited military presence 
+     in Syria with approximately 2,000 troops who serve as an 
+     insurance policy against future threats;
+       Whereas a precipitous withdrawal of United States Armed 
+     Forces from Syria will embolden radical jihadist groups in 
+     Syria and in the region;
+       Whereas it is in the vital national interest of the United 
+     States to continue to support partners, such as the Kurds, in 
+     Syria and other locations in the Global War on Terror;
+       Whereas a United States withdrawal will embolden the brutal 
+     dictatorship of Bashar al-Assad and bring more suffering to 
+     the people of Syria and the region;
+       Whereas a precipitous withdrawal of United States Armed 
+     Forces from Syria could lead to the release of hundreds of 
+     foreign terrorists currently detained by the Syrian 
+     Democratic Forces; and
+       Whereas it is in the national security interest of the 
+     United States to counter Iran's and Russia's influence in 
+     Syria and throughout the region: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) calls on the President to reconsider his decision to 
+     withdraw United States Armed Forces from Syria at this time; 
+     and
+       (2) urges any future decision to withdraw United States 
+     Armed Forces from Syria to be the result of a robust 
+     interagency process and to be conditions-based.
+
+                          ____________________
+```

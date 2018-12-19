@@ -1,0 +1,75 @@
+---
+granule: CREC-2018-12-19-pt1-PgS7837
+date: 2018-12-19
+edition: CREC
+section: SENATE
+page: S7837
+citation: 164 Cong. Rec. S7837
+---
+
+# TRIBUTE TO SENATOR HATCH
+
+**Speaking:** Shelby, Richard C. (S000320) [R-AL], Grassley, Chuck (G000386) [R-IA]
+
+```
+                        TRIBUTE TO SENATOR HATCH
+
+  Mr. SHELBY. Mr. President, I wish to start here this morning by 
+thanking my good friend, Senator Orrin Hatch, who happens to be in the 
+Chamber, for his more than four decades of service in the U.S. Senate. 
+We have served together in the Senate for 32 years; he was here before 
+then.
+  I remember that Senator Hatch was first elected to the Senate in 1976 
+when I was still serving in the Alabama State Senate. This was his 
+first run for public office but more to come.
+  Senator Hatch, as we know, is the longest serving Republican Senator 
+in U.S. history. He is one of only two sitting U.S. Senators to have 
+served during the Presidency of Gerald Ford. He is one of only two 
+remaining Republican U.S. Senators who served during the Presidency of 
+Jimmy Carter.
+  Senator Hatch, as we all know, serves currently as the President pro 
+tempore of the U.S. Senate--one of the highest honors in the Senate. He 
+has chaired three Senate class A committees during his tenure in the 
+Senate, including the Finance Committee, of which he is currently the 
+chairman. He has chaired with distinction the Judiciary Committee and 
+the Committee on Health, Education, Labor and Pensions.
+  Some of his major accomplishments--these are just a few--include
+
+[[Page S7838]]
+
+passage of the historic progrowth, middle-class tax reform, the most 
+significant tax reform in a generation. His accomplishments also 
+include confirmation right here in the Senate of conservative judges to 
+the Federal bench--hundreds and hundreds--including playing an 
+instrumental role in the confirmation of Supreme Court Justices Antonin 
+Scalia, Clarence Thomas, Samuel Alito, and Brett Kavanaugh, as well as, 
+as I said, scores, if not hundreds, of district and circuit court 
+judges.
+  One of Senator Hatch's particularly noteworthy achievements, among 
+others, on the Judiciary Committee is the Religious Freedom Restoration 
+Act of 1993, a bill he authored and cosponsored with the late Senator 
+Ted Kennedy. It was landmark legislation allowing Americans to live, to 
+work, and to worship in accordance with their beliefs.
+  Senator Hatch's reputation as a statesman and his record of fiscal 
+responsibility even earned him the nickname ``Mr. Balanced Budget'' 
+from President Reagan.
+  Senator Hatch is also widely known for his musical career and film 
+appearances. He plays the violin, the piano, and the organ. Think of 
+the talent this man has.
+  Senator Hatch and his wife, Elaine, have been married for more than 
+50 years. They have 6 children, 23 grandchildren, and many great-
+grandchildren. Think of a lifetime achievement, and he has, I believe, 
+many years left.
+  He will be truly missed here in the Senate, and I wish him all the 
+best in the next chapter of his life.
+  I yield the floor.
+  I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The senior assistant legislative clerk proceeded to call the roll.
+  The PRESIDING OFFICER. The Senator from Iowa.
+  Mr. GRASSLEY. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
