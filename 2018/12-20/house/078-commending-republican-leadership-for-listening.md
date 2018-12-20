@@ -1,0 +1,40 @@
+---
+granule: CREC-2018-12-20-pt1-PgH10501-4
+date: 2018-12-20
+edition: CREC
+section: HOUSE
+page: H10501
+citation: 164 Cong. Rec. H10501
+---
+
+# COMMENDING REPUBLICAN LEADERSHIP FOR LISTENING
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+             COMMENDING REPUBLICAN LEADERSHIP FOR LISTENING
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, I commend our Republican leadership today 
+for listening to our conference and putting back into the continued 
+resolution the needed disaster relief for the southern States and for 
+the West Coast, and the border security measure demanded by most 
+Americans in this country.
+  To not do so, to just accept the product that the Senate punted over 
+here, would have been a travesty and a dereliction of our duties here, 
+I think, in the U.S. House of Representatives. These are very important 
+things that need to be done and need to be accomplished, with the 
+caravan amassing on our southern border and the security measures that, 
+although heroically done so far by our Border Patrol folks, need to be 
+augmented with this asset.
+  Heaven knows, our southern States, having been affected by 
+hurricanes; and farmers depending on decisions to be made in this 
+place; and, on the West Coast, with the fires in my own district, the 
+stability needed from the funding that would come from a disaster 
+relief package, I am really pleased to see the work of the House today 
+put this back out there and send it over to the Senate, where I hope 
+they will have the guts to actually deal with it.
+
+                          ____________________
+```

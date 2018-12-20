@@ -1,0 +1,38 @@
+---
+granule: CREC-2018-12-20-pt1-PgH10340-3
+date: 2018-12-20
+edition: CREC
+section: HOUSE
+page: H10340
+citation: 164 Cong. Rec. H10340
+---
+
+# THE WALLS IN BAGHDAD HAVE COME DOWN
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                  THE WALLS IN BAGHDAD HAVE COME DOWN
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, The Wall Street Journal 
+last week reported that the ``Baghdad Blast Walls Come Down.'' It 
+explained that ``the Iraqi Government marked the first anniversary of 
+the Islamic State's defeat Monday by reopening parts of Baghdad's Green 
+Zone.'' Iraqi forces, along with support from the U.S.-led alliance, 
+reclaimed the last of Islamic State territory last December.
+  The article notes that ``the changes at the Green Zone reflect 
+declining violence across Iraq that is particularly tangible in 
+Baghdad, and further states that: ``Over 1,000 streets in Baghdad have 
+been reopened during the past 2 years, with 70,000 segments of concrete 
+blast wall removed. The number of civilians killed across Iraq by 
+terrorism, violence, and armed conflict in November fell to its lowest 
+level in 6 years, according to the United Nations.''
+  As a grateful dad who has had two of my four military sons serve in 
+Iraq, I am particularly happy for the Iraqi people.
+  In conclusion, God bless our troops, and may we never forget 
+September the 11th in the global war on terrorism.
+
+                          ____________________
+```
